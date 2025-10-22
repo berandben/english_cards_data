@@ -1,0 +1,56 @@
+{
+    "subtopics": [
+        {
+            "id": "adverbs_of_frequency",
+            "title": "Adverbs of Frequency",
+            "type": "vocabulary",
+            "vocabulary": [
+                "Always",
+                "Usually",
+                "Frequently",
+                "Often",
+                "Sometimes",
+                "Occasionally",
+                "Rarely",
+                "Seldom",
+                "Hardly ever",
+                "Never"
+            ],
+            "phrases": [
+                "I always brush my teeth in the morning.",
+                "She usually goes to the gym after work.",
+                "He often visits his grandparents on weekends.",
+                "They sometimes eat out on Fridays.",
+                "We occasionally travel abroad during the holidays.",
+                "He rarely watches TV.",
+                "I seldom drink coffee.",
+                "She hardly ever arrives late.",
+                "They never smoke.",
+                "I frequently read before going to bed."
+            ]
+        },
+        {
+            "id": "specific_frequency_expressions",
+            "title": "Frequency Expressions (specific times)",
+            "type": "vocabulary",
+            "vocabulary": [
+                "Once",
+                "Twice",
+                "Three times",
+                "Four times",
+                "Five times",
+                "Several times",
+                "Many times"
+            ],
+            "phrases": [
+                "I visit my grandparents once a week.",
+                "She goes to the cinema twice a month.",
+                "He calls his friend three times a day.",
+                "We have team meetings four times a month.",
+                "They travel abroad five times a year.",
+                "I’ve seen that movie several times.",
+                "She has helped me many times."
+            ]
+        }
+    ]
+}
