@@ -1,0 +1,55 @@
+{
+    "subtopics": [
+        {
+            "id": "wh_basic_questions",
+            "title": "Basic WH- Questions",
+            "type": "vocabulary",
+            "vocabulary": [
+                "What",
+                "Where",
+                "When",
+                "Who",
+                "Why",
+                "How",
+                "Whose"
+            ],
+            "phrases": [
+                "What is your name?",
+                "Where do you live?",
+                "When is your birthday?",
+                "Who is your best friend?",
+                "Why are you learning English?",
+                "How are you today?",
+                "Whose book is this?",
+                "Whose idea was it to organize the party?",
+                "Whose phone is ringing?",
+                "Whose turn is it to cook dinner?"
+            ]
+        },
+        {
+            "id": "wh_with_how",
+            "title": "Questions with How",
+            "type": "vocabulary",
+            "vocabulary": [
+                "How many",
+                "How much",
+                "How often",
+                "How long",
+                "How far",
+                "How old"
+            ],
+            "phrases": [
+                "How many brothers and sisters do you have?",
+                "How much water do you drink every day?",
+                "How often do you go to the gym?",
+                "How long does it take you to get to work?",
+                "How far is your school from your house?",
+                "How old are your parents?",
+                "How often do you eat out?",
+                "How long have you lived here?",
+                "How much time do you spend studying English?",
+                "How many languages do you speak?"
+            ]
+        }
+    ]
+}
