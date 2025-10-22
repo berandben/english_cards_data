@@ -4,19 +4,19 @@
             "id": "adverbs_of_frequency",
             "title": "Adverbs of Frequency",
             "icon": "⏱️",
-            "dataFile": "data/adverbs_of_frequency.json"
+            "dataFile": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/adverbs_of_frequency.json"
         },
         {
             "id": "irregular-verbs",
             "title": "Irregular Verbs",
             "icon": "🌀",
-            "dataFile": "data/irregular_verbs.json"
+            "dataFile": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/irregular_verbs.json"
         },
         {
             "id": "regular-verbs",
             "title": "Regular Verbs",
             "icon": "📐",
-            "dataFile": "data/regular_verbs.json"
+            "dataFile": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/regular_verbs.json"
         }
     ]
 }
