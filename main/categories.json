@@ -12,5 +12,12 @@
         "title": "Wear",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/wear.json"
-    }    
+    },   
+    {
+        "id": "appearance",
+        "icon": "🪞",
+        "title": "Appearance",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/appearance.json"
+    }   
 ]
