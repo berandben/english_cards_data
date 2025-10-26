@@ -20,4 +20,14 @@
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/appearance.json"
     }   
+,   
+    {
+        "id": "personality",
+        "icon": "🎭",
+        "title": "Personality",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/personality.json"
+    }   
+
+   
 ]
