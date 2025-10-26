@@ -304,5 +304,59 @@
       "english": "She isn't losing her humble attitude despite her success.",
       "spanish": "Ella no está perdiendo su actitud humilde a pesar de su éxito."
     }
+  },
+  {
+    "spanish": "Inteligente",
+    "english": "Clever",
+    "pronunciation": "/ˈklɛv.ər/",
+    "sentence": {
+      "english": "She isn't just clever; she also works very hard.",
+      "spanish": "Ella no es solo inteligente; también trabaja muy duro."
+    }
+  },
+  {
+    "spanish": "Interesante",
+    "english": "Interesting",
+    "pronunciation": "/ˈɪn.trəs.tɪŋ/",
+    "sentence": {
+      "english": "Are you finding the lecture interesting?",
+      "spanish": "¿Te parece interesante la conferencia?"
+    }
+  },
+  {
+    "spanish": "Educado",
+    "english": "Polite",
+    "pronunciation": "/pəˈlaɪt/",
+    "sentence": {
+      "english": "He was always polite to his elders.",
+      "spanish": "Él siempre fue educado con sus mayores."
+    }
+  },
+  {
+    "spanish": "Bien vestido",
+    "english": "Well-dressed",
+    "pronunciation": "/ˌwel ˈdrɛst/",
+    "sentence": {
+      "english": "She isn't well-dressed for the job interview.",
+      "spanish": "Ella no va bien vestida para la entrevista de trabajo."
+    }
+  },
+  {
+    "spanish": "Aventurero",
+    "english": "Adventurous",
+    "pronunciation": "/ədˈvɛn.tʃər.əs/",
+    "sentence": {
+      "english": "Are they becoming more adventurous in their travels?",
+      "spanish": "¿Se están volviendo más aventureros en sus viajes?"
+    }
+  },
+  {
+    "spanish": "Joven",
+    "english": "Young",
+    "pronunciation": "/jʌŋ/",
+    "sentence": {
+      "english": "He looks young for his age.",
+      "spanish": "Él parece joven para su edad."
+    }
   }
 ]
