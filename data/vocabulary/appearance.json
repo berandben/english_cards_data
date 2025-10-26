@@ -4,8 +4,8 @@
     "english": "Curly",
     "pronunciation": "/ˈkɜː.li/",
     "sentence": {
-      "english": "She doesn't straighten her curly hair anymore.",
-      "spanish": "Ella ya no alisa su pelo rizado."
+      "english": "She doesn't straighten her curly hair often.",
+      "spanish": "Ella no se alisa su pelo rizado a menudo."
     }
   },
   {
@@ -13,8 +13,8 @@
     "english": "Straight",
     "pronunciation": "/streɪt/",
     "sentence": {
-      "english": "Are you trying to straighten your hair even more?",
-      "spanish": "¿Estás intentando alisar tu pelo aún más?"
+      "english": "Are you keeping your hair straight for the wedding?",
+      "spanish": "¿Vas a mantener tu pelo liso para la boda?"
     }
   },
   {
@@ -22,8 +22,8 @@
     "english": "Blonde",
     "pronunciation": "/blɒnd/",
     "sentence": {
-      "english": "He dyed his hair blonde last summer.",
-      "spanish": "Él se tiñó el pelo de rubio el verano pasado."
+      "english": "She was blonde as a child but her hair darkened.",
+      "spanish": "Ella era rubia de niña pero su pelo se oscureció."
     }
   },
   {
@@ -31,8 +31,8 @@
     "english": "Beard",
     "pronunciation": "/bɪəd/",
     "sentence": {
-      "english": "Isn't he growing a beard for the winter?",
-      "spanish": "¿No se está dejando barba para el invierno?"
+      "english": "He isn't growing a beard because his job doesn't allow it.",
+      "spanish": "Él no se está dejando barba porque su trabajo no lo permite."
     }
   },
   {
@@ -40,8 +40,8 @@
     "english": "Moustache",
     "pronunciation": "/mʊˈstɑːʃ/",
     "sentence": {
-      "english": "My grandfather always wore a moustache.",
-      "spanish": "Mi abuelo siempre llevó bigote."
+      "english": "Did your grandfather have a moustache all his life?",
+      "spanish": "¿Tu abuelo tuvo bigote toda su vida?"
     }
   },
   {
@@ -49,8 +49,8 @@
     "english": "Bald",
     "pronunciation": "/bɔːld/",
     "sentence": {
-      "english": "He is going bald quite quickly.",
-      "spanish": "Se está quedando calvo bastante rápido."
+      "english": "He is going bald but he doesn't mind at all.",
+      "spanish": "Él se está quedando calvo pero no le importa nada."
     }
   },
   {
@@ -58,8 +58,8 @@
     "english": "Tall",
     "pronunciation": "/tɔːl/",
     "sentence": {
-      "english": "Aren't your brothers very tall?",
-      "spanish": "¿No son tus hermanos muy altos?"
+      "english": "They aren't tall enough for the rollercoaster.",
+      "spanish": "Ellos no son lo suficientemente altos para la montaña rusa."
     }
   },
   {
@@ -67,8 +67,8 @@
     "english": "Slim",
     "pronunciation": "/slɪm/",
     "sentence": {
-      "english": "She maintains a slim figure by exercising regularly.",
-      "spanish": "Ella mantiene una figura delgada haciendo ejercicio regularmente."
+      "english": "She maintains a slim figure through yoga and healthy eating.",
+      "spanish": "Ella mantiene una figura delgada mediante yoga y alimentación saludable."
     }
   },
   {
@@ -76,17 +76,17 @@
     "english": "Average height",
     "pronunciation": "/ˈæv.ər.ɪdʒ haɪt/",
     "sentence": {
-      "english": "Most people in my family are of average height.",
-      "spanish": "La mayoría de las personas en mi familia son de estatura media."
+      "english": "Are most people in your office average height?",
+      "spanish": "¿La mayoría de las personas en tu oficina son de estatura media?"
     }
   },
   {
-    "spanish": "Flaco",
+    "spanish": "Delgado",
     "english": "Thin",
     "pronunciation": "/θɪn/",
     "sentence": {
-      "english": "He wasn't always this thin.",
-      "spanish": "Él no siempre fue tan flaco."
+      "english": "He became very thin during his recovery.",
+      "spanish": "Él se volvió muy delgado durante su recuperación."
     }
   },
   {
@@ -94,17 +94,17 @@
     "english": "Short",
     "pronunciation": "/ʃɔːt/",
     "sentence": {
-      "english": "Are you feeling uncomfortable being shorter than your sister?",
-      "spanish": "¿Te sientes incómodo siendo más bajo que tu hermana?"
+      "english": "I'm not short compared to my classmates.",
+      "spanish": "No soy bajo comparado con mis compañeros de clase."
     }
   },
   {
-    "spanish": "Sobrepeso",
+    "spanish": "Con sobrepeso",
     "english": "Overweight",
     "pronunciation": "/ˌəʊ.vəˈweɪt/",
     "sentence": {
-      "english": "They aren't overweight despite loving desserts.",
-      "spanish": "Ellos no tienen sobrepeso a pesar de amar los postres."
+      "english": "Is your doctor helping you with your overweight issues?",
+      "spanish": "¿Tu médico te está ayudando con tus problemas de sobrepeso?"
     }
   },
   {
@@ -112,8 +112,44 @@
     "english": "Wavy",
     "pronunciation": "/ˈweɪ.vi/",
     "sentence": {
-      "english": "I love how her hair looks when it's wavy.",
-      "spanish": "Me encanta cómo le queda el pelo cuando está ondulado."
+      "english": "Her hair is getting wavier with the humidity.",
+      "spanish": "Su pelo se está volviendo más ondulado con la humedad."
+    }
+  },
+  {
+    "spanish": "Encrespado",
+    "english": "Frizzy",
+    "pronunciation": "/ˈfrɪz.i/",
+    "sentence": {
+      "english": "She isn't happy with her frizzy hair in this weather.",
+      "spanish": "Ella no está contenta con su pelo encrespado en este clima."
+    }
+  },
+  {
+    "spanish": "de Punta",
+    "english": "Spiky",
+    "pronunciation": "/ˈspaɪ.ki/",
+    "sentence": {
+      "english": "He was styling his hair spiky for the concert.",
+      "spanish": "Él se estaba peinando el pelo de punta para el concierto."
+    }
+  },
+  {
+    "spanish": "Hasta los hombros",
+    "english": "Shoulder-length",
+    "pronunciation": "/ˈʃəʊl.də leŋθ/",
+    "sentence": {
+      "english": "Are you growing your hair shoulder-length again?",
+      "spanish": "¿Te estás dejando crecer el pelo hasta los hombros otra vez?"
+    }
+  },
+  {
+    "spanish": "en Capas",
+    "english": "Layered",
+    "pronunciation": "/ˈleɪ.əd/",
+    "sentence": {
+      "english": "She didn't like her layered haircut at first.",
+      "spanish": "A ella no le gustó su corte en capas al principio."
     }
   },
   {
@@ -121,8 +157,17 @@
     "english": "Brunette",
     "pronunciation": "/bruːˈnet/",
     "sentence": {
-      "english": "She is dyeing her hair brunette this afternoon.",
-      "spanish": "Ella se está tiñendo el pelo de castaño esta tarde."
+      "english": "She is considering going from brunette to blonde.",
+      "spanish": "Ella está considerando pasarse de castaña a rubia."
+    }
+  },
+  {
+    "spanish": "Pelirrojo",
+    "english": "Redhead",
+    "pronunciation": "/ˈred.hed/",
+    "sentence": {
+      "english": "He wasn't always a redhead; he started dyeing it last year.",
+      "spanish": "Él no siempre fue pelirrojo; empezó a teñírselo el año pasado."
     }
   },
   {
@@ -130,8 +175,44 @@
     "english": "Ginger",
     "pronunciation": "/ˈdʒɪn.dʒər/",
     "sentence": {
-      "english": "Did he always have ginger hair?",
-      "spanish": "¿Siempre tuvo el pelo pelirrojo?"
+      "english": "Are people with ginger hair really more sensitive to sunlight?",
+      "spanish": "¿Las personas con pelo pelirrojo son realmente más sensibles a la luz solar?"
+    }
+  },
+  {
+    "spanish": "Negro",
+    "english": "Black",
+    "pronunciation": "/blæk/",
+    "sentence": {
+      "english": "She isn't dyeing her black hair anymore.",
+      "spanish": "Ella ya no se tiñe más el pelo negro."
+    }
+  },
+  {
+    "spanish": "Gris",
+    "english": "Grey",
+    "pronunciation": "/ɡreɪ/",
+    "sentence": {
+      "english": "He is embracing his grey hair as he gets older.",
+      "spanish": "Él está aceptando su pelo gris a medida que envejece."
+    }
+  },
+  {
+    "spanish": "Teñido",
+    "english": "Dyed",
+    "pronunciation": "/daɪd/",
+    "sentence": {
+      "english": "She wasn't happy with her dyed hair colour.",
+      "spanish": "Ella no estaba contenta con el color de su pelo teñido."
+    }
+  },
+  {
+    "spanish": "Mechas",
+    "english": "Highlights",
+    "pronunciation": "/ˈhaɪ.laɪts/",
+    "sentence": {
+      "english": "Are you getting highlights for the summer?",
+      "spanish": "¿Te vas a hacer mechas para el verano?"
     }
   },
   {
@@ -139,8 +220,26 @@
     "english": "Stubble",
     "pronunciation": "/ˈstʌb.əl/",
     "sentence": {
-      "english": "He isn't shaving, so he's getting stubble.",
-      "spanish": "Él no se afeita, así que le está saliendo barba de varios días."
+      "english": "He likes the stubble look for casual Fridays.",
+      "spanish": "A él le gusta el look de barba de varios días para los viernes casuales."
+    }
+  },
+  {
+    "spanish": "Perilla",
+    "english": "Goatee",
+    "pronunciation": "/ɡəʊˈtiː/",
+    "sentence": {
+      "english": "He wasn't sure about growing a goatee at first.",
+      "spanish": "Él no estaba seguro sobre dejarse perilla al principio."
+    }
+  },
+  {
+    "spanish": "Afeitado al ras",
+    "english": "Clean-shaven",
+    "pronunciation": "/kliːn ˈʃeɪ.vən/",
+    "sentence": {
+      "english": "He isn't staying clean-shaven for the interview.",
+      "spanish": "Él no va a mantenerse afeitado al ras para la entrevista."
     }
   },
   {
@@ -148,8 +247,8 @@
     "english": "Stocky",
     "pronunciation": "/ˈstɒk.i/",
     "sentence": {
-      "english": "The rugby players were all quite stocky.",
-      "spanish": "Los jugadores de rugby eran todos bastante fornidos."
+      "english": "The builder had a stocky but strong build.",
+      "spanish": "El albañil tenía una constitución fornida pero fuerte."
     }
   },
   {
@@ -157,8 +256,62 @@
     "english": "Muscular",
     "pronunciation": "/ˈmʌs.kjə.lər/",
     "sentence": {
-      "english": "Are you trying to become more muscular?",
-      "spanish": "¿Estás intentando volverte más musculoso?"
+      "english": "Are you trying to become more muscular at the gym?",
+      "spanish": "¿Estás intentando volverte más musculoso en el gimnasio?"
+    }
+  },
+  {
+    "spanish": "Atlético",
+    "english": "Athletic",
+    "pronunciation": "/æθˈlet.ɪk/",
+    "sentence": {
+      "english": "She maintains an athletic figure through daily training.",
+      "spanish": "Ella mantiene una figura atlética mediante entrenamiento diario."
+    }
+  },
+  {
+    "spanish": "Menuda",
+    "english": "Petite",
+    "pronunciation": "/pəˈtiːt/",
+    "sentence": {
+      "english": "She wasn't always petite; she grew taller recently.",
+      "spanish": "Ella no siempre fue menuda; creció recientemente."
+    }
+  },
+  {
+    "spanish": "Rellenito",
+    "english": "Plump",
+    "pronunciation": "/plʌmp/",
+    "sentence": {
+      "english": "The baby has lovely plump cheeks.",
+      "spanish": "El bebé tiene unas mejillas rellenitas preciosas."
+    }
+  },
+  {
+    "spanish": "Obeso",
+    "english": "Obese",
+    "pronunciation": "/əʊˈbiːs/",
+    "sentence": {
+      "english": "He isn't obese but his doctor warned him about weight gain.",
+      "spanish": "Él no es obeso pero su médico le advirtió sobre el aumento de peso."
+    }
+  },
+  {
+    "spanish": "Bien constituido",
+    "english": "Well-built",
+    "pronunciation": "/wel ˈbɪlt/",
+    "sentence": {
+      "english": "The rugby player was naturally well-built.",
+      "spanish": "El jugador de rugby era naturalmente bien constituido."
+    }
+  },
+  {
+    "spanish": "Estatura media",
+    "english": "Medium height",
+    "pronunciation": "/ˈmiː.di.əm haɪt/",
+    "sentence": {
+      "english": "Are most of your friends medium height?",
+      "spanish": "¿La mayoría de tus amigos son de estatura media?"
     }
   },
   {
@@ -166,8 +319,8 @@
     "english": "Freckles",
     "pronunciation": "/ˈfrek.əlz/",
     "sentence": {
-      "english": "She doesn't like her freckles showing in summer.",
-      "spanish": "A ella no le gusta que se le vean las pecas en verano."
+      "english": "Her freckles aren't very noticeable in winter.",
+      "spanish": "Sus pecas no son muy notorias en invierno."
     }
   },
   {
@@ -175,17 +328,44 @@
     "english": "Dimples",
     "pronunciation": "/ˈdɪm.pəlz/",
     "sentence": {
-      "english": "Were you born with those dimples?",
-      "spanish": "¿Naciste con esos hoyuelos?"
+      "english": "The baby's dimples appeared every time she laughed.",
+      "spanish": "Los hoyuelos del bebé aparecían cada vez que se reía."
     }
   },
   {
-    "spanish": "Tatuado",
-    "english": "Tattooed",
-    "pronunciation": "/tæˈtuːd/",
+    "spanish": "de apariencia joven",
+    "english": "Young-looking",
+    "pronunciation": "/jʌŋ ˈlʊk.ɪŋ/",
     "sentence": {
-      "english": "He is getting tattooed right now.",
-      "spanish": "Él se está tatuando en este momento."
+      "english": "She isn't young-looking because of expensive creams.",
+      "spanish": "Ella no tiene apariencia joven por cremas caras."
+    }
+  },
+  {
+    "spanish": "de mediana edad",
+    "english": "Middle-aged",
+    "pronunciation": "/ˌmɪd.əl ˈeɪdʒd/",
+    "sentence": {
+      "english": "Are most of your colleagues middle-aged?",
+      "spanish": "¿La mayoría de tus colegas son de mediana edad?"
+    }
+  },
+  {
+    "spanish": "Anciano",
+    "english": "Elderly",
+    "pronunciation": "/ˈel.də.li/",
+    "sentence": {
+      "english": "He was helping the elderly gentleman cross the street.",
+      "spanish": "Él estaba ayudando al anciano a cruzar la calle."
+    }
+  },
+  {
+    "spanish": "Arreglado",
+    "english": "Well-groomed",
+    "pronunciation": "/wel ˈɡruːmd/",
+    "sentence": {
+      "english": "She is always well-groomed for business meetings.",
+      "spanish": "Ella siempre está arreglada para las reuniones de negocios."
     }
   },
   {
@@ -193,8 +373,26 @@
     "english": "Scruffy",
     "pronunciation": "/ˈskrʌf.i/",
     "sentence": {
-      "english": "Why are you looking so scruffy today?",
-      "spanish": "¿Por qué estás tan desaliñado hoy?"
+      "english": "He wasn't always so scruffy before university.",
+      "spanish": "Él no siempre fue tan desaliñado antes de la universidad."
+    }
+  },
+  {
+    "spanish": "Tatuado",
+    "english": "Tattooed",
+    "pronunciation": "/tæˈtuːd/",
+    "sentence": {
+      "english": "Are you getting tattooed this weekend?",
+      "spanish": "¿Te vas a tatuar este fin de semana?"
+    }
+  },
+  {
+    "spanish": "Con piercings",
+    "english": "Pierced",
+    "pronunciation": "/pɪəst/",
+    "sentence": {
+      "english": "She doesn't have pierced ears despite the trend.",
+      "spanish": "Ella no tiene las orejas con piercings a pesar de la moda."
     }
   }
 ]
