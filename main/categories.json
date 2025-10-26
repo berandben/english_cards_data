@@ -1,0 +1,9 @@
+[
+    {
+        "id": "colors",
+        "icon": "🎨",
+        "title": "Colors",
+        "description": "",
+        "url": "data/vocabulary/colors.json"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "spanish": "Rojo",
+        "english": "Red",
+        "pronunciation": "/rɛd/",
+        "sentence": {
+            "english": "The red apple looks delicious.",
+            "spanish": "La manzana roja se ve deliciosa."
+        }
+    },
+    {
+        "spanish": "Azul",
+        "english": "Blue",
+        "pronunciation": "/bluː/",
+        "sentence": {
+            "english": "The sky is very blue today.",
+            "spanish": "El cielo está muy azul hoy."
+        }
+    },
+    {
+        "spanish": "Verde",
+        "english": "Green",
+        "pronunciation": "/griːn/",
+        "sentence": {
+            "english": "The grass is always greener on the other side.",
+            "spanish": "La hierba es siempre más verde en el patio del vecino."
+        }
+    },
+    {
+        "spanish": "Amarillo",
+        "english": "Yellow",
+        "pronunciation": "/ˈjɛl.oʊ/",
+        "sentence": {
+            "english": "She wore a bright yellow dress to the party.",
+            "spanish": "Ella llevó un vestido amarillo brillante a la fiesta."
+        }
+    },
+    {
+        "spanish": "Naranja",
+        "english": "Orange",
+        "pronunciation": "/ˈɔr.ɪndʒ/",
+        "sentence": {
+            "english": "I drank a glass of fresh orange juice.",
+            "spanish": "Me bebí un vaso de zumo de naranja fresco."
+        }
+    },
+    {
+        "spanish": "Morado",
+        "english": "Purple",
+        "pronunciation": "/ˈpɜr.pəl/",
+        "sentence": {
+            "english": "The royal robes were a deep purple.",
+            "spanish": "Las vestiduras reales eran de un morado intenso."
+        }
+    },
+    {
+        "spanish": "Rosa",
+        "english": "Pink",
+        "pronunciation": "/pɪŋk/",
+        "sentence": {
+            "english": "Her little girl's room was painted pink.",
+            "spanish": "La habitación de su niña estaba pintada de rosa."
+        }
+    },
+    {
+        "spanish": "Marrón",
+        "english": "Brown",
+        "pronunciation": "/braʊn/",
+        "sentence": {
+            "english": "The package was wrapped in brown paper.",
+            "spanish": "El paquete estaba envuelto en papel marrón."
+        }
+    },
+    {
+        "spanish": "Negro",
+        "english": "Black",
+        "pronunciation": "/blæk/",
+        "sentence": {
+            "english": "He prefers to wear a black suit.",
+            "spanish": "Él prefiere llevar un traje negro."
+        }
+    },
+    {
+        "spanish": "Blanco",
+        "english": "White",
+        "pronunciation": "/waɪt/",
+        "sentence": {
+            "english": "The snow was pure white.",
+            "spanish": "La nieve era de un blanco puro."
+        }
+    },
+    {
+        "spanish": "Gris",
+        "english": "Gray",
+        "pronunciation": "/greɪ/",
+        "sentence": {
+            "english": "The sky turned gray before the storm.",
+            "spanish": "El cielo se volvió gris antes de la tormenta."
+        }
+    }
+]
