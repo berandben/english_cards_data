@@ -30,14 +30,14 @@
     {
         "id": "prepositionsofplace",
         "icon": "📍",
-        "title": "Prepositions of Place",
+        "title": "Place",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/prepositions-of-place.json"
     }, 
     {
         "id": "adverbsoffrequency",
         "icon": "⏰",
-        "title": "Adverbs of Frequency",
+        "title": "Frequency",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/adverbs-of-frequency.json"
     }
