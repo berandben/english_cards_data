@@ -1,101 +1,137 @@
 [
-    {
-        "spanish": "Rojo",
-        "english": "Red",
-        "pronunciation": "/rɛd/",
-        "sentence": {
-            "english": "The red apple looks delicious.",
-            "spanish": "La manzana roja se ve deliciosa."
-        }
-    },
-    {
-        "spanish": "Azul",
-        "english": "Blue",
-        "pronunciation": "/bluː/",
-        "sentence": {
-            "english": "The sky is very blue today.",
-            "spanish": "El cielo está muy azul hoy."
-        }
-    },
-    {
-        "spanish": "Verde",
-        "english": "Green",
-        "pronunciation": "/griːn/",
-        "sentence": {
-            "english": "The grass is always greener on the other side.",
-            "spanish": "La hierba es siempre más verde en el patio del vecino."
-        }
-    },
-    {
-        "spanish": "Amarillo",
-        "english": "Yellow",
-        "pronunciation": "/ˈjɛl.oʊ/",
-        "sentence": {
-            "english": "She wore a bright yellow dress to the party.",
-            "spanish": "Ella llevó un vestido amarillo brillante a la fiesta."
-        }
-    },
-    {
-        "spanish": "Naranja",
-        "english": "Orange",
-        "pronunciation": "/ˈɔr.ɪndʒ/",
-        "sentence": {
-            "english": "I drank a glass of fresh orange juice.",
-            "spanish": "Me bebí un vaso de zumo de naranja fresco."
-        }
-    },
-    {
-        "spanish": "Morado",
-        "english": "Purple",
-        "pronunciation": "/ˈpɜr.pəl/",
-        "sentence": {
-            "english": "The royal robes were a deep purple.",
-            "spanish": "Las vestiduras reales eran de un morado intenso."
-        }
-    },
-    {
-        "spanish": "Rosa",
-        "english": "Pink",
-        "pronunciation": "/pɪŋk/",
-        "sentence": {
-            "english": "Her little girl's room was painted pink.",
-            "spanish": "La habitación de su niña estaba pintada de rosa."
-        }
-    },
-    {
-        "spanish": "Marrón",
-        "english": "Brown",
-        "pronunciation": "/braʊn/",
-        "sentence": {
-            "english": "The package was wrapped in brown paper.",
-            "spanish": "El paquete estaba envuelto en papel marrón."
-        }
-    },
-    {
-        "spanish": "Negro",
-        "english": "Black",
-        "pronunciation": "/blæk/",
-        "sentence": {
-            "english": "He prefers to wear a black suit.",
-            "spanish": "Él prefiere llevar un traje negro."
-        }
-    },
-    {
-        "spanish": "Blanco",
-        "english": "White",
-        "pronunciation": "/waɪt/",
-        "sentence": {
-            "english": "The snow was pure white.",
-            "spanish": "La nieve era de un blanco puro."
-        }
-    },
-    {
-        "spanish": "Gris",
-        "english": "Gray",
-        "pronunciation": "/greɪ/",
-        "sentence": {
-            "english": "The sky turned gray before the storm.",
-            "spanish": "El cielo se volvió gris antes de la tormenta."
-        }
+  {
+    "spanish": "Rojo",
+    "english": "Red",
+    "pronunciation": "/rɛd/",
+    "sentence": {
+      "english": "She wears red lipstick every day.",
+      "spanish": "Ella usa lápiz labial rojo todos los días."
     }
+  },
+  {
+    "spanish": "Azul",
+    "english": "Blue",
+    "pronunciation": "/bluː/",
+    "sentence": {
+      "english": "We are painting the bedroom blue this weekend.",
+      "spanish": "Estamos pintando la habitación de azul este fin de semana."
+    }
+  },
+  {
+    "spanish": "Verde",
+    "english": "Green",
+    "pronunciation": "/griːn/",
+    "sentence": {
+      "english": "They bought a green car last month.",
+      "spanish": "Ellos compraron un coche verde el mes pasado."
+    }
+  },
+  {
+    "spanish": "Amarillo",
+    "english": "Yellow",
+    "pronunciation": "/ˈjɛl.əʊ/",
+    "sentence": {
+      "english": "I love yellow flowers in the garden.",
+      "spanish": "Me encantan las flores amarillas en el jardín."
+    }
+  },
+  {
+    "spanish": "Naranja",
+    "english": "Orange",
+    "pronunciation": "/ˈɒr.ɪndʒ/",
+    "sentence": {
+      "english": "He is wearing an orange jumper today.",
+      "spanish": "Él lleva puesto un jersey naranja hoy."
+    }
+  },
+  {
+    "spanish": "Morado",
+    "english": "Purple",
+    "pronunciation": "/ˈpɜː.pəl/",
+    "sentence": {
+      "english": "You chose purple curtains for the living room.",
+      "spanish": "Tú elegiste cortinas moradas para la sala de estar."
+    }
+  },
+  {
+    "spanish": "Rosa",
+    "english": "Pink",
+    "pronunciation": "/pɪŋk/",
+    "sentence": {
+      "english": "It is getting dark and the sky turns pink.",
+      "spanish": "Está anocheciendo y el cielo se vuelve rosa."
+    }
+  },
+  {
+    "spanish": "Marrón",
+    "english": "Brown",
+    "pronunciation": "/braʊn/",
+    "sentence": {
+      "english": "My dog has beautiful brown eyes.",
+      "spanish": "Mi perro tiene hermosos ojos marrones."
+    }
+  },
+  {
+    "spanish": "Negro",
+    "english": "Black",
+    "pronunciation": "/blæk/",
+    "sentence": {
+      "english": "She always drinks her coffee black.",
+      "spanish": "Ella siempre toma su café negro."
+    }
+  },
+  {
+    "spanish": "Blanco",
+    "english": "White",
+    "pronunciation": "/waɪt/",
+    "sentence": {
+      "english": "They are buying a white sofa for their new flat.",
+      "spanish": "Ellos están comprando un sofá blanco para su nuevo piso."
+    }
+  },
+  {
+    "spanish": "Gris",
+    "english": "Grey",
+    "pronunciation": "/greɪ/",
+    "sentence": {
+      "english": "He wore a grey suit to the interview yesterday.",
+      "spanish": "Él llevó un traje gris a la entrevista ayer."
+    }
+  },
+  {
+    "spanish": "Beis",
+    "english": "Beige",
+    "pronunciation": "/beɪʒ/",
+    "sentence": {
+      "english": "We prefer beige walls in our house.",
+      "spanish": "Nosotros preferimos paredes beis en nuestra casa."
+    }
+  },
+  {
+    "spanish": "Turquesa",
+    "english": "Turquoise",
+    "pronunciation": "/ˈtɜː.kwɔɪz/",
+    "sentence": {
+      "english": "I am looking for a turquoise dress for the party.",
+      "spanish": "Estoy buscando un vestido turquesa para la fiesta."
+    }
+  },
+  {
+    "spanish": "Granate",
+    "english": "Maroon",
+    "pronunciation": "/məˈruːn/",
+    "sentence": {
+      "english": "They painted the front door maroon last summer.",
+      "spanish": "Ellos pintaron la puerta principal de granate el verano pasado."
+    }
+  },
+  {
+    "spanish": "Lila",
+    "english": "Lilac",
+    "pronunciation": "/ˈlaɪ.lək/",
+    "sentence": {
+      "english": "She loves the lilac blossoms in spring.",
+      "spanish": "A ella le encantan las flores lila en primavera."
+    }
+  }
 ]
