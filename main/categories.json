@@ -1,10 +1,10 @@
 [
     {
-        "id": "colors",
+        "id": "colours",
         "icon": "🎨",
-        "title": "Colors",
+        "title": "Colours",
         "description": "",
-        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/colors.json"
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/colours.json"
     },
     {
         "id": "wear",
