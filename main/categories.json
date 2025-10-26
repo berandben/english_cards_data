@@ -5,5 +5,12 @@
         "title": "Colors",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/colors.json"
-    }
+    },
+    {
+        "id": "wear",
+        "icon": "👕",
+        "title": "Wear",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/wear.json"
+    }    
 ]
