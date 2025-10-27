@@ -56,6 +56,13 @@
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/emotional.json"
     },
     {
+        "id": "family",
+        "icon": "👨‍👩‍👧‍👦",
+        "title": "Family",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/family.json"
+    },
+    {
         "id": "frequencyadverbs",
         "icon": "⏰",
         "title": "Frequency Adv",
