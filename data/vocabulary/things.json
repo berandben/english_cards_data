@@ -1,1 +1,299 @@
-
+[
+  {
+    "spanish": "Bolso",
+    "english": "Bag",
+    "pronunciation": "/bæɡ/",
+    "sentence": {
+      "english": "She isn't carrying her bag today because it's raining.",
+      "spanish": "Ella no lleva su bolso hoy porque está lloviendo."
+    }
+  },
+  {
+    "spanish": "Tarjeta bancaria",
+    "english": "Bank card",
+    "pronunciation": "/ˈbæŋk ˌkɑːd/",
+    "sentence": {
+      "english": "Are you using your bank card for this purchase?",
+      "spanish": "¿Usas tu tarjeta bancaria para esta compra?"
+    }
+  },
+  {
+    "spanish": "Calendario",
+    "english": "Calendar",
+    "pronunciation": "/ˈkæl.ɪn.dər/",
+    "sentence": {
+      "english": "He was checking the calendar for his appointments yesterday.",
+      "spanish": "Él revisaba el calendario para sus citas ayer."
+    }
+  },
+  {
+    "spanish": "Cargador",
+    "english": "Charger",
+    "pronunciation": "/ˈtʃɑː.dʒər/",
+    "sentence": {
+      "english": "I'm not bringing my charger to the office today.",
+      "spanish": "No llevo mi cargador a la oficina hoy."
+    }
+  },
+  {
+    "spanish": "Moneda",
+    "english": "Coin",
+    "pronunciation": "/kɔɪn/",
+    "sentence": {
+      "english": "Were they collecting foreign coins during their travels?",
+      "spanish": "¿Coleccionaban monedas extranjeras durante sus viajes?"
+    }
+  },
+  {
+    "spanish": "Agenda",
+    "english": "Diary",
+    "pronunciation": "/ˈdaɪ.ə.ri/",
+    "sentence": {
+      "english": "She is writing in her diary every evening.",
+      "spanish": "Ella escribe en su agenda cada tarde."
+    }
+  },
+  {
+    "spanish": "Diccionario",
+    "english": "Dictionary",
+    "pronunciation": "/ˈdɪk.ʃən.ər.i/",
+    "sentence": {
+      "english": "He doesn't use a dictionary for simple words.",
+      "spanish": "Él no usa un diccionario para palabras simples."
+    }
+  },
+  {
+    "spanish": "Auriculares",
+    "english": "Earphones",
+    "pronunciation": "/ˈɪə.fəʊnz/",
+    "sentence": {
+      "english": "Are they listening to music with their earphones?",
+      "spanish": "¿Escuchan música con sus auriculares?"
+    }
+  },
+  {
+    "spanish": "Carpeta",
+    "english": "File",
+    "pronunciation": "/faɪl/",
+    "sentence": {
+      "english": "She wasn't organizing her files properly last week.",
+      "spanish": "Ella no organizaba sus carpetas adecuadamente la semana pasada."
+    }
+  },
+  {
+    "spanish": "Gafas",
+    "english": "Glasses",
+    "pronunciation": "/ˈɡlɑː.sɪz/",
+    "sentence": {
+      "english": "He is cleaning his glasses before reading.",
+      "spanish": "Él está limpiando sus gafas antes de leer."
+    }
+  },
+  {
+    "spanish": "Auriculares",
+    "english": "Headphones",
+    "pronunciation": "/ˈhed.fəʊnz/",
+    "sentence": {
+      "english": "Do you wear headphones when you work?",
+      "spanish": "¿Llevas auriculares cuando trabajas?"
+    }
+  },
+  {
+    "spanish": "Documento de identidad",
+    "english": "Identity card",
+    "pronunciation": "/aɪˈden.tə.ti ˌkɑːd/",
+    "sentence": {
+      "english": "They weren't carrying their identity cards to the event.",
+      "spanish": "Ellos no llevaban sus documentos de identidad al evento."
+    }
+  },
+  {
+    "spanish": "Llave",
+    "english": "Key",
+    "pronunciation": "/kiː/",
+    "sentence": {
+      "english": "She lost her keys last Monday morning.",
+      "spanish": "Ella perdió sus llaves el lunes por la mañana."
+    }
+  },
+  {
+    "spanish": "Lámpara",
+    "english": "Lamp",
+    "pronunciation": "/læmp/",
+    "sentence": {
+      "english": "Are you turning on the lamp for more light?",
+      "spanish": "¿Enciendes la lámpara para más luz?"
+    }
+  },
+  {
+    "spanish": "Portátil",
+    "english": "Laptop",
+    "pronunciation": "/ˈlæp.tɒp/",
+    "sentence": {
+      "english": "He isn't using his laptop for gaming.",
+      "spanish": "Él no usa su portátil para jugar."
+    }
+  },
+  {
+    "spanish": "Revista",
+    "english": "Magazine",
+    "pronunciation": "/ˌmæɡ.əˈziːn/",
+    "sentence": {
+      "english": "Were they reading fashion magazines at the salon?",
+      "spanish": "¿Leían revistas de moda en el salón?"
+    }
+  },
+  {
+    "spanish": "Mascarilla",
+    "english": "Mask",
+    "pronunciation": "/mɑːsk/",
+    "sentence": {
+      "english": "She is wearing a mask on public transport.",
+      "spanish": "Ella lleva puesta una mascarilla en el transporte público."
+    }
+  },
+  {
+    "spanish": "Periódico",
+    "english": "Newspaper",
+    "pronunciation": "/ˈnjuːzˌpeɪ.pər/",
+    "sentence": {
+      "english": "Do you read the newspaper every morning?",
+      "spanish": "¿Lees el periódico cada mañana?"
+    }
+  },
+  {
+    "spanish": "Cuaderno",
+    "english": "Notebook",
+    "pronunciation": "/ˈnəʊt.bʊk/",
+    "sentence": {
+      "english": "He wasn't writing in his notebook during the lecture.",
+      "spanish": "Él no escribía en su cuaderno durante la conferencia."
+    }
+  },
+  {
+    "spanish": "Bolígrafo",
+    "english": "Pen",
+    "pronunciation": "/pen/",
+    "sentence": {
+      "english": "Are they using blue pens for their assignments?",
+      "spanish": "¿Usan bolígrafos azules para sus tareas?"
+    }
+  },
+  {
+    "spanish": "Lápiz",
+    "english": "Pencil",
+    "pronunciation": "/ˈpen.səl/",
+    "sentence": {
+      "english": "She is sharpening her pencils before the exam.",
+      "spanish": "Ella está sacando punta a sus lápices antes del examen."
+    }
+  },
+  {
+    "spanish": "Teléfono",
+    "english": "Phone",
+    "pronunciation": "/fəʊn/",
+    "sentence": {
+      "english": "He doesn't answer his phone during meetings.",
+      "spanish": "Él no contesta su teléfono durante las reuniones."
+    }
+  },
+  {
+    "spanish": "Foto",
+    "english": "Photo",
+    "pronunciation": "/ˈfəʊ.təʊ/",
+    "sentence": {
+      "english": "Were you taking photos at the concert last night?",
+      "spanish": "¿Sacabas fotos en el concierto anoche?"
+    }
+  },
+  {
+    "spanish": "Papel",
+    "english": "Paper",
+    "pronunciation": "/ˈpeɪ.pər/",
+    "sentence": {
+      "english": "I'm not printing on recycled paper for this document.",
+      "spanish": "No imprimo en papel reciclado para este documento."
+    }
+  },
+  {
+    "spanish": "Monedero",
+    "english": "Purse",
+    "pronunciation": "/pɜːs/",
+    "sentence": {
+      "english": "She left her purse at the restaurant yesterday.",
+      "spanish": "Ella dejó su monedero en el restaurante ayer."
+    }
+  },
+  {
+    "spanish": "Tijeras",
+    "english": "Scissors",
+    "pronunciation": "/ˈsɪz.əz/",
+    "sentence": {
+      "english": "Are you using the scissors for your art project?",
+      "spanish": "¿Usas las tijeras para tu proyecto de arte?"
+    }
+  },
+  {
+    "spanish": "Gafas de sol",
+    "english": "Sunglasses",
+    "pronunciation": "/ˈsʌnˌɡlɑː.sɪz/",
+    "sentence": {
+      "english": "He always wears his sunglasses when driving.",
+      "spanish": "Él siempre lleva sus gafas de sol cuando conduce."
+    }
+  },
+  {
+    "spanish": "Tableta",
+    "english": "Tablet",
+    "pronunciation": "/ˈtæb.lət/",
+    "sentence": {
+      "english": "They weren't using their tablets for online classes.",
+      "spanish": "Ellos no usaban sus tabletas para clases online."
+    }
+  },
+  {
+    "spanish": "Billete",
+    "english": "Ticket",
+    "pronunciation": "/ˈtɪk.ɪt/",
+    "sentence": {
+      "english": "Is she buying tickets for the cinema tonight?",
+      "spanish": "¿Compra billetes para el cine esta noche?"
+    }
+  },
+  {
+    "spanish": "Pañuelo",
+    "english": "Tissue",
+    "pronunciation": "/ˈtɪʃ.uː/",
+    "sentence": {
+      "english": "He doesn't carry tissues in his pocket.",
+      "spanish": "Él no lleva pañuelos en su bolsillo."
+    }
+  },
+  {
+    "spanish": "Paraguas",
+    "english": "Umbrella",
+    "pronunciation": "/ʌmˈbrel.ə/",
+    "sentence": {
+      "english": "Were they taking their umbrellas despite the sunny forecast?",
+      "spanish": "¿Llevaban sus paraguas a pesar del pronóstico soleado?"
+    }
+  },
+  {
+    "spanish": "Cartera",
+    "english": "Wallet",
+    "pronunciation": "/ˈwɒl.ɪt/",
+    "sentence": {
+      "english": "She is checking her wallet for her bank card.",
+      "spanish": "Ella está revisando su cartera para buscar su tarjeta bancaria."
+    }
+  },
+  {
+    "spanish": "Reloj",
+    "english": "Watch",
+    "pronunciation": "/wɒtʃ/",
+    "sentence": {
+      "english": "Do you wear a watch every day?",
+      "spanish": "¿Llevas reloj todos los días?"
+    }
+  }
+]
