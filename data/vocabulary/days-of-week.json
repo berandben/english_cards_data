@@ -1,1 +1,65 @@
-
+[
+  {
+    "spanish": "Lunes",
+    "english": "Monday",
+    "pronunciation": "/ˈmʌn.deɪ/",
+    "sentence": {
+      "english": "She doesn't work on Monday because it's her day off.",
+      "spanish": "Ella no trabaja el lunes porque es su día libre."
+    }
+  },
+  {
+    "spanish": "Martes",
+    "english": "Tuesday",
+    "pronunciation": "/ˈtjuːz.deɪ/",
+    "sentence": {
+      "english": "Are they meeting for lunch every Tuesday?",
+      "spanish": "¿Se reúnen para almorzar todos los martes?"
+    }
+  },
+  {
+    "spanish": "Miércoles",
+    "english": "Wednesday",
+    "pronunciation": "/ˈwenz.deɪ/",
+    "sentence": {
+      "english": "He was studying English every Wednesday last semester.",
+      "spanish": "Él estudiaba inglés todos los miércoles el semestre pasado."
+    }
+  },
+  {
+    "spanish": "Jueves",
+    "english": "Thursday",
+    "pronunciation": "/ˈθɜːz.deɪ/",
+    "sentence": {
+      "english": "I'm not going to the gym this Thursday.",
+      "spanish": "No voy al gimnasio este jueves."
+    }
+  },
+  {
+    "spanish": "Viernes",
+    "english": "Friday",
+    "pronunciation": "/ˈfraɪ.deɪ/",
+    "sentence": {
+      "english": "Were you going to the cinema every Friday last month?",
+      "spanish": "¿Ibas al cine todos los viernes el mes pasado?"
+    }
+  },
+  {
+    "spanish": "Sábado",
+    "english": "Saturday",
+    "pronunciation": "/ˈsæt.ə.deɪ/",
+    "sentence": {
+      "english": "They are having a party next Saturday.",
+      "spanish": "Ellos tienen una fiesta el próximo sábado."
+    }
+  },
+  {
+    "spanish": "Domingo",
+    "english": "Sunday",
+    "pronunciation": "/ˈsʌn.deɪ/",
+    "sentence": {
+      "english": "Does he always visit his family on Sunday?",
+      "spanish": "¿Visita él siempre a su familia los domingos?"
+    }
+  }
+]
