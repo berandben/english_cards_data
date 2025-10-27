@@ -9,147 +9,12 @@
         }
     },
     {
-        "spanish": "Hijastra",
-        "english": "Stepdaughter",
-        "pronunciation": "/ˈstepˌdɔː.tər/",
+        "spanish": "Hermano",
+        "english": "Brother",
+        "pronunciation": "/ˈbrʌð.ər/",
         "sentence": {
-            "english": "Are they picking up their stepdaughter from school?",
-            "spanish": "¿Recogen a su hijastra de la escuela?"
-        }
-    },
-    {
-        "spanish": "Hijastro",
-        "english": "Stepson",
-        "pronunciation": "/ˈstep.sʌn/",
-        "sentence": {
-            "english": "He was teaching his stepson to drive last year.",
-            "spanish": "Él enseñaba a conducir a su hijastro el año pasado."
-        }
-    },
-    {
-        "spanish": "Hermanastra",
-        "english": "Stepsister",
-        "pronunciation": "/ˈstepˌsɪs.tər/",
-        "sentence": {
-            "english": "I'm not sharing a room with my stepsister anymore.",
-            "spanish": "Ya no comparto habitación con mi hermanastra."
-        }
-    },
-    {
-        "spanish": "Hermanastro",
-        "english": "Stepbrother",
-        "pronunciation": "/ˈstepˌbrʌð.ər/",
-        "sentence": {
-            "english": "Were you arguing with your stepbrother yesterday?",
-            "spanish": "¿Discutías con tu hermanastro ayer?"
-        }
-    },
-    {
-        "spanish": "Madrastra",
-        "english": "Stepmother",
-        "pronunciation": "/ˈstepˌmʌð.ər/",
-        "sentence": {
-            "english": "They are meeting their stepmother for lunch.",
-            "spanish": "Ellos se reúnen con su madrastra para almorzar."
-        }
-    },
-    {
-        "spanish": "Padrastro",
-        "english": "Stepfather",
-        "pronunciation": "/ˈstepˌfɑː.ðər/",
-        "sentence": {
-            "english": "Does he get along with his stepfather?",
-            "spanish": "¿Se lleva bien con su padrastro?"
-        }
-    },
-    {
-        "spanish": "Cónyuge",
-        "english": "Spouse",
-        "pronunciation": "/spaʊs/",
-        "sentence": {
-            "english": "She wasn't traveling with her spouse last month.",
-            "spanish": "Ella no viajaba con su cónyuge el mes pasado."
-        }
-    },
-    {
-        "spanish": "Hermana",
-        "english": "Sister",
-        "pronunciation": "/ˈsɪs.tər/",
-        "sentence": {
-            "english": "Are you calling your sister every day?",
-            "spanish": "¿Llamas a tu hermana todos los días?"
-        }
-    },
-    {
-        "spanish": "Hermanos",
-        "english": "Siblings",
-        "pronunciation": "/ˈsɪb.lɪŋz/",
-        "sentence": {
-            "english": "He doesn't have any siblings.",
-            "spanish": "Él no tiene hermanos."
-        }
-    },
-    {
-        "spanish": "Hijo",
-        "english": "Son",
-        "pronunciation": "/sʌn/",
-        "sentence": {
-            "english": "I was helping my son with homework yesterday.",
-            "spanish": "Ayudaba a mi hijo con los deberes ayer."
-        }
-    },
-    {
-        "spanish": "Nuera",
-        "english": "Daughter-in-law",
-        "pronunciation": "/ˈdɔː.tər.ɪn.lɔː/",
-        "sentence": {
-            "english": "Does she often visit her daughter-in-law?",
-            "spanish": "¿Visita ella a menudo a su nuera?"
-        }
-    },
-    {
-        "spanish": "Cuñada",
-        "english": "Sister-in-law",
-        "pronunciation": "/ˈsɪs.tər.ɪn.lɔː/",
-        "sentence": {
-            "english": "They weren't speaking to their sister-in-law.",
-            "spanish": "Ellos no hablaban con su cuñada."
-        }
-    },
-    {
-        "spanish": "Suegro",
-        "english": "Father-in-law",
-        "pronunciation": "/ˈfɑː.ðər.ɪn.lɔː/",
-        "sentence": {
-            "english": "Is he working with his father-in-law?",
-            "spanish": "¿Trabaja con su suegro?"
-        }
-    },
-    {
-        "spanish": "Suegra",
-        "english": "Mother-in-law",
-        "pronunciation": "/ˈmʌð.ər.ɪn.lɔː/",
-        "sentence": {
-            "english": "She doesn't argue with her mother-in-law.",
-            "spanish": "Ella no discute con su suegra."
-        }
-    },
-    {
-        "spanish": "Suegros",
-        "english": "Parents-in-law",
-        "pronunciation": "/ˈpeə.rənts.ɪn.lɔː/",
-        "sentence": {
-            "english": "Were you visiting your parents-in-law last weekend?",
-            "spanish": "¿Visitabas a tus suegros el fin de semana pasado?"
-        }
-    },
-    {
-        "spanish": "Yerno",
-        "english": "Son-in-law",
-        "pronunciation": "/ˈsʌn.ɪn.lɔː/",
-        "sentence": {
-            "english": "They are proud of their son-in-law.",
-            "spanish": "Ellos están orgullosos de su yerno."
+            "english": "Are we meeting your brother tomorrow?",
+            "spanish": "¿Nos encontramos con tu hermano mañana?"
         }
     },
     {
@@ -159,6 +24,15 @@
         "sentence": {
             "english": "Does he play football with his brother-in-law?",
             "spanish": "¿Juega al fútbol con su cuñado?"
+        }
+    },
+    {
+        "spanish": "Hijos",
+        "english": "Children",
+        "pronunciation": "/ˈtʃɪl.drən/",
+        "sentence": {
+            "english": "They weren't taking their children to school.",
+            "spanish": "Ellos no llevaban a sus hijos al colegio."
         }
     },
     {
@@ -189,6 +63,15 @@
         }
     },
     {
+        "spanish": "Nuera",
+        "english": "Daughter-in-law",
+        "pronunciation": "/ˈdɔː.tər.ɪn.lɔː/",
+        "sentence": {
+            "english": "Does she often visit her daughter-in-law?",
+            "spanish": "¿Visita ella a menudo a su nuera?"
+        }
+    },
+    {
         "spanish": "Padre",
         "english": "Father",
         "pronunciation": "/ˈfɑː.ðər/",
@@ -198,12 +81,84 @@
         }
     },
     {
+        "spanish": "Suegro",
+        "english": "Father-in-law",
+        "pronunciation": "/ˈfɑː.ðər.ɪn.lɔː/",
+        "sentence": {
+            "english": "Is he working with his father-in-law?",
+            "spanish": "¿Trabaja con su suegro?"
+        }
+    },
+    {
+        "spanish": "Ahijada",
+        "english": "Goddaughter",
+        "pronunciation": "/ˈɡɒd.dɔː.tər/",
+        "sentence": {
+            "english": "They weren't forgetting their goddaughter's birthday.",
+            "spanish": "Ellos no olvidaban el cumpleaños de su ahijada."
+        }
+    },
+    {
+        "spanish": "Padrino",
+        "english": "Godfather",
+        "pronunciation": "/ˈɡɒd.fɑː.ðər/",
+        "sentence": {
+            "english": "Does she have a good relationship with her godfather?",
+            "spanish": "¿Tiene buena relación con su padrino?"
+        }
+    },
+    {
+        "spanish": "Madrina",
+        "english": "Godmother",
+        "pronunciation": "/ˈɡɒd.mʌð.ər/",
+        "sentence": {
+            "english": "I was chosen as godmother last year.",
+            "spanish": "Me eligieron de madrina el año pasado."
+        }
+    },
+    {
+        "spanish": "Ahijado",
+        "english": "Godson",
+        "pronunciation": "/ˈɡɒd.sʌn/",
+        "sentence": {
+            "english": "Is he buying a present for his godson?",
+            "spanish": "¿Compra un regalo para su ahijado?"
+        }
+    },
+    {
+        "spanish": "Nietos",
+        "english": "Grandchildren",
+        "pronunciation": "/ˈɡræn.tʃɪl.drən/",
+        "sentence": {
+            "english": "They are looking after their grandchildren today.",
+            "spanish": "Ellos cuidan de sus nietos hoy."
+        }
+    },
+    {
+        "spanish": "Nieta",
+        "english": "Granddaughter",
+        "pronunciation": "/ˈɡræn.dɔː.tər/",
+        "sentence": {
+            "english": "She doesn't see her granddaughter often.",
+            "spanish": "Ella no ve a su nieta a menudo."
+        }
+    },
+    {
         "spanish": "Abuelo",
         "english": "Grandfather",
         "pronunciation": "/ˈɡræn.fɑː.ðər/",
         "sentence": {
             "english": "Does she visit her grandfather every Sunday?",
             "spanish": "¿Visita a su abuelo todos los domingos?"
+        }
+    },
+    {
+        "spanish": "Nieto",
+        "english": "Grandson",
+        "pronunciation": "/ˈɡræn.sʌn/",
+        "sentence": {
+            "english": "Were you playing with your grandson in the park?",
+            "spanish": "¿Jugabas con tu nieto en el parque?"
         }
     },
     {
@@ -225,60 +180,6 @@
         }
     },
     {
-        "spanish": "Bisabuela",
-        "english": "Great-grandmother",
-        "pronunciation": "/ˌɡreɪtˈɡræn.mʌð.ər/",
-        "sentence": {
-            "english": "She doesn't remember her great-grandmother.",
-            "spanish": "Ella no recuerda a su bisabuela."
-        }
-    },
-    {
-        "spanish": "Bisabuelo",
-        "english": "Great-grandfather",
-        "pronunciation": "/ˌɡreɪtˈɡræn.fɑː.ðər/",
-        "sentence": {
-            "english": "Were you named after your great-grandfather?",
-            "spanish": "¿Te pusieron el nombre de tu bisabuelo?"
-        }
-    },
-    {
-        "spanish": "Bisnieta",
-        "english": "Great-granddaughter",
-        "pronunciation": "/ˌɡreɪtˈɡræn.dɔː.tər/",
-        "sentence": {
-            "english": "They are celebrating their great-granddaughter's birthday.",
-            "spanish": "Ellos celebran el cumpleaños de su bisnieta."
-        }
-    },
-    {
-        "spanish": "Bisnieto",
-        "english": "Great-grandson",
-        "pronunciation": "/ˌɡreɪtˈɡræn.sʌn/",
-        "sentence": {
-            "english": "Does he have any great-grandsons?",
-            "spanish": "¿Tiene bisnietos?"
-        }
-    },
-    {
-        "spanish": "Tía abuela",
-        "english": "Great-aunt",
-        "pronunciation": "/ˌɡreɪtˈɑːnt/",
-        "sentence": {
-            "english": "She wasn't close to her great-aunt.",
-            "spanish": "Ella no era cercana a su tía abuela."
-        }
-    },
-    {
-        "spanish": "Tío abuelo",
-        "english": "Great-uncle",
-        "pronunciation": "/ˌɡreɪtˈʌŋ.kəl/",
-        "sentence": {
-            "english": "Are you researching your great-uncle's history?",
-            "spanish": "¿Investigas la historia de tu tío abuelo?"
-        }
-    },
-    {
         "spanish": "Abuelita",
         "english": "Granny",
         "pronunciation": "/ˈɡræn.i/",
@@ -297,21 +198,84 @@
         }
     },
     {
+        "spanish": "Tía abuela",
+        "english": "Great-aunt",
+        "pronunciation": "/ˌɡreɪtˈɑːnt/",
+        "sentence": {
+            "english": "She wasn't close to her great-aunt.",
+            "spanish": "Ella no era cercana a su tía abuela."
+        }
+    },
+    {
+        "spanish": "Bisnieta",
+        "english": "Great-granddaughter",
+        "pronunciation": "/ˌɡreɪtˈɡræn.dɔː.tər/",
+        "sentence": {
+            "english": "They are celebrating their great-granddaughter's birthday.",
+            "spanish": "Ellos celebran el cumpleaños de su bisnieta."
+        }
+    },
+    {
+        "spanish": "Bisabuelo",
+        "english": "Great-grandfather",
+        "pronunciation": "/ˌɡreɪtˈɡræn.fɑː.ðər/",
+        "sentence": {
+            "english": "Were you named after your great-grandfather?",
+            "spanish": "¿Te pusieron el nombre de tu bisabuelo?"
+        }
+    },
+    {
+        "spanish": "Bisabuela",
+        "english": "Great-grandmother",
+        "pronunciation": "/ˌɡreɪtˈɡræn.mʌð.ər/",
+        "sentence": {
+            "english": "She doesn't remember her great-grandmother.",
+            "spanish": "Ella no recuerda a su bisabuela."
+        }
+    },
+    {
+        "spanish": "Bisnieto",
+        "english": "Great-grandson",
+        "pronunciation": "/ˌɡreɪtˈɡræn.sʌn/",
+        "sentence": {
+            "english": "Does he have any great-grandsons?",
+            "spanish": "¿Tiene bisnietos?"
+        }
+    },
+    {
+        "spanish": "Tío abuelo",
+        "english": "Great-uncle",
+        "pronunciation": "/ˌɡreɪtˈʌŋ.kəl/",
+        "sentence": {
+            "english": "Are you researching your great-uncle's history?",
+            "spanish": "¿Investigas la historia de tu tío abuelo?"
+        }
+    },
+    {
+        "spanish": "Medio hermano",
+        "english": "Half-brother",
+        "pronunciation": "/ˈhɑːf.brʌð.ər/",
+        "sentence": {
+            "english": "She wasn't invited to her half-brother's wedding.",
+            "spanish": "Ella no estaba invitada a la boda de su medio hermano."
+        }
+    },
+    {
+        "spanish": "Media hermana",
+        "english": "Half-sister",
+        "pronunciation": "/ˈhɑːf.sɪs.tər/",
+        "sentence": {
+            "english": "Does he share a room with his half-sister?",
+            "spanish": "¿Comparte habitación con su media hermana?"
+        }
+    },
+    {
         "spanish": "Marido",
         "english": "Husband",
         "pronunciation": "/ˈhʌz.bənd/",
         "sentence": {
             "english": "Does she trust her husband completely?",
             "spanish": "¿Confía completamente en su marido?"
-        }
-    },
-    {
-        "spanish": "Hijos",
-        "english": "Children",
-        "pronunciation": "/ˈtʃɪl.drən/",
-        "sentence": {
-            "english": "They weren't taking their children to school.",
-            "spanish": "Ellos no llevaban a sus hijos al colegio."
         }
     },
     {
@@ -324,12 +288,30 @@
         }
     },
     {
+        "spanish": "Mi señora",
+        "english": "Missus",
+        "pronunciation": "/ˈmɪs.ɪz/",
+        "sentence": {
+            "english": "He doesn't call his wife 'the missus'.",
+            "spanish": "Él no llama 'mi señora' a su esposa."
+        }
+    },
+    {
         "spanish": "Madre",
         "english": "Mother",
         "pronunciation": "/ˈmʌð.ər/",
         "sentence": {
             "english": "She doesn't argue with her mother often.",
             "spanish": "Ella no discute con su madre a menudo."
+        }
+    },
+    {
+        "spanish": "Suegra",
+        "english": "Mother-in-law",
+        "pronunciation": "/ˈmʌð.ər.ɪn.lɔː/",
+        "sentence": {
+            "english": "She doesn't argue with her mother-in-law.",
+            "spanish": "Ella no discute con su suegra."
         }
     },
     {
@@ -342,21 +324,21 @@
         }
     },
     {
-        "spanish": "Sobrina",
-        "english": "Niece",
-        "pronunciation": "/niːs/",
-        "sentence": {
-            "english": "They are buying a gift for their niece.",
-            "spanish": "Ellos compran un regalo para su sobrina."
-        }
-    },
-    {
         "spanish": "Sobrino",
         "english": "Nephew",
         "pronunciation": "/ˈnef.juː/",
         "sentence": {
             "english": "Does he teach his nephew to play chess?",
             "spanish": "¿Enseña a su sobrino a jugar al ajedrez?"
+        }
+    },
+    {
+        "spanish": "Sobrina",
+        "english": "Niece",
+        "pronunciation": "/niːs/",
+        "sentence": {
+            "english": "They are buying a gift for their niece.",
+            "spanish": "Ellos compran un regalo para su sobrina."
         }
     },
     {
@@ -378,6 +360,15 @@
         }
     },
     {
+        "spanish": "Suegros",
+        "english": "Parents-in-law",
+        "pronunciation": "/ˈpeə.rənts.ɪn.lɔː/",
+        "sentence": {
+            "english": "Were you visiting your parents-in-law last weekend?",
+            "spanish": "¿Visitabas a tus suegros el fin de semana pasado?"
+        }
+    },
+    {
         "spanish": "Pareja",
         "english": "Partner",
         "pronunciation": "/ˈpɑːt.nər/",
@@ -387,111 +378,120 @@
         }
     },
     {
-        "spanish": "Madrina",
-        "english": "Godmother",
-        "pronunciation": "/ˈɡɒd.mʌð.ər/",
-        "sentence": {
-            "english": "I was chosen as godmother last year.",
-            "spanish": "Me eligieron de madrina el año pasado."
-        }
-    },
-    {
-        "spanish": "Padrino",
-        "english": "Godfather",
-        "pronunciation": "/ˈɡɒd.fɑː.ðər/",
-        "sentence": {
-            "english": "Does she have a good relationship with her godfather?",
-            "spanish": "¿Tiene buena relación con su padrino?"
-        }
-    },
-    {
-        "spanish": "Ahijada",
-        "english": "Goddaughter",
-        "pronunciation": "/ˈɡɒd.dɔː.tər/",
-        "sentence": {
-            "english": "They weren't forgetting their goddaughter's birthday.",
-            "spanish": "Ellos no olvidaban el cumpleaños de su ahijada."
-        }
-    },
-    {
-        "spanish": "Ahijado",
-        "english": "Godson",
-        "pronunciation": "/ˈɡɒd.sʌn/",
-        "sentence": {
-            "english": "Is he buying a present for his godson?",
-            "spanish": "¿Compra un regalo para su ahijado?"
-        }
-    },
-    {
-        "spanish": "Nieta",
-        "english": "Granddaughter",
-        "pronunciation": "/ˈɡræn.dɔː.tər/",
-        "sentence": {
-            "english": "She doesn't see her granddaughter often.",
-            "spanish": "Ella no ve a su nieta a menudo."
-        }
-    },
-    {
-        "spanish": "Nieto",
-        "english": "Grandson",
-        "pronunciation": "/ˈɡræn.sʌn/",
-        "sentence": {
-            "english": "Were you playing with your grandson in the park?",
-            "spanish": "¿Jugabas con tu nieto en el parque?"
-        }
-    },
-    {
-        "spanish": "Nietos",
-        "english": "Grandchildren",
-        "pronunciation": "/ˈɡræn.tʃɪl.drən/",
-        "sentence": {
-            "english": "They are looking after their grandchildren today.",
-            "spanish": "Ellos cuidan de sus nietos hoy."
-        }
-    },
-    {
-        "spanish": "Media hermana",
-        "english": "Half-sister",
-        "pronunciation": "/ˈhɑːf.sɪs.tər/",
-        "sentence": {
-            "english": "Does he share a room with his half-sister?",
-            "spanish": "¿Comparte habitación con su media hermana?"
-        }
-    },
-    {
-        "spanish": "Medio hermano",
-        "english": "Half-brother",
-        "pronunciation": "/ˈhɑːf.brʌð.ər/",
-        "sentence": {
-            "english": "She wasn't invited to her half-brother's wedding.",
-            "spanish": "Ella no estaba invitada a la boda de su medio hermano."
-        }
-    },
-    {
-        "spanish": "Hermano",
-        "english": "Brother",
-        "pronunciation": "/ˈbrʌð.ər/",
-        "sentence": {
-            "english": "Are we meeting your brother tomorrow?",
-            "spanish": "¿Nos encontramos con tu hermano mañana?"
-        }
-    },
-    {
-        "spanish": "Mi señora",
-        "english": "Missus",
-        "pronunciation": "/ˈmɪs.ɪz/",
-        "sentence": {
-            "english": "He doesn't call his wife 'the missus'.",
-            "spanish": "Él no llama 'mi señora' a su esposa."
-        }
-    },
-    {
         "spanish": "Tío",
         "english": "Uncle",
         "pronunciation": "/ˈʌŋ.kəl/",
         "sentence": {
             "english": "I was visiting my uncle in hospital.",
             "spanish": "Visitaba a mi tío en el hospital."
+        }
+    },
+    {
+        "spanish": "Hermanos",
+        "english": "Siblings",
+        "pronunciation": "/ˈsɪb.lɪŋz/",
+        "sentence": {
+            "english": "He doesn't have any siblings.",
+            "spanish": "Él no tiene hermanos."
+        }
+    },
+    {
+        "spanish": "Hermana",
+        "english": "Sister",
+        "pronunciation": "/ˈsɪs.tər/",
+        "sentence": {
+            "english": "Are you calling your sister every day?",
+            "spanish": "¿Llamas a tu hermana todos los días?"
+        }
+    },
+    {
+        "spanish": "Cuñada",
+        "english": "Sister-in-law",
+        "pronunciation": "/ˈsɪs.tər.ɪn.lɔː/",
+        "sentence": {
+            "english": "They weren't speaking to their sister-in-law.",
+            "spanish": "Ellos no hablaban con su cuñada."
+        }
+    },
+    {
+        "spanish": "Hijo",
+        "english": "Son",
+        "pronunciation": "/sʌn/",
+        "sentence": {
+            "english": "I was helping my son with homework yesterday.",
+            "spanish": "Ayudaba a mi hijo con los deberes ayer."
+        }
+    },
+    {
+        "spanish": "Yerno",
+        "english": "Son-in-law",
+        "pronunciation": "/ˈsʌn.ɪn.lɔː/",
+        "sentence": {
+            "english": "They are proud of their son-in-law.",
+            "spanish": "Ellos están orgullosos de su yerno."
+        }
+    },
+    {
+        "spanish": "Cónyuge",
+        "english": "Spouse",
+        "pronunciation": "/spaʊs/",
+        "sentence": {
+            "english": "She wasn't traveling with her spouse last month.",
+            "spanish": "Ella no viajaba con su cónyuge el mes pasado."
+        }
+    },
+    {
+        "spanish": "Hermanastro",
+        "english": "Stepbrother",
+        "pronunciation": "/ˈstepˌbrʌð.ər/",
+        "sentence": {
+            "english": "Were you arguing with your stepbrother yesterday?",
+            "spanish": "¿Discutías con tu hermanastro ayer?"
+        }
+    },
+    {
+        "spanish": "Hijastra",
+        "english": "Stepdaughter",
+        "pronunciation": "/ˈstepˌdɔː.tər/",
+        "sentence": {
+            "english": "Are they picking up their stepdaughter from school?",
+            "spanish": "¿Recogen a su hijastra de la escuela?"
+        }
+    },
+    {
+        "spanish": "Padrastro",
+        "english": "Stepfather",
+        "pronunciation": "/ˈstepˌfɑː.ðər/",
+        "sentence": {
+            "english": "Does he get along with his stepfather?",
+            "spanish": "¿Se lleva bien con su padrastro?"
+        }
+    },
+    {
+        "spanish": "Madrastra",
+        "english": "Stepmother",
+        "pronunciation": "/ˈstepˌmʌð.ər/",
+        "sentence": {
+            "english": "They are meeting their stepmother for lunch.",
+            "spanish": "Ellos se reúnen con su madrastra para almorzar."
+        }
+    },
+    {
+        "spanish": "Hermanastra",
+        "english": "Stepsister",
+        "pronunciation": "/ˈstepˌsɪs.tər/",
+        "sentence": {
+            "english": "I'm not sharing a room with my stepsister anymore.",
+            "spanish": "Ya no comparto habitación con mi hermanastra."
+        }
+    },
+    {
+        "spanish": "Hijastro",
+        "english": "Stepson",
+        "pronunciation": "/ˈstep.sʌn/",
+        "sentence": {
+            "english": "He was teaching his stepson to drive last year.",
+            "spanish": "Él enseñaba a conducir a su hijastro el año pasado."
         }
     },
     {
