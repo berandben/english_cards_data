@@ -1,1 +1,1686 @@
-
+[
+  {
+    "spanish": "Afgano",
+    "english": "Afghan",
+    "pronunciation": "/ˈæf.ɡæn/",
+    "sentence": {
+      "english": "He isn't Afghan, but he speaks Dari fluently.",
+      "spanish": "Él no es afgano, pero habla darí con fluidez."
+    }
+  },
+  {
+    "spanish": "Albanés",
+    "english": "Albanian",
+    "pronunciation": "/ælˈbeɪ.ni.ən/",
+    "sentence": {
+      "english": "Are you learning Albanian for your trip to Tirana?",
+      "spanish": "¿Estás aprendiendo albanés para tu viaje a Tirana?"
+    }
+  },
+   {
+    "spanish": "Americano",
+    "english": "American",
+    "pronunciation": "/əˈmer.ɪ.kən/",
+    "sentence": {
+      "english": "They are studying American civil rights history.",
+      "spanish": "Ellos estudian la historia de los derechos civiles americanos."
+    }
+  },
+  {
+    "spanish": "Argelino",
+    "english": "Algerian",
+    "pronunciation": "/ælˈdʒɪə.ri.ən/",
+    "sentence": {
+      "english": "She was cooking Algerian cuisine for her friends.",
+      "spanish": "Ella cocinaba comida argelina para sus amigos."
+    }
+  },
+  {
+    "spanish": "Andorrano",
+    "english": "Andorran",
+    "pronunciation": "/ænˈdɔː.rən/",
+    "sentence": {
+      "english": "They aren't Andorran, but they live in the Pyrenees.",
+      "spanish": "Ellos no son andorranos, pero viven en los Pirineos."
+    }
+  },
+  {
+    "spanish": "Angoleño",
+    "english": "Angolan",
+    "pronunciation": "/æŋˈɡəʊ.lən/",
+    "sentence": {
+      "english": "Is he studying Angolan history at university?",
+      "spanish": "¿Estudia él historia angoleña en la universidad?"
+    }
+  },
+  {
+    "spanish": "Antiguano",
+    "english": "Antiguan",
+    "pronunciation": "/ænˈtiː.ɡən/",
+    "sentence": {
+      "english": "She was celebrating Carnival like an Antiguan.",
+      "spanish": "Ella celebraba el Carnaval como una antiguana."
+    }
+  },
+  {
+    "spanish": "Argentino",
+    "english": "Argentine",
+    "pronunciation": "/ˈɑː.dʒən.taɪn/",
+    "sentence": {
+      "english": "They aren't Argentine, but they love tango dancing.",
+      "spanish": "Ellos no son argentinos, pero les encanta bailar tango."
+    }
+  },
+  {
+    "spanish": "Armenio",
+    "english": "Armenian",
+    "pronunciation": "/ɑːˈmiː.ni.ən/",
+    "sentence": {
+      "english": "Are you visiting Armenian churches in Jerusalem?",
+      "spanish": "¿Visitas iglesias armenias en Jerusalén?"
+    }
+  },
+  {
+    "spanish": "Australiano",
+    "english": "Australian",
+    "pronunciation": "/ɒˈstreɪ.li.ən/",
+    "sentence": {
+      "english": "He wasn't acting like a typical Australian tourist.",
+      "spanish": "Él no actuaba como un turista australiano típico."
+    }
+  },
+  {
+    "spanish": "Austríaco",
+    "english": "Austrian",
+    "pronunciation": "/ˈɒs.tri.ən/",
+    "sentence": {
+      "english": "She is cooking Austrian pastries for the bakery.",
+      "spanish": "Ella cocina pasteles austríacos para la panadería."
+    }
+  },
+  {
+    "spanish": "Azerbaiyano",
+    "english": "Azerbaijani",
+    "pronunciation": "/ˌæz.ə.baɪˈdʒɑː.ni/",
+    "sentence": {
+      "english": "Does he speak Azerbaijani with his grandparents?",
+      "spanish": "¿Habla él azerbaiyano con sus abuelos?"
+    }
+  },
+  {
+    "spanish": "Bahameño",
+    "english": "Bahamian",
+    "pronunciation": "/bəˈheɪ.mi.ən/",
+    "sentence": {
+      "english": "They weren't listening to Bahamian music.",
+      "spanish": "Ellos no escuchaban música bahameña."
+    }
+  },
+  {
+    "spanish": "Bareiní",
+    "english": "Bahraini",
+    "pronunciation": "/bɑːˈreɪ.ni/",
+    "sentence": {
+      "english": "Is she studying Bahraini culture for her project?",
+      "spanish": "¿Estudia ella la cultura bareiní para su proyecto?"
+    }
+  },
+  {
+    "spanish": "Bangladesí",
+    "english": "Bangladeshi",
+    "pronunciation": "/ˌbæŋ.ɡləˈdeʃ.i/",
+    "sentence": {
+      "english": "He isn't wearing traditional Bangladeshi clothing.",
+      "spanish": "Él no lleva ropa tradicional bangladesí."
+    }
+  },
+  {
+    "spanish": "Barbadense",
+    "english": "Barbadian",
+    "pronunciation": "/bɑːˈbeɪ.di.ən/",
+    "sentence": {
+      "english": "Were they eating Bajan flying fish every day?",
+      "spanish": "¿Comían ellos pez volador barbadense todos los días?"
+    }
+  },
+  {
+    "spanish": "Bielorruso",
+    "english": "Belarusian",
+    "pronunciation": "/ˌbel.əˈruː.si.ən/",
+    "sentence": {
+      "english": "She is learning Belarusian from her grandmother.",
+      "spanish": "Ella aprende bielorruso de su abuela."
+    }
+  },
+  {
+    "spanish": "Belga",
+    "english": "Belgian",
+    "pronunciation": "/ˈbel.dʒən/",
+    "sentence": {
+      "english": "Does he prefer Belgian chocolate to Swiss chocolate?",
+      "spanish": "¿Prefiere él el chocolate belga al chocolate suizo?"
+    }
+  },
+  {
+    "spanish": "Beliceño",
+    "english": "Belizean",
+    "pronunciation": "/bəˈliː.zi.ən/",
+    "sentence": {
+      "english": "They weren't celebrating Belizean independence day.",
+      "spanish": "Ellos no celebraban el día de la independencia beliceña."
+    }
+  },
+  {
+    "spanish": "Beninés",
+    "english": "Beninese",
+    "pronunciation": "/ˌben.ɪˈniːz/",
+    "sentence": {
+      "english": "Are you studying Beninese art history?",
+      "spanish": "¿Estudias historia del arte beninés?"
+    }
+  },
+  {
+    "spanish": "Butanés",
+    "english": "Bhutanese",
+    "pronunciation": "/ˌbuː.təˈniːz/",
+    "sentence": {
+      "english": "He isn't measuring Gross National Happiness like Bhutanese people do.",
+      "spanish": "Él no mide la Felicidad Nacional Bruta como hacen los butaneses."
+    }
+  },
+  {
+    "spanish": "Boliviano",
+    "english": "Bolivian",
+    "pronunciation": "/bəˈlɪv.i.ən/",
+    "sentence": {
+      "english": "Was she dancing Bolivian folk dances at the festival?",
+      "spanish": "¿Bailaba ella danzas folclóricas bolivianas en el festival?"
+    }
+  },
+  {
+    "spanish": "Bosnio",
+    "english": "Bosnian",
+    "pronunciation": "/ˈbɒz.ni.ən/",
+    "sentence": {
+      "english": "They are cooking Bosnian ćevapi for dinner.",
+      "spanish": "Ellos cocinan ćevapi bosnio para la cena."
+    }
+  },
+  {
+    "spanish": "Brasileño",
+    "english": "Brazilian",
+    "pronunciation": "/brəˈzɪl.i.ən/",
+    "sentence": {
+      "english": "Does he practice Brazilian jiu-jitsu every week?",
+      "spanish": "¿Practica él jiu-jitsu brasileño cada semana?"
+    }
+  },
+  {
+    "spanish": "Bruneano",
+    "english": "Bruneian",
+    "pronunciation": "/bruːˈnaɪ.ən/",
+    "sentence": {
+      "english": "She wasn't wearing traditional Bruneian clothing.",
+      "spanish": "Ella no llevaba ropa tradicional bruneana."
+    }
+  },
+  {
+    "spanish": "Búlgaro",
+    "english": "Bulgarian",
+    "pronunciation": "/bʌlˈɡeə.ri.ən/",
+    "sentence": {
+      "english": "Are they learning Bulgarian for their move to Sofia?",
+      "spanish": "¿Aprenden búlgaro para su mudanza a Sofía?"
+    }
+  },
+  {
+    "spanish": "Burkinés",
+    "english": "Burkinabé",
+    "pronunciation": "/bɜːˌkiː.nəˈbeɪ/",
+    "sentence": {
+      "english": "He isn't familiar with Burkinabé customs.",
+      "spanish": "Él no está familiarizado con las costumbres burkinesas."
+    }
+  },
+  {
+    "spanish": "Burundés",
+    "english": "Burundian",
+    "pronunciation": "/bəˈrʊn.di.ən/",
+    "sentence": {
+      "english": "Were they drinking Burundian coffee every morning?",
+      "spanish": "¿Bebían café burundés cada mañana?"
+    }
+  },
+  {
+    "spanish": "Camboyano",
+    "english": "Cambodian",
+    "pronunciation": "/kæmˈbəʊ.di.ən/",
+    "sentence": {
+      "english": "She is studying Cambodian history at university.",
+      "spanish": "Ella estudia historia camboyana en la universidad."
+    }
+  },
+  {
+    "spanish": "Camerunés",
+    "english": "Cameroonian",
+    "pronunciation": "/ˌkæm.əˈruː.ni.ən/",
+    "sentence": {
+      "english": "Does he play Cameroonian music in his band?",
+      "spanish": "¿Toca él música camerunesa en su banda?"
+    }
+  },
+  {
+    "spanish": "Canadiense",
+    "english": "Canadian",
+    "pronunciation": "/kəˈneɪ.di.ən/",
+    "sentence": {
+      "english": "They weren't celebrating Canadian Thanksgiving.",
+      "spanish": "Ellos no celebraban el Día de Acción de Gracias canadiense."
+    }
+  },
+  {
+    "spanish": "Caboverdiano",
+    "english": "Cape Verdean",
+    "pronunciation": "/ˌkeɪp vɜːˈdiː.ən/",
+    "sentence": {
+      "english": "Are you listening to Cape Verdean morna music?",
+      "spanish": "¿Escuchas música caboverdiana de morna?"
+    }
+  },
+  {
+    "spanish": "Centroafricano",
+    "english": "Central African",
+    "pronunciation": "/ˌsen.trəl ˈæf.rɪ.kən/",
+    "sentence": {
+      "english": "He isn't studying Central African rainforest conservation.",
+      "spanish": "Él no estudia la conservación de la selva centroafricana."
+    }
+  },
+  {
+    "spanish": "Chadiano",
+    "english": "Chadian",
+    "pronunciation": "/ˈtʃæd.i.ən/",
+    "sentence": {
+      "english": "Was she researching Chadian desert ecosystems?",
+      "spanish": "¿Investigaba ella los ecosistemas desérticos chadianos?"
+    }
+  },
+  {
+    "spanish": "Chileno",
+    "english": "Chilean",
+    "pronunciation": "/ˈtʃɪl.i.ən/",
+    "sentence": {
+      "english": "They are drinking Chilean wine with their meal.",
+      "spanish": "Ellos beben vino chileno con su comida."
+    }
+  },
+  {
+    "spanish": "Chino",
+    "english": "Chinese",
+    "pronunciation": "/ˌtʃaɪˈniːz/",
+    "sentence": {
+      "english": "Does he practice Chinese calligraphy every day?",
+      "spanish": "¿Practica él caligrafía china cada día?"
+    }
+  },
+  {
+    "spanish": "Colombiano",
+    "english": "Colombian",
+    "pronunciation": "/kəˈlɒm.bi.ən/",
+    "sentence": {
+      "english": "She wasn't dancing Colombian cumbia at the party.",
+      "spanish": "Ella no bailaba cumbia colombiana en la fiesta."
+    }
+  },
+  {
+    "spanish": "Comorense",
+    "english": "Comoran",
+    "pronunciation": "/ˈkɒm.ər.ən/",
+    "sentence": {
+      "english": "Are they studying Comoran marine biodiversity?",
+      "spanish": "¿Estudian la biodiversidad marina comorense?"
+    }
+  },
+  {
+    "spanish": "Congoleño",
+    "english": "Congolese",
+    "pronunciation": "/ˌkɒŋ.ɡəˈliːz/",
+    "sentence": {
+      "english": "He isn't familiar with Congolese rumba music.",
+      "spanish": "Él no está familiarizado con la música de rumba congoleña."
+    }
+  },
+  {
+    "spanish": "Costarricense",
+    "english": "Costa Rican",
+    "pronunciation": "/ˌkɒs.tə ˈriː.kən/",
+    "sentence": {
+      "english": "Were they drinking Costa Rican coffee every morning?",
+      "spanish": "¿Bebían café costarricense cada mañana?"
+    }
+  },
+  {
+    "spanish": "Croata",
+    "english": "Croatian",
+    "pronunciation": "/krəʊˈeɪ.ʃən/",
+    "sentence": {
+      "english": "She is learning Croatian for her holiday in Dubrovnik.",
+      "spanish": "Ella aprende croata para sus vacaciones en Dubrovnik."
+    }
+  },
+  {
+    "spanish": "Cubano",
+    "english": "Cuban",
+    "pronunciation": "/ˈkjuː.bən/",
+    "sentence": {
+      "english": "Does he dance Cuban salsa at the club?",
+      "spanish": "¿Baila él salsa cubana en el club?"
+    }
+  },
+  {
+    "spanish": "Chipriota",
+    "english": "Cypriot",
+    "pronunciation": "/ˈsɪp.ri.ət/",
+    "sentence": {
+      "english": "They weren't eating Cypriot halloumi cheese.",
+      "spanish": "Ellos no comían queso chipriota halloumi."
+    }
+  },
+  {
+    "spanish": "Checo",
+    "english": "Czech",
+    "pronunciation": "/tʃek/",
+    "sentence": {
+      "english": "Are you visiting Czech castles this summer?",
+      "spanish": "¿Visitas castillos checos este verano?"
+    }
+  },
+  {
+    "spanish": "Danés",
+    "english": "Danish",
+    "pronunciation": "/ˈdeɪ.nɪʃ/",
+    "sentence": {
+      "english": "He isn't eating Danish pastries for breakfast.",
+      "spanish": "Él no come pasteles daneses para el desayuno."
+    }
+  },
+  {
+    "spanish": "Yibutiano",
+    "english": "Djiboutian",
+    "pronunciation": "/dʒɪˈbuː.ʃən/",
+    "sentence": {
+      "english": "Was she studying Djiboutian port economics?",
+      "spanish": "¿Estudiaba ella economía portuaria yibutiana?"
+    }
+  },
+  {
+    "spanish": "Dominicano",
+    "english": "Dominican",
+    "pronunciation": "/dəˈmɪn.ɪ.kən/",
+    "sentence": {
+      "english": "They are playing Dominican merengue music.",
+      "spanish": "Ellos tocan música merengue dominicana."
+    }
+  },
+  {
+    "spanish": "Neerlandés",
+    "english": "Dutch",
+    "pronunciation": "/dʌtʃ/",
+    "sentence": {
+      "english": "Does he ride a Dutch bicycle to work?",
+      "spanish": "¿Monta él una bicicleta neerlandesa al trabajo?"
+    }
+  },
+  {
+    "spanish": "Timorense",
+    "english": "East Timorese",
+    "pronunciation": "/ˌiːst ˌtiː.mɔːˈriːz/",
+    "sentence": {
+      "english": "She wasn't studying East Timorese independence movements.",
+      "spanish": "Ella no estudiaba movimientos independentistas timorenses."
+    }
+  },
+  {
+    "spanish": "Ecuatoriano",
+    "english": "Ecuadorean",
+    "pronunciation": "/ˌek.wəˈdɔː.ri.ən/",
+    "sentence": {
+      "english": "Are they eating Ecuadorean ceviche on the coast?",
+      "spanish": "¿Comen ceviche ecuatoriano en la costa?"
+    }
+  },
+  {
+    "spanish": "Egipcio",
+    "english": "Egyptian",
+    "pronunciation": "/ɪˈdʒɪp.ʃən/",
+    "sentence": {
+      "english": "He isn't visiting Egyptian pyramids this year.",
+      "spanish": "Él no visita pirámides egipcias este año."
+    }
+  },
+  {
+    "spanish": "Emiratí",
+    "english": "Emirati",
+    "pronunciation": "/ˌem.ɪˈrɑː.ti/",
+    "sentence": {
+      "english": "Were they learning about Emirati traditions?",
+      "spanish": "¿Aprendían sobre tradiciones emiratíes?"
+    }
+  },
+  {
+    "spanish": "Inglés",
+    "english": "English",
+    "pronunciation": "/ˈɪŋ.ɡlɪʃ/",
+    "sentence": {
+      "english": "She is drinking English tea with milk.",
+      "spanish": "Ella bebe té inglés con leche."
+    }
+  },
+  {
+    "spanish": "Ecuatoguineano",
+    "english": "Equatorial Guinean",
+    "pronunciation": "/ˌek.wəˌtɔː.ri.əl ˈɡɪn.i.ən/",
+    "sentence": {
+      "english": "Does he study Equatorial Guinean oil production?",
+      "spanish": "¿Estudia él la producción petrolera ecuatoguineana?"
+    }
+  },
+  {
+    "spanish": "Eritreo",
+    "english": "Eritrean",
+    "pronunciation": "/ˌer.ɪˈtreɪ.ən/",
+    "sentence": {
+      "english": "They weren't eating Eritrean injera bread.",
+      "spanish": "Ellos no comían pan eritreo injera."
+    }
+  },
+  {
+    "spanish": "Estonio",
+    "english": "Estonian",
+    "pronunciation": "/esˈtəʊ.ni.ən/",
+    "sentence": {
+      "english": "Are you learning Estonian for your business trip?",
+      "spanish": "¿Aprendes estonio para tu viaje de negocios?"
+    }
+  },
+  {
+    "spanish": "Etíope",
+    "english": "Ethiopian",
+    "pronunciation": "/ˌiː.θiˈəʊ.pi.ən/",
+    "sentence": {
+      "english": "He isn't drinking Ethiopian coffee traditionally.",
+      "spanish": "Él no bebe café etíope tradicionalmente."
+    }
+  },
+  {
+    "spanish": "Fiyiano",
+    "english": "Fijian",
+    "pronunciation": "/ˈfiː.dʒi.ən/",
+    "sentence": {
+      "english": "Was she performing Fijian meke dances?",
+      "spanish": "¿Interpretaba ella danzas fiyianas meke?"
+    }
+  },
+  {
+    "spanish": "Filipino",
+    "english": "Filipino",
+    "pronunciation": "/ˌfɪl.ɪˈpiː.nəʊ/",
+    "sentence": {
+      "english": "They are cooking Filipino adobo for dinner.",
+      "spanish": "Ellos cocinan adobo filipino para la cena."
+    }
+  },
+  {
+    "spanish": "Finlandés",
+    "english": "Finnish",
+    "pronunciation": "/ˈfɪn.ɪʃ/",
+    "sentence": {
+      "english": "Does he enjoy Finnish sauna culture?",
+      "spanish": "¿Disfruta él de la cultura finesa de la sauna?"
+    }
+  },
+  {
+    "spanish": "Francés",
+    "english": "French",
+    "pronunciation": "/frentʃ/",
+    "sentence": {
+      "english": "She wasn't eating French croissants for breakfast.",
+      "spanish": "Ella no comía croissants franceses para el desayuno."
+    }
+  },
+  {
+    "spanish": "Gabonés",
+    "english": "Gabonese",
+    "pronunciation": "/ˌɡæb.əˈniːz/",
+    "sentence": {
+      "english": "Are they studying Gabonese rainforest conservation?",
+      "spanish": "¿Estudian la conservación de la selva gabonesa?"
+    }
+  },
+  {
+    "spanish": "Gambiano",
+    "english": "Gambian",
+    "pronunciation": "/ˈɡæm.bi.ən/",
+    "sentence": {
+      "english": "He isn't familiar with Gambian traditional music.",
+      "spanish": "Él no está familiarizado con la música tradicional gambiana."
+    }
+  },
+  {
+    "spanish": "Georgiano",
+    "english": "Georgian",
+    "pronunciation": "/ˈdʒɔː.dʒən/",
+    "sentence": {
+      "english": "Were they drinking Georgian wine from qvevri?",
+      "spanish": "¿Bebían vino georgiano de qvevri?"
+    }
+  },
+  {
+    "spanish": "Alemán",
+    "english": "German",
+    "pronunciation": "/ˈdʒɜː.mən/",
+    "sentence": {
+      "english": "She is learning German for her studies in Berlin.",
+      "spanish": "Ella aprende alemán para sus estudios en Berlín."
+    }
+  },
+  {
+    "spanish": "Ghanés",
+    "english": "Ghanaian",
+    "pronunciation": "/ɡɑːˈneɪ.ən/",
+    "sentence": {
+      "english": "Does he eat Ghanaian jollof rice often?",
+      "spanish": "¿Come él arroz jollof ghanés a menudo?"
+    }
+  },
+  {
+    "spanish": "Griego",
+    "english": "Greek",
+    "pronunciation": "/ɡriːk/",
+    "sentence": {
+      "english": "They weren't studying Greek philosophy in Athens.",
+      "spanish": "Ellos no estudiaban filosofía griega en Atenas."
+    }
+  },
+  {
+    "spanish": "Granadino",
+    "english": "Grenadian",
+    "pronunciation": "/ɡrəˈneɪ.di.ən/",
+    "sentence": {
+      "english": "Are you celebrating Grenadian spice festivals?",
+      "spanish": "¿Celebras festivales de especias granadinos?"
+    }
+  },
+  {
+    "spanish": "Guatemalteco",
+    "english": "Guatemalan",
+    "pronunciation": "/ˌɡwɑː.təˈmɑː.lən/",
+    "sentence": {
+      "english": "He isn't drinking Guatemalan coffee every day.",
+      "spanish": "Él no bebe café guatemalteco todos los días."
+    }
+  },
+  {
+    "spanish": "Guineano",
+    "english": "Guinean",
+    "pronunciation": "/ˈɡɪn.i.ən/",
+    "sentence": {
+      "english": "Was she studying Guinean mining industries?",
+      "spanish": "¿Estudiaba ella las industrias mineras guineanas?"
+    }
+  },
+  {
+    "spanish": "Guyanés",
+    "english": "Guyanese",
+    "pronunciation": "/ˌɡaɪ.əˈniːz/",
+    "sentence": {
+      "english": "They are cooking Guyanese pepperpot for Christmas.",
+      "spanish": "Ellos cocinan pepperpot guyanés para Navidad."
+    }
+  },
+  {
+    "spanish": "Haitiano",
+    "english": "Haitian",
+    "pronunciation": "/ˈheɪ.ʃən/",
+    "sentence": {
+      "english": "Does he speak Haitian Creole with his family?",
+      "spanish": "¿Habla él criollo haitiano con su familia?"
+    }
+  },
+  {
+    "spanish": "Hondureño",
+    "english": "Honduran",
+    "pronunciation": "/hɒnˈdjʊə.rən/",
+    "sentence": {
+      "english": "She wasn't eating Honduran baleadas for breakfast.",
+      "spanish": "Ella no comía baleadas hondureñas para el desayuno."
+    }
+  },
+  {
+    "spanish": "Húngaro",
+    "english": "Hungarian",
+    "pronunciation": "/hʌŋˈɡeə.ri.ən/",
+    "sentence": {
+      "english": "Are they learning Hungarian for their move to Budapest?",
+      "spanish": "¿Aprenden húngaro para su mudanza a Budapest?"
+    }
+  },
+  {
+    "spanish": "Islandés",
+    "english": "Icelandic",
+    "pronunciation": "/aɪsˈlæn.dɪk/",
+    "sentence": {
+      "english": "He isn't trying Icelandic hákarl (fermented shark).",
+      "spanish": "Él no prueba el hákarl islandés (tiburón fermentado)."
+    }
+  },
+  {
+    "spanish": "Indio",
+    "english": "Indian",
+    "pronunciation": "/ˈɪn.di.ən/",
+    "sentence": {
+      "english": "Were they practicing Indian yoga every morning?",
+      "spanish": "¿Practicaban yoga indio cada mañana?"
+    }
+  },
+  {
+    "spanish": "Indonesio",
+    "english": "Indonesian",
+    "pronunciation": "/ˌɪn.dəˈniː.ʒən/",
+    "sentence": {
+      "english": "She is learning Indonesian for her business trip.",
+      "spanish": "Ella aprende indonesio para su viaje de negocios."
+    }
+  },
+  {
+    "spanish": "Iraní",
+    "english": "Iranian",
+    "pronunciation": "/ɪˈreɪ.ni.ən/",
+    "sentence": {
+      "english": "Does he study Iranian poetry and literature?",
+      "spanish": "¿Estudia él poesía y literatura iraní?"
+    }
+  },
+  {
+    "spanish": "Iraquí",
+    "english": "Iraqi",
+    "pronunciation": "/ɪˈrɑː.ki/",
+    "sentence": {
+      "english": "They weren't eating Iraqi masgouf fish.",
+      "spanish": "Ellos no comían pescado masgouf iraquí."
+    }
+  },
+  {
+    "spanish": "Irlandés",
+    "english": "Irish",
+    "pronunciation": "/ˈaɪə.rɪʃ/",
+    "sentence": {
+      "english": "Are you drinking Irish Guinness at the pub?",
+      "spanish": "¿Bebes Guinness irlandés en el pub?"
+    }
+  },
+  {
+    "spanish": "Israelí",
+    "english": "Israeli",
+    "pronunciation": "/ɪzˈreɪ.li/",
+    "sentence": {
+      "english": "He isn't familiar with Israeli startup culture.",
+      "spanish": "Él no está familiarizado con la cultura israelí de startups."
+    }
+  },
+  {
+    "spanish": "Italiano",
+    "english": "Italian",
+    "pronunciation": "/ɪˈtæl.i.ən/",
+    "sentence": {
+      "english": "Was she cooking Italian pasta from scratch?",
+      "spanish": "¿Cocinaba ella pasta italiana desde cero?"
+    }
+  },
+  {
+    "spanish": "Marfileño",
+    "english": "Ivorian",
+    "pronunciation": "/aɪˈvɔː.ri.ən/",
+    "sentence": {
+      "english": "They are studying Ivorian cocoa production.",
+      "spanish": "Ellos estudian la producción de cacao marfileña."
+    }
+  },
+  {
+    "spanish": "Jamaicano",
+    "english": "Jamaican",
+    "pronunciation": "/dʒəˈmeɪ.kən/",
+    "sentence": {
+      "english": "Does he listen to Jamaican reggae music daily?",
+      "spanish": "¿Escucha él música reggae jamaicana a diario?"
+    }
+  },
+  {
+    "spanish": "Japonés",
+    "english": "Japanese",
+    "pronunciation": "/ˌdʒæp.əˈniːz/",
+    "sentence": {
+      "english": "She wasn't practicing Japanese tea ceremony.",
+      "spanish": "Ella no practicaba la ceremonia japonesa del té."
+    }
+  },
+  {
+    "spanish": "Jordano",
+    "english": "Jordanian",
+    "pronunciation": "/dʒɔːˈdeɪ.ni.ən/",
+    "sentence": {
+      "english": "Are they exploring Jordanian archaeological sites?",
+      "spanish": "¿Exploran sitios arqueológicos jordanos?"
+    }
+  },
+  {
+    "spanish": "Kazajo",
+    "english": "Kazakh",
+    "pronunciation": "/kəˈzæk/",
+    "sentence": {
+      "english": "He isn't eating Kazakh beshbarmak regularly.",
+      "spanish": "Él no come beshbarmak kazajo regularmente."
+    }
+  },
+  {
+    "spanish": "Keniata",
+    "english": "Kenyan",
+    "pronunciation": "/ˈken.jən/",
+    "sentence": {
+      "english": "Were they drinking Kenyan tea every afternoon?",
+      "spanish": "¿Bebían té keniata cada tarde?"
+    }
+  },
+  {
+    "spanish": "Coreano",
+    "english": "Korean",
+    "pronunciation": "/kəˈri.ən/",
+    "sentence": {
+      "english": "She is learning Korean for her K-pop fan meetings.",
+      "spanish": "Ella aprende coreano para sus reuniones de fans de K-pop."
+    }
+  },
+  {
+    "spanish": "Kosovar",
+    "english": "Kosovar",
+    "pronunciation": "/ˈkɒs.ə.vɑːr/",
+    "sentence": {
+      "english": "Does he study Kosovar independence history?",
+      "spanish": "¿Estudia él la historia de la independencia kosovar?"
+    }
+  },
+  {
+    "spanish": "Kuwaití",
+    "english": "Kuwaiti",
+    "pronunciation": "/kuˈweɪ.ti/",
+    "sentence": {
+      "english": "They weren't familiar with Kuwaiti diving traditions.",
+      "spanish": "Ellos no estaban familiarizados con las tradiciones de buceo kuwaitíes."
+    }
+  },
+  {
+    "spanish": "Kirguís",
+    "english": "Kyrgyz",
+    "pronunciation": "/ˈkɜː.ɡɪz/",
+    "sentence": {
+      "english": "Are you studying Kyrgyz nomadic culture?",
+      "spanish": "¿Estudias la cultura nómada kirguís?"
+    }
+  },
+  {
+    "spanish": "Laosiano",
+    "english": "Laotian",
+    "pronunciation": "/ˈlaʊ.ʃən/",
+    "sentence": {
+      "english": "He isn't eating Laotian sticky rice daily.",
+      "spanish": "Él no come arroz pegajoso laosiano diariamente."
+    }
+  },
+  {
+    "spanish": "Letón",
+    "english": "Latvian",
+    "pronunciation": "/ˈlæt.vi.ən/",
+    "sentence": {
+      "english": "Was she singing Latvian folk songs at the festival?",
+      "spanish": "¿Cantaba ella canciones folclóricas letonas en el festival?"
+    }
+  },
+  {
+    "spanish": "Libanés",
+    "english": "Lebanese",
+    "pronunciation": "/ˌleb.əˈniːz/",
+    "sentence": {
+      "english": "They are eating Lebanese mezze for lunch.",
+      "spanish": "Ellos comen mezze libanés para el almuerzo."
+    }
+  },
+  {
+    "spanish": "Liberiano",
+    "english": "Liberian",
+    "pronunciation": "/laɪˈbɪə.ri.ən/",
+    "sentence": {
+      "english": "Does he study Liberian civil war history?",
+      "spanish": "¿Estudia él la historia de la guerra civil liberiana?"
+    }
+  },
+  {
+    "spanish": "Libio",
+    "english": "Libyan",
+    "pronunciation": "/ˈlɪb.i.ən/",
+    "sentence": {
+      "english": "She wasn't researching Libyan desert archaeology.",
+      "spanish": "Ella no investigaba arqueología del desierto libio."
+    }
+  },
+  {
+    "spanish": "Liechtensteiniano",
+    "english": "Liechtensteiner",
+    "pronunciation": "/ˈlɪk.tən.staɪ.nər/",
+    "sentence": {
+      "english": "Are they visiting Liechtensteiner castles?",
+      "spanish": "¿Visitan castillos liechtensteinianos?"
+    }
+  },
+  {
+    "spanish": "Lituano",
+    "english": "Lithuanian",
+    "pronunciation": "/ˌlɪθ.juˈeɪ.ni.ən/",
+    "sentence": {
+      "english": "He isn't familiar with Lithuanian basketball culture.",
+      "spanish": "Él no está familiarizado con la cultura lituana del baloncesto."
+    }
+  },
+  {
+    "spanish": "Luxemburgués",
+    "english": "Luxembourger",
+    "pronunciation": "/ˈlʌk.səm.bɜː.ɡər/",
+    "sentence": {
+      "english": "Were they speaking Luxembourger Lëtzebuergesch?",
+      "spanish": "¿Hablaban lëtzebuergesch luxemburgués?"
+    }
+  },
+  {
+    "spanish": "Macedonio",
+    "english": "Macedonian",
+    "pronunciation": "/ˌmæs.ɪˈdəʊ.ni.ən/",
+    "sentence": {
+      "english": "She is learning Macedonian for her heritage.",
+      "spanish": "Ella aprende macedonio por su herencia."
+    }
+  },
+  {
+    "spanish": "Malgache",
+    "english": "Malagasy",
+    "pronunciation": "/ˌmæl.əˈɡæs.i/",
+    "sentence": {
+      "english": "Does he study Malagasy lemur conservation?",
+      "spanish": "¿Estudia él la conservación de lémures malgaches?"
+    }
+  },
+  {
+    "spanish": "Malauí",
+    "english": "Malawian",
+    "pronunciation": "/məˈlɑː.wi.ən/",
+    "sentence": {
+      "english": "They weren't eating Malawian nsima regularly.",
+      "spanish": "Ellos no comían nsima malauí regularmente."
+    }
+  },
+  {
+    "spanish": "Malasio",
+    "english": "Malaysian",
+    "pronunciation": "/məˈleɪ.zi.ən/",
+    "sentence": {
+      "english": "Are you enjoying Malaysian street food?",
+      "spanish": "¿Disfrutas de la comida callejera malasia?"
+    }
+  },
+  {
+    "spanish": "Maldivo",
+    "english": "Maldivian",
+    "pronunciation": "/mɒlˈdɪv.i.ən/",
+    "sentence": {
+      "english": "He isn't studying Maldivian coral reef protection.",
+      "spanish": "Él no estudia la protección de arrecifes de coral maldivos."
+    }
+  },
+  {
+    "spanish": "Maliense",
+    "english": "Malian",
+    "pronunciation": "/ˈmɑː.li.ən/",
+    "sentence": {
+      "english": "Was she researching Malian ancient manuscripts?",
+      "spanish": "¿Investigaba ella manuscritos antiguos malienses?"
+    }
+  },
+  {
+    "spanish": "Maltés",
+    "english": "Maltese",
+    "pronunciation": "/mɒlˈtiːz/",
+    "sentence": {
+      "english": "They are learning Maltese for their move to Valletta.",
+      "spanish": "Ellos aprenden maltés para su mudanza a La Valeta."
+    }
+  },
+  {
+    "spanish": "Marshalés",
+    "english": "Marshallese",
+    "pronunciation": "/ˌmɑː.ʃəlˈiːz/",
+    "sentence": {
+      "english": "Does he study Marshallese navigation techniques?",
+      "spanish": "¿Estudia él técnicas de navegación marshalesas?"
+    }
+  },
+  {
+    "spanish": "Mauritano",
+    "english": "Mauritanian",
+    "pronunciation": "/ˌmɒr.ɪˈteɪ.ni.ən/",
+    "sentence": {
+      "english": "She wasn't familiar with Mauritanian desert traditions.",
+      "spanish": "Ella no estaba familiarizada con las tradiciones desérticas mauritanas."
+    }
+  },
+  {
+    "spanish": "Mauriciano",
+    "english": "Mauritian",
+    "pronunciation": "/məˈrɪʃ.ən/",
+    "sentence": {
+      "english": "Are they enjoying Mauritian beach culture?",
+      "spanish": "¿Disfrutan de la cultura playera mauriciana?"
+    }
+  },
+  {
+    "spanish": "Mexicano",
+    "english": "Mexican",
+    "pronunciation": "/ˈmek.sɪ.kən/",
+    "sentence": {
+      "english": "He isn't eating Mexican tacos every day.",
+      "spanish": "Él no come tacos mexicanos todos los días."
+    }
+  },
+  {
+    "spanish": "Micronesio",
+    "english": "Micronesian",
+    "pronunciation": "/ˌmaɪ.krəʊˈniː.zi.ən/",
+    "sentence": {
+      "english": "Were they studying Micronesian ocean conservation?",
+      "spanish": "¿Estudiaban la conservación oceánica micronesia?"
+    }
+  },
+  {
+    "spanish": "Moldavo",
+    "english": "Moldovan",
+    "pronunciation": "/mɒlˈdəʊ.vən/",
+    "sentence": {
+      "english": "She is learning Moldovan for her family roots.",
+      "spanish": "Ella aprende moldavo por sus raíces familiares."
+    }
+  },
+  {
+    "spanish": "Monegasco",
+    "english": "Monegasque",
+    "pronunciation": "/ˌmɒn.ɪˈɡæsk/",
+    "sentence": {
+      "english": "Does he attend Monegasque Grand Prix events?",
+      "spanish": "¿Asiste él a eventos del Gran Premio monegasco?"
+    }
+  },
+  {
+    "spanish": "Mongol",
+    "english": "Mongolian",
+    "pronunciation": "/mɒŋˈɡəʊ.li.ən/",
+    "sentence": {
+      "english": "They weren't riding Mongolian horses across the steppe.",
+      "spanish": "Ellos no cabalgaban caballos mongoles por la estepa."
+    }
+  },
+  {
+    "spanish": "Montenegrino",
+    "english": "Montenegrin",
+    "pronunciation": "/ˌmɒn.tɪˈniː.ɡrɪn/",
+    "sentence": {
+      "english": "Are you hiking in Montenegrin mountains?",
+      "spanish": "¿Haces senderismo en las montañas montenegrinas?"
+    }
+  },
+  {
+    "spanish": "Marroquí",
+    "english": "Moroccan",
+    "pronunciation": "/məˈrɒk.ən/",
+    "sentence": {
+      "english": "He isn't drinking Moroccan mint tea traditionally.",
+      "spanish": "Él no bebe té de menta marroquí tradicionalmente."
+    }
+  },
+  {
+    "spanish": "Mozambiqueño",
+    "english": "Mozambican",
+    "pronunciation": "/ˌməʊ.zæmˈbiː.kən/",
+    "sentence": {
+      "english": "Was she studying Mozambican marine ecosystems?",
+      "spanish": "¿Estudiaba ella ecosistemas marinos mozambiqueños?"
+    }
+  },
+  {
+    "spanish": "Namibio",
+    "english": "Namibian",
+    "pronunciation": "/nəˈmɪb.i.ən/",
+    "sentence": {
+      "english": "They are photographing Namibian desert landscapes.",
+      "spanish": "Ellos fotografían paisajes desérticos namibios."
+    }
+  },
+  {
+    "spanish": "Nauruano",
+    "english": "Nauruan",
+    "pronunciation": "/nɑːˈruː.ən/",
+    "sentence": {
+      "english": "Does he study Nauruan phosphate mining history?",
+      "spanish": "¿Estudia él la historia de la minería de fosfato nauruana?"
+    }
+  },
+  {
+    "spanish": "Nepalí",
+    "english": "Nepalese",
+    "pronunciation": "/ˌnep.əˈliːz/",
+    "sentence": {
+      "english": "She wasn't trekking in Nepalese Himalayas.",
+      "spanish": "Ella no hacía senderismo en el Himalaya nepalí."
+    }
+  },
+  {
+    "spanish": "Neozelandés",
+    "english": "New Zealand",
+    "pronunciation": "/ˌnjuː ˈziː.lənd/",
+    "sentence": {
+      "english": "Are they watching New Zealand rugby matches?",
+      "spanish": "¿Ven partidos de rugby neozelandeses?"
+    }
+  },
+  {
+    "spanish": "Nicaragüense",
+    "english": "Nicaraguan",
+    "pronunciation": "/ˌnɪk.əˈræɡ.ju.ən/",
+    "sentence": {
+      "english": "He isn't studying Nicaraguan volcanic activity.",
+      "spanish": "Él no estudia la actividad volcánica nicaragüense."
+    }
+  },
+  {
+    "spanish": "Nigeriano",
+    "english": "Nigerian",
+    "pronunciation": "/naɪˈdʒɪə.ri.ən/",
+    "sentence": {
+      "english": "Were they listening to Nigerian Afrobeat music?",
+      "spanish": "¿Escuchaban música Afrobeat nigeriana?"
+    }
+  },
+ {
+    "spanish": "Nigerino",
+    "english": "Nigerien",
+    "pronunciation": "/niːˌʒeə.riˈen/",
+    "sentence": {
+      "english": "She is researching Nigerien desert communities.",
+      "spanish": "Ella investiga comunidades desérticas nigerinas."
+    }
+  },
+  {
+    "spanish": "Noruego",
+    "english": "Norwegian",
+    "pronunciation": "/nɔːˈwiː.dʒən/",
+    "sentence": {
+      "english": "Does he enjoy Norwegian fjord landscapes?",
+      "spanish": "¿Disfruta él de los paisajes de fiordos noruegos?"
+    }
+  },
+  {
+    "spanish": "Omaní",
+    "english": "Omani",
+    "pronunciation": "/əʊˈmɑː.ni/",
+    "sentence": {
+      "english": "They weren't studying Omani frankincense trade.",
+      "spanish": "Ellos no estudiaban el comercio de incienso omaní."
+    }
+  },
+  {
+    "spanish": "Pakistaní",
+    "english": "Pakistani",
+    "pronunciation": "/ˌpɑː.kɪˈstɑː.ni/",
+    "sentence": {
+      "english": "Are you eating Pakistani biryani regularly?",
+      "spanish": "¿Comes biryani pakistaní regularmente?"
+    }
+  },
+  {
+    "spanish": "Palauano",
+    "english": "Palauan",
+    "pronunciation": "/pəˈlaʊ.ən/",
+    "sentence": {
+      "english": "He isn't familiar with Palauan rock island traditions.",
+      "spanish": "Él no está familiarizado con las tradiciones de las islas rocosas palauanas."
+    }
+  },
+  {
+    "spanish": "Palestino",
+    "english": "Palestinian",
+    "pronunciation": "/ˌpæl.əˈstɪn.i.ən/",
+    "sentence": {
+      "english": "Was she cooking Palestinian maqluba for her family?",
+      "spanish": "¿Cocinaba ella maqluba palestina para su familia?"
+    }
+  },
+  {
+    "spanish": "Panameño",
+    "english": "Panamanian",
+    "pronunciation": "/ˌpæn.əˈmeɪ.ni.ən/",
+    "sentence": {
+      "english": "They are studying Panamanian canal operations.",
+      "spanish": "Ellos estudian las operaciones del canal panameño."
+    }
+  },
+  {
+    "spanish": "Papú",
+    "english": "Papua New Guinean",
+    "pronunciation": "/ˌpæp.u.ə ˌnjuː ˈɡɪn.i.ən/",
+    "sentence": {
+      "english": "Does he research Papua New Guinean tribal cultures?",
+      "spanish": "¿Investiga él culturas tribales papúes?"
+    }
+  },
+  {
+    "spanish": "Paraguayo",
+    "english": "Paraguayan",
+    "pronunciation": "/ˌpær.əˈɡwaɪ.ən/",
+    "sentence": {
+      "english": "She wasn't drinking Paraguayan tereré in the heat.",
+      "spanish": "Ella no bebía tereré paraguayo en el calor."
+    }
+  },
+  {
+    "spanish": "Peruano",
+    "english": "Peruvian",
+    "pronunciation": "/pəˈruː.vi.ən/",
+    "sentence": {
+      "english": "Are they exploring Peruvian archaeological sites?",
+      "spanish": "¿Exploran sitios arqueológicos peruanos?"
+    }
+  },
+  {
+    "spanish": "Polaco",
+    "english": "Polish",
+    "pronunciation": "/ˈpəʊ.lɪʃ/",
+    "sentence": {
+      "english": "He isn't eating Polish pierogi every week.",
+      "spanish": "Él no come pierogi polaco cada semana."
+    }
+  },
+  {
+    "spanish": "Portugués",
+    "english": "Portuguese",
+    "pronunciation": "/ˌpɔː.tʃəˈɡiːz/",
+    "sentence": {
+      "english": "Were they listening to Portuguese fado music?",
+      "spanish": "¿Escuchaban música de fado portuguesa?"
+    }
+  },
+  {
+    "spanish": "Catarí",
+    "english": "Qatari",
+    "pronunciation": "/kəˈtɑː.ri/",
+    "sentence": {
+      "english": "She is studying Qatari economic development.",
+      "spanish": "Ella estudia el desarrollo económico catarí."
+    }
+  },
+  {
+    "spanish": "Rumano",
+    "english": "Romanian",
+    "pronunciation": "/rəˈmeɪ.ni.ən/",
+    "sentence": {
+      "english": "Does he visit Romanian castles often?",
+      "spanish": "¿Visita castillos rumanos a menudo?"
+    }
+  },
+  {
+    "spanish": "Ruso",
+    "english": "Russian",
+    "pronunciation": "/ˈrʌʃ.ən/",
+    "sentence": {
+      "english": "They weren't reading Russian literature in original.",
+      "spanish": "Ellos no leían literatura rusa en original."
+    }
+  },
+  {
+    "spanish": "Ruandés",
+    "english": "Rwandan",
+    "pronunciation": "/ruˈæn.dən/",
+    "sentence": {
+      "english": "Are you studying Rwandan coffee production?",
+      "spanish": "¿Estudias la producción de café ruandés?"
+    }
+  },
+  {
+    "spanish": "Santalucense",
+    "english": "Saint Lucian",
+    "pronunciation": "/seɪnt ˈluː.ʃən/",
+    "sentence": {
+      "english": "He isn't familiar with Saint Lucian jazz festivals.",
+      "spanish": "Él no está familiarizado con los festivales de jazz santalucenses."
+    }
+  },
+  {
+    "spanish": "Salvadoreño",
+    "english": "Salvadoran",
+    "pronunciation": "/ˌsæl.vəˈdɔː.rən/",
+    "sentence": {
+      "english": "Was she eating Salvadoran pupusas regularly?",
+      "spanish": "¿Comía ella pupusas salvadoreñas regularmente?"
+    }
+  },
+  {
+    "spanish": "Sanmarinense",
+    "english": "Sammarinese",
+    "pronunciation": "/ˌsæm.mær.ɪˈniːz/",
+    "sentence": {
+      "english": "They are visiting Sammarinese historic sites.",
+      "spanish": "Ellos visitan sitios históricos sanmarinenses."
+    }
+  },
+  {
+    "spanish": "Santomense",
+    "english": "Sao Tomean",
+    "pronunciation": "/ˌsaʊ təʊˈmi.ən/",
+    "sentence": {
+      "english": "Does he study Sao Tomean cocoa farming?",
+      "spanish": "¿Estudia él el cultivo de cacao santomense?"
+    }
+  },
+  {
+    "spanish": "Saudí",
+    "english": "Saudi",
+    "pronunciation": "/ˈsaʊ.di/",
+    "sentence": {
+      "english": "She wasn't researching Saudi oil industry history.",
+      "spanish": "Ella no investigaba la historia de la industria petrolera saudí."
+    }
+  },
+  {
+    "spanish": "Escocés",
+    "english": "Scottish",
+    "pronunciation": "/ˈskɒt.ɪʃ/",
+    "sentence": {
+      "english": "Are they watching Scottish Highland games?",
+      "spanish": "¿Ven juegos de las Tierras Altas escocesas?"
+    }
+  },
+  {
+    "spanish": "Senegalés",
+    "english": "Senegalese",
+    "pronunciation": "/ˌsen.ɪ.ɡəˈliːz/",
+    "sentence": {
+      "english": "He isn't eating Senegalese thieboudienne often.",
+      "spanish": "Él no come thieboudienne senegalés a menudo."
+    }
+  },
+  {
+    "spanish": "Serbio",
+    "english": "Serbian",
+    "pronunciation": "/ˈsɜː.bi.ən/",
+    "sentence": {
+      "english": "Were they learning Serbian Cyrillic alphabet?",
+      "spanish": "¿Aprendían el alfabeto cirílico serbio?"
+    }
+  },
+  {
+    "spanish": "Seychelense",
+    "english": "Seychellois",
+    "pronunciation": "/seɪˈʃel.wɑː/",
+    "sentence": {
+      "english": "She is studying Seychellois marine conservation.",
+      "spanish": "Ella estudia la conservación marina seychelense."
+    }
+  },
+  {
+    "spanish": "Sierraleonés",
+    "english": "Sierra Leonean",
+    "pronunciation": "/siˌer.ə liˈəʊ.ni.ən/",
+    "sentence": {
+      "english": "Does he research Sierra Leonean diamond mining?",
+      "spanish": "¿Investiga él la minería de diamantes sierraleonesa?"
+    }
+  },
+  {
+    "spanish": "Singapurense",
+    "english": "Singaporean",
+    "pronunciation": "/ˌsɪŋ.əˈpɔː.ri.ən/",
+    "sentence": {
+      "english": "They weren't eating Singaporean hawker food daily.",
+      "spanish": "Ellos no comían comida de puestos callejeros singapurense a diario."
+    }
+  },
+  {
+    "spanish": "Eslovaco",
+    "english": "Slovak",
+    "pronunciation": "/ˈsləʊ.væk/",
+    "sentence": {
+      "english": "Are you visiting Slovak castle ruins?",
+      "spanish": "¿Visitas ruinas de castillos eslovacos?"
+    }
+  },
+  {
+    "spanish": "Esloveno",
+    "english": "Slovenian",
+    "pronunciation": "/sləˈviː.ni.ən/",
+    "sentence": {
+      "english": "He isn't hiking in Slovenian mountains regularly.",
+      "spanish": "Él no hace senderismo en las montañas eslovenas regularmente."
+    }
+  },
+  {
+    "spanish": "Salomonense",
+    "english": "Solomon Islander",
+    "pronunciation": "/ˈsɒl.ə.mən ˈaɪ.lən.dər/",
+    "sentence": {
+      "english": "Was she studying Solomon Islander canoe traditions?",
+      "spanish": "¿Estudiaba ella las tradiciones de canoas salomonenses?"
+    }
+  },
+  {
+    "spanish": "Somalí",
+    "english": "Somali",
+    "pronunciation": "/səˈmɑː.li/",
+    "sentence": {
+      "english": "They are researching Somali coastal ecosystems.",
+      "spanish": "Ellos investigan ecosistemas costeros somalíes."
+    }
+  },
+  {
+    "spanish": "Sudafricano",
+    "english": "South African",
+    "pronunciation": "/ˌsaʊθ ˈæf.rɪ.kən/",
+    "sentence": {
+      "english": "Does he enjoy South African wine tours?",
+      "spanish": "¿Disfruta él de las rutas del vino sudafricanas?"
+    }
+  },
+  {
+    "spanish": "Sursudanés",
+    "english": "South Sudanese",
+    "pronunciation": "/ˌsaʊθ suːˈdɑː.niːz/",
+    "sentence": {
+      "english": "She wasn't familiar with South Sudanese traditions.",
+      "spanish": "Ella no estaba familiarizada con las tradiciones sursudanesas."
+    }
+  },
+  {
+    "spanish": "Español",
+    "english": "Spanish",
+    "pronunciation": "/ˈspæn.ɪʃ/",
+    "sentence": {
+      "english": "Are they learning Spanish for their holiday?",
+      "spanish": "¿Aprenden español para sus vacaciones?"
+    }
+  },
+  {
+    "spanish": "Ceilanés",
+    "english": "Sri Lankan",
+    "pronunciation": "/sriː ˈlæŋ.kən/",
+    "sentence": {
+      "english": "He isn't drinking Sri Lankan tea every morning.",
+      "spanish": "Él no bebe té ceilánés cada mañana."
+    }
+  },
+  {
+    "spanish": "Sudanés",
+    "english": "Sudanese",
+    "pronunciation": "/suː.dəˈniːz/",
+    "sentence": {
+      "english": "Were they studying Sudanese ancient civilizations?",
+      "spanish": "¿Estudiaban civilizaciones antiguas sudanesas?"
+    }
+  },
+  {
+    "spanish": "Surinamés",
+    "english": "Surinamese",
+    "pronunciation": "/ˌsʊə.rɪ.nəˈmiːz/",
+    "sentence": {
+      "english": "She is researching Surinamese cultural diversity.",
+      "spanish": "Ella investiga la diversidad cultural surinamesa."
+    }
+  },
+  {
+    "spanish": "Suazi",
+    "english": "Swazi",
+    "pronunciation": "/ˈswɑː.zi/",
+    "sentence": {
+      "english": "Does he study Swazi traditional ceremonies?",
+      "spanish": "¿Estudia él ceremonias tradicionales suazis?"
+    }
+  },
+  {
+    "spanish": "Sueco",
+    "english": "Swedish",
+    "pronunciation": "/ˈswiː.dɪʃ/",
+    "sentence": {
+      "english": "They weren't celebrating Swedish Midsummer festival.",
+      "spanish": "Ellos no celebraban el festival sueco de Midsommar."
+    }
+  },
+  {
+    "spanish": "Suizo",
+    "english": "Swiss",
+    "pronunciation": "/swɪs/",
+    "sentence": {
+      "english": "Are you eating Swiss chocolate regularly?",
+      "spanish": "¿Comes chocolate suizo regularmente?"
+    }
+  },
+  {
+    "spanish": "Sirio",
+    "english": "Syrian",
+    "pronunciation": "/ˈsɪr.i.ən/",
+    "sentence": {
+      "english": "He isn't familiar with Syrian ancient history.",
+      "spanish": "Él no está familiarizado con la historia antigua siria."
+    }
+  },
+  {
+    "spanish": "Taiwanés",
+    "english": "Taiwanese",
+    "pronunciation": "/ˌtaɪ.wəˈniːz/",
+    "sentence": {
+      "english": "Was she eating Taiwanese night market food?",
+      "spanish": "¿Comía ella comida de mercados nocturnos taiwaneses?"
+    }
+  },
+  {
+    "spanish": "Tayiko",
+    "english": "Tajik",
+    "pronunciation": "/ˈtɑː.dʒɪk/",
+    "sentence": {
+      "english": "They are studying Tajik mountain cultures.",
+      "spanish": "Ellos estudian culturas montañesas tayikas."
+    }
+  },
+  {
+    "spanish": "Tanzano",
+    "english": "Tanzanian",
+    "pronunciation": "/ˌtæn.zəˈni.ən/",
+    "sentence": {
+      "english": "Does he research Tanzanian wildlife conservation?",
+      "spanish": "¿Investiga él la conservación de vida silvestre tanzana?"
+    }
+  },
+  {
+    "spanish": "Tailandés",
+    "english": "Thai",
+    "pronunciation": "/taɪ/",
+    "sentence": {
+      "english": "She wasn't cooking Thai green curry often.",
+      "spanish": "Ella no cocinaba curry verde tailandés a menudo."
+    }
+  },
+  {
+    "spanish": "Togolés",
+    "english": "Togolese",
+    "pronunciation": "/ˌtəʊ.ɡəˈliːz/",
+    "sentence": {
+      "english": "Are they studying Togolese voodoo traditions?",
+      "spanish": "¿Estudian tradiciones vudú togolesas?"
+    }
+  },
+  {
+    "spanish": "Tongano",
+    "english": "Tongan",
+    "pronunciation": "/ˈtɒŋ.ən/",
+    "sentence": {
+      "english": "He isn't familiar with Tongan royal ceremonies.",
+      "spanish": "Él no está familiarizado con las ceremonias reales tonganas."
+    }
+  },
+  {
+    "spanish": "Trinitense",
+    "english": "Trinidadian",
+    "pronunciation": "/ˌtrɪn.ɪˈdeɪ.di.ən/",
+    "sentence": {
+      "english": "Were they playing Trinidadian steelpan music?",
+      "spanish": "¿Tocaban música de steelpan trinitense?"
+    }
+  },
+  {
+    "spanish": "Tunecino",
+    "english": "Tunisian",
+    "pronunciation": "/tjuːˈnɪz.i.ən/",
+    "sentence": {
+      "english": "She is studying Tunisian Mediterranean cuisine.",
+      "spanish": "Ella estudia la cocina mediterránea tunecina."
+    }
+  },
+  {
+    "spanish": "Turco",
+    "english": "Turkish",
+    "pronunciation": "/ˈtɜː.kɪʃ/",
+    "sentence": {
+      "english": "Does he drink Turkish coffee every day?",
+      "spanish": "¿Bebe café turco cada día?"
+    }
+  },
+  {
+    "spanish": "Turcomano",
+    "english": "Turkmen",
+    "pronunciation": "/ˈtɜːk.mən/",
+    "sentence": {
+      "english": "They weren't researching Turkmen carpet weaving.",
+      "spanish": "Ellos no investigaban el tejido de alfombras turcomanas."
+    }
+  },
+  {
+    "spanish": "Tuvaluano",
+    "english": "Tuvaluan",
+    "pronunciation": /ˌtuː.vəˈluː.ən/,
+    "sentence": {
+      "english": "Are you studying Tuvaluan climate change issues?",
+      "spanish": "¿Estudias problemas de cambio climático tuvaluanos?"
+    }
+  },
+  {
+    "spanish": "Ugandés",
+    "english": "Ugandan",
+    "pronunciation": "/juːˈɡæn.dən/",
+    "sentence": {
+      "english": "He isn't familiar with Ugandan traditional dances.",
+      "spanish": "Él no está familiarizado con las danzas tradicionales ugandesas."
+    }
+  },
+  {
+    "spanish": "Ucraniano",
+    "english": "Ukrainian",
+    "pronunciation": "/juːˈkreɪ.ni.ən/",
+    "sentence": {
+      "english": "Was she cooking Ukrainian borscht regularly?",
+      "spanish": "¿Cocinaba ella borscht ucraniano regularmente?"
+    }
+  },
+ 
+  {
+    "spanish": "Uruguayo",
+    "english": "Uruguayan",
+    "pronunciation": "/ˌjʊə.rəˈɡwaɪ.ən/",
+    "sentence": {
+      "english": "Does he eat Uruguayan asado on weekends?",
+      "spanish": "¿Come asado uruguayo los fines de semana?"
+    }
+  },
+  {
+    "spanish": "Uzbeko",
+    "english": "Uzbek",
+    "pronunciation": "/ˈʊz.bek/",
+    "sentence": {
+      "english": "She wasn't studying Uzbek silk road history.",
+      "spanish": "Ella no estudiaba la historia de la ruta de la seda uzbeka."
+    }
+  },
+  {
+    "spanish": "Vanuatuense",
+    "english": "Vanuatuan",
+    "pronunciation": "/ˌvæn.uːˈɑː.tu.ən/",
+    "sentence": {
+      "english": "Are they researching Vanuatuan volcano activity?",
+      "spanish": "¿Investigan la actividad volcánica vanuatuense?"
+    }
+  },
+  {
+    "spanish": "Venezolano",
+    "english": "Venezuelan",
+    "pronunciation": "/ˌven.ɪˈzweɪ.lən/",
+    "sentence": {
+      "english": "He isn't familiar with Venezuelan musical traditions.",
+      "spanish": "Él no está familiarizado con las tradiciones musicales venezolanas."
+    }
+  },
+  {
+    "spanish": "Vietnamita",
+    "english": "Vietnamese",
+    "pronunciation": "/ˌvjet.nəˈmiːz/",
+    "sentence": {
+      "english": "Were they eating Vietnamese pho regularly?",
+      "spanish": "¿Comían pho vietnamita regularmente?"
+    }
+  },
+  {
+    "spanish": "Galés",
+    "english": "Welsh",
+    "pronunciation": "/welʃ/",
+    "sentence": {
+      "english": "She is learning Welsh for her move to Cardiff.",
+      "spanish": "Ella aprende galés para su mudanza a Cardiff."
+    }
+  },
+  {
+    "spanish": "Yemení",
+    "english": "Yemeni",
+    "pronunciation": "/ˈjem.ə.ni/",
+    "sentence": {
+      "english": "Does he study Yemeni coffee trade history?",
+      "spanish": "¿Estudia él la historia del comercio de café yemení?"
+    }
+  },
+  {
+    "spanish": "Zambiano",
+    "english": "Zambian",
+    "pronunciation": "/ˈzæm.bi.ən/",
+    "sentence": {
+      "english": "They weren't researching Zambian copper mining.",
+      "spanish": "Ellos no investigaban la minería de cobre zambiana."
+    }
+  },
+  {
+    "spanish": "Zimbabuense",
+    "english": "Zimbabwean",
+    "pronunciation": "/zɪmˈbɑːb.weɪ.ən/",
+    "sentence": {
+      "english": "Are you studying Zimbabwean ancient ruins?",
+      "spanish": "¿Estudias ruinas antiguas zimbabuenses?"
+    }
+  }
+]
