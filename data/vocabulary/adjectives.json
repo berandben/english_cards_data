@@ -1,1 +1,353 @@
-
+[
+  {
+    "spanish": "Malo",
+    "english": "Bad",
+    "pronunciation": "/bæd/",
+    "sentence": {
+      "english": "He isn't feeling bad about his decision anymore.",
+      "spanish": "Él ya no se siente mal por su decisión."
+    }
+  },
+  {
+    "spanish": "Hermoso",
+    "english": "Beautiful",
+    "pronunciation": "/ˈbjuː.tɪ.fəl/",
+    "sentence": {
+      "english": "She is painting a beautiful landscape this afternoon.",
+      "spanish": "Ella está pintando un paisaje hermoso esta tarde."
+    }
+  },
+  {
+    "spanish": "Grande",
+    "english": "Big",
+    "pronunciation": "/bɪɡ/",
+    "sentence": {
+      "english": "Were they living in a big house when they were children?",
+      "spanish": "¿Vivían en una casa grande cuando eran niños?"
+    }
+  },
+  {
+    "spanish": "Frío",
+    "english": "Cold",
+    "pronunciation": "/kəʊld/",
+    "sentence": {
+      "english": "I'm not drinking cold water because I have a sore throat.",
+      "spanish": "No bebo agua fría porque tengo dolor de garganta."
+    }
+  },
+  {
+    "spanish": "Oscuro",
+    "english": "Dark",
+    "pronunciation": "/dɑːk/",
+    "sentence": {
+      "english": "Does he prefer dark chocolate to milk chocolate?",
+      "spanish": "¿Prefiere él el chocolate oscuro al chocolate con leche?"
+    }
+  },
+  {
+    "spanish": "Barato",
+    "english": "Cheap",
+    "pronunciation": "/tʃiːp/",
+    "sentence": {
+      "english": "They weren't buying cheap products for their business.",
+      "spanish": "Ellos no compraban productos baratos para su negocio."
+    }
+  },
+  {
+    "spanish": "Limpio",
+    "english": "Clean",
+    "pronunciation": "/kliːn/",
+    "sentence": {
+      "english": "Are you keeping your room clean these days?",
+      "spanish": "¿Mantienes tu habitación limpia estos días?"
+    }
+  },
+  {
+    "spanish": "Peligroso",
+    "english": "Dangerous",
+    "pronunciation": "/ˈdeɪn.dʒər.əs/",
+    "sentence": {
+      "english": "She isn't walking through dangerous areas at night.",
+      "spanish": "Ella no camina por áreas peligrosas por la noche."
+    }
+  },
+  {
+    "spanish": "Difícil",
+    "english": "Difficult",
+    "pronunciation": "/ˈdɪf.ɪ.kəlt/",
+    "sentence": {
+      "english": "He found the exam very difficult last week.",
+      "spanish": "Él encontró el examen muy difícil la semana pasada."
+    }
+  },
+  {
+    "spanish": "Diferente",
+    "english": "Different",
+    "pronunciation": "/ˈdɪf.ər.ənt/",
+    "sentence": {
+      "english": "Are they trying different restaurants every weekend?",
+      "spanish": "¿Prueban restaurantes diferentes cada fin de semana?"
+    }
+  },
+  {
+    "spanish": "Sucio",
+    "english": "Dirty",
+    "pronunciation": "/ˈdɜː.ti/",
+    "sentence": {
+      "english": "I'm not wearing dirty clothes to the interview.",
+      "spanish": "No llevo ropa sucia a la entrevista."
+    }
+  },
+  {
+    "spanish": "Vacío",
+    "english": "Empty",
+    "pronunciation": "/ˈemp.ti/",
+    "sentence": {
+      "english": "Was the stadium empty during the final match?",
+      "spanish": "¿Estaba el estadio vacío durante el partido final?"
+    }
+  },
+  {
+    "spanish": "Fácil",
+    "english": "Easy",
+    "pronunciation": "/ˈiː.zi/",
+    "sentence": {
+      "english": "She finds mathematics easy compared to other subjects.",
+      "spanish": "Ella encuentra las matemáticas fáciles comparado con otras asignaturas."
+    }
+  },
+  {
+    "spanish": "Caro",
+    "english": "Expensive",
+    "pronunciation": "/ɪkˈspen.sɪv/",
+    "sentence": {
+      "english": "Do they always buy expensive brands?",
+      "spanish": "¿Siempre compran marcas caras?"
+    }
+  },
+  {
+    "spanish": "Rápido",
+    "english": "Fast",
+    "pronunciation": "/fɑːst/",
+    "sentence": {
+      "english": "He wasn't driving fast on the motorway.",
+      "spanish": "Él no conducía rápido en la autopista."
+    }
+  },
+  {
+    "spanish": "Lleno",
+    "english": "Full",
+    "pronunciation": "/fʊl/",
+    "sentence": {
+      "english": "Are the shopping centres full during sales season?",
+      "spanish": "¿Están los centros comerciales llenos durante la temporada de rebajas?"
+    }
+  },
+  {
+    "spanish": "Bueno",
+    "english": "Good",
+    "pronunciation": "/ɡʊd/",
+    "sentence": {
+      "english": "She is cooking a good meal for her family tonight.",
+      "spanish": "Ella está cocinando una buena comida para su familia esta noche."
+    }
+  },
+  {
+    "spanish": "Alto",
+    "english": "High",
+    "pronunciation": "/haɪ/",
+    "sentence": {
+      "english": "Does he have high expectations for this project?",
+      "spanish": "¿Tiene él altas expectativas para este proyecto?"
+    }
+  },
+  {
+    "spanish": "Caliente",
+    "english": "Hot",
+    "pronunciation": "/hɒt/",
+    "sentence": {
+      "english": "They weren't drinking hot coffee in summer.",
+      "spanish": "Ellos no bebían café caliente en verano."
+    }
+  },
+  {
+    "spanish": "Izquierdo",
+    "english": "Left",
+    "pronunciation": "/left/",
+    "sentence": {
+      "english": "I'm not using my left hand for writing.",
+      "spanish": "No uso mi mano izquierda para escribir."
+    }
+  },
+  {
+    "spanish": "Ligero",
+    "english": "Light",
+    "pronunciation": "/laɪt/",
+    "sentence": {
+      "english": "Was she carrying a light bag for her trip?",
+      "spanish": "¿Llevaba ella una bolsa ligera para su viaje?"
+    }
+  },
+  {
+    "spanish": "Largo",
+    "english": "Long",
+    "pronunciation": "/lɒŋ/",
+    "sentence": {
+      "english": "Are you growing your hair long like last year?",
+      "spanish": "¿Te dejas crecer el pelo largo como el año pasado?"
+    }
+  },
+  {
+    "spanish": "Bajo",
+    "english": "Low",
+    "pronunciation": "/ləʊ/",
+    "sentence": {
+      "english": "He doesn't have low self-confidence anymore.",
+      "spanish": "Él ya no tiene baja autoestima."
+    }
+  },
+  {
+    "spanish": "Nuevo",
+    "english": "New",
+    "pronunciation": "/njuː/",
+    "sentence": {
+      "english": "They are buying a new car next month.",
+      "spanish": "Ellos compran un coche nuevo el próximo mes."
+    }
+  },
+  {
+    "spanish": "Viejo",
+    "english": "Old",
+    "pronunciation": "/əʊld/",
+    "sentence": {
+      "english": "Do you collect old coins as a hobby?",
+      "spanish": "¿Coleccionas monedas viejas como hobby?"
+    }
+  },
+  {
+    "spanish": "Pobre",
+    "english": "Poor",
+    "pronunciation": "/pɔːr/",
+    "sentence": {
+      "english": "She wasn't from a poor family background.",
+      "spanish": "Ella no era de un entorno familiar pobre."
+    }
+  },
+  {
+    "spanish": "Rico",
+    "english": "Rich",
+    "pronunciation": "/rɪtʃ/",
+    "sentence": {
+      "english": "Are they becoming rich from their investments?",
+      "spanish": "¿Se están haciendo ricos con sus inversiones?"
+    }
+  },
+  {
+    "spanish": "Correcto",
+    "english": "Right",
+    "pronunciation": "/raɪt/",
+    "sentence": {
+      "english": "He is giving the right answers in class.",
+      "spanish": "Él está dando las respuestas correctas en clase."
+    }
+  },
+  {
+    "spanish": "Seguro",
+    "english": "Safe",
+    "pronunciation": "/seɪf/",
+    "sentence": {
+      "english": "Does she feel safe walking home alone?",
+      "spanish": "¿Se siente ella segura caminando a casa sola?"
+    }
+  },
+  {
+    "spanish": "Mismo",
+    "english": "Same",
+    "pronunciation": "/seɪm/",
+    "sentence": {
+      "english": "They weren't wearing the same clothes as last time.",
+      "spanish": "Ellos no llevaban la misma ropa que la última vez."
+    }
+  },
+  {
+    "spanish": "Corto",
+    "english": "Short",
+    "pronunciation": "/ʃɔːt/",
+    "sentence": {
+      "english": "I'm not writing a short story for the competition.",
+      "spanish": "No escribo un cuento corto para el concurso."
+    }
+  },
+  {
+    "spanish": "Pequeño",
+    "english": "Small",
+    "pronunciation": "/smɔːl/",
+    "sentence": {
+      "english": "Was he living in a small apartment in the city?",
+      "spanish": "¿Vivía él en un apartamento pequeño en la ciudad?"
+    }
+  },
+  {
+    "spanish": "Lento",
+    "english": "Slow",
+    "pronunciation": "/sləʊ/",
+    "sentence": {
+      "english": "Are the trains running slow today due to the weather?",
+      "spanish": "¿Circulan los trenes lentos hoy debido al clima?"
+    }
+  },
+  {
+    "spanish": "Fuerte",
+    "english": "Strong",
+    "pronunciation": "/strɒŋ/",
+    "sentence": {
+      "english": "She is building strong muscles at the gym.",
+      "spanish": "Ella está construyendo músculos fuertes en el gimnasio."
+    }
+  },
+  {
+    "spanish": "Alto",
+    "english": "Tall",
+    "pronunciation": "/tɔːl/",
+    "sentence": {
+      "english": "Does he play basketball because he is tall?",
+      "spanish": "¿Juega al baloncesto porque es alto?"
+    }
+  },
+  {
+    "spanish": "Feo",
+    "english": "Ugly",
+    "pronunciation": "/ˈʌɡ.li/",
+    "sentence": {
+      "english": "They weren't painting ugly pictures for the exhibition.",
+      "spanish": "Ellos no pintaban cuadros feos para la exposición."
+    }
+  },
+  {
+    "spanish": "Débil",
+    "english": "Weak",
+    "pronunciation": "/wiːk/",
+    "sentence": {
+      "english": "He doesn't feel weak after his recovery.",
+      "spanish": "Él no se siente débil después de su recuperación."
+    }
+  },
+  {
+    "spanish": "Incorrecto",
+    "english": "Wrong",
+    "pronunciation": "/rɒŋ/",
+    "sentence": {
+      "english": "Are they giving the wrong information to customers?",
+      "spanish": "¿Dan información incorrecta a los clientes?"
+    }
+  },
+  {
+    "spanish": "Joven",
+    "english": "Young",
+    "pronunciation": "/jʌŋ/",
+    "sentence": {
+      "english": "She looks young for her age.",
+      "spanish": "Ella parece joven para su edad."
+    }
+  }
+]
