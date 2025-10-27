@@ -1,0 +1,434 @@
+[
+    {
+        "spanish": "Asustado",
+        "english": "Afraid",
+        "pronunciation": "/əˈfreɪd/",
+        "sentence": {
+            "english": "She isn't afraid of speaking in public anymore.",
+            "spanish": "Ella ya no tiene miedo de hablar en público."
+        }
+    },
+    {
+        "spanish": "Agresivo",
+        "english": "Aggressive",
+        "pronunciation": "/əˈɡres.ɪv/",
+        "sentence": {
+            "english": "Are they becoming more aggressive in their arguments?",
+            "spanish": "¿Se están volviendo más agresivos en sus discusiones?"
+        }
+    },
+    {
+        "spanish": "Alarmado",
+        "english": "Alarmed",
+        "pronunciation": "/əˈlɑːmd/",
+        "sentence": {
+            "english": "He was alarmed by the sudden noise last night.",
+            "spanish": "Él estaba alarmado por el ruido repentino anoche."
+        }
+    },
+    {
+        "spanish": "Asombrado",
+        "english": "Amazed",
+        "pronunciation": "/əˈmeɪzd/",
+        "sentence": {
+            "english": "I'm not amazed by magic tricks anymore.",
+            "spanish": "Ya no me asombran los trucos de magia."
+        }
+    },
+    {
+        "spanish": "Enojado",
+        "english": "Angry",
+        "pronunciation": "/ˈæŋ.ɡri/",
+        "sentence": {
+            "english": "Were you angry when you heard the news?",
+            "spanish": "¿Estabas enojado cuando escuchaste las noticias?"
+        }
+    },
+    {
+        "spanish": "Molesto",
+        "english": "Annoyed",
+        "pronunciation": "/əˈnɔɪd/",
+        "sentence": {
+            "english": "They are getting annoyed by the constant interruptions.",
+            "spanish": "Ellos se están molestando por las constantes interrupciones."
+        }
+    },
+    {
+        "spanish": "Ansioso",
+        "english": "Anxious",
+        "pronunciation": "/ˈæŋk.ʃəs/",
+        "sentence": {
+            "english": "Does she feel anxious before exams?",
+            "spanish": "¿Se siente ansiosa antes de los exámenes?"
+        }
+    },
+    {
+        "spanish": "Asombrado",
+        "english": "Astonished",
+        "pronunciation": "/əˈstɒn.ɪʃt/",
+        "sentence": {
+            "english": "He wasn't astonished by the final result.",
+            "spanish": "Él no estaba asombrado por el resultado final."
+        }
+    },
+    {
+        "spanish": "Aburrido",
+        "english": "Bored",
+        "pronunciation": "/bɔːd/",
+        "sentence": {
+            "english": "Are we getting bored with the same routine?",
+            "spanish": "¿Nos aburrimos con la misma rutina?"
+        }
+    },
+    {
+        "spanish": "Amargado",
+        "english": "Bitter",
+        "pronunciation": "/ˈbɪt.ər/",
+        "sentence": {
+            "english": "She doesn't feel bitter about her past experiences.",
+            "spanish": "Ella no se siente amargada por sus experiencias pasadas."
+        }
+    },
+    {
+        "spanish": "Triste",
+        "english": "Blue",
+        "pronunciation": "/bluː/",
+        "sentence": {
+            "english": "I was feeling blue after the farewell party.",
+            "spanish": "Me sentía triste después de la fiesta de despedida."
+        }
+    },
+    {
+        "spanish": "Alegre",
+        "english": "Cheerful",
+        "pronunciation": "/ˈtʃɪə.fəl/",
+        "sentence": {
+            "english": "They are always cheerful in the morning.",
+            "spanish": "Ellos siempre están alegres por la mañana."
+        }
+    },
+    {
+        "spanish": "Contento",
+        "english": "Content",
+        "pronunciation": "/kənˈtent/",
+        "sentence": {
+            "english": "Does he seem content with his new job?",
+            "spanish": "¿Parece contento con su nuevo trabajo?"
+        }
+    },
+    {
+        "spanish": "Encantado",
+        "english": "Delighted",
+        "pronunciation": "/dɪˈlaɪ.tɪd/",
+        "sentence": {
+            "english": "She wasn't delighted with the surprise party.",
+            "spanish": "Ella no estaba encantada con la fiesta sorpresa."
+        }
+    },
+    {
+        "spanish": "Deprimido",
+        "english": "Depressed",
+        "pronunciation": "/dɪˈprest/",
+        "sentence": {
+            "english": "Are you feeling depressed about the situation?",
+            "spanish": "¿Te sientes deprimido por la situación?"
+        }
+    },
+    {
+        "spanish": "Desanimado",
+        "english": "Disheartened",
+        "pronunciation": "/dɪsˈhɑː.tənd/",
+        "sentence": {
+            "english": "He isn't disheartened by the initial failure.",
+            "spanish": "Él no está desanimado por el fracaso inicial."
+        }
+    },
+    {
+        "spanish": "Decepcionado",
+        "english": "Disappointed",
+        "pronunciation": "/ˌdɪs.əˈpɔɪn.tɪd/",
+        "sentence": {
+            "english": "Were they disappointed with the exam results?",
+            "spanish": "¿Estaban decepcionados con los resultados del examen?"
+        }
+    },
+    {
+        "spanish": "Emocionado",
+        "english": "Excited",
+        "pronunciation": "/ɪkˈsaɪ.tɪd/",
+        "sentence": {
+            "english": "She is getting excited about her upcoming holiday.",
+            "spanish": "Ella se está emocionando por sus próximas vacaciones."
+        }
+    },
+    {
+        "spanish": "Agotado",
+        "english": "Exhausted",
+        "pronunciation": "/ɪɡˈzɔː.stɪd/",
+        "sentence": {
+            "english": "Does he look exhausted after the long journey?",
+            "spanish": "¿Se ve agotado después del largo viaje?"
+        }
+    },
+    {
+        "spanish": "Asustado",
+        "english": "Fearful",
+        "pronunciation": "/ˈfɪə.fəl/",
+        "sentence": {
+            "english": "They weren't fearful of the upcoming changes.",
+            "spanish": "Ellos no tenían miedo de los próximos cambios."
+        }
+    },
+    {
+        "spanish": "Asustado",
+        "english": "Frightened",
+        "pronunciation": "/ˈfraɪ.tənd/",
+        "sentence": {
+            "english": "Are you frightened of thunderstorms?",
+            "spanish": "¿Tienes miedo de las tormentas?"
+        }
+    },
+    {
+        "spanish": "Frustrado",
+        "english": "Frustrated",
+        "pronunciation": "/frʌsˈtreɪ.tɪd/",
+        "sentence": {
+            "english": "He is feeling frustrated with the slow progress.",
+            "spanish": "Él se siente frustrado con el lento progreso."
+        }
+    },
+    {
+        "spanish": "Furioso",
+        "english": "Furious",
+        "pronunciation": "/ˈfjʊə.ri.əs/",
+        "sentence": {
+            "english": "Does she get furious when people are late?",
+            "spanish": "¿Se pone furiosa cuando la gente llega tarde?"
+        }
+    },
+    {
+        "spanish": "Contento",
+        "english": "Glad",
+        "pronunciation": "/ɡlæd/",
+        "sentence": {
+            "english": "I wasn't glad about the cancellation.",
+            "spanish": "No estaba contento por la cancelación."
+        }
+    },
+    {
+        "spanish": "Feliz",
+        "english": "Happy",
+        "pronunciation": "/ˈhæp.i/",
+        "sentence": {
+            "english": "Are they happy with their new home?",
+            "spanish": "¿Están felices con su nuevo hogar?"
+        }
+    },
+    {
+        "spanish": "Afligido",
+        "english": "Heartbroken",
+        "pronunciation": "/ˈhɑːt.brəʊ.kən/",
+        "sentence": {
+            "english": "She isn't heartbroken about the breakup anymore.",
+            "spanish": "Ella ya no está afligida por la ruptura."
+        }
+    },
+    {
+        "spanish": "Horrorizado",
+        "english": "Horrified",
+        "pronunciation": "/ˈhɒr.ɪ.faɪd/",
+        "sentence": {
+            "english": "Were you horrified by the movie's ending?",
+            "spanish": "¿Quedaste horrorizado por el final de la película?"
+        }
+    },
+    {
+        "spanish": "Irritado",
+        "english": "Irritated",
+        "pronunciation": "/ˈɪr.ɪ.teɪ.tɪd/",
+        "sentence": {
+            "english": "They are getting irritated by the constant noise.",
+            "spanish": "Ellos se están irritando por el constante ruido."
+        }
+    },
+    {
+        "spanish": "Alegre",
+        "english": "Joyful",
+        "pronunciation": "/ˈdʒɔɪ.fəl/",
+        "sentence": {
+            "english": "Does he feel joyful during the holiday season?",
+            "spanish": "¿Se siente alegre durante la temporada navideña?"
+        }
+    },
+    {
+        "spanish": "Solitario",
+        "english": "Lonely",
+        "pronunciation": "/ˈləʊn.li/",
+        "sentence": {
+            "english": "She wasn't feeling lonely in the new city.",
+            "spanish": "Ella no se sentía sola en la nueva ciudad."
+        }
+    },
+    {
+        "spanish": "Loco",
+        "english": "Mad",
+        "pronunciation": "/mæd/",
+        "sentence": {
+            "english": "Are you mad at me for being late?",
+            "spanish": "¿Estás enfadado conmigo por llegar tarde?"
+        }
+    },
+    {
+        "spanish": "Desdichado",
+        "english": "Miserable",
+        "pronunciation": "/ˈmɪz.ər.ə.bəl/",
+        "sentence": {
+            "english": "He doesn't look miserable despite the bad weather.",
+            "spanish": "Él no parece desdichado a pesar del mal tiempo."
+        }
+    },
+    {
+        "spanish": "Ofendido",
+        "english": "Offended",
+        "pronunciation": "/əˈfen.dɪd/",
+        "sentence": {
+            "english": "Were they offended by the comment?",
+            "spanish": "¿Se sintieron ofendidos por el comentario?"
+        }
+    },
+    {
+        "spanish": "Indignado",
+        "english": "Outraged",
+        "pronunciation": "/aʊtˈreɪdʒd/",
+        "sentence": {
+            "english": "She is outraged by the unfair decision.",
+            "spanish": "Ella está indignada por la decisión injusta."
+        }
+    },
+    {
+        "spanish": "Extremadamente feliz",
+        "english": "Overjoyed",
+        "pronunciation": "/ˌəʊ.vəˈdʒɔɪd/",
+        "sentence": {
+            "english": "Does he seem overjoyed with the news?",
+            "spanish": "¿Parece extremadamente feliz con la noticia?"
+        }
+    },
+    {
+        "spanish": "Abrumado",
+        "english": "Overwhelmed",
+        "pronunciation": "/ˌəʊ.vəˈwelmd/",
+        "sentence": {
+            "english": "They weren't overwhelmed by the workload.",
+            "spanish": "Ellos no estaban abrumados por la carga de trabajo."
+        }
+    },
+    {
+        "spanish": "Pesimista",
+        "english": "Pessimistic",
+        "pronunciation": "/ˌpes.ɪˈmɪs.tɪk/",
+        "sentence": {
+            "english": "Are you being pessimistic about the future?",
+            "spanish": "¿Estás siendo pesimista sobre el futuro?"
+        }
+    },
+    {
+        "spanish": "Triste",
+        "english": "Sad",
+        "pronunciation": "/sæd/",
+        "sentence": {
+            "english": "He was feeling sad after watching the film.",
+            "spanish": "Él se sentía triste después de ver la película."
+        }
+    },
+    {
+        "spanish": "Asustado",
+        "english": "Scared",
+        "pronunciation": "/skeəd/",
+        "sentence": {
+            "english": "I'm not scared of trying new things.",
+            "spanish": "No tengo miedo de probar cosas nuevas."
+        }
+    },
+    {
+        "spanish": "Sorprendido",
+        "english": "Shocked",
+        "pronunciation": "/ʃɒkt/",
+        "sentence": {
+            "english": "Were they shocked by the sudden announcement?",
+            "spanish": "¿Estaban sorprendidos por el anuncio repentino?"
+        }
+    },
+    {
+        "spanish": "Afligido",
+        "english": "Sorrowful",
+        "pronunciation": "/ˈsɒr.əʊ.fəl/",
+        "sentence": {
+            "english": "She looks sorrowful today.",
+            "spanish": "Ella parece afligida hoy."
+        }
+    },
+    {
+        "spanish": "Estresado",
+        "english": "Stressed",
+        "pronunciation": "/strest/",
+        "sentence": {
+            "english": "Does he get stressed during exam periods?",
+            "spanish": "¿Se estresa durante los períodos de exámenes?"
+        }
+    },
+    {
+        "spanish": "Sorprendido",
+        "english": "Surprised",
+        "pronunciation": "/səˈpraɪzd/",
+        "sentence": {
+            "english": "They weren't surprised by the test results.",
+            "spanish": "Ellos no estaban sorprendidos por los resultados de la prueba."
+        }
+    },
+    {
+        "spanish": "Cansado",
+        "english": "Tired",
+        "pronunciation": "/taɪəd/",
+        "sentence": {
+            "english": "Are you feeling tired after the long day?",
+            "spanish": "¿Te sientes cansado después del largo día?"
+        }
+    },
+    {
+        "spanish": "Incómodo",
+        "english": "Uncomfortable",
+        "pronunciation": "/ʌnˈkʌm.fə.tə.bəl/",
+        "sentence": {
+            "english": "He is feeling uncomfortable in the crowded room.",
+            "spanish": "Él se siente incómodo en la habitación llena de gente."
+        }
+    },
+    {
+        "spanish": "Infeliz",
+        "english": "Unhappy",
+        "pronunciation": "/ʌnˈhæp.i/",
+        "sentence": {
+            "english": "Does she seem unhappy with her current situation?",
+            "spanish": "¿Parece infeliz con su situación actual?"
+        }
+    },
+    {
+        "spanish": "Molesto",
+        "english": "Upset",
+        "pronunciation": "/ʌpˈset/",
+        "sentence": {
+            "english": "I wasn't upset about the cancelled plans.",
+            "spanish": "No estaba molesto por los planes cancelados."
+        }
+    },
+    {
+        "spanish": "Preocupado",
+        "english": "Worried",
+        "pronunciation": "/ˈwʌr.id/",
+        "sentence": {
+            "english": "Are they worried about the upcoming deadline?",
+            "spanish": "¿Están preocupados por la próxima fecha límite?"
+        }
+    }
+]

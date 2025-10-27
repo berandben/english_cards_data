@@ -49,6 +49,13 @@
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/days-of-week.json"
     },
     {
+        "id": "emotional",
+        "icon": "😊",
+        "title": "Emotional",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/emotional.json"
+    },
+    {
         "id": "nationalities",
         "icon": "🌐",
         "title": "Nationalities",
