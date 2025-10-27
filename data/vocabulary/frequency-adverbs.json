@@ -9,6 +9,123 @@
     }
   },
   {
+    "spanish": "Usualmente",
+    "english": "Usually",
+    "pronunciation": "/ˈjuː.ʒu.ə.li/",
+    "sentence": {
+      "english": "Are you usually at home by 6 PM?",
+      "spanish": "¿Usualmente estás en casa para las 6 PM?"
+    }
+  },
+  {
+    "spanish": "A menudo",
+    "english": "Often",
+    "pronunciation": "/ˈɒf.ən/",
+    "sentence": {
+      "english": "They are often travelling for work these days.",
+      "spanish": "Ellos a menudo están viajando por trabajo estos días."
+    }
+  },
+  {
+    "spanish": "Frecuentemente",
+    "english": "Frequently",
+    "pronunciation": "/ˈfriː.kwənt.li/",
+    "sentence": {
+      "english": "He wasn't frequently visiting his grandparents last year.",
+      "spanish": "Él no visitaba frecuentemente a sus abuelos el año pasado."
+    }
+  },
+  {
+    "spanish": "A veces",
+    "english": "Sometimes",
+    "pronunciation": "/ˈsʌm.taɪmz/",
+    "sentence": {
+      "english": "I don't sometimes understand the instructions.",
+      "spanish": "A veces no entiendo las instrucciones."
+    }
+  },
+  {
+    "spanish": "Ocasionalmente",
+    "english": "Occasionally",
+    "pronunciation": "/əˈkeɪ.ʒən.əl.i/",
+    "sentence": {
+      "english": "Are they occasionally meeting for lunch?",
+      "spanish": "¿Se reúnen ocasionalmente para almorzar?"
+    }
+  },
+  {
+    "spanish": "Casi nunca",
+    "english": "Seldom",
+    "pronunciation": "/ˈsel.dəm/",
+    "sentence": {
+      "english": "She wasn't seldom late for appointments.",
+      "spanish": "Ella casi nunca llegaba tarde a las citas."
+    }
+  },
+  {
+    "spanish": "Raramente",
+    "english": "Rarely",
+    "pronunciation": "/ˈreə.li/",
+    "sentence": {
+      "english": "He rarely eats fast food anymore.",
+      "spanish": "Él raramente come comida rápida ahora."
+    }
+  },
+  {
+    "spanish": "Casi nunca",
+    "english": "Hardly ever",
+    "pronunciation": "/ˈhɑːd.li ˈev.ər/",
+    "sentence": {
+      "english": "Do you hardly ever watch television?",
+      "spanish": "¿Casi nunca ves la televisión?"
+    }
+  },
+  {
+    "spanish": "Nunca",
+    "english": "Never",
+    "pronunciation": "/ˈnev.ər/",
+    "sentence": {
+      "english": "They never forget to call on birthdays.",
+      "spanish": "Ellos nunca olvidan llamar en los cumpleaños."
+    }
+  },
+  {
+    "spanish": "Cada",
+    "english": "Every",
+    "pronunciation": "/ˈev.ri/",
+    "sentence": {
+      "english": "She doesn't exercise every day of the week.",
+      "spanish": "Ella no hace ejercicio cada día de la semana."
+    }
+  },
+  {
+    "spanish": "Una vez",
+    "english": "Once",
+    "pronunciation": "/wʌns/",
+    "sentence": {
+      "english": "She visited Paris once when she was twenty.",
+      "spanish": "Ella visitó París una vez cuando tenía veinte años."
+    }
+  },
+  {
+    "spanish": "Dos veces",
+    "english": "Twice",
+    "pronunciation": "/twaɪs/",
+    "sentence": {
+      "english": "Are you checking your email twice a day?",
+      "spanish": "¿Revisas tu correo electrónico dos veces al día?"
+    }
+  },
+  {
+    "spanish": "Tres veces",
+    "english": "Three times",
+    "pronunciation": "/θriː taɪmz/",
+    "sentence": {
+      "english": "He wasn't calling his mother three times a week.",
+      "spanish": "Él no llamaba a su madre tres veces por semana."
+    }
+  },
+  {
     "spanish": "Cuatro veces",
     "english": "Four times",
     "pronunciation": "/fɔːr taɪmz/",
@@ -27,21 +144,12 @@
     }
   },
   {
-    "spanish": "Frecuentemente",
-    "english": "Frequently",
-    "pronunciation": "/ˈfriː.kwənt.li/",
+    "spanish": "Varias veces",
+    "english": "Several times",
+    "pronunciation": "/ˈsev.ər.əl taɪmz/",
     "sentence": {
-      "english": "He wasn't frequently visiting his grandparents last year.",
-      "spanish": "Él no visitaba frecuentemente a sus abuelos el año pasado."
-    }
-  },
-  {
-    "spanish": "Casi nunca",
-    "english": "Hardly ever",
-    "pronunciation": "/ˈhɑːd.li ˈev.ər/",
-    "sentence": {
-      "english": "Do you hardly ever watch television?",
-      "spanish": "¿Casi nunca ves la televisión?"
+      "english": "Did she remind you several times about the meeting?",
+      "spanish": "¿Te recordó varias veces sobre la reunión?"
     }
   },
   {
@@ -54,102 +162,12 @@
     }
   },
   {
-    "spanish": "Nunca",
-    "english": "Never",
-    "pronunciation": "/ˈnev.ər/",
+    "spanish": "Una vez cada 2 días",
+    "english": "Once every 2 days",
+    "pronunciation": "/wʌns ˈev.ri tuː deɪz/",
     "sentence": {
-      "english": "They never forget to call on birthdays.",
-      "spanish": "Ellos nunca olvidan llamar en los cumpleaños."
-    }
-  },
-  {
-    "spanish": "Ocasionalmente",
-    "english": "Occasionally",
-    "pronunciation": "/əˈkeɪ.ʒən.əl.i/",
-    "sentence": {
-      "english": "Are they occasionally meeting for lunch?",
-      "spanish": "¿Se reúnen ocasionalmente para almorzar?"
-    }
-  },
-  {
-    "spanish": "A menudo",
-    "english": "Often",
-    "pronunciation": "/ˈɒf.ən/",
-    "sentence": {
-      "english": "They are often travelling for work these days.",
-      "spanish": "Ellos a menudo están viajando por trabajo estos días."
-    }
-  },
-  {
-    "spanish": "Una vez",
-    "english": "Once",
-    "pronunciation": "/wʌns/",
-    "sentence": {
-      "english": "She visited Paris once when she was twenty.",
-      "spanish": "Ella visitó París una vez cuando tenía veinte años."
-    }
-  },
-  {
-    "spanish": "Raramente",
-    "english": "Rarely",
-    "pronunciation": "/ˈreə.li/",
-    "sentence": {
-      "english": "He rarely eats fast food anymore.",
-      "spanish": "Él raramente come comida rápida ahora."
-    }
-  },
-  {
-    "spanish": "Casi nunca",
-    "english": "Seldom",
-    "pronunciation": "/ˈsel.dəm/",
-    "sentence": {
-      "english": "She wasn't seldom late for appointments.",
-      "spanish": "Ella casi nunca llegaba tarde a las citas."
-    }
-  },
-  {
-    "spanish": "Varias veces",
-    "english": "Several times",
-    "pronunciation": "/ˈsev.ər.əl taɪmz/",
-    "sentence": {
-      "english": "Did she remind you several times about the meeting?",
-      "spanish": "¿Te recordó varias veces sobre la reunión?"
-    }
-  },
-  {
-    "spanish": "A veces",
-    "english": "Sometimes",
-    "pronunciation": "/ˈsʌm.taɪmz/",
-    "sentence": {
-      "english": "I don't sometimes understand the instructions.",
-      "spanish": "A veces no entiendo las instrucciones."
-    }
-  },
-  {
-    "spanish": "Tres veces",
-    "english": "Three times",
-    "pronunciation": "/θriː taɪmz/",
-    "sentence": {
-      "english": "He wasn't calling his mother three times a week.",
-      "spanish": "Él no llamaba a su madre tres veces por semana."
-    }
-  },
-  {
-    "spanish": "Dos veces",
-    "english": "Twice",
-    "pronunciation": "/twaɪs/",
-    "sentence": {
-      "english": "Are you checking your email twice a day?",
-      "spanish": "¿Revisas tu correo electrónico dos veces al día?"
-    }
-  },
-  {
-    "spanish": "Usualmente",
-    "english": "Usually",
-    "pronunciation": "/ˈjuː.ʒu.ə.li/",
-    "sentence": {
-      "english": "Are you usually at home by 6 PM?",
-      "spanish": "¿Usualmente estás en casa para las 6 PM?"
+      "english": "She doesn't go to the gym once every 2 days anymore.",
+      "spanish": "Ella ya no va al gimnasio una vez cada 2 días."
     }
   }
 ]
