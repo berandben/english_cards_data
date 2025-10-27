@@ -180,21 +180,21 @@
         }
     },
     {
-        "spanish": "Abuelita",
-        "english": "Granny",
-        "pronunciation": "/ˈɡræn.i/",
-        "sentence": {
-            "english": "He doesn't call his grandmother 'Granny'.",
-            "spanish": "Él no llama 'abuelita' a su abuela."
-        }
-    },
-    {
         "spanish": "Abuelito",
         "english": "Grandpa",
         "pronunciation": "/ˈɡræn.pɑː/",
         "sentence": {
             "english": "I was fishing with Grandpa last weekend.",
             "spanish": "Pescaba con el abuelito el fin de semana pasado."
+        }
+    },
+    {
+        "spanish": "Abuelita",
+        "english": "Granny",
+        "pronunciation": "/ˈɡræn.i/",
+        "sentence": {
+            "english": "He doesn't call his grandmother 'Granny'.",
+            "spanish": "Él no llama 'abuelita' a su abuela."
         }
     },
     {
