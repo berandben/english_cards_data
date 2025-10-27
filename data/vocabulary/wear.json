@@ -1,11 +1,47 @@
 [
   {
+    "spanish": "Cinturón",
+    "english": "Belt",
+    "pronunciation": "/bɛlt/",
+    "sentence": {
+      "english": "He isn't wearing a belt with those trousers.",
+      "spanish": "Él no lleva cinturón con esos pantalones."
+    }
+  },
+  {
     "spanish": "Blusa",
     "english": "Blouse",
     "pronunciation": "/blaʊz/",
     "sentence": {
       "english": "She isn't wearing her new blouse today.",
       "spanish": "Ella no lleva puesta su blusa nueva hoy."
+    }
+  },
+  {
+    "spanish": "Botas",
+    "english": "Boots",
+    "pronunciation": "/buːts/",
+    "sentence": {
+      "english": "Are you wearing your new boots in the rain?",
+      "spanish": "¿Llevas puestas tus botas nuevas bajo la lluvia?"
+    }
+  },
+  {
+    "spanish": "Pulsera",
+    "english": "Bracelet",
+    "pronunciation": "/ˈbreɪ.slət/",
+    "sentence": {
+      "english": "She never takes off her silver bracelet.",
+      "spanish": "Ella nunca se quita su pulsera de plata."
+    }
+  },
+  {
+    "spanish": "Gorra",
+    "english": "Cap",
+    "pronunciation": "/kæp/",
+    "sentence": {
+      "english": "Do you wear a cap when it's sunny?",
+      "spanish": "¿Llevas gorra cuando hace sol?"
     }
   },
   {
@@ -36,6 +72,42 @@
     }
   },
   {
+    "spanish": "Pendientes",
+    "english": "Earrings",
+    "pronunciation": "/ˈɪə.rɪŋz/",
+    "sentence": {
+      "english": "Are you wearing the earrings I gave you?",
+      "spanish": "¿Llevas puestos los pendientes que te regalé?"
+    }
+  },
+  {
+    "spanish": "Chancletas",
+    "english": "Flip-flops",
+    "pronunciation": "/ˈflɪp.flɒps/",
+    "sentence": {
+      "english": "We weren't wearing flip-flops at the beach.",
+      "spanish": "No llevábamos chancletas en la playa."
+    }
+  },
+  {
+    "spanish": "Guantes",
+    "english": "Gloves",
+    "pronunciation": "/ɡlʌvz/",
+    "sentence": {
+      "english": "She lost her gloves last winter.",
+      "spanish": "Ella perdió sus guantes el invierno pasado."
+    }
+  },
+  {
+    "spanish": "Sombrero",
+    "english": "Hat",
+    "pronunciation": "/hæt/",
+    "sentence": {
+      "english": "Aren't you wearing a hat in this cold?",
+      "spanish": "¿No llevas sombrero con este frío?"
+    }
+  },
+  {
     "spanish": "Sudadera con capucha",
     "english": "Hoodie",
     "pronunciation": "/ˈhʊd.i/",
@@ -63,12 +135,30 @@
     }
   },
   {
+    "spanish": "Jersey",
+    "english": "Jumper",
+    "pronunciation": "/ˈdʒʌm.pər/",
+    "sentence": {
+      "english": "Are you wearing that woolen jumper?",
+      "spanish": "¿Llevas puesto ese jersey de lana?"
+    }
+  },
+  {
     "spanish": "Mallas",
     "english": "Leggings",
     "pronunciation": "/ˈlɛɡ.ɪŋz/",
     "sentence": {
       "english": "She always wears leggings to the gym.",
       "spanish": "Ella siempre lleva mallas al gimnasio."
+    }
+  },
+  {
+    "spanish": "Collar",
+    "english": "Necklace",
+    "pronunciation": "/ˈnɛk.ləs/",
+    "sentence": {
+      "english": "He bought her a beautiful necklace for their anniversary.",
+      "spanish": "Él le compró un collar precioso para su aniversario."
     }
   },
   {
@@ -81,12 +171,48 @@
     }
   },
   {
+    "spanish": "Anillo",
+    "english": "Ring",
+    "pronunciation": "/rɪŋ/",
+    "sentence": {
+      "english": "They aren't wearing their wedding rings today.",
+      "spanish": "Ellos no llevan puestos sus anillos de boda hoy."
+    }
+  },
+  {
+    "spanish": "Sandalias",
+    "english": "Sandals",
+    "pronunciation": "/ˈsæn.dəlz/",
+    "sentence": {
+      "english": "He doesn't wear sandals to work.",
+      "spanish": "Él no lleva sandalias al trabajo."
+    }
+  },
+  {
+    "spanish": "Bufanda",
+    "english": "Scarf",
+    "pronunciation": "/skɑːf/",
+    "sentence": {
+      "english": "He is wrapping his scarf tightly around his neck.",
+      "spanish": "Él se está envolviendo la bufanda fuertemente alrededor del cuello."
+    }
+  },
+  {
     "spanish": "Camisa",
     "english": "Shirt",
     "pronunciation": "/ʃɜːt/",
     "sentence": {
       "english": "He ironed his shirt this morning.",
       "spanish": "Él planchó su camisa esta mañana."
+    }
+  },
+  {
+    "spanish": "Zapatos",
+    "english": "Shoes",
+    "pronunciation": "/ʃuːz/",
+    "sentence": {
+      "english": "Are they polishing their shoes for the party?",
+      "spanish": "¿Están limpiando sus zapatos para la fiesta?"
     }
   },
   {
@@ -126,12 +252,12 @@
     }
   },
   {
-    "spanish": "Jersey",
-    "english": "Jumper",
-    "pronunciation": "/ˈdʒʌm.pər/",
+    "spanish": "Corbata",
+    "english": "Tie",
+    "pronunciation": "/taɪ/",
     "sentence": {
-      "english": "Are you wearing that woolen jumper?",
-      "spanish": "¿Llevas puesto ese jersey de lana?"
+      "english": "I don't wear a tie on Fridays.",
+      "spanish": "No llevo corbata los viernes."
     }
   },
   {
@@ -162,6 +288,15 @@
     }
   },
   {
+    "spanish": "Zapatillas deportivas",
+    "english": "Trainers",
+    "pronunciation": "/ˈtreɪ.nəz/",
+    "sentence": {
+      "english": "I always wear comfortable trainers for walking.",
+      "spanish": "Siempre llevo zapatillas deportivas cómodas para caminar."
+    }
+  },
+  {
     "spanish": "Pantalones",
     "english": "Trousers",
     "pronunciation": "/ˈtraʊ.zəz/",
@@ -186,141 +321,6 @@
     "sentence": {
       "english": "She always buys cotton underwear.",
       "spanish": "Ella siempre compra ropa interior de algodón."
-    }
-  },
-  {
-    "spanish": "Botas",
-    "english": "Boots",
-    "pronunciation": "/buːts/",
-    "sentence": {
-      "english": "Are you wearing your new boots in the rain?",
-      "spanish": "¿Llevas puestas tus botas nuevas bajo la lluvia?"
-    }
-  },
-  {
-    "spanish": "Chancletas",
-    "english": "Flip-flops",
-    "pronunciation": "/ˈflɪp.flɒps/",
-    "sentence": {
-      "english": "We weren't wearing flip-flops at the beach.",
-      "spanish": "No llevábamos chancletas en la playa."
-    }
-  },
-  {
-    "spanish": "Sandalias",
-    "english": "Sandals",
-    "pronunciation": "/ˈsæn.dəlz/",
-    "sentence": {
-      "english": "He doesn't wear sandals to work.",
-      "spanish": "Él no lleva sandalias al trabajo."
-    }
-  },
-  {
-    "spanish": "Zapatos",
-    "english": "Shoes",
-    "pronunciation": "/ʃuːz/",
-    "sentence": {
-      "english": "Are they polishing their shoes for the party?",
-      "spanish": "¿Están limpiando sus zapatos para la fiesta?"
-    }
-  },
-  {
-    "spanish": "Zapatillas deportivas",
-    "english": "Trainers",
-    "pronunciation": "/ˈtreɪ.nəz/",
-    "sentence": {
-      "english": "I always wear comfortable trainers for walking.",
-      "spanish": "Siempre llevo zapatillas deportivas cómodas para caminar."
-    }
-  },
-  {
-    "spanish": "Cinturón",
-    "english": "Belt",
-    "pronunciation": "/bɛlt/",
-    "sentence": {
-      "english": "He isn't wearing a belt with those trousers.",
-      "spanish": "Él no lleva cinturón con esos pantalones."
-    }
-  },
-  {
-    "spanish": "Gorra",
-    "english": "Cap",
-    "pronunciation": "/kæp/",
-    "sentence": {
-      "english": "Do you wear a cap when it's sunny?",
-      "spanish": "¿Llevas gorra cuando hace sol?"
-    }
-  },
-  {
-    "spanish": "Guantes",
-    "english": "Gloves",
-    "pronunciation": "/ɡlʌvz/",
-    "sentence": {
-      "english": "She lost her gloves last winter.",
-      "spanish": "Ella perdió sus guantes el invierno pasado."
-    }
-  },
-  {
-    "spanish": "Sombrero",
-    "english": "Hat",
-    "pronunciation": "/hæt/",
-    "sentence": {
-      "english": "Aren't you wearing a hat in this cold?",
-      "spanish": "¿No llevas sombrero con este frío?"
-    }
-  },
-  {
-    "spanish": "Bufanda",
-    "english": "Scarf",
-    "pronunciation": "/skɑːf/",
-    "sentence": {
-      "english": "He is wrapping his scarf tightly around his neck.",
-      "spanish": "Él se está envolviendo la bufanda fuertemente alrededor del cuello."
-    }
-  },
-  {
-    "spanish": "Corbata",
-    "english": "Tie",
-    "pronunciation": "/taɪ/",
-    "sentence": {
-      "english": "I don't wear a tie on Fridays.",
-      "spanish": "No llevo corbata los viernes."
-    }
-  },
-  {
-    "spanish": "Pulsera",
-    "english": "Bracelet",
-    "pronunciation": "/ˈbreɪ.slət/",
-    "sentence": {
-      "english": "She never takes off her silver bracelet.",
-      "spanish": "Ella nunca se quita su pulsera de plata."
-    }
-  },
-  {
-    "spanish": "Pendientes",
-    "english": "Earrings",
-    "pronunciation": "/ˈɪə.rɪŋz/",
-    "sentence": {
-      "english": "Are you wearing the earrings I gave you?",
-      "spanish": "¿Llevas puestos los pendientes que te regalé?"
-    }
-  },
-  {
-    "spanish": "Collar",
-    "english": "Necklace",
-    "pronunciation": "/ˈnɛk.ləs/",
-    "sentence": {
-      "english": "He bought her a beautiful necklace for their anniversary.",
-      "spanish": "Él le compró un collar precioso para su aniversario."
-    }
-  },
-  {
-    "spanish": "Anillo",
-    "english": "Ring",
-    "pronunciation": "/rɪŋ/",
-    "sentence": {
-      "english": "They aren't wearing their wedding rings today.",
-      "spanish": "Ellos no llevan puestos sus anillos de boda hoy."
     }
   }
 ]
