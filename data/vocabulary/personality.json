@@ -1,5 +1,68 @@
 [
   {
+    "spanish": "Aventurero",
+    "english": "Adventurous",
+    "pronunciation": "/ədˈvɛn.tʃər.əs/",
+    "sentence": {
+      "english": "Are they becoming more adventurous in their travels?",
+      "spanish": "¿Se están volviendo más aventureros en sus viajes?"
+    }
+  },
+  {
+    "spanish": "Ambicioso",
+    "english": "Ambitious",
+    "pronunciation": "/æmˈbɪʃ.əs/",
+    "sentence": {
+      "english": "Are they becoming more ambitious in their careers?",
+      "spanish": "¿Se están volviendo más ambiciosos en sus carreras?"
+    }
+  },
+  {
+    "spanish": "Altanero",
+    "english": "Arrogant",
+    "pronunciation": "/ˈær.ə.ɡənt/",
+    "sentence": {
+      "english": "He was acting arrogant during the meeting.",
+      "spanish": "Él estuvo actuando de forma altanera durante la reunión."
+    }
+  },
+  {
+    "spanish": "Inteligente",
+    "english": "Clever",
+    "pronunciation": "/ˈklɛv.ər/",
+    "sentence": {
+      "english": "She isn't just clever; she also works very hard.",
+      "spanish": "Ella no es solo inteligente; también trabaja muy duro."
+    }
+  },
+  {
+    "spanish": "Frío",
+    "english": "Cold",
+    "pronunciation": "/kəʊld/",
+    "sentence": {
+      "english": "Was the receptionist cold towards you yesterday?",
+      "spanish": "¿La recepcionista fue fría contigo ayer?"
+    }
+  },
+  {
+    "spanish": "Seguro de sí mismo",
+    "english": "Confident",
+    "pronunciation": "/ˈkɒn.fɪ.dənt/",
+    "sentence": {
+      "english": "She isn't feeling confident about her presentation.",
+      "spanish": "Ella no se siente segura sobre su presentación."
+    }
+  },
+  {
+    "spanish": "Creativo",
+    "english": "Creative",
+    "pronunciation": "/kriˈeɪ.tɪv/",
+    "sentence": {
+      "english": "He wasn't feeling very creative last week.",
+      "spanish": "Él no se sentía muy creativo la semana pasada."
+    }
+  },
+  {
     "spanish": "Extrovertido",
     "english": "Extrovert",
     "pronunciation": "/ˈɛk.strə.vɜːt/",
@@ -45,84 +108,30 @@
     }
   },
   {
-    "spanish": "Hablador",
-    "english": "Talkative",
-    "pronunciation": "/ˈtɔː.kə.tɪv/",
+    "spanish": "Honesto",
+    "english": "Honest",
+    "pronunciation": "/ˈɒn.ɪst/",
     "sentence": {
-      "english": "She wasn't very talkative during the meeting.",
-      "spanish": "Ella no fue muy habladora durante la reunión."
+      "english": "Are you always honest with your feelings?",
+      "spanish": "¿Siempre eres honesto con tus sentimientos?"
     }
   },
   {
-    "spanish": "Cálido",
-    "english": "Warm",
-    "pronunciation": "/wɔːm/",
+    "spanish": "Humilde",
+    "english": "Humble",
+    "pronunciation": "/ˈhʌm.bəl/",
     "sentence": {
-      "english": "He isn't always warm with strangers.",
-      "spanish": "Él no siempre es cálido con los desconocidos."
+      "english": "She isn't losing her humble attitude despite her success.",
+      "spanish": "Ella no está perdiendo su actitud humilde a pesar de su éxito."
     }
   },
   {
-    "spanish": "Frío",
-    "english": "Cold",
-    "pronunciation": "/kəʊld/",
+    "spanish": "Interesante",
+    "english": "Interesting",
+    "pronunciation": "/ˈɪn.trəs.tɪŋ/",
     "sentence": {
-      "english": "Was the receptionist cold towards you yesterday?",
-      "spanish": "¿La recepcionista fue fría contigo ayer?"
-    }
-  },
-  {
-    "spanish": "Perezoso",
-    "english": "Lazy",
-    "pronunciation": "/ˈleɪ.zi/",
-    "sentence": {
-      "english": "I'm not being lazy; I'm just tired today.",
-      "spanish": "No estoy siendo perezoso; solo estoy cansado hoy."
-    }
-  },
-  {
-    "spanish": "Tacaño/Malo",
-    "english": "Mean",
-    "pronunciation": "/miːn/",
-    "sentence": {
-      "english": "Are they mean to new students at your school?",
-      "spanish": "¿Son malos con los estudiantes nuevos en tu escuela?"
-    }
-  },
-  {
-    "spanish": "Callado",
-    "english": "Quiet",
-    "pronunciation": "/ˈkwaɪ.ət/",
-    "sentence": {
-      "english": "He was unusually quiet during dinner last night.",
-      "spanish": "Él estuvo inusualmente callado durante la cena anoche."
-    }
-  },
-  {
-    "spanish": "Serio",
-    "english": "Serious",
-    "pronunciation": "/ˈsɪə.ri.əs/",
-    "sentence": {
-      "english": "She isn't always serious; she knows how to have fun.",
-      "spanish": "Ella no siempre es seria; sabe divertirse."
-    }
-  },
-  {
-    "spanish": "Tímido",
-    "english": "Shy",
-    "pronunciation": "/ʃaɪ/",
-    "sentence": {
-      "english": "Are you feeling shy about speaking in public?",
-      "spanish": "¿Te sientes tímido para hablar en público?"
-    }
-  },
-  {
-    "spanish": "Antipático",
-    "english": "Unfriendly",
-    "pronunciation": "/ʌnˈfrɛnd.li/",
-    "sentence": {
-      "english": "The shop assistant wasn't unfriendly, just busy.",
-      "spanish": "El dependiente no fue antipático, solo estaba ocupado."
+      "english": "Are you finding the lecture interesting?",
+      "spanish": "¿Te parece interesante la conferencia?"
     }
   },
   {
@@ -144,84 +153,30 @@
     }
   },
   {
-    "spanish": "Sociable",
-    "english": "Sociable",
-    "pronunciation": "/ˈsəʊ.ʃə.bəl/",
+    "spanish": "Perezoso",
+    "english": "Lazy",
+    "pronunciation": "/ˈleɪ.zi/",
     "sentence": {
-      "english": "She isn't very sociable at large gatherings.",
-      "spanish": "Ella no es muy sociable en grandes reuniones."
+      "english": "I'm not being lazy; I'm just tired today.",
+      "spanish": "No estoy siendo perezoso; solo estoy cansado hoy."
     }
   },
   {
-    "spanish": "Egoísta",
-    "english": "Selfish",
-    "pronunciation": "/ˈsɛl.fɪʃ/",
+    "spanish": "Tacaño/Malo",
+    "english": "Mean",
+    "pronunciation": "/miːn/",
     "sentence": {
-      "english": "Are they being selfish with their resources?",
-      "spanish": "¿Están siendo egoístas con sus recursos?"
+      "english": "Are they mean to new students at your school?",
+      "spanish": "¿Son malos con los estudiantes nuevos en tu escuela?"
     }
   },
   {
-    "spanish": "Tímido",
-    "english": "Timid",
-    "pronunciation": "/ˈtɪm.ɪd/",
+    "spanish": "Entrometido",
+    "english": "Nosy",
+    "pronunciation": "/ˈnəʊ.zi/",
     "sentence": {
-      "english": "He was too timid to ask for help yesterday.",
-      "spanish": "Él fue demasiado tímido para pedir ayuda ayer."
-    }
-  },
-  {
-    "spanish": "Seguro de sí mismo",
-    "english": "Confident",
-    "pronunciation": "/ˈkɒn.fɪ.dənt/",
-    "sentence": {
-      "english": "She isn't feeling confident about her presentation.",
-      "spanish": "Ella no se siente segura sobre su presentación."
-    }
-  },
-  {
-    "spanish": "Honesto",
-    "english": "Honest",
-    "pronunciation": "/ˈɒn.ɪst/",
-    "sentence": {
-      "english": "Are you always honest with your feelings?",
-      "spanish": "¿Siempre eres honesto con tus sentimientos?"
-    }
-  },
-  {
-    "spanish": "Confiable",
-    "english": "Trustworthy",
-    "pronunciation": "/ˈtrʌstˌwɜː.ði/",
-    "sentence": {
-      "english": "He proved himself trustworthy during the crisis.",
-      "spanish": "Él demostró ser confiable durante la crisis."
-    }
-  },
-  {
-    "spanish": "Responsable",
-    "english": "Responsible",
-    "pronunciation": "/rɪˈspɒn.sə.bəl/",
-    "sentence": {
-      "english": "She isn't being very responsible with her deadlines.",
-      "spanish": "Ella no está siendo muy responsable con sus plazos."
-    }
-  },
-  {
-    "spanish": "Ambicioso",
-    "english": "Ambitious",
-    "pronunciation": "/æmˈbɪʃ.əs/",
-    "sentence": {
-      "english": "Are they becoming more ambitious in their careers?",
-      "spanish": "¿Se están volviendo más ambiciosos en sus carreras?"
-    }
-  },
-  {
-    "spanish": "Creativo",
-    "english": "Creative",
-    "pronunciation": "/kriˈeɪ.tɪv/",
-    "sentence": {
-      "english": "He wasn't feeling very creative last week.",
-      "spanish": "Él no se sentía muy creativo la semana pasada."
+      "english": "She isn't being nosy; she's just concerned.",
+      "spanish": "Ella no está siendo entrometida; solo está preocupada."
     }
   },
   {
@@ -243,39 +198,21 @@
     }
   },
   {
-    "spanish": "Sensible",
-    "english": "Sensitive",
-    "pronunciation": "/ˈsen.sɪ.tɪv/",
+    "spanish": "Educado",
+    "english": "Polite",
+    "pronunciation": "/pəˈlaɪt/",
     "sentence": {
-      "english": "He wasn't very sensitive to her feelings yesterday.",
-      "spanish": "Él no fue muy sensible con sus sentimientos ayer."
+      "english": "He was always polite to his elders.",
+      "spanish": "Él siempre fue educado con sus mayores."
     }
   },
   {
-    "spanish": "Entrometido",
-    "english": "Nosy",
-    "pronunciation": "/ˈnəʊ.zi/",
+    "spanish": "Callado",
+    "english": "Quiet",
+    "pronunciation": "/ˈkwaɪ.ət/",
     "sentence": {
-      "english": "She isn't being nosy; she's just concerned.",
-      "spanish": "Ella no está siendo entrometida; solo está preocupada."
-    }
-  },
-  {
-    "spanish": "Tacaño",
-    "english": "Stingy",
-    "pronunciation": "/ˈstɪn.dʒi/",
-    "sentence": {
-      "english": "Were they stingy with the portions at the restaurant?",
-      "spanish": "¿Fueron tacaños con las porciones en el restaurante?"
-    }
-  },
-  {
-    "spanish": "Grosero",
-    "english": "Rude",
-    "pronunciation": "/ruːd/",
-    "sentence": {
-      "english": "He isn't usually rude to service staff.",
-      "spanish": "Él no suele ser grosero con el personal de servicio."
+      "english": "He was unusually quiet during dinner last night.",
+      "spanish": "Él estuvo inusualmente callado durante la cena anoche."
     }
   },
   {
@@ -288,48 +225,120 @@
     }
   },
   {
-    "spanish": "Altanero",
-    "english": "Arrogant",
-    "pronunciation": "/ˈær.ə.ɡənt/",
+    "spanish": "Responsable",
+    "english": "Responsible",
+    "pronunciation": "/rɪˈspɒn.sə.bəl/",
     "sentence": {
-      "english": "He was acting arrogant during the meeting.",
-      "spanish": "Él estuvo actuando de forma altanera durante la reunión."
+      "english": "She isn't being very responsible with her deadlines.",
+      "spanish": "Ella no está siendo muy responsable con sus plazos."
     }
   },
   {
-    "spanish": "Humilde",
-    "english": "Humble",
-    "pronunciation": "/ˈhʌm.bəl/",
+    "spanish": "Grosero",
+    "english": "Rude",
+    "pronunciation": "/ruːd/",
     "sentence": {
-      "english": "She isn't losing her humble attitude despite her success.",
-      "spanish": "Ella no está perdiendo su actitud humilde a pesar de su éxito."
+      "english": "He isn't usually rude to service staff.",
+      "spanish": "Él no suele ser grosero con el personal de servicio."
     }
   },
   {
-    "spanish": "Inteligente",
-    "english": "Clever",
-    "pronunciation": "/ˈklɛv.ər/",
+    "spanish": "Egoísta",
+    "english": "Selfish",
+    "pronunciation": "/ˈsɛl.fɪʃ/",
     "sentence": {
-      "english": "She isn't just clever; she also works very hard.",
-      "spanish": "Ella no es solo inteligente; también trabaja muy duro."
+      "english": "Are they being selfish with their resources?",
+      "spanish": "¿Están siendo egoístas con sus recursos?"
     }
   },
   {
-    "spanish": "Interesante",
-    "english": "Interesting",
-    "pronunciation": "/ˈɪn.trəs.tɪŋ/",
+    "spanish": "Sensible",
+    "english": "Sensitive",
+    "pronunciation": "/ˈsen.sɪ.tɪv/",
     "sentence": {
-      "english": "Are you finding the lecture interesting?",
-      "spanish": "¿Te parece interesante la conferencia?"
+      "english": "He wasn't very sensitive to her feelings yesterday.",
+      "spanish": "Él no fue muy sensible con sus sentimientos ayer."
     }
   },
   {
-    "spanish": "Educado",
-    "english": "Polite",
-    "pronunciation": "/pəˈlaɪt/",
+    "spanish": "Serio",
+    "english": "Serious",
+    "pronunciation": "/ˈsɪə.ri.əs/",
     "sentence": {
-      "english": "He was always polite to his elders.",
-      "spanish": "Él siempre fue educado con sus mayores."
+      "english": "She isn't always serious; she knows how to have fun.",
+      "spanish": "Ella no siempre es seria; sabe divertirse."
+    }
+  },
+  {
+    "spanish": "Tímido",
+    "english": "Shy",
+    "pronunciation": "/ʃaɪ/",
+    "sentence": {
+      "english": "Are you feeling shy about speaking in public?",
+      "spanish": "¿Te sientes tímido para hablar en público?"
+    }
+  },
+  {
+    "spanish": "Sociable",
+    "english": "Sociable",
+    "pronunciation": "/ˈsəʊ.ʃə.bəl/",
+    "sentence": {
+      "english": "She isn't very sociable at large gatherings.",
+      "spanish": "Ella no es muy sociable en grandes reuniones."
+    }
+  },
+  {
+    "spanish": "Tacaño",
+    "english": "Stingy",
+    "pronunciation": "/ˈstɪn.dʒi/",
+    "sentence": {
+      "english": "Were they stingy with the portions at the restaurant?",
+      "spanish": "¿Fueron tacaños con las porciones en el restaurante?"
+    }
+  },
+  {
+    "spanish": "Hablador",
+    "english": "Talkative",
+    "pronunciation": "/ˈtɔː.kə.tɪv/",
+    "sentence": {
+      "english": "She wasn't very talkative during the meeting.",
+      "spanish": "Ella no fue muy habladora durante la reunión."
+    }
+  },
+  {
+    "spanish": "Tímido",
+    "english": "Timid",
+    "pronunciation": "/ˈtɪm.ɪd/",
+    "sentence": {
+      "english": "He was too timid to ask for help yesterday.",
+      "spanish": "Él fue demasiado tímido para pedir ayuda ayer."
+    }
+  },
+  {
+    "spanish": "Confiable",
+    "english": "Trustworthy",
+    "pronunciation": "/ˈtrʌstˌwɜː.ði/",
+    "sentence": {
+      "english": "He proved himself trustworthy during the crisis.",
+      "spanish": "Él demostró ser confiable durante la crisis."
+    }
+  },
+  {
+    "spanish": "Antipático",
+    "english": "Unfriendly",
+    "pronunciation": "/ʌnˈfrɛnd.li/",
+    "sentence": {
+      "english": "The shop assistant wasn't unfriendly, just busy.",
+      "spanish": "El dependiente no fue antipático, solo estaba ocupado."
+    }
+  },
+  {
+    "spanish": "Cálido",
+    "english": "Warm",
+    "pronunciation": "/wɔːm/",
+    "sentence": {
+      "english": "He isn't always warm with strangers.",
+      "spanish": "Él no siempre es cálido con los desconocidos."
     }
   },
   {
@@ -339,15 +348,6 @@
     "sentence": {
       "english": "She isn't well-dressed for the job interview.",
       "spanish": "Ella no va bien vestida para la entrevista de trabajo."
-    }
-  },
-  {
-    "spanish": "Aventurero",
-    "english": "Adventurous",
-    "pronunciation": "/ədˈvɛn.tʃər.əs/",
-    "sentence": {
-      "english": "Are they becoming more adventurous in their travels?",
-      "spanish": "¿Se están volviendo más aventureros en sus viajes?"
     }
   },
   {
