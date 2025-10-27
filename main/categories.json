@@ -1,34 +1,54 @@
 [
-   
-     {
+    {
+        "id": "adjectives",
+        "icon": "🌈",
+        "title": "Adjectives",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/adjectives.json"
+    },
+    {
         "id": "adverbsoffrequency",
         "icon": "⏰",
         "title": "Adv of Frequency",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/adverbs-of-frequency.json"
-    },      
+    },
     {
         "id": "appearance",
         "icon": "🪞",
         "title": "Appearance",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/appearance.json"
-    },   
-     {
+    },
+    {
+        "id": "cardinalnumbers",
+        "icon": "🔢",
+        "title": "Card Numbers",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/cardinals-numbers.json"
+    },
+    {
         "id": "colours",
         "icon": "🎨",
         "title": "Colours",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/colours.json"
     },
-      {
+    {
         "id": "countries",
         "icon": "🌍",
         "title": "Countries",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/countries.json"
     },
-     {
+    {
+        "id": "daysofweek",
+        "icon": "📅",
+        "title": "Days of Week",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/days-of-week.json"
+    },
+    {
         "id": "nationalities",
         "icon": "🌐",
         "title": "Nationalities",
@@ -36,12 +56,19 @@
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/nationalities.json"
     },
     {
+        "id": "ordinalnumbers",
+        "icon": "🥇",
+        "title": "Ord Numbers",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/ordinal-numbers.json"
+    },
+    {
         "id": "personality",
         "icon": "🎭",
         "title": "Personality",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/personality.json"
-    },   
+    },
     {
         "id": "prepositionsofplace",
         "icon": "📍",
@@ -49,13 +76,18 @@
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/prepositions-of-place.json"
     },
-     {
+    {
+        "id": "things",
+        "icon": "📦",
+        "title": "Things",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/things.json"
+    },
+    {
         "id": "wear",
         "icon": "👕",
         "title": "Wear",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/wear.json"
     }
-
-   
 ]
