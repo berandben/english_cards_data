@@ -1,18 +1,12 @@
 [
-    {
-        "id": "colours",
-        "icon": "🎨",
-        "title": "Colours",
+   
+     {
+        "id": "adverbsoffrequency",
+        "icon": "⏰",
+        "title": "Adv of Frequency",
         "description": "",
-        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/colours.json"
-    },
-    {
-        "id": "wear",
-        "icon": "👕",
-        "title": "Wear",
-        "description": "",
-        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/wear.json"
-    },   
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/adverbs-of-frequency.json"
+    },      
     {
         "id": "appearance",
         "icon": "🪞",
@@ -20,6 +14,27 @@
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/appearance.json"
     },   
+     {
+        "id": "colours",
+        "icon": "🎨",
+        "title": "Colours",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/colours.json"
+    },
+      {
+        "id": "countries",
+        "icon": "🌍",
+        "title": "Countries",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/countries.json"
+    },
+     {
+        "id": "nationalities",
+        "icon": "🌐",
+        "title": "Nationalities",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/countries.json"
+    },
     {
         "id": "personality",
         "icon": "🎭",
@@ -30,16 +45,16 @@
     {
         "id": "prepositionsofplace",
         "icon": "📍",
-        "title": "Place",
+        "title": "Prep of Place",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/prepositions-of-place.json"
-    }, 
-    {
-        "id": "adverbsoffrequency",
-        "icon": "⏰",
-        "title": "Frequency",
+    },
+     {
+        "id": "wear",
+        "icon": "👕",
+        "title": "Wear",
         "description": "",
-        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/adverbs-of-frequency.json"
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/wear.json"
     }
 
    
