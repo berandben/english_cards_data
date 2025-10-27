@@ -1,0 +1,344 @@
+[
+  {
+    "spanish": "Cero",
+    "english": "Zero",
+    "pronunciation": "/ˈzɪə.rəʊ/",
+    "sentence": {
+      "english": "She isn't scoring zero in her exams anymore.",
+      "spanish": "Ella ya no saca cero en sus exámenes."
+    }
+  },
+  {
+    "spanish": "Uno",
+    "english": "One",
+    "pronunciation": "/wʌn/",
+    "sentence": {
+      "english": "Are they buying one ticket or two?",
+      "spanish": "¿Compran un billete o dos?"
+    }
+  },
+  {
+    "spanish": "Dos",
+    "english": "Two",
+    "pronunciation": "/tuː/",
+    "sentence": {
+      "english": "He was reading two books last month.",
+      "spanish": "Él leía dos libros el mes pasado."
+    }
+  },
+  {
+    "spanish": "Tres",
+    "english": "Three",
+    "pronunciation": "/θriː/",
+    "sentence": {
+      "english": "I'm not taking three courses this semester.",
+      "spanish": "No tomo tres cursos este semestre."
+    }
+  },
+  {
+    "spanish": "Cuatro",
+    "english": "Four",
+    "pronunciation": "/fɔːr/",
+    "sentence": {
+      "english": "Were you waiting for four hours at the airport?",
+      "spanish": "¿Esperaste cuatro horas en el aeropuerto?"
+    }
+  },
+  {
+    "spanish": "Cinco",
+    "english": "Five",
+    "pronunciation": "/faɪv/",
+    "sentence": {
+      "english": "They are visiting five countries on their trip.",
+      "spanish": "Ellos visitan cinco países en su viaje."
+    }
+  },
+  {
+    "spanish": "Seis",
+    "english": "Six",
+    "pronunciation": "/sɪks/",
+    "sentence": {
+      "english": "Does he work six days a week?",
+      "spanish": "¿Trabaja él seis días a la semana?"
+    }
+  },
+  {
+    "spanish": "Siete",
+    "english": "Seven",
+    "pronunciation": "/ˈsev.ən/",
+    "sentence": {
+      "english": "She wasn't sleeping seven hours each night.",
+      "spanish": "Ella no dormía siete horas cada noche."
+    }
+  },
+  {
+    "spanish": "Ocho",
+    "english": "Eight",
+    "pronunciation": "/eɪt/",
+    "sentence": {
+      "english": "Are we meeting at eight o'clock?",
+      "spanish": "¿Nos reunimos a las ocho en punto?"
+    }
+  },
+  {
+    "spanish": "Nueve",
+    "english": "Nine",
+    "pronunciation": "/naɪn/",
+    "sentence": {
+      "english": "He doesn't have nine siblings.",
+      "spanish": "Él no tiene nueve hermanos."
+    }
+  },
+  {
+    "spanish": "Diez",
+    "english": "Ten",
+    "pronunciation": "/ten/",
+    "sentence": {
+      "english": "I was living in London ten years ago.",
+      "spanish": "Yo vivía en Londres hace diez años."
+    }
+  },
+  {
+    "spanish": "Once",
+    "english": "Eleven",
+    "pronunciation": "/ɪˈlev.ən/",
+    "sentence": {
+      "english": "Are they arriving at eleven in the morning?",
+      "spanish": "¿Llegan a las once de la mañana?"
+    }
+  },
+  {
+    "spanish": "Doce",
+    "english": "Twelve",
+    "pronunciation": "/twelv/",
+    "sentence": {
+      "english": "She isn't eating twelve cookies every day.",
+      "spanish": "Ella no come doce galletas cada día."
+    }
+  },
+  {
+    "spanish": "Trece",
+    "english": "Thirteen",
+    "pronunciation": "/ˌθɜːˈtiːn/",
+    "sentence": {
+      "english": "Were there thirteen people at the meeting?",
+      "spanish": "¿Había trece personas en la reunión?"
+    }
+  },
+  {
+    "spanish": "Catorce",
+    "english": "Fourteen",
+    "pronunciation": "/ˌfɔːˈtiːn/",
+    "sentence": {
+      "english": "He is learning fourteen new words daily.",
+      "spanish": "Él aprende catorce palabras nuevas diariamente."
+    }
+  },
+  {
+    "spanish": "Quince",
+    "english": "Fifteen",
+    "pronunciation": "/ˌfɪfˈtiːn/",
+    "sentence": {
+      "english": "Do you usually walk fifteen minutes to work?",
+      "spanish": "¿Sueles caminar quince minutos al trabajo?"
+    }
+  },
+  {
+    "spanish": "Dieciséis",
+    "english": "Sixteen",
+    "pronunciation": "/ˌsɪkˈstiːn/",
+    "sentence": {
+      "english": "They weren't paying sixteen pounds for the ticket.",
+      "spanish": "Ellos no pagaban dieciséis libras por el billete."
+    }
+  },
+  {
+    "spanish": "Diecisiete",
+    "english": "Seventeen",
+    "pronunciation": "/ˌsev.ənˈtiːn/",
+    "sentence": {
+      "english": "Is she turning seventeen next week?",
+      "spanish": "¿Cumple diecisiete años la próxima semana?"
+    }
+  },
+  {
+    "spanish": "Dieciocho",
+    "english": "Eighteen",
+    "pronunciation": "/ˌeɪˈtiːn/",
+    "sentence": {
+      "english": "He doesn't work eighteen hours a day anymore.",
+      "spanish": "Él ya no trabaja dieciocho horas al día."
+    }
+  },
+  {
+    "spanish": "Diecinueve",
+    "english": "Nineteen",
+    "pronunciation": "/ˌnaɪnˈtiːn/",
+    "sentence": {
+      "english": "Were you studying nineteen chapters for the exam?",
+      "spanish": "¿Estudiaste diecinueve capítulos para el examen?"
+    }
+  },
+  {
+    "spanish": "Veinte",
+    "english": "Twenty",
+    "pronunciation": "/ˈtwen.ti/",
+    "sentence": {
+      "english": "They are planting twenty trees in the park.",
+      "spanish": "Ellos plantan veinte árboles en el parque."
+    }
+  },
+  {
+    "spanish": "Veintiuno",
+    "english": "Twenty-one",
+    "pronunciation": "/ˌtwen.tiˈwʌn/",
+    "sentence": {
+      "english": "Does he have twenty-one cousins?",
+      "spanish": "¿Tiene él veintiún primos?"
+    }
+  },
+  {
+    "spanish": "Treinta",
+    "english": "Thirty",
+    "pronunciation": "/ˈθɜː.ti/",
+    "sentence": {
+      "english": "She wasn't running thirty kilometres last week.",
+      "spanish": "Ella no corría treinta kilómetros la semana pasada."
+    }
+  },
+  {
+    "spanish": "Treinta y dos",
+    "english": "Thirty-two",
+    "pronunciation": "/ˌθɜː.tiˈtuː/",
+    "sentence": {
+      "english": "Are we meeting in thirty-two days?",
+      "spanish": "¿Nos reunimos en treinta y dos días?"
+    }
+  },
+  {
+    "spanish": "Cuarenta",
+    "english": "Forty",
+    "pronunciation": "/ˈfɔː.ti/",
+    "sentence": {
+      "english": "He doesn't earn forty thousand pounds a year.",
+      "spanish": "Él no gana cuarenta mil libras al año."
+    }
+  },
+  {
+    "spanish": "Cuarenta y cinco",
+    "english": "Forty-five",
+    "pronunciation": "/ˌfɔː.tiˈfaɪv/",
+    "sentence": {
+      "english": "Were they waiting for forty-five minutes?",
+      "spanish": "¿Esperaron cuarenta y cinco minutos?"
+    }
+  },
+  {
+    "spanish": "Cincuenta",
+    "english": "Fifty",
+    "pronunciation": "/ˈfɪf.ti/",
+    "sentence": {
+      "english": "I'm reading fifty pages every day.",
+      "spanish": "Leo cincuenta páginas cada día."
+    }
+  },
+  {
+    "spanish": "Sesenta",
+    "english": "Sixty",
+    "pronunciation": "/ˈsɪk.sti/",
+    "sentence": {
+      "english": "Do they have sixty employees in their company?",
+      "spanish": "¿Tienen sesenta empleados en su empresa?"
+    }
+  },
+  {
+    "spanish": "Setenta",
+    "english": "Seventy",
+    "pronunciation": "/ˈsev.ən.ti/",
+    "sentence": {
+      "english": "She wasn't paying seventy pounds for the dress.",
+      "spanish": "Ella no pagaba setenta libras por el vestido."
+    }
+  },
+  {
+    "spanish": "Ochenta",
+    "english": "Eighty",
+    "pronunciation": "/ˈeɪ.ti/",
+    "sentence": {
+      "english": "Is he turning eighty next birthday?",
+      "spanish": "¿Cumple ochenta años el próximo cumpleaños?"
+    }
+  },
+  {
+    "spanish": "Noventa",
+    "english": "Ninety",
+    "pronunciation": "/ˈnaɪn.ti/",
+    "sentence": {
+      "english": "They don't live ninety miles from here.",
+      "spanish": "Ellos no viven a noventa millas de aquí."
+    }
+  },
+  {
+    "spanish": "Noventa y nueve",
+    "english": "Ninety-nine",
+    "pronunciation": "/ˌnaɪn.tiˈnaɪn/",
+    "sentence": {
+      "english": "Were you solving ninety-nine problems for homework?",
+      "spanish": "¿Resolvías noventa y nueve problemas de tarea?"
+    }
+  },
+  {
+    "spanish": "Cien",
+    "english": "One hundred",
+    "pronunciation": "/wʌn ˈhʌn.drəd/",
+    "sentence": {
+      "english": "He is writing one hundred words per minute.",
+      "spanish": "Él escribe cien palabras por minuto."
+    }
+  },
+  {
+    "spanish": "Ciento veinticinco",
+    "english": "One hundred and twenty-five",
+    "pronunciation": "/wʌn ˌhʌn.drəd ənd ˌtwen.tiˈfaɪv/",
+    "sentence": {
+      "english": "Does she have one hundred and twenty-five followers?",
+      "spanish": "¿Tiene ella ciento veinticinco seguidores?"
+    }
+  },
+  {
+    "spanish": "Mil",
+    "english": "One thousand",
+    "pronunciation": "/wʌn ˈθaʊ.zənd/",
+    "sentence": {
+      "english": "They weren't spending one thousand pounds on holiday.",
+      "spanish": "Ellos no gastaban mil libras en vacaciones."
+    }
+  },
+  {
+    "spanish": "Dos mil cuatrocientos cincuenta",
+    "english": "Two thousand, four hundred and fifty",
+    "pronunciation": "/tuː ˌθaʊ.zənd fɔːr ˌhʌn.drəd ənd ˈfɪf.ti/",
+    "sentence": {
+      "english": "Are you earning two thousand, four hundred and fifty pounds per month?",
+      "spanish": "¿Ganas dos mil cuatrocientos cincuenta libras al mes?"
+    }
+  },
+  {
+    "spanish": "Un millón",
+    "english": "One million",
+    "pronunciation": "/wʌn ˈmɪl.jən/",
+    "sentence": {
+      "english": "He doesn't have one million pounds in the bank.",
+      "spanish": "Él no tiene un millón de libras en el banco."
+    }
+  },
+  {
+    "spanish": "Mil millones",
+    "english": "One billion",
+    "pronunciation": "/wʌn ˈbɪl.jən/",
+    "sentence": {
+      "english": "Were they investing one billion dollars in the project?",
+      "spanish": "¿Invertían mil millones de dólares en el proyecto?"
+    }
+  }
+]
