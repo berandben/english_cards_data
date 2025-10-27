@@ -252,6 +252,15 @@
     }
   },
   {
+    "spanish": "Cerca",
+    "english": "Near",
+    "pronunciation": "/nɪər/",
+    "sentence": {
+      "english": "She lives near the city centre.",
+      "spanish": "Ella vive cerca del centro de la ciudad."
+    }
+  },
+  {
     "spanish": "Junto a",
     "english": "Next to",
     "pronunciation": "/ˈnekst tuː/",

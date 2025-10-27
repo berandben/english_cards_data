@@ -7,13 +7,6 @@
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/adjectives.json"
     },
     {
-        "id": "adverbsoffrequency",
-        "icon": "⏰",
-        "title": "Adv of Frequency",
-        "description": "",
-        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/adverbs-of-frequency.json"
-    },
-    {
         "id": "appearance",
         "icon": "🪞",
         "title": "Appearance",
@@ -49,11 +42,25 @@
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/days-of-week.json"
     },
     {
+        "id": "directionaladverbs",
+        "icon": "⬆️",
+        "title": "Directional Adv",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/directional-adverbs.json"
+    },
+    {
         "id": "emotional",
         "icon": "😊",
         "title": "Emotional",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/emotional.json"
+    },
+    {
+        "id": "frequencyadverbs",
+        "icon": "⏰",
+        "title": "Frequency Adv",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/frequency-adverbs.json"
     },
     {
         "id": "nationalities",
@@ -77,11 +84,11 @@
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/personality.json"
     },
     {
-        "id": "prepositionsofplace",
+        "id": "placeprepositions",
         "icon": "📍",
-        "title": "Prep of Place",
+        "title": "Place Prep",
         "description": "",
-        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/prepositions-of-place.json"
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/place-prepositions.json"
     },
     {
         "id": "things",

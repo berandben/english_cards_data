@@ -1,0 +1,164 @@
+[
+    {
+        "spanish": "A través de",
+        "english": "Across",
+        "pronunciation": "/əˈkrɒs/",
+        "sentence": {
+            "english": "She isn't walking across the bridge today.",
+            "spanish": "Ella no camina a través del puente hoy."
+        }
+    },
+    {
+        "spanish": "A lo largo de",
+        "english": "Along",
+        "pronunciation": "/əˈlɒŋ/",
+        "sentence": {
+            "english": "Are they walking along the river every morning?",
+            "spanish": "¿Caminan a lo largo del río cada mañana?"
+        }
+    },
+    {
+        "spanish": "Alrededor de",
+        "english": "Around",
+        "pronunciation": "/əˈraʊnd/",
+        "sentence": {
+            "english": "He was driving around the city yesterday.",
+            "spanish": "Él conducía alrededor de la ciudad ayer."
+        }
+    },
+    {
+        "spanish": "Detrás de",
+        "english": "Behind",
+        "pronunciation": "/bɪˈhaɪnd/",
+        "sentence": {
+            "english": "I'm not hiding behind the tree.",
+            "spanish": "No me escondo detrás del árbol."
+        }
+    },
+    {
+        "spanish": "Abajo",
+        "english": "Down",
+        "pronunciation": "/daʊn/",
+        "sentence": {
+            "english": "Were you walking down the hill slowly?",
+            "spanish": "¿Caminabas colina abajo lentamente?"
+        }
+    },
+    {
+        "spanish": "Desde",
+        "english": "From",
+        "pronunciation": "/frɒm/",
+        "sentence": {
+            "english": "They are travelling from London to Paris.",
+            "spanish": "Ellos viajan desde Londres a París."
+        }
+    },
+    {
+        "spanish": "En frente de",
+        "english": "In front of",
+        "pronunciation": "/ɪn frʌnt əv/",
+        "sentence": {
+            "english": "Does he always park in front of the building?",
+            "spanish": "¿Aparca él siempre en frente del edificio?"
+        }
+    },
+    {
+        "spanish": "Dentro de",
+        "english": "Into",
+        "pronunciation": "/ˈɪn.tuː/",
+        "sentence": {
+            "english": "She wasn't going into the dark room.",
+            "spanish": "Ella no entraba dentro de la habitación oscura."
+        }
+    },
+    {
+        "spanish": "Fuera de",
+        "english": "Off",
+        "pronunciation": "/ɒf/",
+        "sentence": {
+            "english": "Are we getting off at the next stop?",
+            "spanish": "¿Nos bajamos en la siguiente parada?"
+        }
+    },
+    {
+        "spanish": "Sobre",
+        "english": "Onto",
+        "pronunciation": "/ˈɒn.tuː/",
+        "sentence": {
+            "english": "He doesn't jump onto the moving train.",
+            "spanish": "Él no salta sobre el tren en movimiento."
+        }
+    },
+    {
+        "spanish": "Fuera de",
+        "english": "Out of",
+        "pronunciation": "/ˈaʊt əv/",
+        "sentence": {
+            "english": "I was running out of the burning building.",
+            "spanish": "Yo corría fuera del edificio en llamas."
+        }
+    },
+    {
+        "spanish": "Sobre",
+        "english": "Over",
+        "pronunciation": "/ˈəʊ.vər/",
+        "sentence": {
+            "english": "Does she look over the documents carefully?",
+            "spanish": "¿Revisa ella los documentos sobre la mesa cuidadosamente?"
+        }
+    },
+    {
+        "spanish": "Pasado",
+        "english": "Past",
+        "pronunciation": "/pɑːst/",
+        "sentence": {
+            "english": "They weren't driving past the old school.",
+            "spanish": "Ellos no conducían pasado la vieja escuela."
+        }
+    },
+    {
+        "spanish": "A",
+        "english": "To",
+        "pronunciation": "/tuː/",
+        "sentence": {
+            "english": "She is going to the market every Saturday.",
+            "spanish": "Ella va al mercado cada sábado."
+        }
+    },
+    {
+        "spanish": "Hacia",
+        "english": "Towards",
+        "pronunciation": "/təˈwɔːdz/",
+        "sentence": {
+            "english": "Are you walking towards the city centre?",
+            "spanish": "¿Caminas hacia el centro de la ciudad?"
+        }
+    },
+    {
+        "spanish": "A través de",
+        "english": "Through",
+        "pronunciation": "/θruː/",
+        "sentence": {
+            "english": "He doesn't walk through the park at night.",
+            "spanish": "Él no camina a través del parque por la noche."
+        }
+    },
+    {
+        "spanish": "Debajo de",
+        "english": "Under",
+        "pronunciation": "/ˈʌn.dər/",
+        "sentence": {
+            "english": "Were they sitting under the tree for shade?",
+            "spanish": "¿Estaban sentados debajo del árbol para tener sombra?"
+        }
+    },
+    {
+        "spanish": "Arriba",
+        "english": "Up",
+        "pronunciation": "/ʌp/",
+        "sentence": {
+            "english": "Is she climbing up the mountain slowly?",
+            "spanish": "¿Está escalando arriba de la montaña lentamente?"
+        }
+    }
+]
