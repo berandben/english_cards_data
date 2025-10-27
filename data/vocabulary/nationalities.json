@@ -17,7 +17,7 @@
       "spanish": "¿Estás aprendiendo albanés para tu viaje a Tirana?"
     }
   },
-   {
+  {
     "spanish": "Americano",
     "english": "American",
     "pronunciation": "/əˈmer.ɪ.kən/",
@@ -1115,7 +1115,7 @@
       "spanish": "¿Escuchaban música Afrobeat nigeriana?"
     }
   },
- {
+  {
     "spanish": "Nigerino",
     "english": "Nigerien",
     "pronunciation": "/niːˌʒeə.riˈen/",
@@ -1577,7 +1577,7 @@
   {
     "spanish": "Tuvaluano",
     "english": "Tuvaluan",
-    "pronunciation": /ˌtuː.vəˈluː.ən/,
+    "pronunciation": "/ˌtuː.vəˈluː.ən/",
     "sentence": {
       "english": "Are you studying Tuvaluan climate change issues?",
       "spanish": "¿Estudias problemas de cambio climático tuvaluanos?"
@@ -1601,7 +1601,6 @@
       "spanish": "¿Cocinaba ella borscht ucraniano regularmente?"
     }
   },
- 
   {
     "spanish": "Uruguayo",
     "english": "Uruguayan",
