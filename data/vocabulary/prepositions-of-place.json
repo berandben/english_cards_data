@@ -9,156 +9,21 @@
     }
   },
   {
-    "spanish": "Detrás de",
-    "english": "Behind",
-    "pronunciation": "/bɪˈhaɪnd/",
+    "spanish": "Contiguo a",
+    "english": "Adjacent to",
+    "pronunciation": "/əˈdʒeɪ.sənt tuː/",
     "sentence": {
-      "english": "Are you standing behind me in the queue?",
-      "spanish": "¿Estás detrás de mí en la cola?"
-    }
-  },
-  {
-    "spanish": "Entre",
-    "english": "Between",
-    "pronunciation": "/bɪˈtwiːn/",
-    "sentence": {
-      "english": "She was sitting between her two brothers.",
-      "spanish": "Ella estaba sentada entre sus dos hermanos."
-    }
-  },
-  {
-    "spanish": "En",
-    "english": "In",
-    "pronunciation": "/ɪn/",
-    "sentence": {
-      "english": "He isn't in his office at the moment.",
-      "spanish": "Él no está en su oficina en este momento."
+      "english": "His office wasn't adjacent to the main hall.",
+      "spanish": "Su oficina no era contigua al salón principal."
     }
   },
   {
     "spanish": "Delante de",
-    "english": "In front of",
-    "pronunciation": "/ɪn frʌnt əv/",
+    "english": "Ahead of",
+    "pronunciation": "/əˈhed əv/",
     "sentence": {
-      "english": "Were they waiting in front of the cinema?",
-      "spanish": "¿Estaban esperando delante del cine?"
-    }
-  },
-  {
-    "spanish": "En la esquina",
-    "english": "In the corner",
-    "pronunciation": "/ɪn ðə ˈkɔː.nər/",
-    "sentence": {
-      "english": "She is placing the lamp in the corner of the room.",
-      "spanish": "Ella está colocando la lámpara en la esquina de la habitación."
-    }
-  },
-  {
-    "spanish": "En medio de",
-    "english": "In the middle of",
-    "pronunciation": "/ɪn ðə ˈmɪd.əl əv/",
-    "sentence": {
-      "english": "I wasn't standing in the middle of the road.",
-      "spanish": "Yo no estaba parado en medio de la carretera."
-    }
-  },
-  {
-    "spanish": "Junto a",
-    "english": "Next to",
-    "pronunciation": "/ˈnekst tuː/",
-    "sentence": {
-      "english": "Are you sitting next to the window?",
-      "spanish": "¿Estás sentado junto a la ventana?"
-    }
-  },
-  {
-    "spanish": "A la izquierda de",
-    "english": "On the left of",
-    "pronunciation": "/ɒn ðə left əv/",
-    "sentence": {
-      "english": "He always parks on the left of the building.",
-      "spanish": "Él siempre aparca a la izquierda del edificio."
-    }
-  },
-  {
-    "spanish": "Sobre",
-    "english": "On",
-    "pronunciation": "/ɒn/",
-    "sentence": {
-      "english": "The book wasn't on the table when I left.",
-      "spanish": "El libro no estaba sobre la mesa cuando me fui."
-    }
-  },
-  {
-    "spanish": "Debajo de",
-    "english": "Under",
-    "pronunciation": "/ˈʌn.dər/",
-    "sentence": {
-      "english": "She is looking under the bed for her shoes.",
-      "spanish": "Ella está buscando debajo de la cama sus zapatos."
-    }
-  },
-  {
-    "spanish": "Sobre",
-    "english": "Over",
-    "pronunciation": "/ˈəʊ.vər/",
-    "sentence": {
-      "english": "Are they building a bridge over the river?",
-      "spanish": "¿Están construyendo un puente sobre el río?"
-    }
-  },
-  {
-    "spanish": "Encima de",
-    "english": "On top of",
-    "pronunciation": "/ɒn tɒp əv/",
-    "sentence": {
-      "english": "He wasn't standing on top of the mountain alone.",
-      "spanish": "Él no estaba parado encima de la montaña solo."
-    }
-  },
-  {
-    "spanish": "Por encima",
-    "english": "Overhead",
-    "pronunciation": "/ˌəʊ.vəˈhed/",
-    "sentence": {
-      "english": "The planes aren't flying overhead today.",
-      "spanish": "Los aviones no vuelan por encima hoy."
-    }
-  },
-  {
-    "spanish": "Al fondo de",
-    "english": "At the back of",
-    "pronunciation": "/æt ðə bæk əv/",
-    "sentence": {
-      "english": "Were you sitting at the back of the classroom?",
-      "spanish": "¿Estabas sentado al fondo del aula?"
-    }
-  },
-  {
-    "spanish": "En la parte trasera de",
-    "english": "To the rear of",
-    "pronunciation": "/tuː ðə rɪər əv/",
-    "sentence": {
-      "english": "He is walking to the rear of the building.",
-      "spanish": "Él está caminando hacia la parte trasera del edificio."
-    }
-  },
-  {
-    "spanish": "Siguiendo",
-    "english": "Following",
-    "pronunciation": "/ˈfɒl.əʊ.ɪŋ/",
-    "sentence": {
-      "english": "She wasn't following the instructions properly.",
-      "spanish": "Ella no estaba siguiendo las instrucciones correctamente."
-    }
-  },
-  {
-    "spanish": "Entre",
-    "english": "In between",
-    "pronunciation": "/ɪn bɪˈtwiːn/",
-    "sentence": {
-      "english": "Are you sitting in between your parents?",
-      "spanish": "¿Estás sentado entre tus padres?"
+      "english": "She was running ahead of the other competitors.",
+      "spanish": "Ella corría delante de los otros competidores."
     }
   },
   {
@@ -180,75 +45,12 @@
     }
   },
   {
-    "spanish": "Dentro de",
-    "english": "Inside",
-    "pronunciation": "/ɪnˈsaɪd/",
+    "spanish": "A lo largo de",
+    "english": "Alongside",
+    "pronunciation": "/əˌlɒŋˈsaɪd/",
     "sentence": {
-      "english": "Are they waiting inside the building?",
-      "spanish": "¿Están esperando dentro del edificio?"
-    }
-  },
-  {
-    "spanish": "Dentro de",
-    "english": "Within",
-    "pronunciation": "/wɪˈðɪn/",
-    "sentence": {
-      "english": "He completed the task within the deadline.",
-      "spanish": "Él completó la tarea dentro del plazo."
-    }
-  },
-  {
-    "spanish": "Dentro de casa",
-    "english": "Indoors",
-    "pronunciation": "/ˌɪnˈdɔːz/",
-    "sentence": {
-      "english": "We aren't staying indoors all day.",
-      "spanish": "No nos quedamos dentro de casa todo el día."
-    }
-  },
-  {
-    "spanish": "Delante de",
-    "english": "Ahead of",
-    "pronunciation": "/əˈhed əv/",
-    "sentence": {
-      "english": "She was running ahead of the other competitors.",
-      "spanish": "Ella corría delante de los otros competidores."
-    }
-  },
-  {
-    "spanish": "Antes de",
-    "english": "Before",
-    "pronunciation": "/bɪˈfɔːr/",
-    "sentence": {
-      "english": "Are you arriving before the meeting starts?",
-      "spanish": "¿Llegas antes de que empiece la reunión?"
-    }
-  },
-  {
-    "spanish": "Enfrente de",
-    "english": "Facing",
-    "pronunciation": "/ˈfeɪ.sɪŋ/",
-    "sentence": {
-      "english": "He wasn't facing the audience during his speech.",
-      "spanish": "Él no estaba enfrente del público durante su discurso."
-    }
-  },
-  {
-    "spanish": "En la esquina",
-    "english": "At the corner",
-    "pronunciation": "/æt ðə ˈkɔː.nər/",
-    "sentence": {
-      "english": "They are meeting at the corner of the street.",
-      "spanish": "Se están reuniendo en la esquina de la calle."
-    }
-  },
-  {
-    "spanish": "En la esquina",
-    "english": "On the corner",
-    "pronunciation": "/ɒn ðə ˈkɔː.nər/",
-    "sentence": {
-      "english": "Is the shop on the corner still open?",
-      "spanish": "¿La tienda en la esquina sigue abierta?"
+      "english": "Are they working alongside the experienced team?",
+      "spanish": "¿Están trabajando a lo largo del equipo experimentado?"
     }
   },
   {
@@ -261,6 +63,15 @@
     }
   },
   {
+    "spanish": "Al fondo de",
+    "english": "At the back of",
+    "pronunciation": "/æt ðə bæk əv/",
+    "sentence": {
+      "english": "Were you sitting at the back of the classroom?",
+      "spanish": "¿Estabas sentado al fondo del aula?"
+    }
+  },
+  {
     "spanish": "En el centro de",
     "english": "At the center of",
     "pronunciation": "/æt ðə ˈsen.tər əv/",
@@ -270,93 +81,30 @@
     }
   },
   {
-    "spanish": "En el centro de",
-    "english": "In the center of",
-    "pronunciation": "/ɪn ðə ˈsen.tər əv/",
+    "spanish": "En la esquina",
+    "english": "At the corner",
+    "pronunciation": "/æt ðə ˈkɔː.nər/",
     "sentence": {
-      "english": "Are they placing the statue in the center of the square?",
-      "spanish": "¿Están colocando la estatua en el centro de la plaza?"
+      "english": "They are meeting at the corner of the street.",
+      "spanish": "Se están reuniendo en la esquina de la calle."
     }
   },
   {
-    "spanish": "Rodeado de",
-    "english": "Surrounded by",
-    "pronunciation": "/səˈraʊn.dɪd baɪ/",
+    "spanish": "Detrás de",
+    "english": "Behind",
+    "pronunciation": "/bɪˈhaɪnd/",
     "sentence": {
-      "english": "He was surrounded by his friends at the party.",
-      "spanish": "Él estaba rodeado de sus amigos en la fiesta."
+      "english": "Are you standing behind me in the queue?",
+      "spanish": "¿Estás detrás de mí en la cola?"
     }
   },
   {
-    "spanish": "Al lado de",
-    "english": "Beside",
-    "pronunciation": "/bɪˈsaɪd/",
+    "spanish": "Antes de",
+    "english": "Before",
+    "pronunciation": "/bɪˈfɔːr/",
     "sentence": {
-      "english": "She isn't sitting beside her sister today.",
-      "spanish": "Ella no está sentada al lado de su hermana hoy."
-    }
-  },
-  {
-    "spanish": "A lo largo de",
-    "english": "Alongside",
-    "pronunciation": "/əˌlɒŋˈsaɪd/",
-    "sentence": {
-      "english": "Are they working alongside the experienced team?",
-      "spanish": "¿Están trabajando a lo largo del equipo experimentado?"
-    }
-  },
-  {
-    "spanish": "Contiguo a",
-    "english": "Adjacent to",
-    "pronunciation": "/əˈdʒeɪ.sənt tuː/",
-    "sentence": {
-      "english": "His office wasn't adjacent to the main hall.",
-      "spanish": "Su oficina no era contigua al salón principal."
-    }
-  },
-  {
-    "spanish": "Junto a",
-    "english": "By",
-    "pronunciation": "/baɪ/",
-    "sentence": {
-      "english": "He is standing by the window.",
-      "spanish": "Él está parado junto a la ventana."
-    }
-  },
-  {
-    "spanish": "A la izquierda/derecha",
-    "english": "To the left/right",
-    "pronunciation": "/tuː ðə left/raɪt/",
-    "sentence": {
-      "english": "Are you turning to the left at the next junction?",
-      "spanish": "¿Giras a la izquierda en el próximo cruce?"
-    }
-  },
-  {
-    "spanish": "En el lado izquierdo/derecho",
-    "english": "On the left-hand/right-hand side",
-    "pronunciation": "/ɒn ðə left-hænd/raɪt-hænd saɪd/",
-    "sentence": {
-      "english": "She wasn't driving on the left-hand side of the road.",
-      "spanish": "Ella no conducía en el lado izquierdo de la carretera."
-    }
-  },
-  {
-    "spanish": "Hacia la izquierda",
-    "english": "Leftward",
-    "pronunciation": "/ˈleft.wəd/",
-    "sentence": {
-      "english": "The car is moving leftward slowly.",
-      "spanish": "El coche se mueve lentamente hacia la izquierda."
-    }
-  },
-  {
-    "spanish": "Hacia la derecha",
-    "english": "Rightward",
-    "pronunciation": "/ˈraɪt.wəd/",
-    "sentence": {
-      "english": "Are they shifting rightward in their political views?",
-      "spanish": "¿Se están desplazando hacia la derecha en sus opiniones políticas?"
+      "english": "Are you arriving before the meeting starts?",
+      "spanish": "¿Llegas antes de que empiece la reunión?"
     }
   },
   {
@@ -378,6 +126,249 @@
     }
   },
   {
+    "spanish": "Al lado de",
+    "english": "Beside",
+    "pronunciation": "/bɪˈsaɪd/",
+    "sentence": {
+      "english": "She isn't sitting beside her sister today.",
+      "spanish": "Ella no está sentada al lado de su hermana hoy."
+    }
+  },
+  {
+    "spanish": "Entre",
+    "english": "Between",
+    "pronunciation": "/bɪˈtwiːn/",
+    "sentence": {
+      "english": "She was sitting between her two brothers.",
+      "spanish": "Ella estaba sentada entre sus dos hermanos."
+    }
+  },
+  {
+    "spanish": "Junto a",
+    "english": "By",
+    "pronunciation": "/baɪ/",
+    "sentence": {
+      "english": "He is standing by the window.",
+      "spanish": "Él está parado junto a la ventana."
+    }
+  },
+  {
+    "spanish": "Enfrente de",
+    "english": "Facing",
+    "pronunciation": "/ˈfeɪ.sɪŋ/",
+    "sentence": {
+      "english": "He wasn't facing the audience during his speech.",
+      "spanish": "Él no estaba enfrente del público durante su discurso."
+    }
+  },
+  {
+    "spanish": "Siguiendo",
+    "english": "Following",
+    "pronunciation": "/ˈfɒl.əʊ.ɪŋ/",
+    "sentence": {
+      "english": "She wasn't following the instructions properly.",
+      "spanish": "Ella no estaba siguiendo las instrucciones correctamente."
+    }
+  },
+  {
+    "spanish": "En",
+    "english": "In",
+    "pronunciation": "/ɪn/",
+    "sentence": {
+      "english": "He isn't in his office at the moment.",
+      "spanish": "Él no está en su oficina en este momento."
+    }
+  },
+  {
+    "spanish": "Entre",
+    "english": "In between",
+    "pronunciation": "/ɪn bɪˈtwiːn/",
+    "sentence": {
+      "english": "Are you sitting in between your parents?",
+      "spanish": "¿Estás sentado entre tus padres?"
+    }
+  },
+  {
+    "spanish": "En el centro de",
+    "english": "In the center of",
+    "pronunciation": "/ɪn ðə ˈsen.tər əv/",
+    "sentence": {
+      "english": "Are they placing the statue in the center of the square?",
+      "spanish": "¿Están colocando la estatua en el centro de la plaza?"
+    }
+  },
+  {
+    "spanish": "En la esquina",
+    "english": "In the corner",
+    "pronunciation": "/ɪn ðə ˈkɔː.nər/",
+    "sentence": {
+      "english": "She is placing the lamp in the corner of the room.",
+      "spanish": "Ella está colocando la lámpara en la esquina de la habitación."
+    }
+  },
+  {
+    "spanish": "Delante de",
+    "english": "In front of",
+    "pronunciation": "/ɪn frʌnt əv/",
+    "sentence": {
+      "english": "Were they waiting in front of the cinema?",
+      "spanish": "¿Estaban esperando delante del cine?"
+    }
+  },
+  {
+    "spanish": "En medio de",
+    "english": "In the middle of",
+    "pronunciation": "/ɪn ðə ˈmɪd.əl əv/",
+    "sentence": {
+      "english": "I wasn't standing in the middle of the road.",
+      "spanish": "Yo no estaba parado en medio de la carretera."
+    }
+  },
+  {
+    "spanish": "Dentro de casa",
+    "english": "Indoors",
+    "pronunciation": "/ˌɪnˈdɔːz/",
+    "sentence": {
+      "english": "We aren't staying indoors all day.",
+      "spanish": "No nos quedamos dentro de casa todo el día."
+    }
+  },
+  {
+    "spanish": "Dentro de",
+    "english": "Inside",
+    "pronunciation": "/ɪnˈsaɪd/",
+    "sentence": {
+      "english": "Are they waiting inside the building?",
+      "spanish": "¿Están esperando dentro del edificio?"
+    }
+  },
+  {
+    "spanish": "Hacia la izquierda",
+    "english": "Leftward",
+    "pronunciation": "/ˈleft.wəd/",
+    "sentence": {
+      "english": "The car is moving leftward slowly.",
+      "spanish": "El coche se mueve lentamente hacia la izquierda."
+    }
+  },
+  {
+    "spanish": "Junto a",
+    "english": "Next to",
+    "pronunciation": "/ˈnekst tuː/",
+    "sentence": {
+      "english": "Are you sitting next to the window?",
+      "spanish": "¿Estás sentado junto a la ventana?"
+    }
+  },
+  {
+    "spanish": "Sobre",
+    "english": "On",
+    "pronunciation": "/ɒn/",
+    "sentence": {
+      "english": "The book wasn't on the table when I left.",
+      "spanish": "El libro no estaba sobre la mesa cuando me fui."
+    }
+  },
+  {
+    "spanish": "En la esquina",
+    "english": "On the corner",
+    "pronunciation": "/ɒn ðə ˈkɔː.nər/",
+    "sentence": {
+      "english": "Is the shop on the corner still open?",
+      "spanish": "¿La tienda en la esquina sigue abierta?"
+    }
+  },
+  {
+    "spanish": "En la izquierda/derecha",
+    "english": "On the left/right",
+    "pronunciation": "/ɒn ðə left/raɪt/",
+    "sentence": {
+      "english": "He always parks on the left of the building.",
+      "spanish": "Él siempre aparca a la izquierda del edificio."
+    }
+  },
+  {
+    "spanish": "En el lado izquierdo/derecho",
+    "english": "On the left-hand/right-hand side",
+    "pronunciation": "/ɒn ðə left-hænd/raɪt-hænd saɪd/",
+    "sentence": {
+      "english": "She wasn't driving on the left-hand side of the road.",
+      "spanish": "Ella no conducía en el lado izquierdo de la carretera."
+    }
+  },
+  {
+    "spanish": "Encima de",
+    "english": "On top of",
+    "pronunciation": "/ɒn tɒp əv/",
+    "sentence": {
+      "english": "He wasn't standing on top of the mountain alone.",
+      "spanish": "Él no estaba parado encima de la montaña solo."
+    }
+  },
+  {
+    "spanish": "Sobre",
+    "english": "Over",
+    "pronunciation": "/ˈəʊ.vər/",
+    "sentence": {
+      "english": "Are they building a bridge over the river?",
+      "spanish": "¿Están construyendo un puente sobre el río?"
+    }
+  },
+  {
+    "spanish": "Por encima",
+    "english": "Overhead",
+    "pronunciation": "/ˌəʊ.vəˈhed/",
+    "sentence": {
+      "english": "The planes aren't flying overhead today.",
+      "spanish": "Los aviones no vuelan por encima hoy."
+    }
+  },
+  {
+    "spanish": "Hacia la derecha",
+    "english": "Rightward",
+    "pronunciation": "/ˈraɪt.wəd/",
+    "sentence": {
+      "english": "Are they shifting rightward in their political views?",
+      "spanish": "¿Se están desplazando hacia la derecha en sus opiniones políticas?"
+    }
+  },
+  {
+    "spanish": "Rodeado de",
+    "english": "Surrounded by",
+    "pronunciation": "/səˈraʊn.dɪd baɪ/",
+    "sentence": {
+      "english": "He was surrounded by his friends at the party.",
+      "spanish": "Él estaba rodeado de sus amigos en la fiesta."
+    }
+  },
+  {
+    "spanish": "En la parte trasera de",
+    "english": "To the rear of",
+    "pronunciation": "/tuː ðə rɪər əv/",
+    "sentence": {
+      "english": "He is walking to the rear of the building.",
+      "spanish": "Él está caminando hacia la parte trasera del edificio."
+    }
+  },
+  {
+    "spanish": "A la izquierda/derecha",
+    "english": "To the left/right",
+    "pronunciation": "/tuː ðə left/raɪt/",
+    "sentence": {
+      "english": "Are you turning to the left at the next junction?",
+      "spanish": "¿Giras a la izquierda en el próximo cruce?"
+    }
+  },
+  {
+    "spanish": "Debajo de",
+    "english": "Under",
+    "pronunciation": "/ˈʌn.dər/",
+    "sentence": {
+      "english": "She is looking under the bed for her shoes.",
+      "spanish": "Ella está buscando debajo de la cama sus zapatos."
+    }
+  },
+  {
     "spanish": "Debajo de",
     "english": "Underneath",
     "pronunciation": "/ˌʌn.dəˈniːθ/",
@@ -387,12 +378,12 @@
     }
   },
   {
-    "spanish": "Después de",
-    "english": "After",
-    "pronunciation": "/ˈɑːf.tər/",
+    "spanish": "Dentro de",
+    "english": "Within",
+    "pronunciation": "/wɪˈðɪn/",
     "sentence": {
-      "english": "Are they arriving after the ceremony?",
-      "spanish": "¿Llegan después de la ceremonia?"
+      "english": "He completed the task within the deadline.",
+      "spanish": "Él completó la tarea dentro del plazo."
     }
   }
 ]
