@@ -1,0 +1,254 @@
+[
+  {
+    "spanish": "Primero",
+    "english": "First",
+    "pronunciation": "/fɜːst/",
+    "sentence": {
+      "english": "She isn't finishing first in the race today.",
+      "spanish": "Ella no termina primera en la carrera hoy."
+    }
+  },
+  {
+    "spanish": "Segundo",
+    "english": "Second",
+    "pronunciation": "/ˈsek.ənd/",
+    "sentence": {
+      "english": "Are they arriving second at the meeting?",
+      "spanish": "¿Llegan segundos a la reunión?"
+    }
+  },
+  {
+    "spanish": "Tercero",
+    "english": "Third",
+    "pronunciation": "/θɜːd/",
+    "sentence": {
+      "english": "He was living on the third floor last year.",
+      "spanish": "Él vivía en el tercer piso el año pasado."
+    }
+  },
+  {
+    "spanish": "Cuarto",
+    "english": "Fourth",
+    "pronunciation": "/fɔːθ/",
+    "sentence": {
+      "english": "I'm not visiting for the fourth time this month.",
+      "spanish": "No visito por cuarta vez este mes."
+    }
+  },
+  {
+    "spanish": "Quinto",
+    "english": "Fifth",
+    "pronunciation": "/fɪfθ/",
+    "sentence": {
+      "english": "Were you watching the fifth episode yesterday?",
+      "spanish": "¿Viste el quinto episodio ayer?"
+    }
+  },
+  {
+    "spanish": "Sexto",
+    "english": "Sixth",
+    "pronunciation": "/sɪksθ/",
+    "sentence": {
+      "english": "They are celebrating their sixth anniversary.",
+      "spanish": "Ellos celebran su sexto aniversario."
+    }
+  },
+  {
+    "spanish": "Séptimo",
+    "english": "Seventh",
+    "pronunciation": "/ˈsev.ənθ/",
+    "sentence": {
+      "english": "Does he work on the seventh day of the week?",
+      "spanish": "¿Trabaja él el séptimo día de la semana?"
+    }
+  },
+  {
+    "spanish": "Octavo",
+    "english": "Eighth",
+    "pronunciation": "/eɪtθ/",
+    "sentence": {
+      "english": "She wasn't born on the eighth of August.",
+      "spanish": "Ella no nació el ocho de agosto."
+    }
+  },
+  {
+    "spanish": "Noveno",
+    "english": "Ninth",
+    "pronunciation": "/naɪnθ/",
+    "sentence": {
+      "english": "Are we studying the ninth chapter this week?",
+      "spanish": "¿Estudiamos el noveno capítulo esta semana?"
+    }
+  },
+  {
+    "spanish": "Décimo",
+    "english": "Tenth",
+    "pronunciation": "/tenθ/",
+    "sentence": {
+      "english": "He doesn't remember his tenth birthday.",
+      "spanish": "Él no recuerda su décimo cumpleaños."
+    }
+  },
+  {
+    "spanish": "Undécimo",
+    "english": "Eleventh",
+    "pronunciation": "/ɪˈlev.ənθ/",
+    "sentence": {
+      "english": "Were they staying until the eleventh hour?",
+      "spanish": "¿Se quedaron hasta la undécima hora?"
+    }
+  },
+  {
+    "spanish": "Duodécimo",
+    "english": "Twelfth",
+    "pronunciation": "/twelfθ/",
+    "sentence": {
+      "english": "I'm not available on the twelfth of December.",
+      "spanish": "No estoy disponible el doce de diciembre."
+    }
+  },
+  {
+    "spanish": "Decimotercero",
+    "english": "Thirteenth",
+    "pronunciation": "/ˌθɜːˈtiːnθ/",
+    "sentence": {
+      "english": "Are you superstitious about the thirteenth floor?",
+      "spanish": "¿Eres supersticioso con el decimotercer piso?"
+    }
+  },
+  {
+    "spanish": "Decimocuarto",
+    "english": "Fourteenth",
+    "pronunciation": "/ˌfɔːˈtiːnθ/",
+    "sentence": {
+      "english": "He was writing his fourteenth novel last year.",
+      "spanish": "Él escribía su decimocuarta novela el año pasado."
+    }
+  },
+  {
+    "spanish": "Decimoquinto",
+    "english": "Fifteenth",
+    "pronunciation": "/ˌfɪfˈtiːnθ/",
+    "sentence": {
+      "english": "Does she teach the fifteenth lesson today?",
+      "spanish": "¿Enseña ella la decimoquinta lección hoy?"
+    }
+  },
+  {
+    "spanish": "Decimosexto",
+    "english": "Sixteenth",
+    "pronunciation": "/ˌsɪkˈstiːnθ/",
+    "sentence": {
+      "english": "They weren't celebrating their sixteenth birthday together.",
+      "spanish": "Ellos no celebraban su decimosexto cumpleaños juntos."
+    }
+  },
+  {
+    "spanish": "Decimoséptimo",
+    "english": "Seventeenth",
+    "pronunciation": "/ˌsev.ənˈtiːnθ/",
+    "sentence": {
+      "english": "Is he arriving on the seventeenth of May?",
+      "spanish": "¿Llega él el diecisiete de mayo?"
+    }
+  },
+  {
+    "spanish": "Decimoctavo",
+    "english": "Eighteenth",
+    "pronunciation": "/ˌeɪˈtiːnθ/",
+    "sentence": {
+      "english": "She doesn't live in the eighteenth century.",
+      "spanish": "Ella no vive en el siglo dieciocho."
+    }
+  },
+  {
+    "spanish": "Decimonoveno",
+    "english": "Nineteenth",
+    "pronunciation": "/ˌnaɪnˈtiːnθ/",
+    "sentence": {
+      "english": "Were you studying nineteenth-century literature?",
+      "spanish": "¿Estudiabas literatura del siglo diecinueve?"
+    }
+  },
+  {
+    "spanish": "Vigésimo",
+    "english": "Twentieth",
+    "pronunciation": "/ˈtwen.ti.əθ/",
+    "sentence": {
+      "english": "They are celebrating their twentieth wedding anniversary.",
+      "spanish": "Ellos celebran su vigésimo aniversario de boda."
+    }
+  },
+  {
+    "spanish": "Trigésimo",
+    "english": "Thirtieth",
+    "pronunciation": "/ˈθɜː.ti.əθ/",
+    "sentence": {
+      "english": "Does he start his thirtieth year at the company?",
+      "spanish": "¿Comienza su trigésimo año en la empresa?"
+    }
+  },
+  {
+    "spanish": "Cuadragésimo",
+    "english": "Fortieth",
+    "pronunciation": "/ˈfɔː.ti.əθ/",
+    "sentence": {
+      "english": "She wasn't attending her fortieth class reunion.",
+      "spanish": "Ella no asistía a su cuadragésima reunión de clase."
+    }
+  },
+  {
+    "spanish": "Quincuagésimo",
+    "english": "Fiftieth",
+    "pronunciation": "/ˈfɪf.ti.əθ/",
+    "sentence": {
+      "english": "Are we planning a fiftieth birthday party?",
+      "spanish": "¿Planeamos una fiesta de quincuagésimo cumpleaños?"
+    }
+  },
+  {
+    "spanish": "Sexagésimo",
+    "english": "Sixtieth",
+    "pronunciation": "/ˈsɪk.sti.əθ/",
+    "sentence": {
+      "english": "He doesn't remember his sixtieth anniversary.",
+      "spanish": "Él no recuerda su sexagésimo aniversario."
+    }
+  },
+  {
+    "spanish": "Septuagésimo",
+    "english": "Seventieth",
+    "pronunciation": "/ˈsev.ən.ti.əθ/",
+    "sentence": {
+      "english": "Were they celebrating their seventieth year together?",
+      "spanish": "¿Celebraban su septuagésimo año juntos?"
+    }
+  },
+  {
+    "spanish": "Octogésimo",
+    "english": "Eightieth",
+    "pronunciation": "/ˈeɪ.ti.əθ/",
+    "sentence": {
+      "english": "Is she writing her eightieth book?",
+      "spanish": "¿Escribe su octogésimo libro?"
+    }
+  },
+  {
+    "spanish": "Nonagésimo",
+    "english": "Ninetieth",
+    "pronunciation": "/ˈnaɪn.ti.əθ/",
+    "sentence": {
+      "english": "They aren't visiting for the ninetieth time.",
+      "spanish": "Ellos no visitan por nonagésima vez."
+    }
+  },
+  {
+    "spanish": "Centésimo",
+    "english": "One hundredth",
+    "pronunciation": "/wʌn ˈhʌn.drədθ/",
+    "sentence": {
+      "english": "Does he receive his one hundredth award this year?",
+      "spanish": "¿Recibe su centésimo premio este año?"
+    }
+  }
+]
