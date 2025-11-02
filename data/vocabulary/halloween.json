@@ -1,0 +1,497 @@
+[
+  {
+    "spanish": "Murciélago",
+    "english": "Bat",
+    "pronunciation": "/bæt/",
+    "sentence": {
+      "english": "She isn't afraid of bats flying at night.",
+      "spanish": "Ella no tiene miedo de los murciélagos volando de noche."
+    }
+  },
+  {
+    "spanish": "Banshee",
+    "english": "Banshee",
+    "pronunciation": "/ˈbæn.ʃiː/",
+    "sentence": {
+      "english": "Are they telling stories about the banshee?",
+      "spanish": "¿Cuentan historias sobre la banshee?"
+    }
+  },
+  {
+    "spanish": "Gato negro",
+    "english": "Black cat",
+    "pronunciation": "/blæk kæt/",
+    "sentence": {
+      "english": "He was following a black cat yesterday.",
+      "spanish": "Él seguía a un gato negro ayer."
+    }
+  },
+  {
+    "spanish": "Caldero",
+    "english": "Cauldron",
+    "pronunciation": "/ˈkɔːl.drən/",
+    "sentence": {
+      "english": "I'm not stirring the cauldron for the potion.",
+      "spanish": "No remuevo el caldero para la poción."
+    }
+  },
+  {
+    "spanish": "Vela",
+    "english": "Candle",
+    "pronunciation": "/ˈkæn.dəl/",
+    "sentence": {
+      "english": "Were you lighting candles in the haunted house?",
+      "spanish": "¿Encendías velas en la casa encantada?"
+    }
+  },
+  {
+    "spanish": "Caramelos",
+    "english": "Candy",
+    "pronunciation": "/ˈkæn.di/",
+    "sentence": {
+      "english": "They are giving out candy to children.",
+      "spanish": "Ellos reparten caramelos a los niños."
+    }
+  },
+  {
+    "spanish": "Dulce de maíz",
+    "english": "Candy corn",
+    "pronunciation": "/ˈkæn.di kɔːn/",
+    "sentence": {
+      "english": "Does she like eating candy corn?",
+      "spanish": "¿Le gusta comer dulce de maíz?"
+    }
+  },
+  {
+    "spanish": "Manzana acaramelada",
+    "english": "Candy apple",
+    "pronunciation": "/ˈkæn.di ˌæp.əl/",
+    "sentence": {
+      "english": "He wasn't making candy apples for the party.",
+      "spanish": "Él no hacía manzanas acarameladas para la fiesta."
+    }
+  },
+  {
+    "spanish": "Cementerio",
+    "english": "Cemetery",
+    "pronunciation": "/ˈsem.ə.tri/",
+    "sentence": {
+      "english": "Are we walking through the cemetery at night?",
+      "spanish": "¿Caminamos por el cementerio de noche?"
+    }
+  },
+  {
+    "spanish": "Ataúd",
+    "english": "Coffin",
+    "pronunciation": "/ˈkɒf.ɪn/",
+    "sentence": {
+      "english": "She doesn't want to see the open coffin.",
+      "spanish": "Ella no quiere ver el ataúd abierto."
+    }
+  },
+  {
+    "spanish": "Disfraz",
+    "english": "Costume",
+    "pronunciation": "/ˈkɒs.tjuːm/",
+    "sentence": {
+      "english": "Were they wearing scary costumes last Halloween?",
+      "spanish": "¿Llevaban disfraces de miedo el pasado Halloween?"
+    }
+  },
+  {
+    "spanish": "Siniestro",
+    "english": "Creepy",
+    "pronunciation": "/ˈkriː.pi/",
+    "sentence": {
+      "english": "The old house looks creepy in the moonlight.",
+      "spanish": "La casa vieja parece siniestra a la luz de la luna."
+    }
+  },
+  {
+    "spanish": "Maldición",
+    "english": "Curse",
+    "pronunciation": "/kɜːs/",
+    "sentence": {
+      "english": "Does he believe in the family curse?",
+      "spanish": "¿Cree en la maldición familiar?"
+    }
+  },
+  {
+    "spanish": "Oscuridad",
+    "english": "Darkness",
+    "pronunciation": "/ˈdɑːk.nəs/",
+    "sentence": {
+      "english": "They weren't afraid of the darkness.",
+      "spanish": "Ellos no tenían miedo de la oscuridad."
+    }
+  },
+  {
+    "spanish": "Muerte",
+    "english": "Death",
+    "pronunciation": "/deθ/",
+    "sentence": {
+      "english": "Is she reading a book about death?",
+      "spanish": "¿Lee un libro sobre la muerte?"
+    }
+  },
+  {
+    "spanish": "Demonio",
+    "english": "Demon",
+    "pronunciation": "/ˈdiː.mən/",
+    "sentence": {
+      "english": "He doesn't believe in demons.",
+      "spanish": "Él no cree en demonios."
+    }
+  },
+  {
+    "spanish": "Sobrenatural",
+    "english": "Eerie",
+    "pronunciation": "/ˈɪə.ri/",
+    "sentence": {
+      "english": "I was feeling an eerie presence in the room.",
+      "spanish": "Sentía una presencia sobrenatural en la habitación."
+    }
+  },
+  {
+    "spanish": "Fantasma",
+    "english": "Ghost",
+    "pronunciation": "/ɡəʊst/",
+    "sentence": {
+      "english": "Are you telling ghost stories around the fire?",
+      "spanish": "¿Cuentas historias de fantasmas alrededor del fuego?"
+    }
+  },
+  {
+    "spanish": "Tumba",
+    "english": "Ghoul",
+    "pronunciation": "/ɡuːl/",
+    "sentence": {
+      "english": "She wasn't scared by the ghoul in the story.",
+      "spanish": "Ella no se asustó por la tumba en la historia."
+    }
+  },
+  {
+    "spanish": "Duende malicioso",
+    "english": "Goblin",
+    "pronunciation": "/ˈɡɒb.lɪn/",
+    "sentence": {
+      "english": "They are drawing pictures of goblins.",
+      "spanish": "Ellos dibujan imágenes de duendes maliciosos."
+    }
+  },
+  {
+    "spanish": "Cementerio",
+    "english": "Graveyard",
+    "pronunciation": "/ˈɡreɪv.jɑːd/",
+    "sentence": {
+      "english": "Does he walk through the graveyard at night?",
+      "spanish": "¿Camina por el cementerio de noche?"
+    }
+  },
+  {
+    "spanish": "Lápida",
+    "english": "Gravestone",
+    "pronunciation": "/ˈɡreɪv.stəʊn/",
+    "sentence": {
+      "english": "He wasn't reading the gravestones carefully.",
+      "spanish": "Él no leía las lápidas cuidadosamente."
+    }
+  },
+  {
+    "spanish": "La Parca",
+    "english": "Grim Reaper",
+    "pronunciation": "/ɡrɪm ˈriː.pər/",
+    "sentence": {
+      "english": "Are we dressing up as the Grim Reaper?",
+      "spanish": "¿Nos disfrazamos de la Parca?"
+    }
+  },
+  {
+    "spanish": "Casa encantada",
+    "english": "Haunted house",
+    "pronunciation": "/ˌhɔːn.tɪd ˈhaʊs/",
+    "sentence": {
+      "english": "She doesn't want to enter the haunted house.",
+      "spanish": "Ella no quiere entrar en la casa encantada."
+    }
+  },
+  {
+    "spanish": "Encantado",
+    "english": "Haunted",
+    "pronunciation": "/ˈhɔːn.tɪd/",
+    "sentence": {
+      "english": "Were you staying in a haunted hotel?",
+      "spanish": "¿Te quedabas en un hotel encantado?"
+    }
+  },
+  {
+    "spanish": "Horror",
+    "english": "Horror",
+    "pronunciation": "/ˈhɒr.ər/",
+    "sentence": {
+      "english": "They are watching horror movies tonight.",
+      "spanish": "Ellos ven películas de horror esta noche."
+    }
+  },
+  {
+    "spanish": "Calabaza tallada",
+    "english": "Jack-o'-lantern",
+    "pronunciation": "/ˌdʒæk.əˈlæn.tən/",
+    "sentence": {
+      "english": "Does he carve a jack-o'-lantern every year?",
+      "spanish": "¿Tallaba una calabaza cada año?"
+    }
+  },
+  {
+    "spanish": "Linterna",
+    "english": "Lantern",
+    "pronunciation": "/ˈlæn.tən/",
+    "sentence": {
+      "english": "She wasn't carrying a lantern in the dark.",
+      "spanish": "Ella no llevaba una linterna en la oscuridad."
+    }
+  },
+  {
+    "spanish": "Magia",
+    "english": "Magic",
+    "pronunciation": "/ˈmædʒ.ɪk/",
+    "sentence": {
+      "english": "Are you learning magic tricks?",
+      "spanish": "¿Aprendes trucos de magia?"
+    }
+  },
+  {
+    "spanish": "Mansión",
+    "english": "Mansion",
+    "pronunciation": "/ˈmæn.ʃən/",
+    "sentence": {
+      "english": "He doesn't live in that old mansion.",
+      "spanish": "Él no vive en esa mansión vieja."
+    }
+  },
+  {
+    "spanish": "Máscara",
+    "english": "Mask",
+    "pronunciation": "/mɑːsk/",
+    "sentence": {
+      "english": "I was wearing a scary mask last Halloween.",
+      "spanish": "Llevaba una máscara de miedo el pasado Halloween."
+    }
+  },
+  {
+    "spanish": "Mascarada",
+    "english": "Masquerade",
+    "pronunciation": "/ˌmæs.kərˈeɪd/",
+    "sentence": {
+      "english": "Does she enjoy masquerade parties?",
+      "spanish": "¿Disfruta de las fiestas de mascarada?"
+    }
+  },
+  {
+    "spanish": "Monstruo",
+    "english": "Monster",
+    "pronunciation": "/ˈmɒn.stər/",
+    "sentence": {
+      "english": "They weren't afraid of the monster under the bed.",
+      "spanish": "Ellos no tenían miedo del monstruo bajo la cama."
+    }
+  },
+  {
+    "spanish": "Momia",
+    "english": "Mummy",
+    "pronunciation": "/ˈmʌm.i/",
+    "sentence": {
+      "english": "Is he dressing up as a mummy this year?",
+      "spanish": "¿Se disfraza de momia este año?"
+    }
+  },
+  {
+    "spanish": "Ogro",
+    "english": "Ogre",
+    "pronunciation": "/ˈəʊ.ɡər/",
+    "sentence": {
+      "english": "She doesn't believe in ogres from fairy tales.",
+      "spanish": "Ella no cree en los ogros de los cuentos de hadas."
+    }
+  },
+  {
+    "spanish": "Pociones",
+    "english": "Potions",
+    "pronunciation": "/ˈpəʊ.ʃənz/",
+    "sentence": {
+      "english": "Were you brewing potions in science class?",
+      "spanish": "¿Preparabas pociones en la clase de ciencias?"
+    }
+  },
+  {
+    "spanish": "Calabaza",
+    "english": "Pumpkin",
+    "pronunciation": "/ˈpʌmp.kɪn/",
+    "sentence": {
+      "english": "They are buying pumpkins for carving.",
+      "spanish": "Ellos compran calabazas para tallar."
+    }
+  },
+  {
+    "spanish": "Espantapájaros",
+    "english": "Scarecrow",
+    "pronunciation": "/ˈskeə.krəʊ/",
+    "sentence": {
+      "english": "Does he think the scarecrow is moving?",
+      "spanish": "¿Cree que el espantapájaros se mueve?"
+    }
+  },
+  {
+    "spanish": "Que da miedo",
+    "english": "Scary",
+    "pronunciation": "/ˈskeə.ri/",
+    "sentence": {
+      "english": "She wasn't finding the movie scary.",
+      "spanish": "Ella no encontraba la película de miedo."
+    }
+  },
+  {
+    "spanish": "Guadaña",
+    "english": "Scythe",
+    "pronunciation": "/saɪð/",
+    "sentence": {
+      "english": "Are we using a scythe for the harvest?",
+      "spanish": "¿Usamos una guadaña para la cosecha?"
+    }
+  },
+  {
+    "spanish": "Esqueleto",
+    "english": "Skeleton",
+    "pronunciation": "/ˈskel.ɪ.tən/",
+    "sentence": {
+      "english": "He doesn't have a skeleton costume.",
+      "spanish": "Él no tiene un disfraz de esqueleto."
+    }
+  },
+  {
+    "spanish": "Calavera",
+    "english": "Skull",
+    "pronunciation": "/skʌl/",
+    "sentence": {
+      "english": "I was drawing a skull on my notebook.",
+      "spanish": "Dibujaba una calavera en mi cuaderno."
+    }
+  },
+  {
+    "spanish": "Araña",
+    "english": "Spider",
+    "pronunciation": "/ˈspaɪ.dər/",
+    "sentence": {
+      "english": "Does she scream when she sees a spider?",
+      "spanish": "¿Grita cuando ve una araña?"
+    }
+  },
+  {
+    "spanish": "Telaraña",
+    "english": "Spider web",
+    "pronunciation": "/ˈspaɪ.də web/",
+    "sentence": {
+      "english": "They weren't cleaning the spider webs.",
+      "spanish": "Ellos no limpiaban las telarañas."
+    }
+  },
+  {
+    "spanish": "Espeluznante",
+    "english": "Spooky",
+    "pronunciation": "/ˈspuː.ki/",
+    "sentence": {
+      "english": "Is the old forest looking spooky at night?",
+      "spanish": "¿Parece el bosque viejo espeluznante de noche?"
+    }
+  },
+  {
+    "spanish": "Sobrenatural",
+    "english": "Supernatural",
+    "pronunciation": "/ˌsuː.pəˈnætʃ.ər.əl/",
+    "sentence": {
+      "english": "She doesn't believe in supernatural events.",
+      "spanish": "Ella no cree en eventos sobrenaturales."
+    }
+  },
+  {
+    "spanish": "Terror",
+    "english": "Terror",
+    "pronunciation": "/ˈter.ər/",
+    "sentence": {
+      "english": "Were you feeling terror during the storm?",
+      "spanish": "¿Sentías terror durante la tormenta?"
+    }
+  },
+  {
+    "spanish": "Golosina",
+    "english": "Treat",
+    "pronunciation": "/triːt/",
+    "sentence": {
+      "english": "They are giving treats to trick-or-treaters.",
+      "spanish": "Ellos dan golosinas a los que piden truco o trato."
+    }
+  },
+  {
+    "spanish": "Travesura",
+    "english": "Trick",
+    "pronunciation": "/trɪk/",
+    "sentence": {
+      "english": "Does he play tricks on his friends?",
+      "spanish": "¿Gasta travesuras a sus amigos?"
+    }
+  },
+  {
+    "spanish": "Truco o trato(regalo-golosina)",
+    "english": "Trick-or-treat",
+    "pronunciation": "/ˌtrɪk.ɔːˈtriːt/",
+    "sentence": {
+      "english": "She wasn't going trick-or-treating last year.",
+      "spanish": "Ella no iba pidiendo truco o trato el año pasado."
+    }
+  },
+  {
+    "spanish": "Vampiro",
+    "english": "Vampire",
+    "pronunciation": "/ˈvæm.paɪər/",
+    "sentence": {
+      "english": "Are we watching a vampire movie tonight?",
+      "spanish": "¿Vemos una película de vampiros esta noche?"
+    }
+  },
+  {
+    "spanish": "Hombre lobo",
+    "english": "Werewolf",
+    "pronunciation": "/ˈweə.wʊlf/",
+    "sentence": {
+      "english": "He doesn't transform into a werewolf.",
+      "spanish": "Él no se transforma en hombre lobo."
+    }
+  },
+  {
+    "spanish": "Bruja",
+    "english": "Witch",
+    "pronunciation": "/wɪtʃ/",
+    "sentence": {
+      "english": "Were you reading about witches in history?",
+      "spanish": "¿Leías sobre brujas en historia?"
+    }
+  },
+  {
+    "spanish": "Mago",
+    "english": "Wizard",
+    "pronunciation": "/ˈwɪz.əd/",
+    "sentence": {
+      "english": "They are learning wizard spells from the book.",
+      "spanish": "Ellos aprenden hechizos de mago del libro."
+    }
+  },
+  {
+    "spanish": "Zombi",
+    "english": "Zombie",
+    "pronunciation": "/ˈzɒm.bi/",
+    "sentence": {
+      "english": "Does she enjoy zombie apocalypse stories?",
+      "spanish": "¿Disfruta de historias de apocalipsis zombi?"
+    }
+  }
+]

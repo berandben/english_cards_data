@@ -69,6 +69,13 @@
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/frequency-adverbs.json"
     },
+     {
+        "id": "halloween",
+        "icon": "🎃",
+        "title": "Halloween",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/halloween.json"
+    },
     {
         "id": "nationalities",
         "icon": "🌐",
@@ -96,6 +103,13 @@
         "title": "Place Prep",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/place-prepositions.json"
+    },
+    {
+        "id": "professions",
+        "icon": "👷",
+        "title": "Professions",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/professions.json"
     },
     {
         "id": "things",
