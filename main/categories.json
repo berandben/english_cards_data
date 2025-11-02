@@ -61,6 +61,12 @@
         "title": "Family",
         "description": "",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/family.json"
+    }, {
+        "id": "food",
+        "icon": "🍽️",
+        "title": "Food",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/vocabulary/food.json"
     },
     {
         "id": "frequencyadverbs",

@@ -1,0 +1,625 @@
+[
+	{
+		"spanish": "Manzana",
+		"english": "Apple",
+		"pronunciation": "/ˈæp.əl/",
+		"sentence": {
+			"english": "She isn't eating an apple every day anymore.",
+			"spanish": "Ella ya no come una manzana todos los días."
+		}
+	},
+	{
+		"spanish": "Plátano",
+		"english": "Banana",
+		"pronunciation": "/bəˈnɑː.nə/",
+		"sentence": {
+			"english": "Are you buying bananas at the market?",
+			"spanish": "¿Compras plátanos en el mercado?"
+		}
+	},
+	{
+		"spanish": "Tocino",
+		"english": "Bacon",
+		"pronunciation": "/ˈbeɪ.kən/",
+		"sentence": {
+			"english": "He was cooking bacon for breakfast yesterday.",
+			"spanish": "Él cocinaba tocino para el desayuno ayer."
+		}
+	},
+	{
+		"spanish": "Carne de res",
+		"english": "Beef",
+		"pronunciation": "/biːf/",
+		"sentence": {
+			"english": "I'm not eating beef because I'm vegetarian.",
+			"spanish": "No como carne de res porque soy vegetariano."
+		}
+	},
+	{
+		"spanish": "Cerveza",
+		"english": "Beer",
+		"pronunciation": "/bɪər/",
+		"sentence": {
+			"english": "Were they drinking beer at the party?",
+			"spanish": "¿Bebían cerveza en la fiesta?"
+		}
+	},
+	{
+		"spanish": "Pimiento",
+		"english": "Bell pepper",
+		"pronunciation": "/bel ˈpep.ər/",
+		"sentence": {
+			"english": "They are adding bell peppers to the salad.",
+			"spanish": "Ellos añaden pimientos a la ensalada."
+		}
+	},
+	{
+		"spanish": "Galleta",
+		"english": "Biscuit",
+		"pronunciation": "/ˈbɪs.kɪt/",
+		"sentence": {
+			"english": "Does she bake biscuits every weekend?",
+			"spanish": "¿Hornea galletas cada fin de semana?"
+		}
+	},
+	{
+		"spanish": "Arándano azul",
+		"english": "Blueberry",
+		"pronunciation": "/ˈbluː.bər.i/",
+		"sentence": {
+			"english": "He wasn't picking blueberries in the forest.",
+			"spanish": "Él no recogía arándanos azules en el bosque."
+		}
+	},
+	{
+		"spanish": "Pan",
+		"english": "Bread",
+		"pronunciation": "/bred/",
+		"sentence": {
+			"english": "Are we buying fresh bread from the bakery?",
+			"spanish": "¿Compramos pan fresco de la panadería?"
+		}
+	},
+	{
+		"spanish": "Brócoli",
+		"english": "Broccoli",
+		"pronunciation": "/ˈbrɒk.əl.i/",
+		"sentence": {
+			"english": "She doesn't like broccoli with her meals.",
+			"spanish": "A ella no le gusta el brócoli con sus comidas."
+		}
+	},
+	{
+		"spanish": "Hamburguesa",
+		"english": "Burger",
+		"pronunciation": "/ˈbɜː.ɡər/",
+		"sentence": {
+			"english": "I was grilling burgers for the barbecue.",
+			"spanish": "Yo asaba hamburguesas para la barbacoa."
+		}
+	},
+	{
+		"spanish": "Mantequilla",
+		"english": "Butter",
+		"pronunciation": "/ˈbʌt.ər/",
+		"sentence": {
+			"english": "Does he spread butter on his toast?",
+			"spanish": "¿Unta mantequilla en su tostada?"
+		}
+	},
+	{
+		"spanish": "Pastel",
+		"english": "Cake",
+		"pronunciation": "/keɪk/",
+		"sentence": {
+			"english": "They weren't baking a cake for the birthday.",
+			"spanish": "Ellos no horneaban un pastel para el cumpleaños."
+		}
+	},
+	{
+		"spanish": "Caramelo",
+		"english": "Candy",
+		"pronunciation": "/ˈkæn.di/",
+		"sentence": {
+			"english": "Is she giving candy to the children?",
+			"spanish": "¿Da caramelos a los niños?"
+		}
+	},
+	{
+		"spanish": "Zanahoria",
+		"english": "Carrot",
+		"pronunciation": "/ˈkær.ət/",
+		"sentence": {
+			"english": "He doesn't eat raw carrots.",
+			"spanish": "Él no come zanahorias crudas."
+		}
+	},
+	{
+		"spanish": "Coliflor",
+		"english": "Cauliflower",
+		"pronunciation": "/ˈkɒl.ɪ.flaʊər/",
+		"sentence": {
+			"english": "Were you steaming cauliflower for dinner?",
+			"spanish": "¿Cocías al vapor coliflor para la cena?"
+		}
+	},
+	{
+		"spanish": "Cereal",
+		"english": "Cereal",
+		"pronunciation": "/ˈsɪə.ri.əl/",
+		"sentence": {
+			"english": "They are eating cereal with milk.",
+			"spanish": "Ellos comen cereal con leche."
+		}
+	},
+	{
+		"spanish": "Cereza",
+		"english": "Cherry",
+		"pronunciation": "/ˈtʃer.i/",
+		"sentence": {
+			"english": "Does she like cherry pie?",
+			"spanish": "¿Le gusta el pastel de cereza?"
+		}
+	},
+	{
+		"spanish": "Pollo",
+		"english": "Chicken",
+		"pronunciation": "/ˈtʃɪk.ɪn/",
+		"sentence": {
+			"english": "She wasn't roasting chicken for Sunday lunch.",
+			"spanish": "Ella no asaba pollo para el almuerzo del domingo."
+		}
+	},
+	{
+		"spanish": "Chocolate",
+		"english": "Chocolate",
+		"pronunciation": "/ˈtʃɒk.lət/",
+		"sentence": {
+			"english": "Are we buying chocolate for the recipe?",
+			"spanish": "¿Compramos chocolate para la receta?"
+		}
+	},
+	{
+		"spanish": "Café",
+		"english": "Coffee",
+		"pronunciation": "/ˈkɒf.i/",
+		"sentence": {
+			"english": "He doesn't drink coffee after 6 PM.",
+			"spanish": "Él no bebe café después de las 6 PM."
+		}
+	},
+
+	{
+		"spanish": "Galleta",
+		"english": "Cookie",
+		"pronunciation": "/ˈkʊk.i/",
+		"sentence": {
+			"english": "Does he dunk cookies in his tea?",
+			"spanish": "¿Mojaba galletas en su té?"
+		}
+	},
+	{
+		"spanish": "Maíz",
+		"english": "Corn",
+		"pronunciation": "/kɔːn/",
+		"sentence": {
+			"english": "I was boiling corn on the cob.",
+			"spanish": "Yo hervía maíz en la mazorca."
+		}
+	},
+	{
+		"spanish": "Pepino",
+		"english": "Cucumber",
+		"pronunciation": "/ˈkjuː.kʌm.bər/",
+		"sentence": {
+			"english": "He wasn't slicing the cucumber thinly.",
+			"spanish": "Él no cortaba el pepino finamente."
+		}
+	},
+	{
+		"spanish": "Cordero",
+		"english": "Lamb",
+		"pronunciation": "/læm/",
+		"sentence": {
+			"english": "They weren't serving lamb at the restaurant.",
+			"spanish": "Ellos no servían cordero en el restaurante."
+		}
+	},
+	{
+		"spanish": "Lechuga",
+		"english": "Lettuce",
+		"pronunciation": "/ˈlet.ɪs/",
+		"sentence": {
+			"english": "Is she washing the lettuce for the salad?",
+			"spanish": "¿Lava la lechuga para la ensalada?"
+		}
+	},
+	{
+		"spanish": "Lima",
+		"english": "Lime",
+		"pronunciation": "/laɪm/",
+		"sentence": {
+			"english": "He doesn't like lime in his drinks.",
+			"spanish": "A él no le gusta la lima en sus bebidas."
+		}
+	},
+	{
+		"spanish": "Mango",
+		"english": "Mango",
+		"pronunciation": "/ˈmæŋ.ɡəʊ/",
+		"sentence": {
+			"english": "Were you eating mango for dessert?",
+			"spanish": "¿Comías mango de postre?"
+		}
+	},
+	{
+		"spanish": "Mayonesa",
+		"english": "Mayonnaise",
+		"pronunciation": "/ˌmeɪ.əˈneɪz/",
+		"sentence": {
+			"english": "They are making mayonnaise from scratch.",
+			"spanish": "Ellos hacen mayonesa desde cero."
+		}
+	},
+	{
+		"spanish": "Leche",
+		"english": "Milk",
+		"pronunciation": "/mɪlk/",
+		"sentence": {
+			"english": "Does she drink milk with her cookies?",
+			"spanish": "¿Bebe leche con sus galletas?"
+		}
+	},
+	{
+		"spanish": "Champiñón",
+		"english": "Mushroom",
+		"pronunciation": "/ˈmʌʃ.ruːm/",
+		"sentence": {
+			"english": "He wasn't picking mushrooms in the field.",
+			"spanish": "Él no recogía champiñones en el campo."
+		}
+	},
+	{
+		"spanish": "Mostaza",
+		"english": "Mustard",
+		"pronunciation": "/ˈmʌs.təd/",
+		"sentence": {
+			"english": "Are we adding mustard to the hot dogs?",
+			"spanish": "¿Añadimos mostaza a los perritos calientes?"
+		}
+	},
+	{
+		"spanish": "Frutos secos",
+		"english": "Nuts",
+		"pronunciation": "/nʌts/",
+		"sentence": {
+			"english": "She doesn't eat nuts because of her allergy.",
+			"spanish": "Ella no come frutos secos por su alergia."
+		}
+	},
+	{
+		"spanish": "Avena",
+		"english": "Oatmeal",
+		"pronunciation": "/ˈəʊt.miːl/",
+		"sentence": {
+			"english": "Were you cooking oatmeal for breakfast?",
+			"spanish": "¿Cocinabas avena para el desayuno?"
+		}
+	},
+	{
+		"spanish": "Aceite",
+		"english": "Oil",
+		"pronunciation": "/ɔɪl/",
+		"sentence": {
+			"english": "They are using olive oil for cooking.",
+			"spanish": "Ellos usan aceite de oliva para cocinar."
+		}
+	},
+	{
+		"spanish": "Cebolla",
+		"english": "Onion",
+		"pronunciation": "/ˈʌn.jən/",
+		"sentence": {
+			"english": "Does he chop onions without crying?",
+			"spanish": "¿Pica cebollas sin llorar?"
+		}
+	},
+	{
+		"spanish": "Naranja",
+		"english": "Orange",
+		"pronunciation": "/ˈɒr.ɪndʒ/",
+		"sentence": {
+			"english": "He wasn't peeling the orange properly.",
+			"spanish": "Él no pelaba la naranja correctamente."
+		}
+	},
+	{
+		"spanish": "Pasta",
+		"english": "Pasta",
+		"pronunciation": "/ˈpæs.tə/",
+		"sentence": {
+			"english": "Is she boiling pasta for dinner?",
+			"spanish": "¿Hierve pasta para la cena?"
+		}
+	},
+	{
+		"spanish": "Melocotón",
+		"english": "Peach",
+		"pronunciation": "/piːtʃ/",
+		"sentence": {
+			"english": "She doesn't like canned peaches.",
+			"spanish": "A ella no le gustan los melocotones enlatados."
+		}
+	},
+	{
+		"spanish": "Peras",
+		"english": "Pears",
+		"pronunciation": "/peəz/",
+		"sentence": {
+			"english": "Were you buying pears at the market?",
+			"spanish": "¿Compraste peras en el mercado?"
+		}
+	},
+	{
+		"spanish": "Guisantes",
+		"english": "Peas",
+		"pronunciation": "/piːz/",
+		"sentence": {
+			"english": "They are freezing fresh peas.",
+			"spanish": "Ellos congelan guisantes frescos."
+		}
+	},
+	{
+		"spanish": "Pimienta",
+		"english": "Pepper",
+		"pronunciation": "/ˈpep.ər/",
+		"sentence": {
+			"english": "Does he grind pepper over his food?",
+			"spanish": "¿Muele pimienta sobre su comida?"
+		}
+	},
+
+	{
+		"spanish": "Piña",
+		"english": "Pineapple",
+		"pronunciation": "/ˈpaɪ.næp.əl/",
+		"sentence": {
+			"english": "Are we adding pineapple to the pizza?",
+			"spanish": "¿Añadimos piña a la pizza?"
+		}
+	},
+	{
+		"spanish": "Pizza",
+		"english": "Pizza",
+		"pronunciation": "/ˈpiːt.sə/",
+		"sentence": {
+			"english": "She doesn't order pizza very often.",
+			"spanish": "Ella no pide pizza muy a menudo."
+		}
+	},
+	{
+		"spanish": "Cerdo",
+		"english": "Pork",
+		"pronunciation": "/pɔːk/",
+		"sentence": {
+			"english": "Were you roasting pork for Christmas?",
+			"spanish": "¿Asabas cerdo para Navidad?"
+		}
+	},
+	{
+		"spanish": "Papa",
+		"english": "Potato",
+		"pronunciation": "/pəˈteɪ.təʊ/",
+		"sentence": {
+			"english": "They are mashing potatoes for dinner.",
+			"spanish": "Ellos hacen puré de papas para la cena."
+		}
+	},
+	{
+		"spanish": "Pudín",
+		"english": "Pudding",
+		"pronunciation": "/ˈpʊd.ɪŋ/",
+		"sentence": {
+			"english": "Does she make rice pudding?",
+			"spanish": "¿Hace pudín de arroz?"
+		}
+	},
+	{
+		"spanish": "Frambuesa",
+		"english": "Raspberry",
+		"pronunciation": "/ˈrɑːz.bər.i/",
+		"sentence": {
+			"english": "He wasn't picking raspberries from the garden.",
+			"spanish": "Él no recogía frambuesas del jardín."
+		}
+	},
+	{
+		"spanish": "Arroz",
+		"english": "Rice",
+		"pronunciation": "/raɪs/",
+		"sentence": {
+			"english": "Is she cooking rice for the stir-fry?",
+			"spanish": "¿Cocina arroz para el salteado?"
+		}
+	},
+	{
+		"spanish": "Salmón",
+		"english": "Salmon",
+		"pronunciation": "/ˈsæm.ən/",
+		"sentence": {
+			"english": "She doesn't eat raw salmon.",
+			"spanish": "Ella no come salmón crudo."
+		}
+	},
+	{
+		"spanish": "Salsa",
+		"english": "Sauce",
+		"pronunciation": "/sɔːs/",
+		"sentence": {
+			"english": "Were you making tomato sauce?",
+			"spanish": "¿Hacías salsa de tomate?"
+		}
+	},
+	{
+		"spanish": "Salchicha",
+		"english": "Sausage",
+		"pronunciation": "/ˈsɒs.ɪdʒ/",
+		"sentence": {
+			"english": "They are grilling sausages for the barbecue.",
+			"spanish": "Ellos asan salchichas para la barbacoa."
+		}
+	},
+	{
+		"spanish": "Refresco",
+		"english": "Soft drink",
+		"pronunciation": "/sɒft drɪŋk/",
+		"sentence": {
+			"english": "Does he drink soft drinks with his meals?",
+			"spanish": "¿Bebe refrescos con sus comidas?"
+		}
+	},
+	{
+		"spanish": "Sopa",
+		"english": "Soup",
+		"pronunciation": "/suːp/",
+		"sentence": {
+			"english": "He wasn't heating the soup properly.",
+			"spanish": "Él no calentaba la sopa correctamente."
+		}
+	},
+	{
+		"spanish": "Espagueti",
+		"english": "Spaghetti",
+		"pronunciation": "/spəˈɡet.i/",
+		"sentence": {
+			"english": "Are we cooking spaghetti bolognese?",
+			"spanish": "¿Cocinamos espagueti boloñesa?"
+		}
+	},
+	{
+		"spanish": "Espinaca",
+		"english": "Spinach",
+		"pronunciation": "/ˈspɪn.ɪtʃ/",
+		"sentence": {
+			"english": "She doesn't like cooked spinach.",
+			"spanish": "A ella no le gusta la espinaca cocida."
+		}
+	},
+	{
+		"spanish": "Fresa",
+		"english": "Strawberry",
+		"pronunciation": "/ˈstrɔː.bər.i/",
+		"sentence": {
+			"english": "Were you picking strawberries at the farm?",
+			"spanish": "¿Recogías fresas en la granja?"
+		}
+	},
+	{
+		"spanish": "Azúcar",
+		"english": "Sugar",
+		"pronunciation": "/ˈʃʊɡ.ər/",
+		"sentence": {
+			"english": "They are reducing sugar in their recipes.",
+			"spanish": "Ellos reducen azúcar en sus recetas."
+		}
+	},
+	{
+		"spanish": "Sushi",
+		"english": "Sushi",
+		"pronunciation": "/ˈsuː.ʃi/",
+		"sentence": {
+			"english": "Does he eat sushi with chopsticks?",
+			"spanish": "¿Come sushi con palillos?"
+		}
+	},
+	{
+		"spanish": "Tacos",
+		"english": "Tacos",
+		"pronunciation": "/ˈtæk.əʊz/",
+		"sentence": {
+			"english": "She wasn't making tacos for the party.",
+			"spanish": "Ella no hacía tacos para la fiesta."
+		}
+	},
+	{
+		"spanish": "Té",
+		"english": "Tea",
+		"pronunciation": "/tiː/",
+		"sentence": {
+			"english": "Are we brewing tea for the guests?",
+			"spanish": "¿Preparamos té para los invitados?"
+		}
+	},
+	{
+		"spanish": "Tomate",
+		"english": "Tomato",
+		"pronunciation": "/təˈmɑː.təʊ/",
+		"sentence": {
+			"english": "He doesn't like raw tomatoes.",
+			"spanish": "A él no le gustan los tomates crudos."
+		}
+	},
+	{
+		"spanish": "Atún",
+		"english": "Tuna",
+		"pronunciation": "/ˈtjuː.nə/",
+		"sentence": {
+			"english": "Were you making a tuna sandwich?",
+			"spanish": "¿Hacías un sándwich de atún?"
+		}
+	},
+	{
+		"spanish": "Pavo",
+		"english": "Turkey",
+		"pronunciation": "/ˈtɜː.ki/",
+		"sentence": {
+			"english": "They are roasting a turkey for Thanksgiving.",
+			"spanish": "Ellos asan un pavo para Acción de Gracias."
+		}
+	},
+	{
+		"spanish": "Vinagre",
+		"english": "Vinegar",
+		"pronunciation": "/ˈvɪn.ɪ.ɡər/",
+		"sentence": {
+			"english": "Does she use vinegar in her salad dressing?",
+			"spanish": "¿Usa vinagre en su aderezo para ensalada?"
+		}
+	},
+	{
+		"spanish": "Agua",
+		"english": "Water",
+		"pronunciation": "/ˈwɔː.tər/",
+		"sentence": {
+			"english": "He wasn't drinking enough water yesterday.",
+			"spanish": "Él no bebía suficiente agua ayer."
+		}
+	},
+	{
+		"spanish": "Sandía",
+		"english": "Watermelon",
+		"pronunciation": "/ˈwɔː.təˌmel.ən/",
+		"sentence": {
+			"english": "Is she cutting the watermelon into slices?",
+			"spanish": "¿Corta la sandía en rebanadas?"
+		}
+	},
+	{
+		"spanish": "Vino",
+		"english": "Wine",
+		"pronunciation": "/waɪn/",
+		"sentence": {
+			"english": "She doesn't drink red wine with fish.",
+			"spanish": "Ella no bebe vino tinto con pescado."
+		}
+	},
+	{
+		"spanish": "Yogur",
+		"english": "Yogurt",
+		"pronunciation": "/ˈjɒɡ.ət/",
+		"sentence": {
+			"english": "Were you buying Greek yogurt?",
+			"spanish": "¿Comprabas yogur griego?"
+		}
+	}
+]
