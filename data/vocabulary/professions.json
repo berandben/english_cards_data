@@ -35,7 +35,6 @@
 			"spanish": "No estudio para ser arquitecto."
 		}
 	},
-
 	{
 		"spanish": "Artista",
 		"english": "Artist",
@@ -100,6 +99,60 @@
 		}
 	},
 	{
+		"spanish": "Albañil",
+		"english": "Bricklayer",
+		"pronunciation": "/ˈbrɪk.leɪ.ər/",
+		"sentence": {
+			"english": "He isn't working as a bricklayer anymore.",
+			"spanish": "Él ya no trabaja como albañil."
+		}
+	},
+	{
+		"spanish": "Conductor de autobús",
+		"english": "Bus driver",
+		"pronunciation": "/bʌs ˈdraɪ.vər/",
+		"sentence": {
+			"english": "Are they training to become bus drivers?",
+			"spanish": "¿Se están formando para ser conductores de autobús?"
+		}
+	},
+	{
+		"spanish": "Empresario",
+		"english": "Businessman",
+		"pronunciation": "/ˈbɪz.nɪs.mən/",
+		"sentence": {
+			"english": "She was meeting with a businessman yesterday.",
+			"spanish": "Ella se reunía con un empresario ayer."
+		}
+	},
+	{
+		"spanish": "Carnicero",
+		"english": "Butcher",
+		"pronunciation": "/ˈbʊtʃ.ər/",
+		"sentence": {
+			"english": "I'm not buying meat from the butcher today.",
+			"spanish": "No compro carne en la carnicería hoy."
+		}
+	},
+	{
+		"spanish": "Carpintero",
+		"english": "Carpenter",
+		"pronunciation": "/ˈkɑː.pɪn.tər/",
+		"sentence": {
+			"english": "Were you learning carpentry from your father?",
+			"spanish": "¿Aprendías carpintería de tu padre?"
+		}
+	},
+	{
+		"spanish": "Carrera profesional",
+		"english": "Career",
+		"pronunciation": "/kəˈrɪər/",
+		"sentence": {
+			"english": "They are planning their teaching careers.",
+			"spanish": "Ellos planean sus carreras de enseñanza."
+		}
+	},
+	{
 		"spanish": "Cajero",
 		"english": "Cashier",
 		"pronunciation": "/kæˈʃɪər/",
@@ -118,6 +171,15 @@
 		}
 	},
 	{
+		"spanish": "Químico",
+		"english": "Chemist",
+		"pronunciation": "/ˈkem.ɪst/",
+		"sentence": {
+			"english": "She wasn't studying to become a chemist.",
+			"spanish": "Ella no estudiaba para ser química."
+		}
+	},
+	{
 		"spanish": "Limpiador",
 		"english": "Cleaner",
 		"pronunciation": "/ˈkliː.nər/",
@@ -127,12 +189,84 @@
 		}
 	},
 	{
+		"spanish": "Zapatero",
+		"english": "Cobbler",
+		"pronunciation": "/ˈkɒb.lər/",
+		"sentence": {
+			"english": "Are we visiting the cobbler to repair our shoes?",
+			"spanish": "¿Visitamos al zapatero para reparar nuestros zapatos?"
+		}
+	},
+	{
+		"spanish": "Colega",
+		"english": "Colleague",
+		"pronunciation": "/ˈkɒl.iːɡ/",
+		"sentence": {
+			"english": "He doesn't argue with his colleagues.",
+			"spanish": "Él no discute con sus colegas."
+		}
+	},
+	{
 		"spanish": "Consultor",
 		"english": "Consultant",
 		"pronunciation": "/kənˈsʌl.tənt/",
 		"sentence": {
 			"english": "She doesn't advise companies as a consultant.",
 			"spanish": "Ella no asesora empresas como consultora."
+		}
+	},
+	{
+		"spanish": "Consejero",
+		"english": "Counselor",
+		"pronunciation": "/ˈkaʊn.səl.ər/",
+		"sentence": {
+			"english": "I was speaking with a school counselor.",
+			"spanish": "Hablaba con un consejero escolar."
+		}
+	},
+	{
+		"spanish": "Bailarín",
+		"english": "Dancer",
+		"pronunciation": "/ˈdɑːn.sər/",
+		"sentence": {
+			"english": "Does she practice every day as a professional dancer?",
+			"spanish": "¿Practica cada día como bailarina profesional?"
+		}
+	},
+	{
+		"spanish": "Analista de datos",
+		"english": "Data Analyst",
+		"pronunciation": "/ˈdeɪ.tə ˌæn.əl.ɪst/",
+		"sentence": {
+			"english": "They weren't hiring a data analyst for the project.",
+			"spanish": "Ellos no contrataban un analista de datos para el proyecto."
+		}
+	},
+	{
+		"spanish": "Dentista",
+		"english": "Dentist",
+		"pronunciation": "/ˈden.tɪst/",
+		"sentence": {
+			"english": "Is he visiting the dentist every six months?",
+			"spanish": "¿Visita al dentista cada seis meses?"
+		}
+	},
+	{
+		"spanish": "Diseñador",
+		"english": "Designer",
+		"pronunciation": "/dɪˈzaɪ.nər/",
+		"sentence": {
+			"english": "She doesn't work as a fashion designer.",
+			"spanish": "Ella no trabaja como diseñadora de moda."
+		}
+	},
+	{
+		"spanish": "Director",
+		"english": "Director",
+		"pronunciation": "/daɪˈrek.tər/",
+		"sentence": {
+			"english": "Were you reporting to the director of the department?",
+			"spanish": "¿Informabas al director del departamento?"
 		}
 	},
 	{
@@ -154,6 +288,33 @@
 		}
 	},
 	{
+		"spanish": "Economista",
+		"english": "Economist",
+		"pronunciation": "/iˈkɒn.ə.mɪst/",
+		"sentence": {
+			"english": "Does he analyze market trends as an economist?",
+			"spanish": "¿Analiza tendencias del mercado como economista?"
+		}
+	},
+	{
+		"spanish": "Empleado",
+		"english": "Employee",
+		"pronunciation": "/ɪmˈplɔɪ.iː/",
+		"sentence": {
+			"english": "She wasn't treating her employees fairly.",
+			"spanish": "Ella no trataba a sus empleados justamente."
+		}
+	},
+	{
+		"spanish": "Empleador",
+		"english": "Employer",
+		"pronunciation": "/ɪmˈplɔɪ.ər/",
+		"sentence": {
+			"english": "Are we discussing the new policy with our employer?",
+			"spanish": "¿Discutimos la nueva política con nuestro empleador?"
+		}
+	},
+	{
 		"spanish": "Electricista",
 		"english": "Electrician",
 		"pronunciation": "/ˌɪl.ekˈtrɪʃ.ən/",
@@ -169,6 +330,24 @@
 		"sentence": {
 			"english": "Were you designing bridges as an engineer?",
 			"spanish": "¿Diseñabas puentes como ingeniero?"
+		}
+	},
+	{
+		"spanish": "Ejecutivo",
+		"english": "Executive",
+		"pronunciation": "/ɪɡˈzek.jə.tɪv/",
+		"sentence": {
+			"english": "I was attending a meeting with company executives.",
+			"spanish": "Asistía a una reunión con ejecutivos de la empresa."
+		}
+	},
+	{
+		"spanish": "Trabajador de fábrica",
+		"english": "Factory worker",
+		"pronunciation": "/ˈfæk.tər.i ˌwɜː.kər/",
+		"sentence": {
+			"english": "Does she work night shifts as a factory worker?",
+			"spanish": "¿Trabaja turnos de noche como trabajadora de fábrica?"
 		}
 	},
 	{
@@ -190,6 +369,51 @@
 		}
 	},
 	{
+		"spanish": "Pescador",
+		"english": "Fisherman",
+		"pronunciation": "/ˈfɪʃ.ə.mən/",
+		"sentence": {
+			"english": "Is he going out to sea as a fisherman?",
+			"spanish": "¿Sale al mar como pescador?"
+		}
+	},
+	{
+		"spanish": "Florista",
+		"english": "Florist",
+		"pronunciation": "/ˈflɒr.ɪst/",
+		"sentence": {
+			"english": "She doesn't arrange flowers as a florist anymore.",
+			"spanish": "Ella ya no arregla flores como florista."
+		}
+	},
+	{
+		"spanish": "Recolector de basura",
+		"english": "Garbage collector",
+		"pronunciation": "/ˈɡɑː.bɪdʒ kəˌlek.tər/",
+		"sentence": {
+			"english": "Does he start work early as a garbage collector?",
+			"spanish": "¿Comienza a trabajar temprano como recolector de basura?"
+		}
+	},
+	{
+		"spanish": "Jardinero",
+		"english": "Gardener",
+		"pronunciation": "/ˈɡɑː.dən.ər/",
+		"sentence": {
+			"english": "Were you hiring a gardener for the park?",
+			"spanish": "¿Contratabas un jardinero para el parque?"
+		}
+	},
+	{
+		"spanish": "Orfebre",
+		"english": "Goldsmith",
+		"pronunciation": "/ˈɡəʊld.smɪθ/",
+		"sentence": {
+			"english": "They are crafting jewelry as goldsmiths.",
+			"spanish": "Ellos elaboran joyería como orfebres."
+		}
+	},
+	{
 		"spanish": "Diseñador Gráfico",
 		"english": "Graphic designer",
 		"pronunciation": "/ˌɡræf.ɪk dɪˈzaɪ.nər/",
@@ -208,6 +432,42 @@
 		}
 	},
 	{
+		"spanish": "Ama de casa",
+		"english": "Housewife",
+		"pronunciation": "/ˈhaʊs.waɪf/",
+		"sentence": {
+			"english": "Are we recognizing the work of housewives?",
+			"spanish": "¿Reconocemos el trabajo de las amas de casa?"
+		}
+	},
+	{
+		"spanish": "Director de Recursos Humanos",
+		"english": "HR Manager",
+		"pronunciation": "/ˌeɪtʃˈɑː ˌmæn.ɪ.dʒər/",
+		"sentence": {
+			"english": "She doesn't interview candidates as HR manager.",
+			"spanish": "Ella no entrevista candidatos como directora de recursos humanos."
+		}
+	},
+	{
+		"spanish": "Especialista en Informática",
+		"english": "IT Specialist",
+		"pronunciation": "/ˌaɪˈtiː ˌspeʃ.əl.ɪst/",
+		"sentence": {
+			"english": "I was fixing computers as an IT specialist.",
+			"spanish": "Arreglaba ordenadores como especialista en informática."
+		}
+	},
+	{
+		"spanish": "Trabajo",
+		"english": "Job",
+		"pronunciation": "/dʒɒb/",
+		"sentence": {
+			"english": "Does he enjoy his new job?",
+			"spanish": "¿Disfruta de su nuevo trabajo?"
+		}
+	},
+	{
 		"spanish": "Periodista",
 		"english": "Journalist",
 		"pronunciation": "/ˈdʒɜː.nə.lɪst/",
@@ -216,7 +476,15 @@
 			"spanish": "¿Reporta las noticias como periodista?"
 		}
 	},
-
+	{
+		"spanish": "Juez",
+		"english": "Judge",
+		"pronunciation": "/dʒʌdʒ/",
+		"sentence": {
+			"english": "They weren't presiding over the case as judges.",
+			"spanish": "Ellos no presidían el caso como jueces."
+		}
+	},
 	{
 		"spanish": "Abogado",
 		"english": "Lawyer",
@@ -224,6 +492,15 @@
 		"sentence": {
 			"english": "He doesn't practice law as a lawyer anymore.",
 			"spanish": "Él ya no ejerce la abogacía como abogado."
+		}
+	},
+	{
+		"spanish": "Profesor universitario",
+		"english": "Lecturer",
+		"pronunciation": "/ˈlek.tʃər.ər/",
+		"sentence": {
+			"english": "He doesn't teach at the university as a lecturer.",
+			"spanish": "Él no enseña en la universidad como profesor universitario."
 		}
 	},
 	{
@@ -236,12 +513,75 @@
 		}
 	},
 	{
+		"spanish": "Salvavidas",
+		"english": "Lifeguard",
+		"pronunciation": "/ˈlaɪf.ɡɑːd/",
+		"sentence": {
+			"english": "Were you working as a lifeguard at the beach?",
+			"spanish": "¿Trabajabas como salvavidas en la playa?"
+		}
+	},
+	{
+		"spanish": "Gerente",
+		"english": "Manager",
+		"pronunciation": "/ˈmæn.ɪ.dʒər/",
+		"sentence": {
+			"english": "They are managing the team as project managers.",
+			"spanish": "Ellos gestionan el equipo como gerentes de proyecto."
+		}
+	},
+	{
+		"spanish": "Cartero",
+		"english": "Mailman",
+		"pronunciation": "/ˈmeɪl.mæn/",
+		"sentence": {
+			"english": "Does she deliver letters as a mailman?",
+			"spanish": "¿Reparte cartas como cartera?"
+		}
+	},
+	{
+		"spanish": "Especialista en Marketing",
+		"english": "Marketing Specialist",
+		"pronunciation": "/ˈmɑː.kɪ.tɪŋ ˌspeʃ.əl.ɪst/",
+		"sentence": {
+			"english": "He wasn't creating campaigns as a marketing specialist.",
+			"spanish": "Él no creaba campañas como especialista en marketing."
+		}
+	},
+	{
 		"spanish": "Mecánico",
 		"english": "Mechanic",
 		"pronunciation": "/məˈkæn.ɪk/",
 		"sentence": {
 			"english": "Does she repair cars as a mechanic?",
 			"spanish": "¿Repara coches como mecánica?"
+		}
+	},
+	{
+		"spanish": "Minero",
+		"english": "Miner",
+		"pronunciation": "/ˈmaɪ.nər/",
+		"sentence": {
+			"english": "She doesn't work underground as a miner.",
+			"spanish": "Ella no trabaja bajo tierra como minera."
+		}
+	},
+	{
+		"spanish": "Modelo",
+		"english": "Model",
+		"pronunciation": "/ˈmɒd.əl/",
+		"sentence": {
+			"english": "I was walking on the runway as a fashion model.",
+			"spanish": "Desfilaba en la pasarela como modelo de moda."
+		}
+	},
+	{
+		"spanish": "Monje",
+		"english": "Monk",
+		"pronunciation": "/mʌŋk/",
+		"sentence": {
+			"english": "Does he live in a monastery as a monk?",
+			"spanish": "¿Vive en un monasterio como monje?"
 		}
 	},
 	{
@@ -254,6 +594,33 @@
 		}
 	},
 	{
+		"spanish": "Niñera",
+		"english": "Nanny",
+		"pronunciation": "/ˈnæn.i/",
+		"sentence": {
+			"english": "They weren't looking after children as nannies.",
+			"spanish": "Ellos no cuidaban niños como niñeras."
+		}
+	},
+	{
+		"spanish": "Locutor de noticias",
+		"english": "Newsreader",
+		"pronunciation": "/ˈnjuːz.riː.dər/",
+		"sentence": {
+			"english": "Is she presenting the news as a newsreader?",
+			"spanish": "¿Presenta las noticias como locutora?"
+		}
+	},
+	{
+		"spanish": "Monja",
+		"english": "Nun",
+		"pronunciation": "/nʌn/",
+		"sentence": {
+			"english": "Were you visiting the nuns at the convent?",
+			"spanish": "¿Visitabas a las monjas en el convento?"
+		}
+	},
+	{
 		"spanish": "Enfermero",
 		"english": "Nurse",
 		"pronunciation": "/nɜːs/",
@@ -262,7 +629,60 @@
 			"spanish": "Ella no trabaja turnos de noche como enfermera."
 		}
 	},
-
+	{
+		"spanish": "Ocupación",
+		"english": "Occupation",
+		"pronunciation": "/ˌɒk.jəˈpeɪ.ʃən/",
+		"sentence": {
+			"english": "They are listing their occupations on the form.",
+			"spanish": "Ellos listan sus ocupaciones en el formulario."
+		}
+	},
+	{
+		"spanish": "Empleado de oficina",
+		"english": "Office worker",
+		"pronunciation": "/ˈɒf.ɪs ˌwɜː.kər/",
+		"sentence": {
+			"english": "Does she commute to the city as an office worker?",
+			"spanish": "¿Viaja diariamente a la ciudad como empleada de oficina?"
+		}
+	},
+	{
+		"spanish": "Óptico",
+		"english": "Optician",
+		"pronunciation": "/ˈɒp.tɪ.ʃən/",
+		"sentence": {
+			"english": "He wasn't fitting glasses as an optician.",
+			"spanish": "Él no ajustaba gafas como óptico."
+		}
+	},
+	{
+		"spanish": "Pintor",
+		"english": "Painter",
+		"pronunciation": "/ˈpeɪn.tər/",
+		"sentence": {
+			"english": "Are we hiring a painter for the house?",
+			"spanish": "¿Contratamos un pintor para la casa?"
+		}
+	},
+	{
+		"spanish": "Paramédico",
+		"english": "Paramedic",
+		"pronunciation": "/ˈpær.ə.med.ɪk/",
+		"sentence": {
+			"english": "She doesn't work on an ambulance as a paramedic.",
+			"spanish": "Ella no trabaja en una ambulancia como paramédica."
+		}
+	},
+	{
+		"spanish": "Farmacéutico",
+		"english": "Pharmacist",
+		"pronunciation": "/ˈfɑː.mə.sɪst/",
+		"sentence": {
+			"english": "I was dispensing medication as a pharmacist.",
+			"spanish": "Dispensaba medicación como farmacéutico."
+		}
+	},
 	{
 		"spanish": "Fotógrafo",
 		"english": "Photographer",
@@ -272,7 +692,15 @@
 			"spanish": "¿Sacabas retratos como fotógrafo?"
 		}
 	},
-
+	{
+		"spanish": "Físico",
+		"english": "Physicist",
+		"pronunciation": "/ˈfɪz.ɪ.sɪst/",
+		"sentence": {
+			"english": "Does he conduct experiments as a physicist?",
+			"spanish": "¿Realiza experimentos como físico?"
+		}
+	},
 	{
 		"spanish": "Piloto",
 		"english": "Pilot",
@@ -301,6 +729,42 @@
 		}
 	},
 	{
+		"spanish": "Político",
+		"english": "Politician",
+		"pronunciation": "/ˌpɒl.ɪˈtɪʃ.ən/",
+		"sentence": {
+			"english": "Were you voting for the local politician?",
+			"spanish": "¿Votabas por el político local?"
+		}
+	},
+	{
+		"spanish": "Cartero",
+		"english": "Postman",
+		"pronunciation": "/ˈpəʊst.mən/",
+		"sentence": {
+			"english": "They are delivering packages as postmen.",
+			"spanish": "Ellos reparten paquetes como carteros."
+		}
+	},
+	{
+		"spanish": "Profesión",
+		"english": "Profession",
+		"pronunciation": "/prəˈfeʃ.ən/",
+		"sentence": {
+			"english": "Does he practice the medical profession?",
+			"spanish": "¿Ejerce la profesión médica?"
+		}
+	},
+	{
+		"spanish": "Profesor",
+		"english": "Professor",
+		"pronunciation": "/prəˈfes.ər/",
+		"sentence": {
+			"english": "He wasn't teaching university students as a professor.",
+			"spanish": "Él no enseñaba a estudiantes universitarios como profesor."
+		}
+	},
+	{
 		"spanish": "Programador",
 		"english": "Programmer",
 		"pronunciation": "/ˈprəʊ.ɡræm.ər/",
@@ -309,7 +773,114 @@
 			"spanish": "Ellos escriben código como programadores."
 		}
 	},
-
+	{
+		"spanish": "Psicólogo",
+		"english": "Psychologist",
+		"pronunciation": "/saɪˈkɒl.ə.dʒɪst/",
+		"sentence": {
+			"english": "Are we consulting a psychologist for therapy?",
+			"spanish": "¿Consultamos a un psicólogo para terapia?"
+		}
+	},
+	{
+		"spanish": "Agente de bienes raíces",
+		"english": "Real estate agent",
+		"pronunciation": "/ˈrɪəl ɪˌsteɪt ˌeɪ.dʒənt/",
+		"sentence": {
+			"english": "She doesn't sell houses as a real estate agent.",
+			"spanish": "Ella no vende casas como agente de bienes raíces."
+		}
+	},
+	{
+		"spanish": "Recepcionista",
+		"english": "Receptionist",
+		"pronunciation": "/rɪˈsep.ʃən.ɪst/",
+		"sentence": {
+			"english": "I was answering phones as a receptionist.",
+			"spanish": "Contestaba teléfonos como recepcionista."
+		}
+	},
+	{
+		"spanish": "Investigador",
+		"english": "Researcher",
+		"pronunciation": "/rɪˈsɜː.tʃər/",
+		"sentence": {
+			"english": "Does he publish papers as a researcher?",
+			"spanish": "¿Publica artículos como investigador?"
+		}
+	},
+	{
+		"spanish": "Marinero",
+		"english": "Sailor",
+		"pronunciation": "/ˈseɪ.lər/",
+		"sentence": {
+			"english": "They weren't sailing ships as sailors.",
+			"spanish": "Ellos no navegaban barcos como marineros."
+		}
+	},
+	{
+		"spanish": "Vendedor",
+		"english": "Salesperson",
+		"pronunciation": "/ˈseɪlz.pɜː.sən/",
+		"sentence": {
+			"english": "Is she meeting clients as a salesperson?",
+			"spanish": "¿Se reúne con clientes como vendedora?"
+		}
+	},
+	{
+		"spanish": "Científico",
+		"english": "Scientist",
+		"pronunciation": "/ˈsaɪən.tɪst/",
+		"sentence": {
+			"english": "He doesn't work in a laboratory as a scientist.",
+			"spanish": "Él no trabaja en un laboratorio como científico."
+		}
+	},
+	{
+		"spanish": "Secretario",
+		"english": "Secretary",
+		"pronunciation": "/ˈsek.rə.tər.i/",
+		"sentence": {
+			"english": "Were you organizing meetings as a secretary?",
+			"spanish": "¿Organizabas reuniones como secretario?"
+		}
+	},
+	{
+		"spanish": "Guardia de seguridad",
+		"english": "Security guard",
+		"pronunciation": "/sɪˈkjʊə.rə.ti ˌɡɑːd/",
+		"sentence": {
+			"english": "They are protecting the building as security guards.",
+			"spanish": "Ellos protegen el edificio como guardias de seguridad."
+		}
+	},
+	{
+		"spanish": "Asistente de ventas",
+		"english": "Shop assistant",
+		"pronunciation": "/ˈʃɒp əˌsɪs.tənt/",
+		"sentence": {
+			"english": "Does she help customers as a shop assistant?",
+			"spanish": "¿Ayuda a clientes como asistente de ventas?"
+		}
+	},
+	{
+		"spanish": "Cantante",
+		"english": "Singer",
+		"pronunciation": "/ˈsɪŋ.ər/",
+		"sentence": {
+			"english": "He wasn't performing on stage as a singer.",
+			"spanish": "Él no actuaba en el escenario como cantante."
+		}
+	},
+	{
+		"spanish": "Desarrollador de Software",
+		"english": "Software Developer",
+		"pronunciation": "/ˈsɒft.weə dɪˈvel.ə.pər/",
+		"sentence": {
+			"english": "Are we hiring a software developer for the team?",
+			"spanish": "¿Contratamos un desarrollador de software para el equipo?"
+		}
+	},
 	{
 		"spanish": "Soldado",
 		"english": "Soldier",
@@ -317,6 +888,42 @@
 		"sentence": {
 			"english": "Is he serving in the army as a soldier?",
 			"spanish": "¿Sirve en el ejército como soldado?"
+		}
+	},
+	{
+		"spanish": "Deportista",
+		"english": "Sportsman",
+		"pronunciation": "/ˈspɔːts.mən/",
+		"sentence": {
+			"english": "I was training every day as a sportsman.",
+			"spanish": "Entrenaba cada día como deportista."
+		}
+	},
+	{
+		"spanish": "Cirujano",
+		"english": "Surgeon",
+		"pronunciation": "/ˈsɜː.dʒən/",
+		"sentence": {
+			"english": "Does he perform operations as a surgeon?",
+			"spanish": "¿Realiza operaciones como cirujano?"
+		}
+	},
+	{
+		"spanish": "Sastre",
+		"english": "Tailor",
+		"pronunciation": "/ˈteɪ.lər/",
+		"sentence": {
+			"english": "They weren't making suits as tailors.",
+			"spanish": "Ellos no hacían trajes como sastres."
+		}
+	},
+	{
+		"spanish": "Conductor de taxi",
+		"english": "Taxi driver",
+		"pronunciation": "/ˈtæk.si ˌdraɪ.vər/",
+		"sentence": {
+			"english": "Is she driving a taxi as a taxi driver?",
+			"spanish": "¿Conduce un taxi como conductora de taxi?"
 		}
 	},
 	{
@@ -328,7 +935,6 @@
 			"spanish": "¿Enseña matemáticas como profesor?"
 		}
 	},
-
 	{
 		"spanish": "Traductor",
 		"english": "Translator",
@@ -339,12 +945,57 @@
 		}
 	},
 	{
+		"spanish": "Agente de viajes",
+		"english": "Travel agent",
+		"pronunciation": "/ˈtræv.əl ˌeɪ.dʒənt/",
+		"sentence": {
+			"english": "Were you booking holidays as a travel agent?",
+			"spanish": "¿Reservabas vacaciones como agente de viajes?"
+		}
+	},
+	{
+		"spanish": "Tutor",
+		"english": "Tutor",
+		"pronunciation": "/ˈtjuː.tər/",
+		"sentence": {
+			"english": "They are helping students as tutors.",
+			"spanish": "Ellos ayudan a estudiantes como tutores."
+		}
+	},
+	{
+		"spanish": "Veterinario",
+		"english": "Veterinarian",
+		"pronunciation": "/ˌvet.ər.ɪˈneə.ri.ən/",
+		"sentence": {
+			"english": "Does she treat animals as a veterinarian?",
+			"spanish": "¿Trata animales como veterinaria?"
+		}
+	},
+	{
 		"spanish": "Camarero/Camarera",
 		"english": "Waiter/Waitress",
 		"pronunciation": "/ˈweɪ.tər/ /ˈweɪ.trəs/",
 		"sentence": {
 			"english": "They are serving tables as waiters.",
 			"spanish": "Ellos sirven mesas como camareros."
+		}
+	},
+	{
+		"spanish": "Diseñador web",
+		"english": "Web Designer",
+		"pronunciation": "/web dɪˈzaɪ.nər/",
+		"sentence": {
+			"english": "He wasn't creating websites as a web designer.",
+			"spanish": "Él no creaba sitios web como diseñador web."
+		}
+	},
+	{
+		"spanish": "Limpiador de ventanas",
+		"english": "Window cleaner",
+		"pronunciation": "/ˈwɪn.dəʊ ˌkliː.nər/",
+		"sentence": {
+			"english": "Are we hiring a window cleaner for the office?",
+			"spanish": "¿Contratamos un limpiador de ventanas para la oficina?"
 		}
 	},
 	{
