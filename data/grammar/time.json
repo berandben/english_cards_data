@@ -47,7 +47,7 @@
                     ]
                 }
             ],
-            "explanation": "Use 'o'clock' for exact hours, 'past' for minutes after, and 'to' for minutes before."
+            "explanation": "Use <em>o'clock</em> for exact hours, past for minutes after, and to for minutes before."
         },
         {
             "id": 2,
@@ -85,20 +85,23 @@
                     "text": "What time is it?"
                 },
                 {
-                    "text": "What´s the time?"
+                    "text": "What's the time?"
                 },
                 {
                     "text": "It's time to go."
                 },
                 {
                     "text": "Time flies!."
+                },
+                {
+                    "text": "The concert starts at ten o'clock."
                 }
             ],
             "explanation": "Useful phrases related to time and telling time."
         }
     ],
     "tips": [
-        "(It´s + Time) To answer the time right now",
-        "(At + Time) When giving the time of a event"
+        "(It´s + time) to answer the time right now",
+        "(at + time) when giving the time of a event"
     ]
 }
