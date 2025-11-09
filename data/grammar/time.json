@@ -2,99 +2,103 @@
     "whenToUse": [
         {
             "id": 1,
-            "title": "Formato de 12 horas",
+            "title": "Analogue",
             "examples": [
                 {
                     "text": "It's three o'clock.",
                     "highlights": [
-                        "three",
                         "o'clock"
-                    ],
-                    "response": {
-                        "text": "Oh yeah.",
-                        "highlights": [
-                            "yeah"
-                        ]
-                    }
+                    ]
                 },
                 {
-                    "text": "It's half past four.",
+                    "text": "It's ten past three.",
+                    "highlights": [
+                        "past"
+                    ]
+                },
+                {
+                    "text": "It's quarter past three.",
+                    "highlights": [
+                        "quarter past"
+                    ]
+                },
+                {
+                    "text": "It's half past three.",
                     "highlights": [
                         "half past"
                     ]
                 },
                 {
-                    "text": "It's quarter to six.",
+                    "text": "It's twenty to four.",
                     "highlights": [
-                        "quarter to"
+                        "to"
+                    ]
+                },
+                {
+                    "text": "It's a quarter to four.",
+                    "highlights": [
+                        "a quarter to"
+                    ]
+                },
+                {
+                    "text": "It's ten to four.",
+                    "highlights": [
+                        "to"
                     ]
                 }
             ],
-            "explanation": "Usa 'o'clock' para horas exactas, 'past' para minutos después y 'to' para minutos antes."
+            "explanation": "Use 'o'clock' for exact hours, 'past' for minutes after, and 'to' for minutes before."
         },
         {
             "id": 2,
-            "title": "Formato digital",
+            "title": "Digital",
             "examples": [
                 {
-                    "text": "It's 3:15 PM.",
-                    "highlights": [
-                        "3:15",
-                        "PM"
-                    ]
+                    "text": "It's 3:00 AM"
                 },
                 {
-                    "text": "It's 14:30.",
-                    "highlights": [
-                        "14:30"
-                    ]
+                    "text": "It's 3:10 AM"
                 },
                 {
-                    "text": "It's 09:45 AM.",
-                    "highlights": [
-                        "09:45",
-                        "AM"
-                    ]
+                    "text": "It's 3:15 AM"
+                },
+                {
+                    "text": "It's 3:30 AM"
+                },
+                {
+                    "text": "It's 3:40 AM"
+                },
+                {
+                    "text": "It's 3:45 AM"
+                },
+                {
+                    "text": "It's 3:50 AM"
                 }
             ],
-            "explanation": "En contexto formal o escrito, se usa el formato digital con AM/PM o 24 horas."
+            "explanation": "Use the digital format with AM/PM or 24-hour clock"
         },
         {
             "id": 3,
-            "title": "Expresiones comunes",
+            "title": "Common sentences",
             "examples": [
                 {
-                    "text": "What time is it?",
-                    "highlights": [
-                        "What time"
-                    ]
+                    "text": "What time is it?"
                 },
                 {
-                    "text": "It's time to go.",
-                    "highlights": [
-                        "time to go"
-                    ]
+                    "text": "What´s the time?"
                 },
                 {
-                    "text": "Time flies!",
-                    "highlights": [
-                        "Time flies"
-                    ]
+                    "text": "It's time to go."
+                },
+                {
+                    "text": "Time flies!."
                 }
             ],
-            "explanation": "Frases útiles relacionadas con el tiempo y la hora."
+            "explanation": "Useful phrases related to time and telling time."
         }
     ],
-    "commonItems": [
-        "o'clock",
-        "half past",
-        "quarter past",
-        "quarter to",
-        "AM",
-        "PM"
-    ],
     "tips": [
-        "En inglés británico se usa más 'half past' y 'quarter to/past', mientras que en americano se prefiere el formato digital.",
-        "Recuerda usar 'It's' (It is) para decir la hora, no 'Is it'."
+        "(It´s + Time) To answer the time right now",
+        "(At + Time) When giving the time of a event"
     ]
 }
