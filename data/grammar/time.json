@@ -47,7 +47,7 @@
                     ]
                 }
             ],
-            "explanation": "Use <strong>o'clock</strong> for exact hours, past for minutes after, and to for minutes before."
+            "explanation": "Use <strong>o'clock</strong> for exact hours, <strong>past</strong> for minutes after, and <strong>to</strong> for minutes before."
         },
         {
             "id": 2,
@@ -75,7 +75,7 @@
                     "text": "It's 3:50 AM"
                 }
             ],
-            "explanation": "Use the digital format with AM/PM or 24-hour clock"
+            "explanation": "Use the digital format with <strong>AM/PM</strong> or <strong>24-hour</strong> clock"
         },
         {
             "id": 3,
@@ -101,7 +101,7 @@
         }
     ],
     "tips": [
-        "(It´s + time) to answer the time right now",
-        "(at + time) when giving the time of a event"
+        "<strong>(It´s + time)</strong> to answer the time right now",
+        "<strong>(at + time)</strong> when giving the time of a event"
     ]
 }
