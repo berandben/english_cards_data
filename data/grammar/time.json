@@ -9,7 +9,13 @@
                     "highlights": [
                         "three",
                         "o'clock"
-                    ]
+                    ],
+                    "response": {
+                        "text": "Oh yeah.",
+                        "highlights": [
+                            "yeah"
+                        ]
+                    }
                 },
                 {
                     "text": "It's half past four.",
