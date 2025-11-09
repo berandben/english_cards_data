@@ -3,7 +3,7 @@
         "id": "time",
         "icon": "⏰",
         "title": "Time",
-        "description": "Time description",
+        "description": "Telling time",
         "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/grammar/time.json"
     }
 ]
