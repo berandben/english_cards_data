@@ -47,7 +47,7 @@
                     ]
                 }
             ],
-            "explanation": "Use <em>o'clock</em> for exact hours, past for minutes after, and to for minutes before."
+            "explanation": "Use <strong>o'clock</strong> for exact hours, past for minutes after, and to for minutes before."
         },
         {
             "id": 2,
