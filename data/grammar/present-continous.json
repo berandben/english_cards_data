@@ -56,7 +56,7 @@
 				"<span>❓To be (Am/Is/Are) + subject + verb-ing + complements ?</span>"
 			]
 		},
-        {
+		{
 			"id": 2,
 			"title": "When to use",
 			"examples": [
@@ -95,7 +95,7 @@
 						},
 						{
 							"text": "I am flying to Paris next Friday",
-                            "highlights": ["flying"]
+							"highlights": ["flying"]
 						}
 					]
 				},
@@ -108,17 +108,14 @@
 						},
 						{
 							"text": "Her English is improving",
-                            "highlights": ["improving"]
+							"highlights": ["improving"]
 						}
 					]
 				}
-                
 			],
-			"explanation": [
-				
-			]
+			"explanation": []
 		},
-         {
+		{
 			"id": 3,
 			"title": "Rules",
 			"examples": [
@@ -133,7 +130,7 @@
 						}
 					]
 				},
-                {
+				{
 					"subtitle": "Ended in -ie",
 					"items": [
 						{
@@ -144,7 +141,7 @@
 						}
 					]
 				},
-                 {
+				{
 					"subtitle": "Stressed final syllable ended in consonant-vowel-consonant.",
 					"items": [
 						{
@@ -155,12 +152,9 @@
 						}
 					]
 				}
-                
 			],
-			"explanation": [
-				
-			]
+			"explanation": []
 		}
 	],
-	"tips": []
+	"tips": ["Doing right now", "<strong>Yes</strong> -ing", "<strong>No</strong>  <s>-ing</s>"]
 }
