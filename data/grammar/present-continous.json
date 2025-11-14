@@ -55,6 +55,115 @@
 				"<span>➖ Subject + to be(am/is/are) + NOT + verb-ing + complements</span>",
 				"<span>❓To be (Am/Is/Are) + subject + verb-ing + complements ?</span>"
 			]
+		},
+        {
+			"id": 2,
+			"title": "When to use",
+			"examples": [
+				{
+					"subtitle": "Actions right now",
+					"items": [
+						{
+							"text": "I am writing an email right now",
+							"highlights": ["writing"]
+						},
+						{
+							"text": "She is talking on the phone",
+							"highlights": ["talking"]
+						}
+					]
+				},
+				{
+					"subtitle": "Temporary situations",
+					"items": [
+						{
+							"text": "He is staying with friends this week",
+							"highlights": ["staying"]
+						},
+						{
+							"text": "They are studing for their exams these days",
+							"highlights": ["studing"]
+						}
+					]
+				},
+				{
+					"subtitle": "Confirmed future plans",
+					"items": [
+						{
+							"text": "We are meeting tomorrow at 5 PM",
+							"highlights": ["meeting"]
+						},
+						{
+							"text": "I am flying to Paris next Friday",
+                            "highlights": ["flying"]
+						}
+					]
+				},
+				{
+					"subtitle": "Changing situations",
+					"items": [
+						{
+							"text": "The climate is getting warmer",
+							"highlights": ["getting"]
+						},
+						{
+							"text": "Her English is improving",
+                            "highlights": ["improving"]
+						}
+					]
+				}
+                
+			],
+			"explanation": [
+				"<span>➕ Subject + to be(am/is/are) + verb-ing + complements</span>",
+				"<span>➖ Subject + to be(am/is/are) + NOT + verb-ing + complements</span>",
+				"<span>❓To be (Am/Is/Are) + subject + verb-ing + complements ?</span>"
+			]
+		},
+         {
+			"id": 3,
+			"title": "Rules",
+			"examples": [
+				{
+					"subtitle": "-e",
+					"items": [
+						{
+							"text": "write - writing"
+						},
+						{
+							"text": "take - taking"
+						}
+					]
+				},
+                {
+					"subtitle": "-ie",
+					"items": [
+						{
+							"text": "die - dying"
+						},
+						{
+							"text": "lie - lying"
+						}
+					]
+				},
+                 {
+					"subtitle": "cvc",
+					"items": [
+						{
+							"text": "run - running"
+						},
+						{
+							"text": "swim - swimming"
+						}
+					]
+				}
+                
+			],
+			"explanation": [
+				"<span>➕ Subject + to be(am/is/are) + verb-ing + complements</span>",
+				"<span>➖ Subject + to be(am/is/are) + NOT + verb-ing + complements</span>",
+				"<span>❓To be (Am/Is/Are) + subject + verb-ing + complements ?</span>"
+			]
 		}
 	],
 	"tips": []
