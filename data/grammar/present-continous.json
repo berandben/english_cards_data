@@ -1,31 +1,57 @@
 {
-    "whenToUse": [
-        {
-            "id": 1,
-            "title": "Structure",
-            "examples": [
-                {
-                    "subtitle": "Afirmative",
-                    "items": [
-                        {
-                            "text": "Subject + to be(am/is/are) + verb-ing + complements"                           
-                        },
-                        {
-                            "text": "I am learning English now" ,
-                            "highlights": [
-                                "learning"
-                            ]                          
-                        }
-                    ]
-                }
-               
-            ],
-            "explanation": "<p>➕Subject + to be(am/is/are) + verb-ing + complements</p><p>➖Subject + to be(am/is/are) + NOT + verb-ing + complements</p><p>❓To be (Am/Is/Are) + subject + verb-ing + complements ?"
-            
-           
-        }
-    ],
-    "tips": [
-       
-    ]
+	"whenToUse": [
+		{
+			"id": 1,
+			"title": "Structure",
+			"examples": [
+				{
+					"subtitle": "➕ Afirmative",
+					"items": [
+						{
+							"text": "I am learning English now",
+							"highlights": ["learning"]
+						},
+						{
+							"text": "They are watching a movie",
+							"highlights": ["watching"]
+						}
+					]
+				},
+				{
+					"subtitle": "➖ Negative",
+					"items": [
+						{
+							"text": "He isn't paying attention",
+							"highlights": ["isn't paying"]
+						},
+						{
+							"text": "We aren't going to the party",
+							"highlights": ["aren't going"]
+						}
+					]
+				},
+				{
+					"subtitle": "❓Interrogative",
+					"items": [
+						{
+							"text": "Are you listening?",
+							"highlights": ["listening"]
+						},
+						{
+							"text": "Yes, I am / No, I'm not."
+						},
+						{
+							"text": "Is she coming?",
+							"highlights": ["coming"]
+						},
+						{
+							"text": "Yes, she is / No, she isn't."
+						}
+					]
+				}
+			],
+			"explanation": "<p>➕ Subject + to be(am/is/are) + verb-ing + complements</p><p>➖ Subject + to be(am/is/are) + NOT + verb-ing + complements</p><p>❓To be (Am/Is/Are) + subject + verb-ing + complements ?"
+		}
+	],
+	"tips": []
 }
