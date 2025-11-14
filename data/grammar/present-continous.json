@@ -115,9 +115,7 @@
                 
 			],
 			"explanation": [
-				"<span>➕ Subject + to be(am/is/are) + verb-ing + complements</span>",
-				"<span>➖ Subject + to be(am/is/are) + NOT + verb-ing + complements</span>",
-				"<span>❓To be (Am/Is/Are) + subject + verb-ing + complements ?</span>"
+				
 			]
 		},
          {
@@ -160,9 +158,7 @@
                 
 			],
 			"explanation": [
-				"<span>➕ Subject + to be(am/is/are) + verb-ing + complements</span>",
-				"<span>➖ Subject + to be(am/is/are) + NOT + verb-ing + complements</span>",
-				"<span>❓To be (Am/Is/Are) + subject + verb-ing + complements ?</span>"
+				
 			]
 		}
 	],
