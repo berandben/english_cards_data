@@ -1,4 +1,13 @@
 [
+   
+    {
+        "id": "present-continous",
+        "icon": "📝",
+        "title": "Present continous",
+        "description": "Live actions, right now!",
+        "url": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/data/grammar/present-continous.json"
+    },
+   
     {
         "id": "time",
         "icon": "⏰",
