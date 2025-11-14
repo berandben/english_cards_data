@@ -154,7 +154,116 @@
 				}
 			],
 			"explanation": []
+		},
+		{
+			"id": 4,
+			"title": "Non action verbs",
+			"examples": [
+				{
+					"subtitle": "Possesion and relation",
+					"items": [
+						{
+							"text": "belong, have, own, possess, contain"
+						},
+						{
+							"text": "<s>I am having a car</s>"
+						},
+						{
+							"text": "I have a car",
+							"highlights": ["have"]
+						},
+						{
+							"text": "Exceptions:"
+						},
+						{
+							"text": "I'm having breakfast (eating)"
+						},
+						{
+							"text": "I'm having a good time (experiencing)"
+						}
+					]
+				},
+				{
+					"subtitle": "Emotion and preference",
+					"items": [
+						{
+							"text": "like, love, hate, prefer, want, desire, mind"
+						},
+						{
+							"text": "<s>I am liking this movie</s>"
+						},
+						{
+							"text": "I like this movie",
+							"highlights": ["like"]
+						}
+					]
+				},
+				{
+					"subtitle": "Perception and senses",
+					"items": [
+						{
+							"text": "see, hear, smell, taste, feel"
+						},
+						{
+							"text": "<s>I am seeing the mountains</s>"
+						},
+						{
+							"text": "I see the mountains",
+							"highlights": ["see"]
+						},
+						{
+							"text": "Exceptions:"
+						},
+						{
+							"text": "I'm feeling the texture (touching)"
+						},
+						{
+							"text": "She's tasting the soup (testing)"
+						},
+						{
+							"text": "I'm seeing my doctor tomorrow (visiting)"
+						}
+					]
+				},
+				{
+					"subtitle": "Thought and knowledge",
+					"items": [
+						{
+							"text": "know, believe, understand, think, remember, forget, realize, mean"
+						},
+						{
+							"text": "<s>I am knowing the answer</s>"
+						},
+						{
+							"text": "I know the answer",
+							"highlights": ["know"]
+						},
+						{
+							"text": "Exceptions:"
+						},
+						{
+							"text": "I'm thinking about buying a car (consideration)"
+						}
+					]
+				},
+				{
+					"subtitle": "Appearance, state o quality",
+					"items": [
+						{
+							"text": "be, exist, seem, appear, cost, weigh, look like"
+						},
+						{
+							"text": "<s>This is costing 50€</s>"
+						},
+						{
+							"text": "This costs 50€",
+							"highlights": ["costs"]
+						}
+					]
+				}
+			],
+			"explanation": []
 		}
 	],
-	"tips": ["Doing right now", "<strong>Yes</strong> -ing", "<strong>No</strong>  <s>-ing</s>"]
+	"tips": ["Doing right now?", "<strong>Yes</strong> -ing", "<strong>No</strong>  <s>-ing</s>"]
 }
