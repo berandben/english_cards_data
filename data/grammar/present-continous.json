@@ -123,7 +123,7 @@
 			"title": "Rules",
 			"examples": [
 				{
-					"subtitle": "-e",
+					"subtitle": "Ended in -e",
 					"items": [
 						{
 							"text": "write - writing"
@@ -134,7 +134,7 @@
 					]
 				},
                 {
-					"subtitle": "-ie",
+					"subtitle": "Ended in -ie",
 					"items": [
 						{
 							"text": "die - dying"
