@@ -1,0 +1,117 @@
+{
+	"whenToUse": [
+		{
+			"id": 1,
+			"title": "in",
+			"examples": [
+				{
+					"subtitle": "countries and cities",
+					"items": [
+						{
+							"text": "I lived in Spain for two years.",
+							"highlights": ["in Spain"]
+						},
+						{
+							"text": "The Prado Museum is in Madrid.",
+							"highlights": ["in Madrid"]
+						}
+					]
+				},
+				{
+					"subtitle": "rooms",
+					"items": [
+						{
+							"text": "We have breakfast in the kitchen.",
+							"highlights": ["in the kitchen"]
+						}
+					]
+				},
+				{
+					"subtitle": "buildings",
+					"items": [
+						{
+							"text": "She works in a shop.",
+							"highlights": ["in a shop"]
+						},
+						{
+							"text": "We saw ancient artifacts in a museum.",
+							"highlights": ["in a museum"]
+						}
+					]
+				},
+				{
+					"subtitle": "closed spaces",
+					"items": [
+						{
+							"text": "The children play in a park.",
+							"highlights": ["in a park"]
+						},
+						{
+							"text": "We grow roses in a garden.",
+							"highlights": ["in a garden"]
+						},
+						{
+							"text": "He listens to music in a car.",
+							"highlights": ["in a car"]
+						}
+					]
+				},
+				{
+					"subtitle": "months",
+					"items": [
+						{
+							"text": "My birthday is in February.",
+							"highlights": ["in February"]
+						},
+						{
+							"text": "Schools finish in June.",
+							"highlights": ["in June"]
+						}
+					]
+				},
+				{
+					"subtitle": "seasons",
+					"items": [
+						{
+							"text": "It snows a lot in the winter.",
+							"highlights": ["in the winter"]
+						}
+					]
+				},
+				{
+					"subtitle": "years",
+					"items": [
+						{
+							"text": "The project will be completed in 2026.",
+							"highlights": ["in 2026"]
+						}
+					]
+				},
+				{
+					"subtitle": "times of day",
+					"items": [
+						{
+							"text": "I go for a run in the morning.",
+							"highlights": ["in the morning"]
+						},
+						{
+							"text": "Let's meet for coffee in the afternoon.",
+							"highlights": ["in the afternoon"]
+						},
+						{
+							"text": "I like to read in the evening.",
+							"highlights": ["in the evening"]
+						}
+					]
+				}
+			],
+			"explanation": [
+				"Use <strong>in</strong> for periods of time (months, years, seasons, times of day), locations within larger areas (countries, cities), and enclosed spaces (rooms, buildings)."
+			]
+		}
+	],
+	"tips": [
+		"<strong>in + the morning/afternoon/evening</strong> but <strong>at + night</strong>.",
+		"Use <strong>in</strong> for non-specific times within a period (e.g., in June, in 2024, in the summer)."
+	]
+}
