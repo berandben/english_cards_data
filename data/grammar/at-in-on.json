@@ -108,6 +108,94 @@
 			"explanation": [
 				"Use <strong>in</strong> for periods of time (months, years, seasons, times of day), locations within larger areas (countries, cities), and enclosed spaces (rooms, buildings)."
 			]
+		},{
+			"id": 2,
+			"title": "on",
+			"examples": [
+				{
+					"subtitle": "transport",
+					"items": [
+						{
+							"text": "She goes to work on a bike every day.",
+							"highlights": ["on a bike"]
+						},
+						{
+							"text": "I read a book on the bus this morning.",
+							"highlights": ["on the bus"]
+						},
+						{
+							"text": "We met some nice people on the train to Barcelona.",
+							"highlights": ["on the train"]
+						},
+						{
+							"text": "You're not allowed to use your phone on a plane during takeoff.",
+							"highlights": ["on a plane"]
+						},
+						{
+							"text": "They spent their honeymoon on a ship in the Mediterranean.",
+							"highlights": ["on a ship"]
+						}
+					]
+				},
+				{
+					"subtitle": "a surface",
+					"items": [
+						{
+							"text": "The cat is sleeping on the floor.",
+							"highlights": ["on the floor"]
+						},
+						{
+							"text": "Please put the keys on the table.",
+							"highlights": ["on the table"]
+						},
+						{
+							"text": "All the books are organized on the shelf.",
+							"highlights": ["on the shelf"]
+						},
+						{
+							"text": "We have breakfast on the balcony when it's sunny.",
+							"highlights": ["on the balcony"]
+						},
+						{
+							"text": "There's a beautiful view from on the roof.",
+							"highlights": ["on the roof"]
+						},
+						{
+							"text": "There's a large painting on the wall in the living room.",
+							"highlights": ["on the wall"]
+						}
+					]
+				},
+				{
+					"subtitle": "dates",
+					"items": [
+						{
+							"text": "My sister's birthday is on 1st March.",
+							"highlights": ["on 1st March"]
+						}
+					]
+				},
+				{
+					"subtitle": "days",
+					"items": [
+						{
+							"text": "We have a meeting scheduled for Tuesday.",
+							"highlights": ["on Tuesday"]
+						},
+						{
+							"text": "People make resolutions on New Year's Day.",
+							"highlights": ["on New Year's Day"]
+						},
+						{
+							"text": "Couples exchange gifts on Valentine's Day.",
+							"highlights": ["on Valentine's Day"]
+						}
+					]
+				}
+			],
+			"explanation": [
+				"Use <strong>on</strong> for surfaces (tables, walls, floors), for public/individual transport where you can stand or walk (buses, trains, planes, ships), and for specific days and dates."
+			]
 		}
 	],
 	"tips": [
