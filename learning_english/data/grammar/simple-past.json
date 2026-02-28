@@ -141,9 +141,7 @@
                             "items": [
                                 [
                                     "change y to -ied",
-                                    "study -> studied",
-                                    "",
-                                    ""
+                                    "study -> studied"
                                 ]
                             ]
                         },
@@ -152,9 +150,7 @@
                             "items": [
                                 [
                                     "double consonant +  ed",
-                                    "stop -> stopped",
-                                    "",
-                                    ""
+                                    "stop -> stopped"
                                 ],
                                 [
                                     "exception (w,x, y)",
@@ -167,9 +163,7 @@
                             "items": [
                                 [
                                     "add -ked",
-                                    "picnic -> picnicked",
-                                    "",
-                                    ""
+                                    "picnic -> picnicked"
                                 ]
                             ]
                         }
