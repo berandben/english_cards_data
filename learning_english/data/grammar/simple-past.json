@@ -242,17 +242,17 @@
                     ],
                     "rows": [
                         [
-                            "walked",
-                            "after voiceless sounds",
+                            "@_walked",
+                            "after voiceless sounds (p, k, f, s, ʃ, tʃ, θ)",
                             "/t/"
                         ],
                         [
-                            "played",
-                            "after voiced sounds",
+                            "@_played",
+                            "after voiced sounds (vocales, b, g, v, z, ʒ, m, n, l, r)",
                             "/d/"
                         ],
                         [
-                            "wanted",
+                            "@_wanted",
                             "after /t/ or /d/",
                             "/ɪd/"
                         ]
