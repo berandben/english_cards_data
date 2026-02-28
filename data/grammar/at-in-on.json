@@ -1,0 +1,300 @@
+{
+	"whenToUse": [
+		{
+			"id": 1,
+			"title": "in",
+			"examples": [
+				{
+					"subtitle": "countries and cities",
+					"items": [
+						{
+							"text": "I lived in Spain for two years.",
+							"highlights": ["in Spain"]
+						},
+						{
+							"text": "The Prado Museum is in Madrid.",
+							"highlights": ["in Madrid"]
+						}
+					]
+				},
+				{
+					"subtitle": "rooms",
+					"items": [
+						{
+							"text": "We have breakfast in the kitchen.",
+							"highlights": ["in the kitchen"]
+						}
+					]
+				},
+				{
+					"subtitle": "buildings",
+					"items": [
+						{
+							"text": "She works in a shop.",
+							"highlights": ["in a shop"]
+						},
+						{
+							"text": "We saw ancient artifacts in a museum.",
+							"highlights": ["in a museum"]
+						}
+					]
+				},
+				{
+					"subtitle": "closed spaces",
+					"items": [
+						{
+							"text": "The children play in a park.",
+							"highlights": ["in a park"]
+						},
+						{
+							"text": "We grow roses in a garden.",
+							"highlights": ["in a garden"]
+						},
+						{
+							"text": "He listens to music in a car.",
+							"highlights": ["in a car"]
+						}
+					]
+				},
+				{
+					"subtitle": "months",
+					"items": [
+						{
+							"text": "My birthday is in February.",
+							"highlights": ["in February"]
+						},
+						{
+							"text": "Schools finish in June.",
+							"highlights": ["in June"]
+						}
+					]
+				},
+				{
+					"subtitle": "seasons",
+					"items": [
+						{
+							"text": "It snows a lot in the winter.",
+							"highlights": ["in the winter"]
+						}
+					]
+				},
+				{
+					"subtitle": "years",
+					"items": [
+						{
+							"text": "The project will be completed in 2026.",
+							"highlights": ["in 2026"]
+						}
+					]
+				},
+				{
+					"subtitle": "times of day",
+					"items": [
+						{
+							"text": "I go for a run in the morning.",
+							"highlights": ["in the morning"]
+						},
+						{
+							"text": "Let's meet for coffee in the afternoon.",
+							"highlights": ["in the afternoon"]
+						},
+						{
+							"text": "I like to read in the evening.",
+							"highlights": ["in the evening"]
+						}
+					]
+				}
+			],
+			"explanation": [
+				"Use <strong>in</strong> for periods of time (months, years, seasons, times of day), locations within larger areas (countries, cities), and enclosed spaces (rooms, buildings)."
+			]
+		},
+		{
+			"id": 2,
+			"title": "on",
+			"examples": [
+				{
+					"subtitle": "transport",
+					"items": [
+						{
+							"text": "She goes to work on a bike every day.",
+							"highlights": ["on a bike"]
+						},
+						{
+							"text": "I read a book on the bus this morning.",
+							"highlights": ["on the bus"]
+						},
+						{
+							"text": "We met some nice people on the train to Barcelona.",
+							"highlights": ["on the train"]
+						},
+						{
+							"text": "You're not allowed to use your phone on a plane during takeoff.",
+							"highlights": ["on a plane"]
+						},
+						{
+							"text": "They spent their honeymoon on a ship in the Mediterranean.",
+							"highlights": ["on a ship"]
+						}
+					]
+				},
+				{
+					"subtitle": "a surface",
+					"items": [
+						{
+							"text": "The cat is sleeping on the floor.",
+							"highlights": ["on the floor"]
+						},
+						{
+							"text": "Please put the keys on the table.",
+							"highlights": ["on the table"]
+						},
+						{
+							"text": "All the books are organized on the shelf.",
+							"highlights": ["on the shelf"]
+						},
+						{
+							"text": "We have breakfast on the balcony when it's sunny.",
+							"highlights": ["on the balcony"]
+						},
+						{
+							"text": "There's a beautiful view from on the roof.",
+							"highlights": ["on the roof"]
+						},
+						{
+							"text": "There's a large painting on the wall in the living room.",
+							"highlights": ["on the wall"]
+						}
+					]
+				},
+				{
+					"subtitle": "dates",
+					"items": [
+						{
+							"text": "My sister's birthday is on 1st March.",
+							"highlights": ["on 1st March"]
+						}
+					]
+				},
+				{
+					"subtitle": "days",
+					"items": [
+						{
+							"text": "We have a meeting scheduled on Tuesday.",
+							"highlights": ["on Tuesday"]
+						},
+						{
+							"text": "People make resolutions on New Year's Day.",
+							"highlights": ["on New Year's Day"]
+						},
+						{
+							"text": "Couples exchange gifts on Valentine's Day.",
+							"highlights": ["on Valentine's Day"]
+						}
+					]
+				}
+			],
+			"explanation": [
+				"Use <strong>on</strong> for surfaces (tables, walls, floors), for public/individual transport where you can stand or walk (buses, trains, planes, ships), and for specific days and dates."
+			]
+		},
+		{
+			"id": 3,
+			"title": "at",
+			"examples": [
+				{
+					"subtitle": "places",
+					"items": [
+						{
+							"text": "The children are learning to read at school.",
+							"highlights": ["at school"]
+						},
+						{
+							"text": "I left my keys at home this morning.",
+							"highlights": ["at home"]
+						},
+						{
+							"text": "She needs to finish a report at work today.",
+							"highlights": ["at work"]
+						},
+						{
+							"text": "He is studying engineering at university.",
+							"highlights": ["at university"]
+						},
+						{
+							"text": "We'll meet you at the airport when you arrive.",
+							"highlights": ["at the airport"]
+						},
+						{
+							"text": "The train arrives at the station at 5 PM.",
+							"highlights": ["at the station"]
+						},
+						{
+							"text": "Please wait for me at the bus stop.",
+							"highlights": ["at the bus stop"]
+						},
+						{
+							"text": "I saw many old friends at the party.",
+							"highlights": ["at the party"]
+						},
+						{
+							"text": "Someone is knocking at the door.",
+							"highlights": ["at the door"]
+						}
+					]
+				},
+				{
+					"subtitle": "times",
+					"items": [
+						{
+							"text": "The movie starts at six o'clock.",
+							"highlights": ["at six o'clock"]
+						},
+						{
+							"text": "We have lunch at half past two.",
+							"highlights": ["at half past two"]
+						},
+						{
+							"text": "The shop closes at quarter to eight.",
+							"highlights": ["at quarter to eight"]
+						},
+						{
+							"text": "Stars are visible at night.",
+							"highlights": ["at night"]
+						},
+						{
+							"text": "We usually relax at the weekend.",
+							"highlights": ["at the weekend"]
+						}
+					]
+				},
+				{
+					"subtitle": "festival periods",
+					"items": [
+						{
+							"text": "Families gather together at Christmas.",
+							"highlights": ["at Christmas"]
+						},
+						{
+							"text": "Many people go on holiday at Easter.",
+							"highlights": ["at Easter"]
+						}
+					]
+				}
+			],
+			"explanation": [
+				"Use <strong>at</strong> for specific points in time (hours, 'night'), for specific points or locations (events, addresses, 'home/work/school'), and for holiday periods when referring to the time of celebration itself."
+			]
+		}
+	],
+	"tips": [
+		"<strong>in + the morning/afternoon/evening</strong> but <strong>at + night</strong>.",
+		"Use <strong>in</strong> for non-specific times within a period (e.g., in June, in 2024, in the summer).",
+		"Use <strong>on</strong> for days of the week (on Monday) and specific dates (on May 5th).",
+		"Use <strong>on</strong> for surfaces, but <strong>in</strong> for enclosed spaces (on the table vs. in the drawer).",
+		"For transport: use <strong>on</strong> for buses, trains, planes, ships; use <strong>in</strong> for cars and taxis.",
+		"<strong>at + exact time</strong> (at 7:30, at noon, at midnight)",
+		"<strong>at + specific point/event</strong> (at the door, at the concert, at the meeting)",
+		"Note the exception: use <strong>on</strong> for 'the weekend' in American English (on the weekend)"
+	]
+}

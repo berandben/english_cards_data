@@ -1,0 +1,180 @@
+{
+    "whenToUse": [
+        {
+            "id": 1,
+            "title": "Analogue",
+            "examples": [
+                {
+                    "subtitle": "Exact Hours",
+                    "items": [
+                        {
+                            "text": "It's three o'clock.",
+                            "highlights": [
+                                "o'clock"
+                            ]
+                        },
+                        {
+                            "text": "It's three o'clock.",
+                            "highlights": [
+                                "o'clock"
+                            ]
+                        },
+                        {
+                            "text": "It's three o'clock.",
+                            "highlights": [
+                                "o'clock"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subtitle": "Minutes Past the Hour",
+                    "items": [
+                        {
+                            "text": "It's ten past three.",
+                            "highlights": [
+                                "past"
+                            ]
+                        },
+                        {
+                            "text": "It's quarter past three.",
+                            "highlights": [
+                                "quarter past"
+                            ]
+                        },
+                        {
+                            "text": "It's half past three.",
+                            "highlights": [
+                                "half past"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subtitle": "Minutes Before the Hour",
+                    "items": [
+                        {
+                            "text": "It's twenty to four.",
+                            "highlights": [
+                                "to"
+                            ]
+                        },
+                        {
+                            "text": "It's a quarter to four.",
+                            "highlights": [
+                                "a quarter to"
+                            ]
+                        },
+                        {
+                            "text": "It's ten to four.",
+                            "highlights": [
+                                "to"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "explanation": "Use <strong>o'clock</strong> for exact hours, <strong>past</strong> for minutes after, and <strong>to</strong> for minutes before."
+        },
+        {
+            "id": 2,
+            "title": "Digital",
+            "examples": [
+                {
+                    "subtitle": "12-hour Format",
+                    "items": [
+                        {
+                            "text": "It's 3:00 AM"
+                        },
+                        {
+                            "text": "It's 3:10 AM"
+                        },
+                        {
+                            "text": "It's 3:15 AM"
+                        },
+                        {
+                            "text": "It's 3:30 AM"
+                        },
+                        {
+                            "text": "It's 3:40 AM"
+                        },
+                        {
+                            "text": "It's 3:45 AM"
+                        },
+                        {
+                            "text": "It's 3:50 AM"
+                        }
+                    ]
+                },
+                {
+                    "subtitle": "24-hour Format",
+                    "items": [
+                        {
+                            "text": "It's 15:00"
+                        },
+                        {
+                            "text": "It's 15:30"
+                        },
+                        {
+                            "text": "It's 23:45"
+                        }
+                    ]
+                }
+            ],
+            "explanation": "Use the digital format with <strong>AM/PM</strong> or <strong>24-hour</strong> clock"
+        },
+        {
+            "id": 3,
+            "title": "Common sentences",
+            "examples": [
+                {
+                    "subtitle": "Asking for Time",
+                    "items": [
+                        {
+                            "text": "What time is it?"
+                        },
+                        {
+                            "text": "What's the time?"
+                        },
+                        {
+                            "text": "Do you have the time?"
+                        }
+                    ]
+                },
+                {
+                    "subtitle": "Expressions About Time",
+                    "items": [
+                        {
+                            "text": "It's time to go."
+                        },
+                        {
+                            "text": "Time flies!"
+                        },
+                        {
+                            "text": "I'm running out of time."
+                        }
+                    ]
+                },
+                {
+                    "subtitle": "Scheduling Events",
+                    "items": [
+                        {
+                            "text": "The concert starts at ten o'clock."
+                        },
+                        {
+                            "text": "My flight leaves at 3:30 PM."
+                        },
+                        {
+                            "text": "Let's meet at half past two."
+                        }
+                    ]
+                }
+            ],
+            "explanation": "Useful phrases related to time and telling time."
+        }
+    ],
+    "tips": [
+        "<strong>(It´s + time)</strong> to answer the time right now",
+        "<strong>(at + time)</strong> when giving the time of a event"
+    ]
+}
