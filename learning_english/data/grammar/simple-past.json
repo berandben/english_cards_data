@@ -755,9 +755,9 @@
                     "content": "",
                     "items": [],
                     "headers": [
-                        "Verb",
-                        "Rule",
-                        "Sound"
+                        "Base",
+                        "Past",
+                        "Participle"
                     ],
                     "rows": [
                         {
