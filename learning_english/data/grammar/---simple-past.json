@@ -53,8 +53,7 @@
                     "label": "",
                     "content": "",
                     "items": [
-                        "Subject + Past Verb",
-                        "She visited London"
+                        "Subject + Past Verb"
                     ],
                     "headers": [],
                     "rows": [],
@@ -67,8 +66,7 @@
                     "label": "",
                     "content": "",
                     "items": [
-                        "Subject + did not (didn't) + Base Verb (infinitive)",
-                        "She didn't visit London"
+                        "Subject + did not (didn't) + Base Verb (infinitive)"
                     ],
                     "headers": [],
                     "rows": [],
@@ -81,8 +79,7 @@
                     "label": "",
                     "content": "",
                     "items": [
-                        "Did + Subject + Base Verb (infinitive) ?",
-                        "Did she visit London?"
+                        "Did + Subject + Base Verb (infinitive) ?"
                     ],
                     "headers": [],
                     "rows": [],
@@ -104,83 +101,6 @@
             ]
         },
         {
-            "id": "section-6-1772298214762",
-            "title": "Write Rules",
-            "type": "comparison",
-            "blocks": [
-                {
-                    "type": "table",
-                    "label": "",
-                    "content": "",
-                    "items": [],
-                    "headers": [
-                        "Rule",
-                        "Example"
-                    ],
-                    "rows": [
-                        {
-                            "group": "Standard",
-                            "items": [
-                                [
-                                    "add -ed",
-                                    "walk -> walked"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "End in -e",
-                            "items": [
-                                [
-                                    "add -d",
-                                    "like -> liked"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "End in consonant + y",
-                            "items": [
-                                [
-                                    "change y to -ied",
-                                    "study -> studied",
-                                    "",
-                                    ""
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "One syllable ending in consonant + vowel + consonant (CVC)",
-                            "items": [
-                                [
-                                    "double consonant +  ed",
-                                    "stop -> stopped",
-                                    "",
-                                    ""
-                                ],
-                                [
-                                    "exception (w,x, y)",
-                                    "fix -> fixed"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "End in -ic",
-                            "items": [
-                                [
-                                    "add -ked",
-                                    "picnic -> picnicked",
-                                    "",
-                                    ""
-                                ]
-                            ]
-                        }
-                    ],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        },
-        {
             "id": "section-3-1772293784642",
             "title": "The Verb To Be",
             "type": "grid-compare",
@@ -193,7 +113,7 @@
                     "headers": [],
                     "rows": [],
                     "style": "",
-                    "value": "was / wasn't",
+                    "value": "was",
                     "description": ""
                 },
                 {
@@ -204,29 +124,7 @@
                     "headers": [],
                     "rows": [],
                     "style": "",
-                    "value": "were / weren't",
-                    "description": ""
-                },
-                {
-                    "type": "card",
-                    "label": "Singular",
-                    "content": "I / He / She / It",
-                    "items": [],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "Was + Subject + happy?",
-                    "description": ""
-                },
-                {
-                    "type": "card",
-                    "label": "Singular",
-                    "content": "You / We / They",
-                    "items": [],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "Were + Subject + at home?",
+                    "value": "were",
                     "description": ""
                 }
             ]
@@ -249,12 +147,12 @@
                     "rows": [
                         [
                             "walked",
-                            "after voiceless sounds",
+                            "after voiceless sounds (p, k, f, s, ʃ, tʃ, θ)",
                             "/t/"
                         ],
                         [
                             "played",
-                            "after voiced sounds",
+                            "after voiced sounds (vocales, b, g, v, z, ʒ, m, n, l, r)",
                             "/d/"
                         ],
                         [
@@ -761,18 +659,113 @@
                     "content": "",
                     "items": [],
                     "headers": [
-                        "Verb",
-                        "Rule",
-                        "Sound"
+                        "Base",
+                        "Past",
+                        "Past Participle"
                     ],
                     "rows": [
                         {
                             "group": "Invariable Verbs (AAA)",
                             "items": [
                                 [
-                                    "",
-                                    "",
-                                    ""
+                                    "@_Bet",
+                                    "@_Bet",
+                                    "@_Bet"
+                                ],
+                                [
+                                    "@_Broadcast",
+                                    "@_Broadcast",
+                                    "@_Broadcast"
+                                ],
+                                [
+                                    "@_Burst",
+                                    "@_Burst",
+                                    "@_Burst"
+                                ],
+                                [
+                                    "@_Cast",
+                                    "@_Cast",
+                                    "@_Cast"
+                                ],
+                                [
+                                    "@_Cost",
+                                    "@_Cost",
+                                    "@_Cost"
+                                ],
+                                [
+                                    "@_Cut",
+                                    "@_Cut",
+                                    "@_Cut"
+                                ],
+                                [
+                                    "@_Fit",
+                                    "@_Fit",
+                                    "@_Fit"
+                                ],
+                                [
+                                    "@_Hit",
+                                    "@_Hit",
+                                    "@_Hit"
+                                ],
+                                [
+                                    "@_Hurt",
+                                    "@_Hurt",
+                                    "@_Hurt"
+                                ],
+                                [
+                                    "@_Let",
+                                    "@_Let",
+                                    "@_Let"
+                                ],
+                                [
+                                    "@_Put",
+                                    "@_Put",
+                                    "@_Put"
+                                ],
+                                [
+                                    "@_Quit",
+                                    "@_Quit",
+                                    "@_Quit"
+                                ],
+                                [
+                                    "@_Read",
+                                    "@_Read",
+                                    "@_Read"
+                                ],
+                                [
+                                    "@_Rid",
+                                    "@_Rid",
+                                    "@_Rid"
+                                ],
+                                [
+                                    "@_Set",
+                                    "@_Set",
+                                    "@_Set"
+                                ],
+                                [
+                                    "@_Shut",
+                                    "@_Shut",
+                                    "@_Shut"
+                                ],
+                                [
+                                    "@_Split",
+                                    "@_Split",
+                                    "@_Split"
+                                ],
+                                [
+                                    "@_Spread",
+                                    "@_Spread",
+                                    "@_Spread"
+                                ],
+                                [
+                                    "@_Thrust",
+                                    "@_Thrust",
+                                    "@_Thrust"
+                                ],
+                                [
+                                    "@_Upset",
+                                    "@_Upset",
+                                    "@_Upset"
                                 ]
                             ]
                         },
@@ -780,10 +773,189 @@
                             "group": "Past and Past Participle Identical (ABB)",
                             "items": [
                                 [
-                                    "",
-                                    "",
-                                    "",
-                                    ""
+                                    "@_Bring",
+                                    "@_Brought",
+                                    "@_Brought"
+                                ],
+                                [
+                                    "@_Build",
+                                    "@_Built",
+                                    "@_Built"
+                                ],
+                                [
+                                    "@_Buy",
+                                    "@_Bought",
+                                    "@_Bought"
+                                ],
+                                [
+                                    "@_Catch",
+                                    "@_Caught",
+                                    "@_Caught"
+                                ],
+                                [
+                                    "@_Creep",
+                                    "@_Crept",
+                                    "@_Crept"
+                                ],
+                                [
+                                    "@_Dig",
+                                    "@_Dug",
+                                    "@_Dug"
+                                ],
+                                [
+                                    "@_Feed",
+                                    "@_Fed",
+                                    "@_Fed"
+                                ],
+                                [
+                                    "@_Feel",
+                                    "@_Felt",
+                                    "@_Felt"
+                                ],
+                                [
+                                    "@_Fight",
+                                    "@_Fought",
+                                    "@_Fought"
+                                ],
+                                [
+                                    "@_Find",
+                                    "@_Found",
+                                    "@_Found"
+                                ],
+                                [
+                                    "@_Get",
+                                    "@_Got",
+                                    "@_Got"
+                                ],
+                                [
+                                    "@_Hang",
+                                    "@_Hung",
+                                    "@_Hung"
+                                ],
+                                [
+                                    "@_Have",
+                                    "@_Had",
+                                    "@_Had"
+                                ],
+                                [
+                                    "@_Hear",
+                                    "@_Heard",
+                                    "@_Heard"
+                                ],
+                                [
+                                    "@_Hold",
+                                    "@_Held",
+                                    "@_Held"
+                                ],
+                                [
+                                    "@_Keep",
+                                    "@_Kept",
+                                    "@_Kept"
+                                ],
+                                [
+                                    "@_Lay",
+                                    "@_Laid",
+                                    "@_Laid"
+                                ],
+                                [
+                                    "@_Lead",
+                                    "@_Led",
+                                    "@_Led"
+                                ],
+                                [
+                                    "@_Leave",
+                                    "@_Left",
+                                    "@_Left"
+                                ],
+                                [
+                                    "@_Lend",
+                                    "@_Lent",
+                                    "@_Lent"
+                                ],
+                                [
+                                    "@_Lose",
+                                    "@_Lost",
+                                    "@_Lost"
+                                ],
+                                [
+                                    "@_Make",
+                                    "@_Made",
+                                    "@_Made"
+                                ],
+                                [
+                                    "@_Mean",
+                                    "@_Meant",
+                                    "@_Meant"
+                                ],
+                                [
+                                    "@_Meet",
+                                    "@_Met",
+                                    "@_Met"
+                                ],
+                                [
+                                    "@_Pay",
+                                    "@_Paid",
+                                    "@_Paid"
+                                ],
+                                [
+                                    "@_Say",
+                                    "@_Said",
+                                    "@_Said"
+                                ],
+                                [
+                                    "@_Sell",
+                                    "@_Sold",
+                                    "@_Sold"
+                                ],
+                                [
+                                    "@_Send",
+                                    "@_Sent",
+                                    "@_Sent"
+                                ],
+                                [
+                                    "@_Sit",
+                                    "@_Sat",
+                                    "@_Sat"
+                                ],
+                                [
+                                    "@_Sleep",
+                                    "@_Slept",
+                                    "@_Slept"
+                                ],
+                                [
+                                    "@_Spend",
+                                    "@_Spent",
+                                    "@_Spent"
+                                ],
+                                [
+                                    "@_Stand",
+                                    "@_Stood",
+                                    "@_Stood"
+                                ],
+                                [
+                                    "@_Teach",
+                                    "@_Taught",
+                                    "@_Taught"
+                                ],
+                                [
+                                    "@_Tell",
+                                    "@_Told",
+                                    "@_Told"
+                                ],
+                                [
+                                    "@_Think",
+                                    "@_Thought",
+                                    "@_Thought"
+                                ],
+                                [
+                                    "@_Understand",
+                                    "@_Understood",
+                                    "@_Understood"
+                                ],
+                                [
+                                    "@_Win",
+                                    "@_Won",
+                                    "@_Won"
                                 ]
                             ]
                         },
@@ -791,10 +963,24 @@
                             "group": "Infinitive and Past Participle Identical (ABA)",
                             "items": [
                                 [
-                                    "",
-                                    "",
-                                    "",
-                                    ""
+                                    "@_Become",
+                                    "@_Became",
+                                    "@_Become"
+                                ],
+                                [
+                                    "@_Come",
+                                    "@_Came",
+                                    "@_Come"
+                                ],
+                                [
+                                    "@_Overcome",
+                                    "@_Overcame",
+                                    "@_Overcome"
+                                ],
+                                [
+                                    "@_Run",
+                                    "@_Ran",
+                                    "@_Run"
                                 ]
                             ]
                         },
@@ -802,10 +988,179 @@
                             "group": "All Three Forms Different (ABC)",
                             "items": [
                                 [
-                                    "",
-                                    "",
-                                    "",
-                                    ""
+                                    "@_Arise",
+                                    "@_Arose",
+                                    "@_Arisen"
+                                ],
+                                [
+                                    "@_Awake",
+                                    "@_Awoke",
+                                    "@_Awoken"
+                                ],
+                                [
+                                    "@_Be",
+                                    "@_Was/Were",
+                                    "@_Been"
+                                ],
+                                [
+                                    "@_Begin",
+                                    "@_Began",
+                                    "@_Begun"
+                                ],
+                                [
+                                    "@_Break",
+                                    "@_Broke",
+                                    "@_Broken"
+                                ],
+                                [
+                                    "@_Choose",
+                                    "@_Chose",
+                                    "@_Chosen"
+                                ],
+                                [
+                                    "@_Do",
+                                    "@_Did",
+                                    "@_Done"
+                                ],
+                                [
+                                    "@_Draw",
+                                    "@_Drew",
+                                    "@_Drawn"
+                                ],
+                                [
+                                    "@_Drink",
+                                    "@_Drank",
+                                    "@_Drunk"
+                                ],
+                                [
+                                    "@_Drive",
+                                    "@_Drove",
+                                    "@_Driven"
+                                ],
+                                [
+                                    "@_Eat",
+                                    "@_Ate",
+                                    "@_Eaten"
+                                ],
+                                [
+                                    "@_Fall",
+                                    "@_Fell",
+                                    "@_Fallen"
+                                ],
+                                [
+                                    "@_Fly",
+                                    "@_Flew",
+                                    "@_Flown"
+                                ],
+                                [
+                                    "@_Forget",
+                                    "@_Forgot",
+                                    "@_Forgotten"
+                                ],
+                                [
+                                    "@_Forgive",
+                                    "@_Forgave",
+                                    "@_Forgiven"
+                                ],
+                                [
+                                    "@_Freeze",
+                                    "@_Froze",
+                                    "@_Frozen"
+                                ],
+                                [
+                                    "@_Give",
+                                    "@_Gave",
+                                    "@_Given"
+                                ],
+                                [
+                                    "@_Go",
+                                    "@_Went",
+                                    "@_Gone"
+                                ],
+                                [
+                                    "@_Grow",
+                                    "@_Grew",
+                                    "@_Grown"
+                                ],
+                                [
+                                    "@_Know",
+                                    "@_Knew",
+                                    "@_Known"
+                                ],
+                                [
+                                    "@_Ride",
+                                    "@_Rode",
+                                    "@_Ridden"
+                                ],
+                                [
+                                    "@_Ring",
+                                    "@_Rang",
+                                    "@_Rung"
+                                ],
+                                [
+                                    "@_Rise",
+                                    "@_Rose",
+                                    "@_Risen"
+                                ],
+                                [
+                                    "@_See",
+                                    "@_Saw",
+                                    "@_Seen"
+                                ],
+                                [
+                                    "@_Shake",
+                                    "@_Shook",
+                                    "@_Shaken"
+                                ],
+                                [
+                                    "@_Show",
+                                    "@_Showed",
+                                    "@_Shown"
+                                ],
+                                [
+                                    "@_Sing",
+                                    "@_Sang",
+                                    "@_Sung"
+                                ],
+                                [
+                                    "@_Speak",
+                                    "@_Spoke",
+                                    "@_Spoken"
+                                ],
+                                [
+                                    "@_Steal",
+                                    "@_Stole",
+                                    "@_Stolen"
+                                ],
+                                [
+                                    "@_Swear",
+                                    "@_Swore",
+                                    "@_Sworn"
+                                ],
+                                [
+                                    "@_Swim",
+                                    "@_Swam",
+                                    "@_Swum"
+                                ],
+                                [
+                                    "@_Take",
+                                    "@_Took",
+                                    "@_Taken"
+                                ],
+                                [
+                                    "@_Throw",
+                                    "@_Threw",
+                                    "@_Thrown"
+                                ],
+                                [
+                                    "@_Wear",
+                                    "@_Wore",
+                                    "@_Worn"
+                                ],
+                                [
+                                    "@_Write",
+                                    "@_Wrote",
+                                    "@_Written"
                                 ]
                             ]
                         }
