@@ -1,145 +1,495 @@
 {
     "slug": "simple-past",
     "meta": {
-        "title": "Simple Past de GitHub",
+        "title": "Simple Past ",
         "subtitle": "Completed actions in the past",
         "difficulty": "A2",
-        "tags": [
-            "past",
-            "regular-verbs",
-            "irregular-verbs"
-        ],
-        "icon": "history"
+        "tags": [],
+        "icon": ""
     },
     "header": {
-        "badges": [
-            "Completed actions",
-            "Auxiliary did",
-            "was / were"
-        ]
+        "badges": []
     },
     "sections": [
         {
-            "id": "usage",
-            "title": "Usage & Signal Words",
+            "id": "section-1-1772290828116",
+            "title": "When to use",
             "type": "info-grid",
             "blocks": [
                 {
                     "type": "paragraph",
-                    "label": "Definition",
-                    "content": "Actions completed in a specific time before now."
-                },
-                {
-                    "type": "quote",
-                    "content": "@_I <strong>visited</strong> London last summer."
+                    "label": "DESCRIPTION",
+                    "content": "The Simple Past is used for actions that started and finished in the past",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
                 },
                 {
                     "type": "list",
-                    "label": "Contextual Usage",
+                    "label": "Example",
+                    "content": "",
+                    "items": [
+                        "@_I watched a movie yesterday",
+                        "@_She went to Paris in 2019"
+                    ],
+                    "headers": [],
+                    "rows": [],
                     "style": "gold",
-                    "items": [
-                        {
-                            "label": "Finished action",
-                            "content": "@_She arrived at 8:00."
-                        },
-                        {
-                            "label": "Sequence",
-                            "content": "He locked the door and left."
-                        },
-                        {
-                            "label": "Past habits",
-                            "content": "They always walked to school."
-                        }
-                    ]
-                },
-                {
-                    "type": "chips",
-                    "label": "Signal Markers",
-                    "items": [
-                        "yesterday",
-                        "last night",
-                        "2 days ago",
-                        "in 2001"
-                    ]
+                    "value": "",
+                    "description": ""
                 }
             ]
         },
         {
-            "id": "conjugations",
+            "id": "section-2-1772292629769",
+            "title": "Structure",
+            "type": "formulas",
+            "blocks": [
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Subject + Past Verb"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Subject + did not (didn't) + Base Verb (infinitive)"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Did + Subject + Base Verb (infinitive) ?"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "info-box",
+                    "label": "",
+                    "content": "When using did/didn't the verb returns to its base form (infinitive)",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-1772293784642",
+            "title": "The Verb To Be",
+            "type": "grid-compare",
+            "blocks": [
+                {
+                    "type": "card",
+                    "label": "Singular",
+                    "content": "I / He / She / It",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "was",
+                    "description": ""
+                },
+                {
+                    "type": "card",
+                    "label": "Singular",
+                    "content": "You / We / They",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "were",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-4-1772293973521",
+            "title": "Pronunciation",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "-Ed endings",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Verb",
+                        "Rule",
+                        "Sound"
+                    ],
+                    "rows": [
+                        [
+                            "walked",
+                            "after voiceless sounds",
+                            "/t/"
+                        ],
+                        [
+                            "played",
+                            "after voiced sounds",
+                            "/d/"
+                        ],
+                        [
+                            "wanted",
+                            "after /t/ or /d/",
+                            "/ɪd/"
+                        ]
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-5-1772294564316",
             "title": "Verb Conjugations",
             "type": "two-columns",
             "blocks": [
                 {
                     "type": "table",
                     "label": "Regular Patterns",
+                    "content": "",
+                    "items": [],
                     "headers": [
                         "Base",
                         "Past",
-                        "Rule",
-                        "Otro"
+                        "Sound"
                     ],
                     "rows": [
                         {
                             "group": "Regular Verbs - /t/ Sound",
                             "items": [
                                 [
-                                    "stop",
-                                    "@_stopped",
-                                    "Rule 4",
-                                    "Otro"
+                                    "@_Ask",
+                                    "@_Asked",
+                                    "/æskt/"
                                 ],
                                 [
-                                    "look",
-                                    "@_looked",
-                                    "Rule 1",
-                                    "Otro"
+                                    "@_Clap",
+                                    "@_Clapped",
+                                    "/klæpt/"
                                 ],
                                 [
-                                    "miss",
-                                    "@_missed",
-                                    "Rule 1",
-                                    "Otro"
+                                    "@_Cook",
+                                    "@_Cooked",
+                                    "/kʊkt/"
                                 ],
                                 [
-                                    "stop",
-                                    "@_stopped",
-                                    "Rule 4",
-                                    "Otro"
+                                    "@_Cough",
+                                    "@_Coughed",
+                                    "/kɒft/"
                                 ],
                                 [
-                                    "look",
-                                    "@_looked",
-                                    "Rule 1",
-                                    "Otro"
+                                    "@_Dance",
+                                    "@_Danced",
+                                    "/dænst/"
                                 ],
                                 [
-                                    "miss",
-                                    "@_missed",
-                                    "Rule 1",
-                                    "Otro"
+                                    "@_Drop",
+                                    "@_Dropped",
+                                    "/drɒpt/"
+                                ],
+                                [
+                                    "@_Finish",
+                                    "@_Finished",
+                                    "/ˈfɪnɪʃt/"
+                                ],
+                                [
+                                    "@_Fix",
+                                    "@_Fixed",
+                                    "/fɪkst/"
+                                ],
+                                [
+                                    "@_Guess",
+                                    "@_Guessed",
+                                    "/ɡest/"
+                                ],
+                                [
+                                    "@_Help",
+                                    "@_Helped",
+                                    "/helpt/"
+                                ],
+                                [
+                                    "@_Hope",
+                                    "@_Hoped",
+                                    "/hoʊpt/"
+                                ],
+                                [
+                                    "@_Jump",
+                                    "@_Jumped",
+                                    "/dʒʌmpt/"
+                                ],
+                                [
+                                    "@_Kiss",
+                                    "@_Kissed",
+                                    "/kɪst/"
+                                ],
+                                [
+                                    "@_Laugh",
+                                    "@_Laughed",
+                                    "/læft/"
+                                ],
+                                [
+                                    "@_Like",
+                                    "@_Liked",
+                                    "/laɪkt/"
+                                ],
+                                [
+                                    "@_Look",
+                                    "@_Looked",
+                                    "/lʊkt/"
+                                ],
+                                [
+                                    "@_Mark",
+                                    "@_Marked",
+                                    "/mɑːrkt/"
+                                ],
+                                [
+                                    "@_Miss",
+                                    "@_Missed",
+                                    "/mɪst/"
+                                ],
+                                [
+                                    "@_Mix",
+                                    "@_Mixed",
+                                    "/mɪkst/"
+                                ],
+                                [
+                                    "@_Park",
+                                    "@_Parked",
+                                    "/pɑːrkt/"
+                                ],
+                                [
+                                    "@_Pass",
+                                    "@_Passed",
+                                    "/pæst/"
+                                ],
+                                [
+                                    "@_Practice",
+                                    "@_Practiced",
+                                    "/ˈpræktɪst/"
+                                ],
+                                [
+                                    "@_Press",
+                                    "@_Pressed",
+                                    "/prest/"
+                                ],
+                                [
+                                    "@_Stop",
+                                    "@_Stopped",
+                                    "/stɒpt/"
+                                ],
+                                [
+                                    "@_Talk",
+                                    "@_Talked",
+                                    "/tɔːkt/"
+                                ],
+                                [
+                                    "@_Walk",
+                                    "@_Walked",
+                                    "/wɔːkt/"
+                                ],
+                                [
+                                    "@_Wash",
+                                    "@_Washed",
+                                    "/wɒʃt/"
+                                ],
+                                [
+                                    "@_Watch",
+                                    "@_Watched",
+                                    "/wɒtʃt/"
+                                ],
+                                [
+                                    "@_Wish",
+                                    "@_Wished",
+                                    "/wɪʃt/"
+                                ],
+                                [
+                                    "@_Work",
+                                    "@_Worked",
+                                    "/wɜːrkt/"
                                 ]
                             ]
                         },
                         {
-                            "group": "Regular Verbs - /d/ Sound",
+                            "group": "Regular Verbs - /t/ Sound",
                             "items": [
                                 [
-                                    "play",
-                                    "@_played",
-                                    "Rule 3",
-                                    "Otro"
+                                    "@_Agree",
+                                    "@_Agreed",
+                                    "/əˈɡriːd/"
                                 ],
                                 [
-                                    "call",
-                                    "@_called",
-                                    "Rule 1",
-                                    "Otro"
+                                    "@_Allow",
+                                    "@_Allowed",
+                                    "/əˈlaʊd/"
                                 ],
                                 [
-                                    "love",
-                                    "@_loved",
-                                    "Rule 1",
-                                    "Otro"
+                                    "@_Answer",
+                                    "@_Answered",
+                                    "/ˈænsərd/"
+                                ],
+                                [
+                                    "@_Arrive",
+                                    "@_Arrived",
+                                    "/əˈraɪvd/"
+                                ],
+                                [
+                                    "@_Believe",
+                                    "@_Believed",
+                                    "/bɪˈliːvd/"
+                                ],
+                                [
+                                    "@_Borrow",
+                                    "@_Borrowed",
+                                    "/ˈbɒroʊd/"
+                                ],
+                                [
+                                    "@_Call",
+                                    "@_Called",
+                                    "/kɔːld/"
+                                ],
+                                [
+                                    "@_Carry",
+                                    "@_Carried",
+                                    "/ˈkærid/"
+                                ],
+                                [
+                                    "@_Change",
+                                    "@_Changed",
+                                    "/tʃeɪndʒd/"
+                                ],
+                                [
+                                    "@_Clean",
+                                    "@_Cleaned",
+                                    "/kliːnd/"
+                                ],
+                                [
+                                    "@_Close",
+                                    "@_Closed",
+                                    "/kloʊzd/"
+                                ],
+                                [
+                                    "@_Enjoy",
+                                    "@_Enjoyed",
+                                    "/ɪnˈdʒɔɪd/"
+                                ],
+                                [
+                                    "@_Fill",
+                                    "@_Filled",
+                                    "/fɪld/"
+                                ],
+                                [
+                                    "@_Follow",
+                                    "@_Followed",
+                                    "/ˈfɒloʊd/"
+                                ],
+                                [
+                                    "@_Happen",
+                                    "@_Happened",
+                                    "/ˈhæpənd/"
+                                ],
+                                [
+                                    "@_Learn",
+                                    "@_Learned",
+                                    "/lɜːrnd/"
+                                ],
+                                [
+                                    "@_Live",
+                                    "@_Lived",
+                                    "/lɪvd/"
+                                ],
+                                [
+                                    "@_Love",
+                                    "@_Loved",
+                                    "/lʌvd/"
+                                ],
+                                [
+                                    "@_Move",
+                                    "@_Moved",
+                                    "/muːvd/"
+                                ],
+                                [
+                                    "@_Offer",
+                                    "@_Offered",
+                                    "/ˈɒfərd/"
+                                ],
+                                [
+                                    "@_Open",
+                                    "@_Opened",
+                                    "/ˈoʊpənd/"
+                                ],
+                                [
+                                    "@_Plan",
+                                    "@_Planned",
+                                    "/plænd/"
+                                ],
+                                [
+                                    "@_Play",
+                                    "@_Played",
+                                    "/pleɪd/"
+                                ],
+                                [
+                                    "@_Prepare",
+                                    "@_Prepared",
+                                    "/prɪˈpeərd/"
+                                ],
+                                [
+                                    "@_Raise",
+                                    "@_Raised",
+                                    "/reɪzd/"
+                                ],
+                                [
+                                    "@_Save",
+                                    "@_Saved",
+                                    "/seɪvd/"
+                                ],
+                                [
+                                    "@_Stay",
+                                    "@_Stayed",
+                                    "/steɪd/"
+                                ],
+                                [
+                                    "@_Try",
+                                    "@_Tried",
+                                    "/traɪd/"
+                                ],
+                                [
+                                    "@_Turn",
+                                    "@_Turned",
+                                    "/tɜːrnd/"
+                                ],
+                                [
+                                    "@_Use",
+                                    "@_Used",
+                                    "/juːzd/"
                                 ]
                             ]
                         },
@@ -147,185 +497,161 @@
                             "group": "Regular Verbs - /id/ Sound",
                             "items": [
                                 [
-                                    "want",
-                                    "@_wanted",
-                                    "Rule 1",
-                                    "Otro"
+                                    "@_Add",
+                                    "@_Added",
+                                    "/ˈædɪd/"
                                 ],
                                 [
-                                    "need",
-                                    "@_needed",
-                                    "Rule 1",
-                                    "Otro"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Irregular - Pasado y Participio Iguales (A-B-B)",
-                            "items": [
-                                [
-                                    "buy",
-                                    "@_bought",
-                                    "Irregular",
-                                    "Otro"
+                                    "@_Admit",
+                                    "@_Admitted",
+                                    "/ədˈmɪtɪd/"
                                 ],
                                 [
-                                    "catch",
-                                    "@_caught",
-                                    "Irregular",
-                                    "Otro"
+                                    "@_Count",
+                                    "@_Counted",
+                                    "/ˈkaʊntɪd/"
                                 ],
                                 [
-                                    "find",
-                                    "@_found",
-                                    "Irregular",
-                                    "Otro"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Irregular - Participio con \"-en\" (A-B-C)",
-                            "items": [
-                                [
-                                    "write",
-                                    "@_wrote",
-                                    "Irregular",
-                                    "Otro"
+                                    "@_Create",
+                                    "@_Created",
+                                    "/kriˈeɪtɪd/"
                                 ],
                                 [
-                                    "speak",
-                                    "@_spoke",
-                                    "Irregular",
-                                    "Otro"
+                                    "@_Decide",
+                                    "@_Decided",
+                                    "/dɪˈsaɪdɪd/"
                                 ],
                                 [
-                                    "ride",
-                                    "@_rode",
-                                    "Irregular",
-                                    "Otro"
+                                    "@_Divide",
+                                    "@_Divided",
+                                    "/dɪˈvaɪdɪd/"
+                                ],
+                                [
+                                    "@_Edit",
+                                    "@_Edited",
+                                    "/ˈedɪtɪd/"
+                                ],
+                                [
+                                    "@_End",
+                                    "@_Ended",
+                                    "/ˈendɪd/"
+                                ],
+                                [
+                                    "@_Expect",
+                                    "@_Expected",
+                                    "/ɪkˈspektɪd/"
+                                ],
+                                [
+                                    "@_Fold",
+                                    "@_Folded",
+                                    "/ˈfoʊldɪd/"
+                                ],
+                                [
+                                    "@_Hate",
+                                    "@_Hated",
+                                    "/ˈheɪtɪd/"
+                                ],
+                                [
+                                    "@_Hunt",
+                                    "@_Hunted",
+                                    "/ˈhʌntɪd/"
+                                ],
+                                [
+                                    "@_Invite",
+                                    "@_Invited",
+                                    "/ɪnˈvaɪtɪd/"
+                                ],
+                                [
+                                    "@_Land",
+                                    "@_Landed",
+                                    "/ˈlændɪd/"
+                                ],
+                                [
+                                    "@_Need",
+                                    "@_Needed",
+                                    "/ˈniːdɪd/"
+                                ],
+                                [
+                                    "@_Paint",
+                                    "@_Painted",
+                                    "/ˈpeɪntɪd/"
+                                ],
+                                [
+                                    "@_Permit",
+                                    "@_Permitted",
+                                    "/pərˈmɪtɪd/"
+                                ],
+                                [
+                                    "@_Point",
+                                    "@_Pointed",
+                                    "/ˈpɔɪntɪd/"
+                                ],
+                                [
+                                    "@_Print",
+                                    "@_Printed",
+                                    "/ˈprɪntɪd/"
+                                ],
+                                [
+                                    "@_Protect",
+                                    "@_Protected",
+                                    "/prəˈtektɪd/"
+                                ],
+                                [
+                                    "@_Provide",
+                                    "@_Provided",
+                                    "/prəˈvaɪdɪd/"
+                                ],
+                                [
+                                    "@_Regret",
+                                    "@_Regretted",
+                                    "/rɪˈɡretɪd/"
+                                ],
+                                [
+                                    "@_Rent",
+                                    "@_Rented",
+                                    "/ˈrentɪd/"
+                                ],
+                                [
+                                    "@_Repeat",
+                                    "@_Repeated",
+                                    "/rɪˈpiːtɪd/"
+                                ],
+                                [
+                                    "@_Sound",
+                                    "@_Sounded",
+                                    "/ˈsaʊndɪd/"
+                                ],
+                                [
+                                    "@_Start",
+                                    "@_Started",
+                                    "/ˈstɑːrtɪd/"
+                                ],
+                                [
+                                    "@_Visit",
+                                    "@_Visited",
+                                    "/ˈvɪzɪtɪd/"
+                                ],
+                                [
+                                    "@_Vote",
+                                    "@_Voted",
+                                    "/ˈvoʊtɪd/"
+                                ],
+                                [
+                                    "@_Wait",
+                                    "@_Waited",
+                                    "/ˈweɪtɪd/"
+                                ],
+                                [
+                                    "@_Want",
+                                    "@_Wanted",
+                                    "/ˈwɒntɪd/"
                                 ]
                             ]
                         }
-                    ]
-                },
-                {
-                    "type": "table",
-                    "label": "Irregular Essentials",
-                    "headers": [
-                        "Base",
-                        "Past"
                     ],
-                    "rows": [
-                        [
-                            "go",
-                            "went"
-                        ],
-                        [
-                            "eat",
-                            "ate"
-                        ],
-                        [
-                            "see",
-                            "saw"
-                        ],
-                        [
-                            "do",
-                            "did"
-                        ],
-                        [
-                            "have",
-                            "had"
-                        ],
-                        [
-                            "be",
-                            "was / were"
-                        ]
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "structure",
-            "title": "Sentence Structure",
-            "type": "formulas",
-            "blocks": [
-                {
-                    "type": "code-block",
-                    "items": [
-                        "Subject + Past Verb",
-                        "Subject + didn't + Base Verb",
-                        "Did + Subject + Base Verb?"
-                    ]
-                },
-                {
-                    "type": "info-box",
-                    "content": "After \"did\", the verb returns to base form."
-                }
-            ]
-        },
-        {
-            "id": "verb-to-be",
-            "title": "The Verb 'To Be'",
-            "type": "grid-compare",
-            "blocks": [
-                {
-                    "type": "card",
-                    "label": "Singular",
-                    "content": "I / He / She / It",
-                    "value": "was",
-                    "highlight": true
-                },
-                {
-                    "type": "card",
-                    "label": "Plural",
-                    "content": "You / We / They",
-                    "value": "were",
-                    "highlight": true
-                }
-            ]
-        },
-        {
-            "id": "pronunciation",
-            "title": "Pronunciation & Nuance",
-            "type": "comparison",
-            "blocks": [
-                {
-                    "type": "compare-box",
-                    "label": "Simple Past",
-                    "content": "I met him in 2019.",
-                    "description": "Specific time in the past"
-                },
-                {
-                    "type": "compare-box",
-                    "label": "Present Perfect",
-                    "content": "I have met him before.",
-                    "description": "Unspecified time / experience"
-                },
-                {
-                    "type": "table",
-                    "label": "-ed Endings",
-                    "headers": [
-                        "Sound",
-                        "Example",
-                        "Rule"
-                    ],
-                    "rows": [
-                        [
-                            "/t/",
-                            "walked",
-                            "after voiceless sounds"
-                        ],
-                        [
-                            "/d/",
-                            "played",
-                            "after voiced sounds"
-                        ],
-                        [
-                            "/ɪd/",
-                            "wanted",
-                            "after /t/ or /d/"
-                        ]
-                    ]
+                    "style": "",
+                    "value": "",
+                    "description": ""
                 }
             ]
         }

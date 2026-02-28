@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generador de Lecciones - Grammar/Vocabulary</title>
+
+    <!-- Fuentes y estilos externos -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"
+      rel="stylesheet"
+    />
+
+    <!-- Estilos CSS -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="page-header" style="text-align: left; padding: 1rem 0">
+        <h1 style="font-size: 1.8rem; color: var(--navy)">
+          🛠️ Generador de Lecciones
+        </h1>
+        <p style="color: var(--slate); font-size: 0.9rem">
+          Crea y edita contenido para Grammar/Vocabulary con vista previa fiel a
+          grammar.js
+        </p>
+      </div>
+
+      <div class="main-grid">
+        <!-- Panel del Editor -->
+        <div class="editor-panel">
+          <h2>📝 Editor</h2>
+
+          <!-- Cargar JSON -->
+          <div class="file-upload-container" id="fileUploadContainer">
+            <span class="material-symbols-outlined file-upload-icon"
+              >upload_file</span
+            >
+            <p class="file-upload-text">
+              Arrastra un archivo JSON aquí o haz clic para seleccionar
+            </p>
+            <input
+              type="file"
+              id="jsonFileInput"
+              class="file-upload-input"
+              accept=".json"
+            />
+            <label for="jsonFileInput" class="file-upload-label"
+              >📂 Seleccionar Archivo</label
+            >
+          </div>
+
+          <!-- Información del archivo cargado -->
+          <div
+            id="loadedFileInfo"
+            class="loaded-file-info"
+            style="display: none"
+          >
+            <div style="display: flex; align-items: center">
+              <span class="material-symbols-outlined">check_circle</span>
+              <span id="loadedFileName">archivo.json cargado</span>
+            </div>
+            <button onclick="clearLoadedFile()">✕ Limpiar</button>
+          </div>
+
+          <div class="reorder-info">
+            <span class="material-symbols-outlined">drag_indicator</span>
+            <div>
+              <strong>Reordenar:</strong> Usa los iconos
+              <span class="material-symbols-outlined" style="font-size: 16px"
+                >drag_indicator</span
+              >
+              para arrastrar secciones o bloques.
+            </div>
+          </div>
+
+          <!-- Metadatos -->
+          <div class="form-group">
+            <label>Slug</label>
+            <input
+              type="text"
+              id="slug"
+              placeholder="ej. simple-past"
+              oninput="updatePreview()"
+            />
+          </div>
+
+          <div class="form-group">
+            <label>Título</label>
+            <input
+              type="text"
+              id="title"
+              placeholder="ej. Simple Past"
+              oninput="updatePreview()"
+            />
+            <div class="checkbox-wrapper" onclick="togglePrefix('title')">
+              <input type="checkbox" id="check-title" />
+              <span>Añadir prefijo @_ (audio)</span>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label>Subtítulo</label>
+            <input
+              type="text"
+              id="subtitle"
+              placeholder="ej. Completed actions in the past"
+              oninput="updatePreview()"
+            />
+          </div>
+
+          <div class="form-group">
+            <label>Dificultad</label>
+            <select id="difficulty" onchange="updatePreview()">
+              <option value="A1">A1</option>
+              <option value="A2" selected>A2</option>
+              <option value="B1">B1</option>
+              <option value="B2">B2</option>
+              <option value="C1">C1</option>
+              <option value="C2">C2</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>Icono</label>
+            <input
+              type="text"
+              id="icon"
+              placeholder="ej. history"
+              oninput="updatePreview()"
+            />
+          </div>
+
+          <div class="form-group">
+            <label>Tags (separados por coma)</label>
+            <input
+              type="text"
+              id="tags"
+              placeholder="past, regular-verbs, irregular-verbs"
+              oninput="updatePreview()"
+            />
+          </div>
+
+          <div class="form-group">
+            <label>Badges (separados por coma)</label>
+            <input
+              type="text"
+              id="badges"
+              placeholder="Completed actions, Auxiliary did"
+              oninput="updatePreview()"
+            />
+            <div class="checkbox-wrapper" onclick="togglePrefix('badges')">
+              <input type="checkbox" id="check-badges" checked />
+              <span>Añadir prefijo @_ a badges</span>
+            </div>
+          </div>
+
+          <hr
+            style="
+              margin: 20px 0;
+              border: none;
+              border-top: 1px solid var(--border);
+            "
+          />
+
+          <!-- Secciones -->
+          <div class="form-group">
+            <label>Secciones</label>
+            <button class="btn btn-success" onclick="addSection()">
+              + Añadir Sección
+            </button>
+            <div id="sectionsContainer"></div>
+          </div>
+
+          <div class="actions-bar">
+            <button class="btn btn-primary" onclick="downloadJSON()">
+              💾 Descargar JSON
+            </button>
+            <button class="btn btn-secondary" onclick="copyToClipboard()">
+              📋 Copiar JSON
+            </button>
+            <button class="btn btn-warning" onclick="showNewDocumentModal()">
+              📄 Nuevo Documento
+            </button>
+          </div>
+
+          <div class="json-output" id="jsonOutput"></div>
+        </div>
+
+        <!-- Panel de Vista Previa -->
+        <div class="preview-panel">
+          <div class="preview-header">
+            <span>👁️ Vista Previa</span>
+            <span style="font-size: 0.8rem; opacity: 0.8"
+              >Fiel a grammar.js</span
+            >
+          </div>
+          <div class="preview-content" id="previewContent">
+            <!-- El contenido se renderiza aquí -->
+          </div>
+          <div
+            style="
+              padding: 15px;
+              background: #f8fafc;
+              border-top: 1px solid var(--border);
+            "
+          >
+            <p class="preview-hint">
+              💡 <strong>Consejo:</strong> Pasa el cursor sobre cualquier
+              sección para ver los botones de
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 14px; vertical-align: middle"
+                >drag_indicator</span
+              >
+              reordenar y
+              <span
+                class="material-symbols-outlined"
+                style="font-size: 14px; vertical-align: middle"
+                >delete</span
+              >
+              eliminar. Los números se regeneran automáticamente (01, 02,
+              03...).
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal de Confirmación -->
+    <div class="modal-overlay" id="modalOverlay">
+      <div class="modal-content">
+        <h3>⚠️ ¿Crear nuevo documento?</h3>
+        <p>
+          Esto limpiará todos los datos actuales. ¿Estás seguro de que quieres
+          continuar?
+        </p>
+        <div class="modal-buttons">
+          <button class="btn btn-secondary" onclick="closeModal()">
+            Cancelar
+          </button>
+          <button class="btn btn-danger" onclick="confirmNewDocument()">
+            Sí, crear nuevo
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Script JavaScript -->
+    <script src="script.js"></script>
+  </body>
+</html>

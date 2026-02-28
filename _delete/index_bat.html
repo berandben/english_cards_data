@@ -1,0 +1,1964 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de Lecciones - Grammar/Vocabulary</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+    <style>
+        /* =========================
+        VARIABLES (From style.css)
+        ========================== */
+        :root {
+            --navy: #0f172a;
+            --navy-soft: #1e293b;
+            --gold: #b45309;
+            --slate: #64748b;
+            --border: #e2e8f0;
+            --bg: #f8fafc;
+            --radius: 14px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: "Inter", sans-serif;
+            background: var(--bg);
+            color: var(--navy-soft);
+            line-height: 1.6;
+            user-select: none;
+        }
+
+        .serif-title {
+            font-family: "Source Serif 4", serif;
+        }
+
+        .container {
+            width: 92%;
+            max-width: 1400px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .main-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        @media (max-width: 1200px) {
+            .main-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* =========================
+        EDITOR PANEL
+        ========================== */
+        .editor-panel {
+            background: white;
+            border-radius: var(--radius);
+            padding: 25px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+
+        .editor-panel h2 {
+            color: var(--navy);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--gold);
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            color: var(--slate);
+            font-weight: 600;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 14px;
+            font-family: inherit;
+            transition: all 0.2s;
+        }
+
+        .form-group input:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: var(--gold);
+            box-shadow: 0 0 0 3px rgba(180, 83, 9, 0.1);
+        }
+
+        .checkbox-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 5px;
+            padding: 8px;
+            background: #f1f5f9;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        .checkbox-wrapper:hover {
+            background: #e2e8f0;
+        }
+
+        input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+            accent-color: var(--gold);
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: all 0.2s;
+            margin: 5px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: var(--gold);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #92400e;
+            transform: translateY(-2px);
+        }
+
+        .btn-success {
+            background: #059669;
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: #047857;
+        }
+
+        .btn-danger {
+            background: #dc2626;
+            color: white;
+        }
+
+        .btn-danger:hover {
+            background: #b91c1c;
+        }
+
+        .btn-secondary {
+            background: var(--slate);
+            color: white;
+        }
+
+        .btn-danger-sm {
+            padding: 5px 10px;
+            font-size: 11px;
+        }
+
+        .btn-warning {
+            background: #f59e0b;
+            color: white;
+        }
+
+        .btn-warning:hover {
+            background: #d97706;
+        }
+
+        .section-card {
+            background: #f8fafc;
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 15px;
+            margin: 15px 0;
+            border-left: 4px solid var(--gold);
+            cursor: grab;
+        }
+
+        .section-card:active {
+            cursor: grabbing;
+        }
+
+        .section-card.dragging {
+            opacity: 0.5;
+            border: 2px dashed var(--gold);
+        }
+
+        .section-card.drag-over {
+            border-top: 3px solid var(--gold);
+        }
+
+        .block-card {
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 12px;
+            margin: 10px 0 10px 15px;
+            cursor: grab;
+        }
+
+        .block-card:active {
+            cursor: grabbing;
+        }
+
+        .block-card.dragging {
+            opacity: 0.5;
+            border: 2px dashed var(--gold);
+        }
+
+        .block-card.drag-over {
+            border-top: 3px solid var(--gold);
+        }
+
+        /* =========================
+        PREVIEW PANEL
+        ========================== */
+        .preview-panel {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            overflow: hidden;
+        }
+
+        .preview-header {
+            background: var(--navy);
+            color: white;
+            padding: 15px 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .preview-content {
+            padding: 30px;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        /* =========================
+        PAGE STYLES (From style.css & topics.css)
+        ========================== */
+        .page-header {
+            text-align: center;
+            padding: 2rem 0 1.5rem;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 2rem;
+        }
+
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            font-size: 0.8rem;
+            color: var(--slate);
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .breadcrumb a {
+            color: var(--slate);
+            text-decoration: none;
+        }
+
+        .breadcrumb a:hover {
+            color: var(--navy);
+        }
+
+        .breadcrumb span.sep {
+            opacity: 0.4;
+            font-size: 0.7rem;
+        }
+
+        .page-title {
+            font-size: 2.2rem;
+            font-weight: 300;
+            color: var(--navy);
+            margin-bottom: 0.5rem;
+        }
+
+        .page-title em {
+            font-style: italic;
+            font-weight: 400;
+        }
+
+        .page-header__eyebrow {
+            font-size: 0.7rem;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: var(--gold);
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .page-header__subtitle {
+            font-size: 1rem;
+            color: var(--slate);
+            max-width: 520px;
+            margin: 0.5rem auto 0;
+            line-height: 1.7;
+        }
+
+        .page-header__meta {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            color: var(--slate);
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .dot {
+            width: 4px;
+            height: 4px;
+            background: #cbd5e1;
+            border-radius: 50%;
+        }
+
+        .difficulty-badge {
+            display: inline-block;
+            font-size: 0.6rem;
+            font-weight: 700;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            padding: 0.2rem 0.6rem;
+            border-radius: 50px;
+            background: #f1f5f9;
+            color: var(--slate);
+            border: 1px solid var(--border);
+        }
+
+        /* =========================
+        ACCORDION STYLES
+        ========================== */
+        .accordion {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .accordion-item {
+            background: #fff;
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+            position: relative;
+            transition: all 0.2s;
+        }
+
+        .accordion-item.dragging {
+            opacity: 0.5;
+            border: 2px dashed var(--gold);
+            transform: scale(1.02);
+        }
+
+        .accordion-item.drag-over {
+            border-top: 3px solid var(--gold);
+        }
+
+        .accordion-header {
+            padding: 1.2rem;
+            display: flex;
+            justify-content: space-between;
+            cursor: pointer;
+            transition: background 0.2s;
+            align-items: center;
+        }
+
+        .accordion-header:hover {
+            background: #f8fafc;
+        }
+
+        .accordion-title {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            flex: 1;
+        }
+
+        .accordion-number {
+            color: var(--gold);
+            opacity: 0.6;
+            font-size: 1.2rem;
+            font-family: "Source Serif 4", serif;
+            min-width: 30px;
+        }
+
+        .toggle-icon {
+            transition: 0.3s;
+            color: var(--slate);
+        }
+
+        .accordion-item--open .toggle-icon {
+            transform: rotate(45deg);
+        }
+
+        .accordion-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: 0.3s;
+            padding: 0 1.2rem;
+        }
+
+        .accordion-item--open .accordion-content {
+            max-height: 2000px;
+            padding: 1rem 1.2rem 1.6rem;
+        }
+
+        .content-block {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        /* =========================
+        DELETE & DRAG BUTTONS IN PREVIEW
+        ========================== */
+        .delete-section-btn,
+        .drag-section-btn {
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--slate);
+            padding: 6px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            transition: all 0.2s;
+            opacity: 0;
+            visibility: hidden;
+        }
+
+        .accordion-item:hover .delete-section-btn,
+        .accordion-item:hover .drag-section-btn {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .drag-section-btn:hover {
+            background: var(--gold);
+            color: white;
+            border-color: var(--gold);
+        }
+
+        .delete-section-btn:hover {
+            background: #dc2626;
+            color: white;
+            border-color: #dc2626;
+        }
+
+        .drag-section-btn .material-symbols-outlined,
+        .delete-section-btn .material-symbols-outlined {
+            font-size: 16px;
+        }
+
+        /* =========================
+        BLOCK STYLES
+        ========================== */
+        .section-label {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: 600;
+            color: var(--slate);
+            margin-bottom: 0.5rem;
+        }
+
+        .text-gold {
+            color: var(--gold);
+        }
+
+        .quote-box {
+            padding: 1rem;
+            background: #f1f5f9;
+            border-left: 3px solid var(--gold);
+            font-style: italic;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .list-gold {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .list-gold li {
+            position: relative;
+            padding-left: 1rem;
+        }
+
+        .list-gold li::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: var(--gold);
+        }
+
+        .verb-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .verb-list li {
+            display: grid;
+            grid-template-columns: 1fr auto;
+            padding-bottom: 0.4rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .verb-list li:last-child {
+            border: none;
+        }
+
+        .chip-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .chip {
+            padding: 0.3rem 0.8rem;
+            background: #f1f5f9;
+            border: 1px solid var(--border);
+            border-radius: 999px;
+            font-size: 0.75rem;
+            color: var(--slate);
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .table th {
+            background: #f1f5f9;
+            padding: 0.8rem;
+            text-align: left;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: var(--slate);
+        }
+
+        .table td {
+            padding: 0.6rem;
+            border-top: 1px solid var(--border);
+        }
+
+        .table td:last-child {
+            color: var(--gold);
+            font-weight: 600;
+        }
+
+        .formula {
+            background: linear-gradient(135deg, #1e293b, #0f172a);
+            color: #fff;
+            padding: 0.8rem;
+            border-radius: 10px;
+            font-family: monospace;
+            margin: 0.5rem 0;
+        }
+
+        .info-box {
+            background: #fef3c7;
+            border: 1px solid #fde68a;
+            padding: 1rem;
+            border-radius: 10px;
+            font-size: 0.85rem;
+            color: #92400e;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .grid-2 > div {
+            padding: 1rem;
+            border-right: 1px solid var(--border);
+        }
+
+        .grid-2 > div:last-child {
+            border-right: none;
+        }
+
+        .compare-card {
+            border: 1px solid var(--border);
+            padding: 0.8rem;
+            border-radius: 10px;
+            margin: 0.5rem 0;
+        }
+
+        /* =========================
+        AUDIO ICON STYLES
+        ========================== */
+        .audio-inline-wrapper {
+            display: inline-flex;
+            align-items: center;
+            cursor: pointer;
+            gap: 4px;
+        }
+
+        .audio-btn {
+            color: var(--gold);
+            font-size: 1.1rem;
+            margin-left: 4px;
+        }
+
+        .audio-btn:hover {
+            opacity: 0.7;
+        }
+
+        .u-hidden {
+            display: none;
+        }
+
+        .actions-bar {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border);
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .json-output {
+            background: #1e1e1e;
+            color: #f8f8f2;
+            padding: 20px;
+            border-radius: 8px;
+            font-family: monospace;
+            font-size: 13px;
+            max-height: 300px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            margin-top: 20px;
+        }
+
+        .block-type-selector {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin: 10px 0;
+        }
+
+        .block-type-btn {
+            padding: 5px 10px;
+            border: 1px solid var(--border);
+            background: white;
+            border-radius: 4px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .block-type-btn:hover,
+        .block-type-btn.active {
+            background: var(--gold);
+            color: white;
+            border-color: var(--gold);
+        }
+
+        .allowed-blocks-info {
+            background: #e0f2fe;
+            border: 1px solid #7dd3fc;
+            padding: 10px;
+            border-radius: 6px;
+            font-size: 13px;
+            color: #0369a1;
+            margin: 10px 0;
+        }
+
+        .audio-preview-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            background: #fef3c7;
+            color: #92400e;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            margin-left: 8px;
+        }
+
+        .preview-hint {
+            font-size: 0.75rem;
+            color: var(--slate);
+            font-style: italic;
+            margin-top: 10px;
+            padding: 8px;
+            background: #f1f5f9;
+            border-radius: 6px;
+        }
+
+        .drag-handle {
+            cursor: grab;
+            color: var(--slate);
+            opacity: 0.5;
+            transition: all 0.2s;
+        }
+
+        .drag-handle:hover {
+            opacity: 1;
+            color: var(--gold);
+        }
+
+        .reorder-info {
+            background: linear-gradient(135deg, #fef3c7, #fde68a);
+            border: 1px solid #f59e0b;
+            padding: 12px 16px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 13px;
+            color: #92400e;
+        }
+
+        .reorder-info .material-symbols-outlined {
+            font-size: 20px;
+            color: var(--gold);
+        }
+
+        .block-reorder-handle {
+            cursor: grab;
+            padding: 5px;
+            color: var(--slate);
+            opacity: 0.6;
+            transition: all 0.2s;
+        }
+
+        .block-reorder-handle:hover {
+            opacity: 1;
+            color: var(--gold);
+        }
+
+        /* =========================
+        FILE UPLOAD STYLES
+        ========================== */
+        .file-upload-container {
+            background: linear-gradient(135deg, #f0f9ff, #e0f2fe);
+            border: 2px dashed #7dd3fc;
+            border-radius: var(--radius);
+            padding: 25px;
+            text-align: center;
+            margin-bottom: 20px;
+            transition: all 0.3s;
+        }
+
+        .file-upload-container:hover {
+            border-color: var(--gold);
+            background: linear-gradient(135deg, #fef3c7, #fde68a);
+        }
+
+        .file-upload-container.dragover {
+            border-color: var(--gold);
+            background: linear-gradient(135deg, #fef3c7, #fde68a);
+            transform: scale(1.02);
+        }
+
+        .file-upload-icon {
+            font-size: 3rem;
+            color: var(--gold);
+            margin-bottom: 10px;
+        }
+
+        .file-upload-text {
+            color: var(--slate);
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+        }
+
+        .file-upload-input {
+            display: none;
+        }
+
+        .file-upload-label {
+            display: inline-block;
+            padding: 10px 20px;
+            background: var(--gold);
+            color: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .file-upload-label:hover {
+            background: #92400e;
+            transform: translateY(-2px);
+        }
+
+        .loaded-file-info {
+            background: #dcfce7;
+            border: 1px solid #86efac;
+            padding: 12px 16px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 13px;
+            color: #166534;
+        }
+
+        .loaded-file-info .material-symbols-outlined {
+            color: #16a34a;
+            margin-right: 8px;
+        }
+
+        .loaded-file-info button {
+            background: #ef4444;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 11px;
+        }
+
+        .loaded-file-info button:hover {
+            background: #dc2626;
+        }
+
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .modal-overlay.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: white;
+            padding: 30px;
+            border-radius: var(--radius);
+            max-width: 500px;
+            width: 90%;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+
+        .modal-content h3 {
+            color: var(--navy);
+            margin-bottom: 15px;
+        }
+
+        .modal-content p {
+            color: var(--slate);
+            margin-bottom: 20px;
+        }
+
+        .modal-buttons {
+            display: flex;
+            gap: 10px;
+            justify-content: flex-end;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="page-header" style="text-align: left; padding: 1rem 0;">
+            <h1 style="font-size: 1.8rem; color: var(--navy);">🛠️ Generador de Lecciones</h1>
+            <p style="color: var(--slate); font-size: 0.9rem;">Crea y edita contenido para Grammar/Vocabulary con vista previa fiel a grammar.js</p>
+        </div>
+
+        <div class="main-grid">
+            <!-- Panel del Editor -->
+            <div class="editor-panel">
+                <h2>📝 Editor</h2>
+
+                <!-- Cargar JSON -->
+                <div class="file-upload-container" id="fileUploadContainer">
+                    <span class="material-symbols-outlined file-upload-icon">upload_file</span>
+                    <p class="file-upload-text">Arrastra un archivo JSON aquí o haz clic para seleccionar</p>
+                    <input type="file" id="jsonFileInput" class="file-upload-input" accept=".json">
+                    <label for="jsonFileInput" class="file-upload-label">📂 Seleccionar Archivo</label>
+                </div>
+
+                <!-- Información del archivo cargado -->
+                <div id="loadedFileInfo" class="loaded-file-info" style="display: none;">
+                    <div style="display: flex; align-items: center;">
+                        <span class="material-symbols-outlined">check_circle</span>
+                        <span id="loadedFileName">archivo.json cargado</span>
+                    </div>
+                    <button onclick="clearLoadedFile()">✕ Limpiar</button>
+                </div>
+
+                <div class="reorder-info">
+                    <span class="material-symbols-outlined">drag_indicator</span>
+                    <div>
+                        <strong>Reordenar:</strong> Arrastra las secciones o bloques para cambiar su orden. 
+                        Los números se actualizarán automáticamente.
+                    </div>
+                </div>
+
+                <!-- Metadatos -->
+                <div class="form-group">
+                    <label>Slug</label>
+                    <input type="text" id="slug" placeholder="ej. simple-past" oninput="updatePreview()">
+                </div>
+
+                <div class="form-group">
+                    <label>Título</label>
+                    <input type="text" id="title" placeholder="ej. Simple Past" oninput="updatePreview()">
+                    <div class="checkbox-wrapper" onclick="togglePrefix('title')">
+                        <input type="checkbox" id="check-title">
+                        <span>Añadir prefijo @_ (audio)</span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Subtítulo</label>
+                    <input type="text" id="subtitle" placeholder="ej. Completed actions in the past" oninput="updatePreview()">
+                </div>
+
+                <div class="form-group">
+                    <label>Dificultad</label>
+                    <select id="difficulty" onchange="updatePreview()">
+                        <option value="A1">A1</option>
+                        <option value="A2" selected>A2</option>
+                        <option value="B1">B1</option>
+                        <option value="B2">B2</option>
+                        <option value="C1">C1</option>
+                        <option value="C2">C2</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Icono</label>
+                    <input type="text" id="icon" placeholder="ej. history" oninput="updatePreview()">
+                </div>
+
+                <div class="form-group">
+                    <label>Tags (separados por coma)</label>
+                    <input type="text" id="tags" placeholder="past, regular-verbs, irregular-verbs" oninput="updatePreview()">
+                </div>
+
+                <div class="form-group">
+                    <label>Badges (separados por coma)</label>
+                    <input type="text" id="badges" placeholder="Completed actions, Auxiliary did" oninput="updatePreview()">
+                    <div class="checkbox-wrapper" onclick="togglePrefix('badges')">
+                        <input type="checkbox" id="check-badges" checked>
+                        <span>Añadir prefijo @_ a badges</span>
+                    </div>
+                </div>
+
+                <hr style="margin: 20px 0; border: none; border-top: 1px solid var(--border);">
+
+                <!-- Secciones -->
+                <div class="form-group">
+                    <label>Secciones</label>
+                    <button class="btn btn-success" onclick="addSection()">+ Añadir Sección</button>
+                    <div id="sectionsContainer"></div>
+                </div>
+
+                <div class="actions-bar">
+                    <button class="btn btn-primary" onclick="downloadJSON()">💾 Descargar JSON</button>
+                    <button class="btn btn-secondary" onclick="copyToClipboard()">📋 Copiar JSON</button>
+                    <button class="btn btn-warning" onclick="showNewDocumentModal()">📄 Nuevo Documento</button>
+                </div>
+
+                <div class="json-output" id="jsonOutput"></div>
+            </div>
+
+            <!-- Panel de Vista Previa -->
+            <div class="preview-panel">
+                <div class="preview-header">
+                    <span>👁️ Vista Previa</span>
+                    <span style="font-size: 0.8rem; opacity: 0.8;">Fiel a grammar.js</span>
+                </div>
+                <div class="preview-content" id="previewContent">
+                    <!-- El contenido se renderiza aquí -->
+                </div>
+                <div style="padding: 15px; background: #f8fafc; border-top: 1px solid var(--border);">
+                    <p class="preview-hint">
+                        💡 <strong>Consejo:</strong> Pasa el cursor sobre cualquier sección para ver los botones de 
+                        <span class="material-symbols-outlined" style="font-size:14px; vertical-align:middle;">drag_indicator</span> reordenar y 
+                        <span class="material-symbols-outlined" style="font-size:14px; vertical-align:middle;">delete</span> eliminar. 
+                        Los números se regeneran automáticamente (01, 02, 03...).
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Confirmación -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal-content">
+            <h3>⚠️ ¿Crear nuevo documento?</h3>
+            <p>Esto limpiará todos los datos actuales. ¿Estás seguro de que quieres continuar?</p>
+            <div class="modal-buttons">
+                <button class="btn btn-secondary" onclick="closeModal()">Cancelar</button>
+                <button class="btn btn-danger" onclick="confirmNewDocument()">Sí, crear nuevo</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Datos principales
+        let lessonData = {
+            slug: "",
+            meta: {
+                title: "",
+                subtitle: "",
+                difficulty: "A2",
+                tags: [],
+                icon: ""
+            },
+            header: {
+                badges: []
+            },
+            sections: []
+        };
+
+        let loadedFileName = "";
+        let sectionCounter = 0;
+        let draggedSectionIndex = null;
+        let draggedBlockData = null;
+
+        // =========================
+        // FILE UPLOAD FUNCTIONS
+        // =========================
+        const fileUploadContainer = document.getElementById('fileUploadContainer');
+        const jsonFileInput = document.getElementById('jsonFileInput');
+        const loadedFileInfo = document.getElementById('loadedFileInfo');
+        const loadedFileNameEl = document.getElementById('loadedFileName');
+
+        // Drag and drop para archivos
+        fileUploadContainer.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            fileUploadContainer.classList.add('dragover');
+        });
+
+        fileUploadContainer.addEventListener('dragleave', () => {
+            fileUploadContainer.classList.remove('dragover');
+        });
+
+        fileUploadContainer.addEventListener('drop', (e) => {
+            e.preventDefault();
+            fileUploadContainer.classList.remove('dragover');
+            const files = e.dataTransfer.files;
+            if (files.length > 0 && files[0].type === 'application/json') {
+                loadJSONFile(files[0]);
+            } else {
+                alert('Por favor selecciona un archivo JSON válido');
+            }
+        });
+
+        jsonFileInput.addEventListener('change', (e) => {
+            const files = e.target.files;
+            if (files.length > 0) {
+                loadJSONFile(files[0]);
+            }
+        });
+
+        function loadJSONFile(file) {
+            const reader = new FileReader();
+            
+            reader.onload = (e) => {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    
+                    // Validar estructura básica
+                    if (!data.meta || !data.sections) {
+                        throw new Error('El JSON no tiene la estructura correcta (falta meta o sections)');
+                    }
+
+                    // Cargar datos
+                    lessonData = {
+                        slug: data.slug || '',
+                        meta: {
+                            title: data.meta.title || '',
+                            subtitle: data.meta.subtitle || '',
+                            difficulty: data.meta.difficulty || 'A2',
+                            tags: Array.isArray(data.meta.tags) ? data.meta.tags : [],
+                            icon: data.meta.icon || ''
+                        },
+                        header: {
+                            badges: Array.isArray(data.header?.badges) ? data.header.badges : []
+                        },
+                        sections: Array.isArray(data.sections) ? data.sections : []
+                    };
+
+                    // Actualizar contador de secciones
+                    sectionCounter = lessonData.sections.length;
+
+                    // Mostrar información del archivo cargado
+                    loadedFileName = file.name;
+                    loadedFileNameEl.textContent = `📄 ${file.name} cargado (${lessonData.sections.length} secciones)`;
+                    loadedFileInfo.style.display = 'flex';
+
+                    // Actualizar campos del formulario
+                    document.getElementById('slug').value = lessonData.slug;
+                    document.getElementById('title').value = cleanPrefix(lessonData.meta.title);
+                    document.getElementById('subtitle').value = lessonData.meta.subtitle;
+                    document.getElementById('difficulty').value = lessonData.meta.difficulty;
+                    document.getElementById('icon').value = lessonData.meta.icon;
+                    document.getElementById('tags').value = lessonData.meta.tags.join(', ');
+                    
+                    // Badges
+                    const badgesClean = lessonData.header.badges.map(b => cleanPrefix(b)).join(', ');
+                    document.getElementById('badges').value = badgesClean;
+                    
+                    // Checkboxes para prefijos
+                    document.getElementById('check-title').checked = lessonData.meta.title?.startsWith('@_') || false;
+                    document.getElementById('check-badges').checked = lessonData.header.badges.some(b => b.startsWith('@_')) || false;
+
+                    // Renderizar editor y preview
+                    renderSectionsEditor();
+                    updatePreview();
+
+                    alert(`✅ Archivo "${file.name}" cargado exitosamente!\n\n${lessonData.sections.length} secciones cargadas.`);
+
+                } catch (error) {
+                    console.error('Error loading JSON:', error);
+                    alert(`❌ Error al cargar el archivo:\n\n${error.message}\n\nAsegúrate de que el JSON tenga la estructura correcta.`);
+                }
+            };
+
+            reader.onerror = () => {
+                alert('❌ Error al leer el archivo');
+            };
+
+            reader.readAsText(file);
+        }
+
+        function clearLoadedFile() {
+            loadedFileName = "";
+            loadedFileInfo.style.display = 'none';
+            jsonFileInput.value = '';
+        }
+
+        // =========================
+        // MODAL FUNCTIONS
+        // =========================
+        function showNewDocumentModal() {
+            document.getElementById('modalOverlay').classList.add('active');
+        }
+
+        function closeModal() {
+            document.getElementById('modalOverlay').classList.remove('active');
+        }
+
+        function confirmNewDocument() {
+            closeModal();
+            
+            // Resetear datos
+            lessonData = {
+                slug: "",
+                meta: {
+                    title: "",
+                    subtitle: "",
+                    difficulty: "A2",
+                    tags: [],
+                    icon: ""
+                },
+                header: {
+                    badges: []
+                },
+                sections: []
+            };
+
+            sectionCounter = 0;
+            clearLoadedFile();
+
+            // Limpiar campos
+            document.getElementById('slug').value = '';
+            document.getElementById('title').value = '';
+            document.getElementById('subtitle').value = '';
+            document.getElementById('difficulty').value = 'A2';
+            document.getElementById('icon').value = '';
+            document.getElementById('tags').value = '';
+            document.getElementById('badges').value = '';
+            document.getElementById('check-title').checked = false;
+            document.getElementById('check-badges').checked = false;
+
+            // Añadir una sección por defecto
+            addSection();
+        }
+
+        // =========================
+        // EXISTING FUNCTIONS
+        // =========================
+        function togglePrefix(field) {
+            updatePreview();
+        }
+
+        function getValueWithPrefix(inputId, checkId) {
+            const value = document.getElementById(inputId)?.value || '';
+            const addPrefix = document.getElementById(checkId)?.checked || false;
+            if (addPrefix && value) {
+                return '@_' + value;
+            }
+            return value;
+        }
+
+        function addSection() {
+            sectionCounter++;
+            const section = {
+                id: `section-${sectionCounter}-${Date.now()}`,
+                title: `Nueva Sección ${sectionCounter}`,
+                type: 'info-grid',
+                blocks: []
+            };
+            lessonData.sections.push(section);
+            renderSectionsEditor();
+            updatePreview();
+        }
+
+        function removeSection(index) {
+            if (lessonData.sections.length <= 1) {
+                alert('Debe haber al menos una sección en la lección.');
+                return;
+            }
+            
+            const confirmDelete = confirm(`¿Estás seguro de eliminar la sección "${lessonData.sections[index].title}"?\n\nLos números de las secciones restantes se regenerarán automáticamente.`);
+            if (!confirmDelete) return;
+            
+            lessonData.sections.splice(index, 1);
+            renderSectionsEditor();
+            updatePreview();
+        }
+
+        function updateSection(index, field, value) {
+            lessonData.sections[index][field] = value;
+            if (field === 'type') {
+                const allowedBlocks = allowedBlocksBySectionType[value] || [];
+                lessonData.sections[index].blocks = lessonData.sections[index].blocks.filter(
+                    block => allowedBlocks.includes(block.type)
+                );
+            }
+            renderSectionsEditor();
+            updatePreview();
+        }
+
+        function addBlock(sectionIndex, blockType) {
+            const sectionType = lessonData.sections[sectionIndex].type;
+            const allowedBlocks = allowedBlocksBySectionType[sectionType] || [];
+            
+            if (!allowedBlocks.includes(blockType)) {
+                alert(`El tipo de bloque "${blockType}" no está permitido para secciones de tipo "${sectionType}"`);
+                return;
+            }
+
+            const block = {
+                type: blockType,
+                label: '',
+                content: '',
+                items: [],
+                headers: [],
+                rows: [],
+                style: '',
+                value: '',
+                description: ''
+            };
+
+            if (blockType === 'table') {
+                block.headers = ['Columna 1', 'Columna 2'];
+                block.rows = [['Dato 1', 'Dato 2']];
+            } else if (blockType === 'list' || blockType === 'chips') {
+                block.items = ['Item 1', 'Item 2', 'Item 3'];
+            } else if (blockType === 'code-block') {
+                block.items = ['Subject + Past Verb'];
+            } else if (blockType === 'card') {
+                block.label = 'Singular';
+                block.content = 'I / He / She / It';
+                block.value = 'was';
+            } else if (blockType === 'compare-box') {
+                block.label = 'Simple Past';
+                block.content = 'I met him in 2019.';
+                block.description = 'Specific time in the past';
+            }
+
+            lessonData.sections[sectionIndex].blocks.push(block);
+            renderSectionsEditor();
+            updatePreview();
+        }
+
+        function removeBlock(sectionIndex, blockIndex) {
+            lessonData.sections[sectionIndex].blocks.splice(blockIndex, 1);
+            renderSectionsEditor();
+            updatePreview();
+        }
+
+        function updateBlock(sectionIndex, blockIndex, field, value) {
+            lessonData.sections[sectionIndex].blocks[blockIndex][field] = value;
+            updatePreview();
+        }
+
+        function updateBlockContentWithPrefix(sectionIndex, blockIndex, addPrefix) {
+            const block = lessonData.sections[sectionIndex].blocks[blockIndex];
+            let value = block.content || '';
+            
+            if (addPrefix && value && !value.startsWith('@_')) {
+                value = '@_' + value;
+            } else if (!addPrefix && value.startsWith('@_')) {
+                value = value.slice(2);
+            }
+            
+            lessonData.sections[sectionIndex].blocks[blockIndex].content = value;
+            updatePreview();
+        }
+
+        function updateBlockValueWithPrefix(sectionIndex, blockIndex, addPrefix) {
+            const block = lessonData.sections[sectionIndex].blocks[blockIndex];
+            let value = block.value || '';
+            
+            if (addPrefix && value && !value.startsWith('@_')) {
+                value = '@_' + value;
+            } else if (!addPrefix && value.startsWith('@_')) {
+                value = value.slice(2);
+            }
+            
+            lessonData.sections[sectionIndex].blocks[blockIndex].value = value;
+            updatePreview();
+        }
+
+        function parseTableRows(value) {
+            if (!value) return [];
+            return value.split('|').map(row => row.split(',').map(cell => cell.trim()));
+        }
+
+        // Bloques permitidos por tipo de sección
+        const allowedBlocksBySectionType = {
+            'info-grid': ['paragraph', 'quote', 'list', 'chips'],
+            'two-columns': ['table'],
+            'formulas': ['code-block', 'info-box'],
+            'grid-compare': ['card'],
+            'comparison': ['compare-box', 'table']
+        };
+
+        // Tipos de bloque que NO muestran label
+        const blocksWithoutLabel = ['card', 'compare-box'];
+
+        // =========================
+        // DRAG AND DROP - SECTIONS
+        // =========================
+        function setupSectionDragAndDrop() {
+            const sectionCards = document.querySelectorAll('.section-card[data-section-index]');
+            
+            sectionCards.forEach(card => {
+                card.setAttribute('draggable', 'true');
+                
+                card.addEventListener('dragstart', (e) => {
+                    draggedSectionIndex = parseInt(card.dataset.sectionIndex);
+                    card.classList.add('dragging');
+                    e.dataTransfer.effectAllowed = 'move';
+                    e.dataTransfer.setData('text/plain', draggedSectionIndex);
+                });
+
+                card.addEventListener('dragend', () => {
+                    card.classList.remove('dragging');
+                    document.querySelectorAll('.section-card').forEach(c => c.classList.remove('drag-over'));
+                    draggedSectionIndex = null;
+                });
+
+                card.addEventListener('dragover', (e) => {
+                    e.preventDefault();
+                    if (draggedSectionIndex === null) return;
+                    card.classList.add('drag-over');
+                });
+
+                card.addEventListener('dragleave', () => {
+                    card.classList.remove('drag-over');
+                });
+
+                card.addEventListener('drop', (e) => {
+                    e.preventDefault();
+                    card.classList.remove('drag-over');
+                    
+                    if (draggedSectionIndex === null) return;
+                    
+                    const targetIndex = parseInt(card.dataset.sectionIndex);
+                    
+                    if (draggedSectionIndex !== targetIndex) {
+                        const movedSection = lessonData.sections.splice(draggedSectionIndex, 1)[0];
+                        lessonData.sections.splice(targetIndex, 0, movedSection);
+                        
+                        renderSectionsEditor();
+                        updatePreview();
+                    }
+                });
+            });
+        }
+
+        // =========================
+        // DRAG AND DROP - BLOCKS
+        // =========================
+        function setupBlockDragAndDrop() {
+            const blockCards = document.querySelectorAll('.block-card[data-section-index][data-block-index]');
+            
+            blockCards.forEach(card => {
+                card.setAttribute('draggable', 'true');
+                
+                card.addEventListener('dragstart', (e) => {
+                    draggedBlockData = {
+                        sectionIndex: parseInt(card.dataset.sectionIndex),
+                        blockIndex: parseInt(card.dataset.blockIndex)
+                    };
+                    card.classList.add('dragging');
+                    e.dataTransfer.effectAllowed = 'move';
+                });
+
+                card.addEventListener('dragend', () => {
+                    card.classList.remove('dragging');
+                    document.querySelectorAll('.block-card').forEach(c => c.classList.remove('drag-over'));
+                    draggedBlockData = null;
+                });
+
+                card.addEventListener('dragover', (e) => {
+                    e.preventDefault();
+                    if (draggedBlockData === null) return;
+                    card.classList.add('drag-over');
+                });
+
+                card.addEventListener('dragleave', () => {
+                    card.classList.remove('drag-over');
+                });
+
+                card.addEventListener('drop', (e) => {
+                    e.preventDefault();
+                    card.classList.remove('drag-over');
+                    
+                    if (draggedBlockData === null) return;
+                    
+                    const targetSectionIndex = parseInt(card.dataset.sectionIndex);
+                    const targetBlockIndex = parseInt(card.dataset.blockIndex);
+                    
+                    if (draggedBlockData.sectionIndex !== targetSectionIndex) {
+                        alert('Solo se pueden reordenar bloques dentro de la misma sección');
+                        return;
+                    }
+                    
+                    if (draggedBlockData.blockIndex !== targetBlockIndex) {
+                        const movedBlock = lessonData.sections[draggedBlockData.sectionIndex].blocks.splice(draggedBlockData.blockIndex, 1)[0];
+                        lessonData.sections[targetSectionIndex].blocks.splice(targetBlockIndex, 0, movedBlock);
+                        
+                        renderSectionsEditor();
+                        updatePreview();
+                    }
+                });
+            });
+        }
+
+        // =========================
+        // DRAG AND DROP - PREVIEW SECTIONS
+        // =========================
+        function setupPreviewSectionDragAndDrop() {
+            const accordionItems = document.querySelectorAll('.accordion-item[data-section-index]');
+            
+            accordionItems.forEach(item => {
+                item.setAttribute('draggable', 'true');
+                
+                item.addEventListener('dragstart', (e) => {
+                    draggedSectionIndex = parseInt(item.dataset.sectionIndex);
+                    item.classList.add('dragging');
+                    e.dataTransfer.effectAllowed = 'move';
+                    
+                    const content = item.querySelector('.accordion-content');
+                    if (content) content.style.maxHeight = null;
+                });
+
+                item.addEventListener('dragend', () => {
+                    item.classList.remove('dragging');
+                    document.querySelectorAll('.accordion-item').forEach(i => i.classList.remove('drag-over'));
+                    draggedSectionIndex = null;
+                });
+
+                item.addEventListener('dragover', (e) => {
+                    e.preventDefault();
+                    if (draggedSectionIndex === null) return;
+                    item.classList.add('drag-over');
+                });
+
+                item.addEventListener('dragleave', () => {
+                    item.classList.remove('drag-over');
+                });
+
+                item.addEventListener('drop', (e) => {
+                    e.preventDefault();
+                    item.classList.remove('drag-over');
+                    
+                    if (draggedSectionIndex === null) return;
+                    
+                    const targetIndex = parseInt(item.dataset.sectionIndex);
+                    
+                    if (draggedSectionIndex !== targetIndex) {
+                        const movedSection = lessonData.sections.splice(draggedSectionIndex, 1)[0];
+                        lessonData.sections.splice(targetIndex, 0, movedSection);
+                        
+                        renderSectionsEditor();
+                        updatePreview();
+                    }
+                });
+            });
+        }
+
+        function renderSectionsEditor() {
+            const container = document.getElementById('sectionsContainer');
+            container.innerHTML = lessonData.sections.map((section, sIndex) => {
+                const allowedBlocks = allowedBlocksBySectionType[section.type] || [];
+                
+                return `
+                    <div class="section-card" data-section-index="${sIndex}">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+                            <div style="display: flex; align-items: center; gap: 10px;">
+                                <span class="material-symbols-outlined drag-handle">drag_indicator</span>
+                                <strong>Sección ${String(sIndex + 1).padStart(2, '0')}</strong>
+                            </div>
+                            <button class="btn btn-danger btn-danger-sm" onclick="removeSection(${sIndex})">
+                                <span class="material-symbols-outlined" style="font-size: 14px;">delete</span>
+                                Eliminar
+                            </button>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label>ID</label>
+                            <input type="text" value="${section.id}" onchange="updateSection(${sIndex}, 'id', this.value)">
+                        </div>
+                        
+                        <div class="form-group">
+                            <label>Título</label>
+                            <input type="text" value="${section.title}" onchange="updateSection(${sIndex}, 'title', this.value)">
+                        </div>
+                        
+                        <div class="form-group">
+                            <label>Tipo de Sección</label>
+                            <select onchange="updateSection(${sIndex}, 'type', this.value)">
+                                <option value="info-grid" ${section.type === 'info-grid' ? 'selected' : ''}>info-grid</option>
+                                <option value="two-columns" ${section.type === 'two-columns' ? 'selected' : ''}>two-columns</option>
+                                <option value="formulas" ${section.type === 'formulas' ? 'selected' : ''}>formulas</option>
+                                <option value="grid-compare" ${section.type === 'grid-compare' ? 'selected' : ''}>grid-compare</option>
+                                <option value="comparison" ${section.type === 'comparison' ? 'selected' : ''}>comparison</option>
+                            </select>
+                        </div>
+
+                        <div class="allowed-blocks-info">
+                            <strong>Bloques permitidos:</strong> ${allowedBlocks.join(', ')}
+                        </div>
+                        
+                        <div class="form-group">
+                            <label>Añadir Bloque</label>
+                            <div class="block-type-selector">
+                                ${['paragraph', 'quote', 'list', 'chips', 'table', 'code-block', 'info-box', 'card', 'compare-box'].map(type => `
+                                    <button class="block-type-btn ${allowedBlocks.includes(type) ? '' : 'u-hidden'}" 
+                                            onclick="addBlock(${sIndex}, '${type}')">${type}</button>
+                                `).join('')}
+                            </div>
+                        </div>
+
+                        <div>
+                            ${section.blocks.map((block, bIndex) => {
+                                const needsLabel = !blocksWithoutLabel.includes(block.type);
+                                const hasAudioPrefix = block.content?.startsWith('@_');
+                                
+                                return `
+                                    <div class="block-card" data-section-index="${sIndex}" data-block-index="${bIndex}">
+                                        <div style="display: flex; justify-content: space-between; margin-bottom: 10px; align-items: center;">
+                                            <div style="display: flex; align-items: center; gap: 8px;">
+                                                <span class="material-symbols-outlined block-reorder-handle">drag_indicator</span>
+                                                <strong style="color: var(--gold);">${block.type}</strong>
+                                            </div>
+                                            <button class="btn btn-danger btn-danger-sm" onclick="removeBlock(${sIndex}, ${bIndex})">×</button>
+                                        </div>
+                                        
+                                        ${needsLabel ? `
+                                        <div class="form-group">
+                                            <label>Label</label>
+                                            <input type="text" value="${block.label || ''}" onchange="updateBlock(${sIndex}, ${bIndex}, 'label', this.value)">
+                                        </div>
+                                        ` : ''}
+
+                                        ${block.type === 'list' ? `
+                                        <div class="form-group">
+                                            <label>Estilo</label>
+                                            <select onchange="updateBlock(${sIndex}, ${bIndex}, 'style', this.value)">
+                                                <option value="">Normal (verb-list)</option>
+                                                <option value="gold" ${block.style === 'gold' ? 'selected' : ''}>Gold (list-gold)</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Items (separados por coma)</label>
+                                            <input type="text" value="${block.items?.join(', ') || ''}" onchange="updateBlock(${sIndex}, ${bIndex}, 'items', this.value.split(',').map(i => i.trim()))">
+                                        </div>
+                                        ` : ''}
+
+                                        ${block.type === 'chips' ? `
+                                        <div class="form-group">
+                                            <label>Items (separados por coma)</label>
+                                            <input type="text" value="${block.items?.join(', ') || ''}" onchange="updateBlock(${sIndex}, ${bIndex}, 'items', this.value.split(',').map(i => i.trim()))">
+                                        </div>
+                                        ` : ''}
+
+                                        ${block.type === 'table' ? `
+                                        <div class="form-group">
+                                            <label>Headers (separados por coma)</label>
+                                            <input type="text" value="${block.headers?.join(', ') || ''}" onchange="updateBlock(${sIndex}, ${bIndex}, 'headers', this.value.split(',').map(i => i.trim()))">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Filas (formato: "celda1,celda2|celda3,celda4")</label>
+                                            <input type="text" placeholder="val1,val2|val3,val4" onchange="updateBlock(${sIndex}, ${bIndex}, 'rows', parseTableRows(this.value))">
+                                        </div>
+                                        ` : ''}
+
+                                        ${block.type === 'code-block' ? `
+                                        <div class="form-group">
+                                            <label>Fórmulas (una por línea)</label>
+                                            <textarea rows="3" onchange="updateBlock(${sIndex}, ${bIndex}, 'items', this.value.split('\n'))">${block.items?.join('\n') || ''}</textarea>
+                                        </div>
+                                        ` : ''}
+
+                                        ${block.type === 'info-box' ? `
+                                        <div class="form-group">
+                                            <label>Contenido</label>
+                                            <textarea rows="2" onchange="updateBlock(${sIndex}, ${bIndex}, 'content', this.value)">${block.content || ''}</textarea>
+                                        </div>
+                                        ` : ''}
+
+                                        ${(block.type === 'paragraph' || block.type === 'quote') ? `
+                                        <div class="form-group">
+                                            <label>Contenido</label>
+                                            <textarea rows="2" onchange="updateBlock(${sIndex}, ${bIndex}, 'content', this.value)">${block.content || ''}</textarea>
+                                            <div class="checkbox-wrapper" style="margin-top: 5px;">
+                                                <input type="checkbox" id="check-block-${sIndex}-${bIndex}" ${hasAudioPrefix ? 'checked' : ''} onchange="updateBlockContentWithPrefix(${sIndex}, ${bIndex}, this.checked)">
+                                                <span>
+                                                    Añadir prefijo @_ 
+                                                    ${hasAudioPrefix ? '<span class="audio-preview-badge"><span class="material-symbols-outlined" style="font-size:14px;">volume_up</span> Audio</span>' : ''}
+                                                </span>
+                                            </div>
+                                        </div>
+                                        ` : ''}
+
+                                        ${block.type === 'card' ? `
+                                        <div class="form-group">
+                                            <label>Contenido</label>
+                                            <input type="text" value="${block.content || ''}" onchange="updateBlock(${sIndex}, ${bIndex}, 'content', this.value)">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Valor (highlight en dorado)</label>
+                                            <input type="text" value="${block.value || ''}" onchange="updateBlock(${sIndex}, ${bIndex}, 'value', this.value)">
+                                            <div class="checkbox-wrapper" style="margin-top: 5px;">
+                                                <input type="checkbox" id="check-block-${sIndex}-${bIndex}" ${block.value?.startsWith('@_') ? 'checked' : ''} onchange="updateBlockValueWithPrefix(${sIndex}, ${bIndex}, this.checked)">
+                                                <span>Añadir prefijo @_ al valor</span>
+                                            </div>
+                                        </div>
+                                        ` : ''}
+
+                                        ${block.type === 'compare-box' ? `
+                                        <div class="form-group">
+                                            <label>Contenido</label>
+                                            <textarea rows="2" onchange="updateBlock(${sIndex}, ${bIndex}, 'content', this.value)">${block.content || ''}</textarea>
+                                            <div class="checkbox-wrapper" style="margin-top: 5px;">
+                                                <input type="checkbox" id="check-block-${sIndex}-${bIndex}" ${hasAudioPrefix ? 'checked' : ''} onchange="updateBlockContentWithPrefix(${sIndex}, ${bIndex}, this.checked)">
+                                                <span>
+                                                    Añadir prefijo @_ 
+                                                    ${hasAudioPrefix ? '<span class="audio-preview-badge"><span class="material-symbols-outlined" style="font-size:14px;">volume_up</span> Audio</span>' : ''}
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Descripción</label>
+                                            <input type="text" value="${block.description || ''}" onchange="updateBlock(${sIndex}, ${bIndex}, 'description', this.value)">
+                                        </div>
+                                        ` : ''}
+                                    </div>
+                                `;
+                            }).join('')}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            setTimeout(() => {
+                setupSectionDragAndDrop();
+                setupBlockDragAndDrop();
+            }, 100);
+        }
+
+        function updatePreview() {
+            lessonData.slug = document.getElementById('slug').value || 'lesson';
+            lessonData.meta.title = getValueWithPrefix('title', 'check-title');
+            lessonData.meta.subtitle = document.getElementById('subtitle').value;
+            lessonData.meta.difficulty = document.getElementById('difficulty').value;
+            lessonData.meta.icon = document.getElementById('icon').value;
+            
+            const tagsValue = document.getElementById('tags').value;
+            lessonData.meta.tags = tagsValue ? tagsValue.split(',').map(t => t.trim()) : [];
+
+            const badgesValue = document.getElementById('badges').value;
+            const addBadgePrefix = document.getElementById('check-badges').checked;
+            lessonData.header.badges = badgesValue ? badgesValue.split(',').map(b => {
+                b = b.trim();
+                return addBadgePrefix && b ? '@_' + b : b;
+            }) : [];
+
+            renderPreview();
+            document.getElementById('jsonOutput').textContent = JSON.stringify(lessonData, null, 4);
+        }
+
+        function renderPreview() {
+            const container = document.getElementById('previewContent');
+            
+            const titleParts = lessonData.meta.title.split(' ');
+            let formattedTitle = lessonData.meta.title;
+            if (titleParts.length > 1) {
+                const lastWord = titleParts.pop();
+                const cleanLastWord = lastWord.startsWith('@_') ? lastWord.slice(2) : lastWord;
+                formattedTitle = `${titleParts.join(' ')} <em>${cleanLastWord}</em>`;
+            }
+
+            const badgesHtml = lessonData.header.badges.map((badge, i) => `
+                <span>${cleanPrefix(badge)}</span>
+                ${i < lessonData.header.badges.length - 1 ? '<span class="dot"></span>' : ''}
+            `).join('');
+
+            const sectionsHtml = lessonData.sections.map((section, sIndex) => {
+                const paddedIndex = String(sIndex + 1).padStart(2, '0');
+                const blocksHtml = section.blocks.map(block => renderBlockPreview(block)).join('');
+                
+                let contentHtml = blocksHtml;
+                if (section.type === 'grid-compare') {
+                    contentHtml = `<div class="grid-2">${blocksHtml}</div>`;
+                }
+
+                return `
+                    <div class="accordion-item" data-section-index="${sIndex}">
+                        <div class="accordion-header" onclick="toggleAccordion(this)">
+                            <div class="accordion-title">
+                                <span class="accordion-number serif-title">${paddedIndex}</span>
+                                <span>${section.title}</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 10px;">
+                                <button class="drag-section-btn" onclick="event.stopPropagation()" title="Arrastrar para reordenar">
+                                    <span class="material-symbols-outlined">drag_indicator</span>
+                                </button>
+                                <button class="delete-section-btn" onclick="event.stopPropagation(); removeSection(${sIndex})" title="Eliminar sección">
+                                    <span class="material-symbols-outlined">delete</span>
+                                    Eliminar
+                                </button>
+                                <span class="material-symbols-outlined toggle-icon">add</span>
+                            </div>
+                        </div>
+                        <div class="accordion-content">
+                            <div class="content-block">${contentHtml}</div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            container.innerHTML = `
+                <div class="page-header">
+                    <div class="breadcrumb">
+                        <a href="#">Home</a>
+                        <span class="sep">/</span>
+                        <a href="#">Grammar</a>
+                        <span class="sep">/</span>
+                        <span>${cleanPrefix(lessonData.meta.title)}</span>
+                    </div>
+                    <div class="page-header__eyebrow">Grammar</div>
+                    <h1 class="page-title serif-title">${formattedTitle}</h1>
+                    <p class="page-header__subtitle">${lessonData.meta.subtitle}</p>
+                    <div class="page-header__meta">
+                        <span class="difficulty-badge">LEVEL ${lessonData.meta.difficulty}</span>
+                        ${badgesHtml}
+                    </div>
+                </div>
+                
+                <div class="accordion">
+                    ${sectionsHtml}
+                </div>
+            `;
+
+            setTimeout(() => {
+                setupPreviewSectionDragAndDrop();
+            }, 100);
+        }
+
+        function renderBlockPreview(block) {
+            const createAudioText = (textStr) => {
+                if (!textStr || typeof textStr !== 'string') return textStr || '';
+                
+                if (textStr.startsWith('@_')) {
+                    const cleanHtml = textStr.slice(2);
+                    return `<span class="audio-inline-wrapper">${cleanHtml}<span class="material-symbols-outlined audio-btn">volume_up</span></span>`;
+                }
+                return textStr;
+            };
+
+            const cleanContent = (text) => {
+                if (!text) return '';
+                return createAudioText(text);
+            };
+
+            switch(block.type) {
+                case 'paragraph':
+                    return block.label ? `
+                        <div><div class="section-label">${block.label}</div><p>${cleanContent(block.content)}</p></div>
+                    ` : `<p>${cleanContent(block.content)}</p>`;
+                
+                case 'quote':
+                    return block.label ? `
+                        <div><div class="section-label">${block.label}</div><div class="quote-box">"${cleanContent(block.content)}"</div></div>
+                    ` : `<div class="quote-box">"${cleanContent(block.content)}"</div>`;
+                
+                case 'list':
+                    const listClass = block.style === 'gold' ? 'list-gold' : 'verb-list';
+                    const listItems = (block.items || []).map(item => {
+                        if (typeof item === 'object') {
+                            return `<li><span>${item.label} — </span><em>${cleanContent(item.content)}</em></li>`;
+                        }
+                        return `<li>${cleanContent(item)}</li>`;
+                    }).join('');
+                    return block.label ? `
+                        <div><div class="section-label">${block.label}</div><ul class="${listClass}">${listItems}</ul></div>
+                    ` : `<ul class="${listClass}">${listItems}</ul>`;
+                
+                case 'chips':
+                    const chipsHtml = (block.items || []).map(chip => `<span class="chip">${cleanContent(chip)}</span>`).join('');
+                    return block.label ? `
+                        <div><div class="section-label">${block.label}</div><div class="chip-group">${chipsHtml}</div></div>
+                    ` : `<div class="chip-group">${chipsHtml}</div>`;
+                
+                case 'table':
+                    let tableHtml = '';
+                    if (block.headers?.length) {
+                        tableHtml += `<thead><tr>${block.headers.map(h => `<th>${h}</th>`).join('')}</tr></thead>`;
+                    }
+                    if (block.rows?.length) {
+                        tableHtml += `<tbody>${block.rows.map(row => `<tr>${row.map(cell => `<td>${cleanContent(cell)}</td>`).join('')}</tr>`).join('')}</tbody>`;
+                    }
+                    return block.label ? `
+                        <div><div class="section-label">${block.label}</div><table class="table">${tableHtml}</table></div>
+                    ` : `<table class="table">${tableHtml}</table>`;
+                
+                case 'code-block':
+                    return (block.items || []).map(item => `<div class="formula">${item}</div>`).join('');
+                
+                case 'info-box':
+                    return `<div class="info-box">${block.content}</div>`;
+                
+                case 'card':
+                    return `
+                        <div>
+                            ${block.content}<br/>
+                            <strong class="text-gold">${cleanContent(block.value)}</strong>
+                        </div>
+                    `;
+                
+                case 'compare-box':
+                    return `
+                        <div class="compare-card">
+                            <strong>${block.label}</strong><br/>
+                            ${cleanContent(block.content)}
+                            ${block.description ? `<div style="font-size: 0.8rem; color: var(--slate); margin-top: 5px;">${block.description}</div>` : ''}
+                        </div>
+                    `;
+                
+                default:
+                    return '';
+            }
+        }
+
+        function cleanPrefix(text) {
+            if (!text) return '';
+            return text.startsWith('@_') ? text.slice(2) : text;
+        }
+
+        function toggleAccordion(header) {
+            const item = header.parentElement;
+            const content = item.querySelector('.accordion-content');
+            const icon = item.querySelector('.toggle-icon');
+            const isOpen = item.classList.contains('accordion-item--open');
+
+            document.querySelectorAll('.accordion-item').forEach(other => {
+                other.classList.remove('accordion-item--open');
+                const otherContent = other.querySelector('.accordion-content');
+                if (otherContent) otherContent.style.maxHeight = null;
+                const otherIcon = other.querySelector('.toggle-icon');
+                if (otherIcon) otherIcon.style.transform = 'rotate(0deg)';
+            });
+
+            if (!isOpen) {
+                item.classList.add('accordion-item--open');
+                content.style.maxHeight = content.scrollHeight + 50 + 'px';
+                if (icon) icon.style.transform = 'rotate(45deg)';
+            }
+        }
+
+        function downloadJSON() {
+            const dataStr = JSON.stringify(lessonData, null, 4);
+            const dataBlob = new Blob([dataStr], {type: 'application/json'});
+            const url = URL.createObjectURL(dataBlob);
+            const link = document.createElement('a');
+            
+            const unixTimestamp = Math.floor(Date.now() / 1000);
+            const slug = lessonData.slug || 'lesson';
+            link.href = url;
+            link.download = `${unixTimestamp}_${slug}.json`;
+            link.click();
+        }
+
+        function copyToClipboard() {
+            const jsonStr = JSON.stringify(lessonData, null, 4);
+            navigator.clipboard.writeText(jsonStr).then(() => {
+                alert('JSON copiado al portapapeles');
+            });
+        }
+
+        // Inicializar con una sección por defecto
+        addSection();
+    </script>
+</body>
+</html>
