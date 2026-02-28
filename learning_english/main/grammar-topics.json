@@ -1,0 +1,22 @@
+{
+    "id": "grammar",
+    "label": "Grammar",
+    "icon": "menu_book",
+    "description": "Tenses, verb forms, sentence structure and grammar rules.",
+    "topics": [
+        {
+            "id": "simple-past",
+            "title": "Simple Past",
+            "subtitle": "Completed actions in the past",
+            "icon": "history",
+            "difficulty": "A2",
+            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/simple-past.json",
+            "href": "grammar.html?topic=simple-past",
+            "tags": [
+                "past",
+                "regular-verbs",
+                "irregular-verbs"
+            ]
+        }
+    ]
+}
