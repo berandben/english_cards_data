@@ -144,9 +144,7 @@
                             "items": [
                                 [
                                     "change e to -ing",
-                                    "make -> making",
-                                    "",
-                                    ""
+                                    "make -> making"
                                 ],
                                 [
                                     "",
@@ -159,9 +157,7 @@
                             "items": [
                                 [
                                     "double consonant + -ing",
-                                    "run -> running",
-                                    "",
-                                    ""
+                                    "run -> running"
                                 ],
                                 [
                                     "",
@@ -178,9 +174,7 @@
                             "items": [
                                 [
                                     "not double consonant + -ing",
-                                    "fix -> fixing",
-                                    "",
-                                    ""
+                                    "fix -> fixing"
                                 ],
                                 [
                                     "",
@@ -193,9 +187,7 @@
                             "items": [
                                 [
                                     "change ie to -ying",
-                                    "lie -> lying",
-                                    "",
-                                    ""
+                                    "lie -> lying"
                                 ],
                                 [
                                     "",
@@ -229,7 +221,7 @@
                             "group": "Feelings",
                             "items": [
                                 [
-                                    "love",
+                                    "desire",
                                     ""
                                 ],
                                 [
@@ -241,7 +233,11 @@
                                     ""
                                 ],
                                 [
-                                    "want",
+                                    "love",
+                                    ""
+                                ],
+                                [
+                                    "mind",
                                     ""
                                 ],
                                 [
@@ -249,11 +245,7 @@
                                     ""
                                 ],
                                 [
-                                    "desire",
-                                    ""
-                                ],
-                                [
-                                    "mind",
+                                    "want",
                                     ""
                                 ]
                             ]
@@ -262,9 +254,15 @@
                             "group": "Possession",
                             "items": [
                                 [
+                                    "belong",
+                                    ""
+                                ],
+                                [
+                                    "contain",
+                                    ""
+                                ],
+                                [
                                     "have",
-                                    "",
-                                    "",
                                     ""
                                 ],
                                 [
@@ -276,19 +274,11 @@
                                     "I'm having a good time"
                                 ],
                                 [
-                                    "possess",
-                                    ""
-                                ],
-                                [
-                                    "contain",
-                                    ""
-                                ],
-                                [
-                                    "belong",
-                                    ""
-                                ],
-                                [
                                     "need",
+                                    ""
+                                ],
+                                [
+                                    "possess",
                                     ""
                                 ]
                             ]
@@ -297,8 +287,24 @@
                             "group": "Perception and senses",
                             "items": [
                                 [
+                                    "feel",
+                                    ""
+                                ],
+                                [
+                                    "feel (touching) Exception",
+                                    "I'm feeling the texture "
+                                ],
+                                [
                                     "hear",
                                     ""
+                                ],
+                                [
+                                    "see",
+                                    ""
+                                ],
+                                [
+                                    "see (visiting) Exception",
+                                    "I'm seeing my doctor tomorrow"
                                 ],
                                 [
                                     "smell",
@@ -311,22 +317,6 @@
                                 [
                                     "taste (testing) Exception",
                                     "She's tasting the soup"
-                                ],
-                                [
-                                    "feel",
-                                    ""
-                                ],
-                                [
-                                    "feel (touching) Exception",
-                                    "I'm feeling the texture "
-                                ],
-                                [
-                                    "see",
-                                    ""
-                                ],
-                                [
-                                    "see (visiting) Exception",
-                                    "I'm seeing my doctor tomorrow"
                                 ]
                             ]
                         },
@@ -334,21 +324,7 @@
                             "group": "Thought and knowledge",
                             "items": [
                                 [
-                                    "know",
-                                    "",
-                                    "",
-                                    ""
-                                ],
-                                [
                                     "believe",
-                                    ""
-                                ],
-                                [
-                                    "understand",
-                                    ""
-                                ],
-                                [
-                                    "remember",
                                     ""
                                 ],
                                 [
@@ -356,11 +332,19 @@
                                     ""
                                 ],
                                 [
-                                    "realize",
+                                    "know",
                                     ""
                                 ],
                                 [
                                     "mean",
+                                    ""
+                                ],
+                                [
+                                    "realize",
+                                    ""
+                                ],
+                                [
+                                    "remember",
                                     ""
                                 ],
                                 [
@@ -370,6 +354,10 @@
                                 [
                                     "think (consideration) Exception",
                                     "I'm thinking about buying a car"
+                                ],
+                                [
+                                    "understand",
+                                    ""
                                 ]
                             ]
                         },
@@ -377,19 +365,23 @@
                             "group": "Appearance, state o quality",
                             "items": [
                                 [
-                                    "exist",
+                                    "appear",
                                     ""
                                 ],
                                 [
-                                    "appear",
+                                    "be",
                                     ""
+                                ],
+                                [
+                                    "be (temporary) Exception",
+                                    "He is being rude"
                                 ],
                                 [
                                     "cost",
                                     ""
                                 ],
                                 [
-                                    "weigh",
+                                    "exist",
                                     ""
                                 ],
                                 [
@@ -401,12 +393,8 @@
                                     ""
                                 ],
                                 [
-                                    "be",
+                                    "weigh",
                                     ""
-                                ],
-                                [
-                                    "be (temporary) Exception",
-                                    "He is being rude"
                                 ]
                             ]
                         }
