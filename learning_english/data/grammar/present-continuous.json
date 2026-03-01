@@ -1,0 +1,421 @@
+{
+    "slug": "present-continuous",
+    "meta": {
+        "title": "Present Continuous",
+        "subtitle": "Now, Temporary, Planned",
+        "difficulty": "A2",
+        "tags": [],
+        "icon": "runner"
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-1772394359489",
+            "title": "When to use",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "description",
+                    "content": "We use the Present Continuous to talk about actions happening now, temporary situations, or fixed future arrangements (plans that are already organized)",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "EXAMPLE",
+                    "content": "",
+                    "items": [
+                        "@_I am studying English right now",
+                        "@_She is staying at a hotel this week",
+                        "@_We are meeting friends tonight"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-1772394824762",
+            "title": "Structure",
+            "type": "formulas",
+            "blocks": [
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Subject + am/is/are + Verb-ing",
+                        "She is reading a book"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Subject + am/is/are + not + Verb-ing",
+                        "They are not sleeping"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Am/Is/Are + Subject + Verb-ing ?",
+                        "Are you listening?"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Wh Question + am/is/are + Subject + Verb-ing ?",
+                        "What are you doing?"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-1772394999818",
+            "title": "Write Rules",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Rule",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Standard",
+                            "items": [
+                                [
+                                    "add -ing",
+                                    "work -> working"
+                                ],
+                                [
+                                    "",
+                                    "play -> playing"
+                                ],
+                                [
+                                    "",
+                                    "study -> studying"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Ending in -e",
+                            "items": [
+                                [
+                                    "change e to -ing",
+                                    "make -> making",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "",
+                                    "dance -> dancing"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "One syllable ending in consonant + vowel + consonant (CVC)",
+                            "items": [
+                                [
+                                    "double consonant + -ing",
+                                    "run -> running",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "",
+                                    "swim -> swimming"
+                                ],
+                                [
+                                    "",
+                                    "sit -> sitting"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "One syllable ending in -w, -x, or -y",
+                            "items": [
+                                [
+                                    "not double consonant + -ing",
+                                    "fix -> fixing",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "",
+                                    "play -> playing"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Ending in -ie",
+                            "items": [
+                                [
+                                    "change ie to -ying",
+                                    "lie -> lying",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "",
+                                    "die -> dying"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-4-1772396072865",
+            "title": "Non action verbs (Stative Verbs)",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Verb",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Feelings",
+                            "items": [
+                                [
+                                    "love",
+                                    ""
+                                ],
+                                [
+                                    "hate",
+                                    ""
+                                ],
+                                [
+                                    "like",
+                                    ""
+                                ],
+                                [
+                                    "want",
+                                    ""
+                                ],
+                                [
+                                    "prefer",
+                                    ""
+                                ],
+                                [
+                                    "desire",
+                                    ""
+                                ],
+                                [
+                                    "mind",
+                                    ""
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Possession",
+                            "items": [
+                                [
+                                    "have",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "have (eating) Exception",
+                                    "I'm having breakfast"
+                                ],
+                                [
+                                    "have (experiencing) Exception",
+                                    "I'm having a good time"
+                                ],
+                                [
+                                    "possess",
+                                    ""
+                                ],
+                                [
+                                    "contain",
+                                    ""
+                                ],
+                                [
+                                    "belong",
+                                    ""
+                                ],
+                                [
+                                    "need",
+                                    ""
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Perception and senses",
+                            "items": [
+                                [
+                                    "hear",
+                                    ""
+                                ],
+                                [
+                                    "smell",
+                                    ""
+                                ],
+                                [
+                                    "taste",
+                                    ""
+                                ],
+                                [
+                                    "taste (testing) Exception",
+                                    "She's tasting the soup"
+                                ],
+                                [
+                                    "feel",
+                                    ""
+                                ],
+                                [
+                                    "feel (touching) Exception",
+                                    "I'm feeling the texture "
+                                ],
+                                [
+                                    "see",
+                                    ""
+                                ],
+                                [
+                                    "see (visiting) Exception",
+                                    "I'm seeing my doctor tomorrow"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Thought and knowledge",
+                            "items": [
+                                [
+                                    "know",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "believe",
+                                    ""
+                                ],
+                                [
+                                    "understand",
+                                    ""
+                                ],
+                                [
+                                    "remember",
+                                    ""
+                                ],
+                                [
+                                    "forget",
+                                    ""
+                                ],
+                                [
+                                    "realize",
+                                    ""
+                                ],
+                                [
+                                    "mean",
+                                    ""
+                                ],
+                                [
+                                    "think",
+                                    ""
+                                ],
+                                [
+                                    "think (consideration) Exception",
+                                    "I'm thinking about buying a car"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Appearance, state o quality",
+                            "items": [
+                                [
+                                    "exist",
+                                    ""
+                                ],
+                                [
+                                    "appear",
+                                    ""
+                                ],
+                                [
+                                    "cost",
+                                    ""
+                                ],
+                                [
+                                    "weigh",
+                                    ""
+                                ],
+                                [
+                                    "look like",
+                                    ""
+                                ],
+                                [
+                                    "seem",
+                                    ""
+                                ],
+                                [
+                                    "be",
+                                    ""
+                                ],
+                                [
+                                    "be (temporary) Exception",
+                                    "He is being rude"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
