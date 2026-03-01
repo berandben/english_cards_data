@@ -128,7 +128,7 @@
                             ]
                         },
                         {
-                            "group": "End in -e",
+                            "group": "Ending in -e",
                             "items": [
                                 [
                                     "add -d",
@@ -137,7 +137,7 @@
                             ]
                         },
                         {
-                            "group": "End in consonant + y",
+                            "group": "Ending in consonant + y",
                             "items": [
                                 [
                                     "change y to -ied",
@@ -159,7 +159,7 @@
                             ]
                         },
                         {
-                            "group": "End in -ic",
+                            "group": "Ending in -ic",
                             "items": [
                                 [
                                     "add -ked",

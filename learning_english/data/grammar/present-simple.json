@@ -1,0 +1,279 @@
+{
+    "slug": "present-simple",
+    "meta": {
+        "title": "Present Simple",
+        "subtitle": "Habitual actions and routines",
+        "difficulty": "A2",
+        "tags": [],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-1772385473202",
+            "title": "When to use",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "The present simple is used for actions we do repeatedly, things that are always true and don't change quickly.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "EXAMPLE",
+                    "content": "",
+                    "items": [
+                        "@_I drink coffee every morning",
+                        "@_The sun rises in the east",
+                        "@_She lives in London"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-1772386212848",
+            "title": "Structure",
+            "type": "formulas",
+            "blocks": [
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Subject + Verb",
+                        "I work / He works"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Subject + do/does not (don't/doesn't) + Verb",
+                        "I don't work / She doesn't work"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Do/Does + Subject + Verb ?",
+                        "Do you work? / Does he work?"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Question Word + do/does + Subject + Verb ?",
+                        "Where do they live? / What does he do?"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "info-box",
+                    "label": "",
+                    "content": "In affirmative sentences, we add -s, -es, or -ies to the verb ( He, She, It -> 3rd Person Singular)",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "info-box",
+                    "label": "",
+                    "content": "In interrogative and negative sentences, we need the auxiliary do (I/You/We/ They) or does (He/She/It)",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "info-box",
+                    "label": "",
+                    "content": "In negative and interrogative sentences, the verb stays in its base form (infinitive) because \"does\" already carries the third-person marker.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-1772386653032",
+            "title": "Write Rules",
+            "type": "two-columns",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "He, She, It (3rd Person Singular)",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Rule",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Standard",
+                            "items": [
+                                [
+                                    "add -s",
+                                    "walk -> walks"
+                                ],
+                                [
+                                    "",
+                                    "eat -> eats"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Ending in -ch, -sh, -s, -ss, -x, -z, -o",
+                            "items": [
+                                [
+                                    "add -es",
+                                    "watch -> watches",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "",
+                                    "go -> goes"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Ending in consonant + y",
+                            "items": [
+                                [
+                                    "change y to -ies",
+                                    "study -> studies",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "",
+                                    "fly -> flies"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Ending in vowel + y",
+                            "items": [
+                                [
+                                    "add -s",
+                                    "play -> plays",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "",
+                                    "enjoy -> enjoys"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Irregular",
+                            "items": [
+                                [
+                                    "",
+                                    "have -> has",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "",
+                                    "be -> is"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-4-1772388181760",
+            "title": "The verb To Be",
+            "type": "grid-compare",
+            "blocks": [
+                {
+                    "type": "card",
+                    "label": "Singular",
+                    "content": "I ",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "am / am not (I'm not) / Am I?",
+                    "description": ""
+                },
+                {
+                    "type": "card",
+                    "label": "Singular",
+                    "content": "He / She / It",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "is / is not (isn't) / Is she?",
+                    "description": ""
+                },
+                {
+                    "type": "card",
+                    "label": "Singular",
+                    "content": "You / We / They",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "are / are not (aren't) / Are we?",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
