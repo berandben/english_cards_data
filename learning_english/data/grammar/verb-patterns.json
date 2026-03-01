@@ -1,0 +1,250 @@
+{
+    "slug": "verb-patterns",
+    "meta": {
+        "title": "Verb Patterns",
+        "subtitle": "",
+        "difficulty": "A2",
+        "tags": [],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-1772400111467",
+            "title": "When to use",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "They are used when we want to express an idea with two verbs.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-1772400418842",
+            "title": "Write Rule",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Verb",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Verb + Gerung (-ing)",
+                            "items": [
+                                [
+                                    "consider",
+                                    "I'm considering changing my job"
+                                ],
+                                [
+                                    "enjoy",
+                                    "We enjoy spending time together"
+                                ],
+                                [
+                                    "fancy",
+                                    "Do you fancy playing tennis?"
+                                ],
+                                [
+                                    "finish",
+                                    "Have you finished cleaning your room?"
+                                ],
+                                [
+                                    "mind",
+                                    "Do you mind opening the window?"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Verb + to + infinitive",
+                            "items": [
+                                [
+                                    "choose",
+                                    "I chose to study engineering"
+                                ],
+                                [
+                                    "decide",
+                                    "The doctors decided not to work in Canada"
+                                ],
+                                [
+                                    "need",
+                                    "I need to go to the bank"
+                                ],
+                                [
+                                    "promise",
+                                    "I promise to tell the truth"
+                                ],
+                                [
+                                    "want",
+                                    "Do you want to come with us?"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Verb + [Gerung (-ing)] / [to + infinitive] (same meaning)",
+                            "items": [
+                                [
+                                    "continue",
+                                    "She continued working despite the noise"
+                                ],
+                                [
+                                    "",
+                                    "She continued to work despite the noise"
+                                ],
+                                [
+                                    "hate",
+                                    "I hate waking up early on Sundays"
+                                ],
+                                [
+                                    "",
+                                    "I hate to wake up early on Sundays"
+                                ],
+                                [
+                                    "like",
+                                    "He likes playing chess in his free time"
+                                ],
+                                [
+                                    "",
+                                    "He likes to play chess in his free time"
+                                ],
+                                [
+                                    "love",
+                                    "They love traveling around the world"
+                                ],
+                                [
+                                    "",
+                                    "They love to travel around the world"
+                                ],
+                                [
+                                    "prefer",
+                                    "She prefers studying at night."
+                                ],
+                                [
+                                    "",
+                                    "She prefers to study at night"
+                                ],
+                                [
+                                    "start",
+                                    "It started raining suddenly"
+                                ],
+                                [
+                                    "",
+                                    "It started to rain suddenly"
+                                ],
+                                [
+                                    "help",
+                                    "She helped me carry the boxes"
+                                ],
+                                [
+                                    "",
+                                    "She helped me to carry the boxes."
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Verb + [Gerung (-ing)] / [to + infinitive] (change meaning)",
+                            "items": [
+                                [
+                                    "remember (remembering something from the past)",
+                                    "I remember locking the door",
+                                    "",
+                                    ""
+                                ],
+                                [
+                                    "remember (remembering to do something)",
+                                    "Remember to lock the door"
+                                ],
+                                [
+                                    "forget (forgetting something from the past)",
+                                    "I'll never forget meeting her"
+                                ],
+                                [
+                                    "forget (forgetting to do something)",
+                                    "Don't forget to call me"
+                                ],
+                                [
+                                    "stop (quitting a habit)",
+                                    "He stopped smoking"
+                                ],
+                                [
+                                    "stop (stopping in order to do something)",
+                                    "We stopped to rest"
+                                ],
+                                [
+                                    "try (experimenting/testing)",
+                                    "Try adding salt"
+                                ],
+                                [
+                                    "try (trying/making an effort)",
+                                    "Try to arrive on time"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Verb + infinitive (no to)",
+                            "items": [
+                                [
+                                    "can",
+                                    "She can speak three languages fluently"
+                                ],
+                                [
+                                    "could",
+                                    "When I was younger, I could run very fast"
+                                ],
+                                [
+                                    "will",
+                                    "I will call you tomorrow"
+                                ],
+                                [
+                                    "would",
+                                    "She would travel more if she had time"
+                                ],
+                                [
+                                    "should",
+                                    "You should study for the exam"
+                                ],
+                                [
+                                    "must",
+                                    "We must finish this project today"
+                                ],
+                                [
+                                    "may",
+                                    "It may rain later this evening"
+                                ],
+                                [
+                                    "might",
+                                    "He might join us for dinner"
+                                ],
+                                [
+                                    "let",
+                                    "Let me explain the problem"
+                                ],
+                                [
+                                    "make",
+                                    "The teacher made us repeat the exercise"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

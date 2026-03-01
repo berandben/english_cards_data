@@ -33,6 +33,16 @@
             "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/simple-past.json",
             "href": "grammar.html?topic=simple-past",
             "tags": []
+        },
+        {
+            "id": "verb-patterns",
+            "title": "Verb patterns",
+            "subtitle": "Structures that follow verbs",
+            "icon": "🔤",
+            "difficulty": "",
+            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/verb-patterns.json",
+            "href": "grammar.html?topic=verb-patterns",
+            "tags": []
         }
     ]
 }
