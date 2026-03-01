@@ -18,7 +18,7 @@
             "id": "present-continuous",
             "title": "Present Continuous",
             "subtitle": "Actions happening now",
-            "icon": "runner",
+            "icon": "🏃‍♂️",
             "difficulty": "",
             "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/present-continuous.json",
             "href": "grammar.html?topic=present-continuous",
