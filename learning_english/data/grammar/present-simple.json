@@ -173,9 +173,7 @@
                             "items": [
                                 [
                                     "add -es",
-                                    "watch -> watches",
-                                    "",
-                                    ""
+                                    "watch -> watches"
                                 ],
                                 [
                                     "",
@@ -188,9 +186,7 @@
                             "items": [
                                 [
                                     "change y to -ies",
-                                    "study -> studies",
-                                    "",
-                                    ""
+                                    "study -> studies"
                                 ],
                                 [
                                     "",
@@ -203,9 +199,7 @@
                             "items": [
                                 [
                                     "add -s",
-                                    "play -> plays",
-                                    "",
-                                    ""
+                                    "play -> plays"
                                 ],
                                 [
                                     "",
@@ -218,9 +212,7 @@
                             "items": [
                                 [
                                     "",
-                                    "have -> has",
-                                    "",
-                                    ""
+                                    "have -> has"
                                 ],
                                 [
                                     "",
