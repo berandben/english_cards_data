@@ -114,6 +114,14 @@
                                     "I hate to wake up early on Sundays"
                                 ],
                                 [
+                                    "help",
+                                    "She helped me carry the boxes"
+                                ],
+                                [
+                                    "",
+                                    "She helped me to carry the boxes."
+                                ],
+                                [
                                     "like",
                                     "He likes playing chess in his free time"
                                 ],
@@ -144,14 +152,6 @@
                                 [
                                     "",
                                     "It started to rain suddenly"
-                                ],
-                                [
-                                    "help",
-                                    "She helped me carry the boxes"
-                                ],
-                                [
-                                    "",
-                                    "She helped me to carry the boxes."
                                 ]
                             ]
                         },
