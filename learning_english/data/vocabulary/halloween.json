@@ -1,0 +1,284 @@
+{
+    "meta": {
+        "title": "Halloween & Spooky Vocabulary",
+        "subtitle": "Words related to monsters, magic, and the supernatural",
+        "difficulty": "A1-A2"
+    },
+    "items": [
+        {
+            "spanish": "Murciélago",
+            "english": "Bat",
+            "sound": "/bæt/"
+        },
+        {
+            "spanish": "Banshee",
+            "english": "Banshee",
+            "sound": "/ˈbæn.ʃiː/"
+        },
+        {
+            "spanish": "Gato negro",
+            "english": "Black cat",
+            "sound": "/blæk kæt/"
+        },
+        {
+            "spanish": "Caldero",
+            "english": "Cauldron",
+            "sound": "/ˈkɔːl.drən/"
+        },
+        {
+            "spanish": "Vela",
+            "english": "Candle",
+            "sound": "/ˈkæn.dəl/"
+        },
+        {
+            "spanish": "Caramelos",
+            "english": "Candy",
+            "sound": "/ˈkæn.di/"
+        },
+        {
+            "spanish": "Dulce de maíz",
+            "english": "Candy corn",
+            "sound": "/ˈkæn.di kɔːn/"
+        },
+        {
+            "spanish": "Manzana acaramelada",
+            "english": "Candy apple",
+            "sound": "/ˈkæn.di ˌæp.əl/"
+        },
+        {
+            "spanish": "Cementerio",
+            "english": "Cemetery",
+            "sound": "/ˈsem.ə.tri/"
+        },
+        {
+            "spanish": "Ataúd",
+            "english": "Coffin",
+            "sound": "/ˈkɒf.ɪn/"
+        },
+        {
+            "spanish": "Disfraz",
+            "english": "Costume",
+            "sound": "/ˈkɒs.tjuːm/"
+        },
+        {
+            "spanish": "Siniestro",
+            "english": "Creepy",
+            "sound": "/ˈkriː.pi/"
+        },
+        {
+            "spanish": "Maldición",
+            "english": "Curse",
+            "sound": "/kɜːs/"
+        },
+        {
+            "spanish": "Oscuridad",
+            "english": "Darkness",
+            "sound": "/ˈdɑːk.nəs/"
+        },
+        {
+            "spanish": "Muerte",
+            "english": "Death",
+            "sound": "/deθ/"
+        },
+        {
+            "spanish": "Demonio",
+            "english": "Demon",
+            "sound": "/ˈdiː.mən/"
+        },
+        {
+            "spanish": "Sobrenatural",
+            "english": "Eerie",
+            "sound": "/ˈɪə.ri/"
+        },
+        {
+            "spanish": "Fantasma",
+            "english": "Ghost",
+            "sound": "/ɡəʊst/"
+        },
+        {
+            "spanish": "Tumba",
+            "english": "Ghoul",
+            "sound": "/ɡuːl/"
+        },
+        {
+            "spanish": "Duende malicioso",
+            "english": "Goblin",
+            "sound": "/ˈɡɒb.lɪn/"
+        },
+        {
+            "spanish": "Cementerio",
+            "english": "Graveyard",
+            "sound": "/ˈɡreɪv.jɑːd/"
+        },
+        {
+            "spanish": "Lápida",
+            "english": "Gravestone",
+            "sound": "/ˈɡreɪv.stəʊn/"
+        },
+        {
+            "spanish": "La Parca",
+            "english": "Grim Reaper",
+            "sound": "/ɡrɪm ˈriː.pər/"
+        },
+        {
+            "spanish": "Casa encantada",
+            "english": "Haunted house",
+            "sound": "/ˌhɔːn.tɪd ˈhaʊs/"
+        },
+        {
+            "spanish": "Encantado",
+            "english": "Haunted",
+            "sound": "/ˈhɔːn.tɪd/"
+        },
+        {
+            "spanish": "Horror",
+            "english": "Horror",
+            "sound": "/ˈhɒr.ər/"
+        },
+        {
+            "spanish": "Calabaza tallada",
+            "english": "Jack-o'-lantern",
+            "sound": "/ˌdʒæk.əˈlæn.tən/"
+        },
+        {
+            "spanish": "Linterna",
+            "english": "Lantern",
+            "sound": "/ˈlæn.tən/"
+        },
+        {
+            "spanish": "Magia",
+            "english": "Magic",
+            "sound": "/ˈmædʒ.ɪk/"
+        },
+        {
+            "spanish": "Mansión",
+            "english": "Mansion",
+            "sound": "/ˈmæn.ʃən/"
+        },
+        {
+            "spanish": "Máscara",
+            "english": "Mask",
+            "sound": "/mɑːsk/"
+        },
+        {
+            "spanish": "Mascarada",
+            "english": "Masquerade",
+            "sound": "/ˌmæs.kərˈeɪd/"
+        },
+        {
+            "spanish": "Monstruo",
+            "english": "Monster",
+            "sound": "/ˈmɒn.stər/"
+        },
+        {
+            "spanish": "Momia",
+            "english": "Mummy",
+            "sound": "/ˈmʌm.i/"
+        },
+        {
+            "spanish": "Ogro",
+            "english": "Ogre",
+            "sound": "/ˈəʊ.ɡər/"
+        },
+        {
+            "spanish": "Pociones",
+            "english": "Potions",
+            "sound": "/ˈpəʊ.ʃənz/"
+        },
+        {
+            "spanish": "Calabaza",
+            "english": "Pumpkin",
+            "sound": "/ˈpʌmp.kɪn/"
+        },
+        {
+            "spanish": "Espantapájaros",
+            "english": "Scarecrow",
+            "sound": "/ˈskeə.krəʊ/"
+        },
+        {
+            "spanish": "Que da miedo",
+            "english": "Scary",
+            "sound": "/ˈskeə.ri/"
+        },
+        {
+            "spanish": "Guadaña",
+            "english": "Scythe",
+            "sound": "/saɪð/"
+        },
+        {
+            "spanish": "Esqueleto",
+            "english": "Skeleton",
+            "sound": "/ˈskel.ɪ.tən/"
+        },
+        {
+            "spanish": "Calavera",
+            "english": "Skull",
+            "sound": "/skʌl/"
+        },
+        {
+            "spanish": "Araña",
+            "english": "Spider",
+            "sound": "/ˈspaɪ.dər/"
+        },
+        {
+            "spanish": "Telaraña",
+            "english": "Spider web",
+            "sound": "/ˈspaɪ.də web/"
+        },
+        {
+            "spanish": "Espeluznante",
+            "english": "Spooky",
+            "sound": "/ˈspuː.ki/"
+        },
+        {
+            "spanish": "Sobrenatural",
+            "english": "Supernatural",
+            "sound": "/ˌsuː.pəˈnætʃ.ər.əl/"
+        },
+        {
+            "spanish": "Terror",
+            "english": "Terror",
+            "sound": "/ˈter.ər/"
+        },
+        {
+            "spanish": "Golosina",
+            "english": "Treat",
+            "sound": "/triːt/"
+        },
+        {
+            "spanish": "Travesura",
+            "english": "Trick",
+            "sound": "/trɪk/"
+        },
+        {
+            "spanish": "Truco o trato",
+            "english": "Trick-or-treat",
+            "sound": "/ˌtrɪk.ɔːˈtriːt/"
+        },
+        {
+            "spanish": "Vampiro",
+            "english": "Vampire",
+            "sound": "/ˈvæm.paɪər/"
+        },
+        {
+            "spanish": "Hombre lobo",
+            "english": "Werewolf",
+            "sound": "/ˈweə.wʊlf/"
+        },
+        {
+            "spanish": "Bruja",
+            "english": "Witch",
+            "sound": "/wɪtʃ/"
+        },
+        {
+            "spanish": "Mago",
+            "english": "Wizard",
+            "sound": "/ˈwɪz.əd/"
+        },
+        {
+            "spanish": "Zombi",
+            "english": "Zombie",
+            "sound": "/ˈzɒm.bi/"
+        }
+    ]
+}

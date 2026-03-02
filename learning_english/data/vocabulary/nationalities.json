@@ -1,0 +1,959 @@
+{
+    "meta": {
+        "title": "Nationalities & Adjectives",
+        "subtitle": "Words to describe people and cultures from around the world",
+        "difficulty": "A2"
+    },
+    "items": [
+        {
+            "spanish": "Afgano",
+            "english": "Afghan",
+            "sound": "/ˈæf.ɡæn/"
+        },
+        {
+            "spanish": "Albanés",
+            "english": "Albanian",
+            "sound": "/ælˈbeɪ.ni.ən/"
+        },
+        {
+            "spanish": "Americano",
+            "english": "American",
+            "sound": "/əˈmer.ɪ.kən/"
+        },
+        {
+            "spanish": "Argelino",
+            "english": "Algerian",
+            "sound": "/ælˈdʒɪə.ri.ən/"
+        },
+        {
+            "spanish": "Andorrano",
+            "english": "Andorran",
+            "sound": "/ænˈdɔː.rən/"
+        },
+        {
+            "spanish": "Angoleño",
+            "english": "Angolan",
+            "sound": "/æŋˈɡəʊ.lən/"
+        },
+        {
+            "spanish": "Antiguano",
+            "english": "Antiguan",
+            "sound": "/ænˈtiː.ɡən/"
+        },
+        {
+            "spanish": "Argentino",
+            "english": "Argentine",
+            "sound": "/ˈɑː.dʒən.taɪn/"
+        },
+        {
+            "spanish": "Armenio",
+            "english": "Armenian",
+            "sound": "/ɑːˈmiː.ni.ən/"
+        },
+        {
+            "spanish": "Australiano",
+            "english": "Australian",
+            "sound": "/ɒˈstreɪ.li.ən/"
+        },
+        {
+            "spanish": "Austríaco",
+            "english": "Austrian",
+            "sound": "/ˈɒs.tri.ən/"
+        },
+        {
+            "spanish": "Azerbaiyano",
+            "english": "Azerbaijani",
+            "sound": "/ˌæz.ə.baɪˈdʒɑː.ni/"
+        },
+        {
+            "spanish": "Bahameño",
+            "english": "Bahamian",
+            "sound": "/bəˈheɪ.mi.ən/"
+        },
+        {
+            "spanish": "Bareiní",
+            "english": "Bahraini",
+            "sound": "/bɑːˈreɪ.ni/"
+        },
+        {
+            "spanish": "Bangladesí",
+            "english": "Bangladeshi",
+            "sound": "/ˌbæŋ.ɡləˈdeʃ.i/"
+        },
+        {
+            "spanish": "Barbadense",
+            "english": "Barbadian",
+            "sound": "/bɑːˈbeɪ.di.ən/"
+        },
+        {
+            "spanish": "Bielorruso",
+            "english": "Belarusian",
+            "sound": "/ˌbel.əˈruː.si.ən/"
+        },
+        {
+            "spanish": "Belga",
+            "english": "Belgian",
+            "sound": "/ˈbel.dʒən/"
+        },
+        {
+            "spanish": "Beliceño",
+            "english": "Belizean",
+            "sound": "/bəˈliː.zi.ən/"
+        },
+        {
+            "spanish": "Beninés",
+            "english": "Beninese",
+            "sound": "/ˌben.ɪˈniːz/"
+        },
+        {
+            "spanish": "Butanés",
+            "english": "Bhutanese",
+            "sound": "/ˌbuː.təˈniːz/"
+        },
+        {
+            "spanish": "Boliviano",
+            "english": "Bolivian",
+            "sound": "/bə_lɪv.i.ən/"
+        },
+        {
+            "spanish": "Bosnio",
+            "english": "Bosnian",
+            "sound": "/ˈbɒz.ni.ən/"
+        },
+        {
+            "spanish": "Brasileño",
+            "english": "Brazilian",
+            "sound": "/brəˈzɪl.i.ən/"
+        },
+        {
+            "spanish": "Bruneano",
+            "english": "Bruneian",
+            "sound": "/bruːˈnaɪ.ən/"
+        },
+        {
+            "spanish": "Búlgaro",
+            "english": "Bulgarian",
+            "sound": "/bʌlˈɡeə.ri.ən/"
+        },
+        {
+            "spanish": "Burkinés",
+            "english": "Burkinabé",
+            "sound": "/bɜːˌkiː.nəˈbeɪ/"
+        },
+        {
+            "spanish": "Burundés",
+            "english": "Burundian",
+            "sound": "/bəˈrʊn.di.ən/"
+        },
+        {
+            "spanish": "Camboyano",
+            "english": "Cambodian",
+            "sound": "/kæmˈbəʊ.di.ən/"
+        },
+        {
+            "spanish": "Camerunés",
+            "english": "Cameroonian",
+            "sound": "/ˌkæm.əˈruː.ni.ən/"
+        },
+        {
+            "spanish": "Canadiense",
+            "english": "Canadian",
+            "sound": "/kəˈneɪ.di.ən/"
+        },
+        {
+            "spanish": "Caboverdiano",
+            "english": "Cape Verdean",
+            "sound": "/ˌkeɪp vɜːˈdiː.ən/"
+        },
+        {
+            "spanish": "Centroafricano",
+            "english": "Central African",
+            "sound": "/ˌsen.trəl ˈæf.rɪ.kən/"
+        },
+        {
+            "spanish": "Chadiano",
+            "english": "Chadian",
+            "sound": "/ˈtʃæd.i.ən/"
+        },
+        {
+            "spanish": "Chileno",
+            "english": "Chilean",
+            "sound": "/ˈtʃɪl.i.ən/"
+        },
+        {
+            "spanish": "Chino",
+            "english": "Chinese",
+            "sound": "/ˌtʃaɪˈniːz/"
+        },
+        {
+            "spanish": "Colombiano",
+            "english": "Colombian",
+            "sound": "/kəˈlɒm.bi.ən/"
+        },
+        {
+            "spanish": "Comorense",
+            "english": "Comoran",
+            "sound": "/ˈkɒm.ər.ən/"
+        },
+        {
+            "spanish": "Congoleño",
+            "english": "Congolese",
+            "sound": "/ˌkɒŋ.ɡəˈliːz/"
+        },
+        {
+            "spanish": "Costarricense",
+            "english": "Costa Rican",
+            "sound": "/ˌkɒs.tə ˈriː.kən/"
+        },
+        {
+            "spanish": "Croata",
+            "english": "Croatian",
+            "sound": "/krəʊˈeɪ.ʃən/"
+        },
+        {
+            "spanish": "Cubano",
+            "english": "Cuban",
+            "sound": "/ˈkjuː.bən/"
+        },
+        {
+            "spanish": "Chipriota",
+            "english": "Cypriot",
+            "sound": "/ˈsɪp.ri.ət/"
+        },
+        {
+            "spanish": "Checo",
+            "english": "Czech",
+            "sound": "/tʃek/"
+        },
+        {
+            "spanish": "Danés",
+            "english": "Danish",
+            "sound": "/ˈdeɪ.nɪʃ/"
+        },
+        {
+            "spanish": "Yibutiano",
+            "english": "Djiboutian",
+            "sound": "/dʒɪˈbuː.ʃən/"
+        },
+        {
+            "spanish": "Dominicano",
+            "english": "Dominican",
+            "sound": "/dəˈmɪn.ɪ.kən/"
+        },
+        {
+            "spanish": "Neerlandés",
+            "english": "Dutch",
+            "sound": "/dʌtʃ/"
+        },
+        {
+            "spanish": "Timorense",
+            "english": "East Timorese",
+            "sound": "/ˌiːst ˌtiː.mɔːˈriːz/"
+        },
+        {
+            "spanish": "Ecuatoriano",
+            "english": "Ecuadorean",
+            "sound": "/ˌek.wəˈdɔː.ri.ən/"
+        },
+        {
+            "spanish": "Egipcio",
+            "english": "Egyptian",
+            "sound": "/ɪˈdʒɪp.ʃən/"
+        },
+        {
+            "spanish": "Emiratí",
+            "english": "Emirati",
+            "sound": "/ˌem.ɪˈrɑː.ti/"
+        },
+        {
+            "spanish": "Inglés",
+            "english": "English",
+            "sound": "/ˈɪŋ.ɡlɪʃ/"
+        },
+        {
+            "spanish": "Ecuatoguineano",
+            "english": "Equatorial Guinean",
+            "sound": "/ˌek.wəˌtɔː.ri.əl ˈɡɪn.i.ən/"
+        },
+        {
+            "spanish": "Eritreo",
+            "english": "Eritrean",
+            "sound": "/ˌer.ɪˈtreɪ.ən/"
+        },
+        {
+            "spanish": "Estonio",
+            "english": "Estonian",
+            "sound": "/esˈtəʊ.ni.ən/"
+        },
+        {
+            "spanish": "Etíope",
+            "english": "Ethiopian",
+            "sound": "/ˌiː.θiˈəʊ.pi.ən/"
+        },
+        {
+            "spanish": "Fiyiano",
+            "english": "Fijian",
+            "sound": "/ˈfiː.dʒi.ən/"
+        },
+        {
+            "spanish": "Filipino",
+            "english": "Filipino",
+            "sound": "/ˌfɪl.ɪˈpiː.nəʊ/"
+        },
+        {
+            "spanish": "Finlandés",
+            "english": "Finnish",
+            "sound": "/ˈfɪn.ɪʃ/"
+        },
+        {
+            "spanish": "Francés",
+            "english": "French",
+            "sound": "/frentʃ/"
+        },
+        {
+            "spanish": "Gabonés",
+            "english": "Gabonese",
+            "sound": "/ˌɡæb.əˈniːz/"
+        },
+        {
+            "spanish": "Gambiano",
+            "english": "Gambian",
+            "sound": "/ˈɡæm.bi.ən/"
+        },
+        {
+            "spanish": "Georgiano",
+            "english": "Georgian",
+            "sound": "/ˈdʒɔː.dʒən/"
+        },
+        {
+            "spanish": "Alemán",
+            "english": "German",
+            "sound": "/ˈdʒɜː.mən/"
+        },
+        {
+            "spanish": "Ghanés",
+            "english": "Ghanaian",
+            "sound": "/ɡɑːˈneɪ.ən/"
+        },
+        {
+            "spanish": "Griego",
+            "english": "Greek",
+            "sound": "/ɡriːk/"
+        },
+        {
+            "spanish": "Granadino",
+            "english": "Grenadian",
+            "sound": "/ɡrəˈneɪ.di.ən/"
+        },
+        {
+            "spanish": "Guatemalteco",
+            "english": "Guatemalan",
+            "sound": "/ˌɡwɑː.təˈmɑː.lən/"
+        },
+        {
+            "spanish": "Guineano",
+            "english": "Guinean",
+            "sound": "/ˈɡɪn.i.ən/"
+        },
+        {
+            "spanish": "Guyanés",
+            "english": "Guyanese",
+            "sound": "/ˌɡaɪ.əˈniːz/"
+        },
+        {
+            "spanish": "Haitiano",
+            "english": "Haitian",
+            "sound": "/ˈheɪ.ʃən/"
+        },
+        {
+            "spanish": "Hondureño",
+            "english": "Honduran",
+            "sound": "/hɒnˈdjʊə.rən/"
+        },
+        {
+            "spanish": "Húngaro",
+            "english": "Hungarian",
+            "sound": "/hʌŋˈɡeə.ri.ən/"
+        },
+        {
+            "spanish": "Islandés",
+            "english": "Icelandic",
+            "sound": "/aɪsˈlæn.dɪk/"
+        },
+        {
+            "spanish": "Indio",
+            "english": "Indian",
+            "sound": "/ˈɪn.di.ən/"
+        },
+        {
+            "spanish": "Indonesio",
+            "english": "Indonesian",
+            "sound": "/ˌɪn.dəˈniː.ʒən/"
+        },
+        {
+            "spanish": "Iraní",
+            "english": "Iranian",
+            "sound": "/ɪˈreɪ.ni.ən/"
+        },
+        {
+            "spanish": "Iraquí",
+            "english": "Iraqi",
+            "sound": "/ɪˈrɑː.ki/"
+        },
+        {
+            "spanish": "Irlandés",
+            "english": "Irish",
+            "sound": "/ˈaɪə.rɪʃ/"
+        },
+        {
+            "spanish": "Israelí",
+            "english": "Israeli",
+            "sound": "/ɪzˈreɪ.li/"
+        },
+        {
+            "spanish": "Italiano",
+            "english": "Italian",
+            "sound": "/ɪˈtæl.i.ən/"
+        },
+        {
+            "spanish": "Marfileño",
+            "english": "Ivorian",
+            "sound": "/aɪˈvɔː.ri.ən/"
+        },
+        {
+            "spanish": "Jamaicano",
+            "english": "Jamaican",
+            "sound": "/dʒəˈmeɪ.kən/"
+        },
+        {
+            "spanish": "Japonés",
+            "english": "Japanese",
+            "sound": "/ˌdʒæp.əˈniːz/"
+        },
+        {
+            "spanish": "Jordano",
+            "english": "Jordanian",
+            "sound": "/dʒɔːˈdeɪ.ni.ən/"
+        },
+        {
+            "spanish": "Kazajo",
+            "english": "Kazakh",
+            "sound": "/kəˈzæk/"
+        },
+        {
+            "spanish": "Keniata",
+            "english": "Kenyan",
+            "sound": "/ˈken.jən/"
+        },
+        {
+            "spanish": "Coreano",
+            "english": "Korean",
+            "sound": "/kəˈri.ən/"
+        },
+        {
+            "spanish": "Kosovar",
+            "english": "Kosovar",
+            "sound": "/ˈkɒs.ə.vɑːr/"
+        },
+        {
+            "spanish": "Kuwaití",
+            "english": "Kuwaiti",
+            "sound": "/kuˈweɪ.ti/"
+        },
+        {
+            "spanish": "Kirguís",
+            "english": "Kyrgyz",
+            "sound": "/ˈkɜː.ɡɪz/"
+        },
+        {
+            "spanish": "Laosiano",
+            "english": "Laotian",
+            "sound": "/ˈlaʊ.ʃən/"
+        },
+        {
+            "spanish": "Letón",
+            "english": "Latvian",
+            "sound": "/ˈlæt.vi.ən/"
+        },
+        {
+            "spanish": "Libanés",
+            "english": "Lebanese",
+            "sound": "/ˌleb.əˈniːz/"
+        },
+        {
+            "spanish": "Liberiano",
+            "english": "Liberian",
+            "sound": "/laɪˈbɪə.ri.ən/"
+        },
+        {
+            "spanish": "Libio",
+            "english": "Libyan",
+            "sound": "/ˈlɪb.i.ən/"
+        },
+        {
+            "spanish": "Liechtensteiniano",
+            "english": "Liechtensteiner",
+            "sound": "/ˈlɪk.tən.staɪ.nər/"
+        },
+        {
+            "spanish": "Lituano",
+            "english": "Lithuanian",
+            "sound": "/ˌlɪθ.juˈeɪ.ni.ən/"
+        },
+        {
+            "spanish": "Luxemburgués",
+            "english": "Luxembourger",
+            "sound": "/ˈlʌk.səm.bɜː.ɡər/"
+        },
+        {
+            "spanish": "Macedonio",
+            "english": "Macedonian",
+            "sound": "/ˌmæs.ɪˈdəʊ.ni.ən/"
+        },
+        {
+            "spanish": "Malgache",
+            "english": "Malagasy",
+            "sound": "/ˌmæl.əˈɡæs.i/"
+        },
+        {
+            "spanish": "Malauí",
+            "english": "Malawian",
+            "sound": "/məˈlɑː.wi.ən/"
+        },
+        {
+            "spanish": "Malasio",
+            "english": "Malaysian",
+            "sound": "/məˈleɪ.zi.ən/"
+        },
+        {
+            "spanish": "Maldivo",
+            "english": "Maldivian",
+            "sound": "/mɒlˈdɪv.i.ən/"
+        },
+        {
+            "spanish": "Maliense",
+            "english": "Malian",
+            "sound": "/ˈmɑː.li.ən/"
+        },
+        {
+            "spanish": "Maltés",
+            "english": "Maltese",
+            "sound": "/mɒlˈtiːz/"
+        },
+        {
+            "spanish": "Marshalés",
+            "english": "Marshallese",
+            "sound": "/ˌmɑː.ʃəlˈiːz/"
+        },
+        {
+            "spanish": "Mauritano",
+            "english": "Mauritanian",
+            "sound": "/ˌmɒr.ɪˈteɪ.ni.ən/"
+        },
+        {
+            "spanish": "Mauriciano",
+            "english": "Mauritian",
+            "sound": "/məˈrɪʃ.ən/"
+        },
+        {
+            "spanish": "Mexicano",
+            "english": "Mexican",
+            "sound": "/ˈmek.sɪ.kən/"
+        },
+        {
+            "spanish": "Micronesio",
+            "english": "Micronesian",
+            "sound": "/ˌmaɪ.krəʊˈniː.zi.ən/"
+        },
+        {
+            "spanish": "Moldavo",
+            "english": "Moldovan",
+            "sound": "/mɒlˈdəʊ.vən/"
+        },
+        {
+            "spanish": "Monegasco",
+            "english": "Monegasque",
+            "sound": "/ˌmɒn.ɪˈɡæsk/"
+        },
+        {
+            "spanish": "Mongol",
+            "english": "Mongolian",
+            "sound": "/mɒŋˈɡəʊ.li.ən/"
+        },
+        {
+            "spanish": "Montenegrino",
+            "english": "Montenegrin",
+            "sound": "/ˌmɒn.tɪˈniː.ɡrɪn/"
+        },
+        {
+            "spanish": "Marroquí",
+            "english": "Moroccan",
+            "sound": "/məˈrɒk.ən/"
+        },
+        {
+            "spanish": "Mozambiqueño",
+            "english": "Mozambican",
+            "sound": "/ˌməʊ.zæmˈbiː.kən/"
+        },
+        {
+            "spanish": "Namibio",
+            "english": "Namibian",
+            "sound": "/nəˈmɪb.i.ən/"
+        },
+        {
+            "spanish": "Nauruano",
+            "english": "Nauruan",
+            "sound": "/nɑːˈruː.ən/"
+        },
+        {
+            "spanish": "Nepalí",
+            "english": "Nepalese",
+            "sound": "/ˌnep.əˈliːz/"
+        },
+        {
+            "spanish": "Neozelandés",
+            "english": "New Zealand",
+            "sound": "/ˌnjuː ˈziː.lənd/"
+        },
+        {
+            "spanish": "Nicaragüense",
+            "english": "Nicaraguan",
+            "sound": "/ˌnɪk.əˈræɡ.ju.ən/"
+        },
+        {
+            "spanish": "Nigerino",
+            "english": "Nigerien",
+            "sound": "/niːˈʒɛəriɛn/"
+        },
+        {
+            "spanish": "Nigeriano",
+            "english": "Nigerian",
+            "sound": "/naɪˈdʒɪə.ri.ən/"
+        },
+        {
+            "spanish": "Norcoreano",
+            "english": "North Korean",
+            "sound": "/ˌnɔːθ kəˈri.ən/"
+        },
+        {
+            "spanish": "Noruego",
+            "english": "Norwegian",
+            "sound": "/nɔːˈwiː.dʒən/"
+        },
+        {
+            "spanish": "Omaní",
+            "english": "Omani",
+            "sound": "/əʊˈmɑː.ni/"
+        },
+        {
+            "spanish": "Paquistaní",
+            "english": "Pakistani",
+            "sound": "/ˌpɑː.kɪˈstɑː.ni/"
+        },
+        {
+            "spanish": "Palauano",
+            "english": "Palauan",
+            "sound": "/pəˈlaʊ.ən/"
+        },
+        {
+            "spanish": "Palestino",
+            "english": "Palestinian",
+            "sound": "/ˌpæl.ɪˈstɪn.i.ən/"
+        },
+        {
+            "spanish": "Panameño",
+            "english": "Panamanian",
+            "sound": "/ˌpæn.əˈmeɪ.ni.ən/"
+        },
+        {
+            "spanish": "Papú",
+            "english": "Papua New Guinean",
+            "sound": "/ˌpæp.u.ə njuː ˈɡɪn.i.ən/"
+        },
+        {
+            "spanish": "Paraguayo",
+            "english": "Paraguayan",
+            "sound": "/ˌpær.əˈɡwaɪ.ən/"
+        },
+        {
+            "spanish": "Peruano",
+            "english": "Peruvian",
+            "sound": "/pəˈruː.vi.ən/"
+        },
+        {
+            "spanish": "Filipino",
+            "english": "Philippine",
+            "sound": "/ˈfɪl.ɪ.piːn/"
+        },
+        {
+            "spanish": "Polaco",
+            "english": "Polish",
+            "sound": "/ˈpəʊ.lɪʃ/"
+        },
+        {
+            "spanish": "Portugués",
+            "english": "Portuguese",
+            "sound": "/ˌpɔː.tʃəˈɡiːz/"
+        },
+        {
+            "spanish": "Qatarí",
+            "english": "Qatari",
+            "sound": "/ˈkæt.ɑː.ri/"
+        },
+        {
+            "spanish": "Rumano",
+            "english": "Romanian",
+            "sound": "/rəʊˈmeɪ.ni.ən/"
+        },
+        {
+            "spanish": "Ruso",
+            "english": "Russian",
+            "sound": "/ˈrʌʃ.ən/"
+        },
+        {
+            "spanish": "Ruandés",
+            "english": "Rwandan",
+            "sound": "/ruˈæn.dən/"
+        },
+        {
+            "spanish": "Sancristobaleño",
+            "english": "Kittitian / Nevisian",
+            "sound": "/ˈkɪt.ɪ.ʃən/"
+        },
+        {
+            "spanish": "Luciano",
+            "english": "Saint Lucian",
+            "sound": "/seɪnt ˈluː.ʃən/"
+        },
+        {
+            "spanish": "Sanvicentino",
+            "english": "Saint Vincentian",
+            "sound": "/seɪnt vɪnˈsen.ʃən/"
+        },
+        {
+            "spanish": "Samoano",
+            "english": "Samoan",
+            "sound": "/səˈməʊ.ən/"
+        },
+        {
+            "spanish": "Samarinés",
+            "english": "Sammarinese",
+            "sound": "/ˌsæm.ə.rɪˈniːz/"
+        },
+        {
+            "spanish": "Santotomense",
+            "english": "Sao Tomean",
+            "sound": "/ˌsaʊ təˈmeɪ.ən/"
+        },
+        {
+            "spanish": "Saudí",
+            "english": "Saudi",
+            "sound": "/ˈsaʊ.di/"
+        },
+        {
+            "spanish": "Senegalés",
+            "english": "Senegalese",
+            "sound": "/ˌsen.ɪ.ɡəlˈiːz/"
+        },
+        {
+            "spanish": "Serbio",
+            "english": "Serbian",
+            "sound": "/ˈsɜː.bi.ən/"
+        },
+        {
+            "spanish": "Seychellense",
+            "english": "Seychellois",
+            "sound": "/ˌseɪ.ʃelˈwɑː/"
+        },
+        {
+            "spanish": "Sierraleonés",
+            "english": "Sierra Leonean",
+            "sound": "/siˌer.ə liˈəʊ.ni.ən/"
+        },
+        {
+            "spanish": "Singapurense",
+            "english": "Singaporean",
+            "sound": "/ˌsɪŋ.əˈpɔː.ri.ən/"
+        },
+        {
+            "spanish": "Eslovaco",
+            "english": "Slovak",
+            "sound": "/ˈsləʊ.væk/"
+        },
+        {
+            "spanish": "Esloveno",
+            "english": "Slovenian",
+            "sound": "/sləˈviː.ni.ən/"
+        },
+        {
+            "spanish": "Salomonense",
+            "english": "Solomon Islander",
+            "sound": "/ˈsɒl.ə.mən ˈaɪ.lən.dər/"
+        },
+        {
+            "spanish": "Somalí",
+            "english": "Somali",
+            "sound": "/səˈmɑː.li/"
+        },
+        {
+            "spanish": "Sudafricano",
+            "english": "South African",
+            "sound": "/ˌsaʊθ ˈæf.rɪ.kən/"
+        },
+        {
+            "spanish": "Surcoreano",
+            "english": "South Korean",
+            "sound": "/ˌsaʊθ kəˈri.ən/"
+        },
+        {
+            "spanish": "Sursudanés",
+            "english": "South Sudanese",
+            "sound": "/ˌsaʊθ suː.dəˈniːz/"
+        },
+        {
+            "spanish": "Español",
+            "english": "Spanish",
+            "sound": "/ˈspæn.ɪʃ/"
+        },
+        {
+            "spanish": "Ceilanés",
+            "english": "Sri Lankan",
+            "sound": "/ˌsriː ˈlæŋ.kən/"
+        },
+        {
+            "spanish": "Sudanés",
+            "english": "Sudanese",
+            "sound": "/ˌsuː.dəˈniːz/"
+        },
+        {
+            "spanish": "Surinamés",
+            "english": "Surinamese",
+            "sound": "/ˌsʊər.ɪ.nəˈmiːz/"
+        },
+        {
+            "spanish": "Suazi",
+            "english": "Swazi",
+            "sound": "/ˈswɑː.zi/"
+        },
+        {
+            "spanish": "Sueco",
+            "english": "Swedish",
+            "sound": "/ˈswiː.dɪʃ/"
+        },
+        {
+            "spanish": "Suizo",
+            "english": "Swiss",
+            "sound": "/swɪs/"
+        },
+        {
+            "spanish": "Sirio",
+            "english": "Syrian",
+            "sound": "/ˈsɪr.i.ən/"
+        },
+        {
+            "spanish": "Taiwanes",
+            "english": "Taiwanese",
+            "sound": "/ˌtaɪ.wəˈniːz/"
+        },
+        {
+            "spanish": "Tayiko",
+            "english": "Tajik",
+            "sound": "/ˈtɑː.dʒɪk/"
+        },
+        {
+            "spanish": "Tanzano",
+            "english": "Tanzanian",
+            "sound": "/ˌtæn.zəˈneɪ.ni.ən/"
+        },
+        {
+            "spanish": "Tailandés",
+            "english": "Thai",
+            "sound": "/taɪ/"
+        },
+        {
+            "spanish": "Togolés",
+            "english": "Togolese",
+            "sound": "/ˌtəʊ.ɡəˈliːz/"
+        },
+        {
+            "spanish": "Tongano",
+            "english": "Tongan",
+            "sound": "/ˈtɒŋ.ən/"
+        },
+        {
+            "spanish": "Trinitense",
+            "english": "Trinidadian",
+            "sound": "/ˌtrɪn.ɪˈdeɪ.di.ən/"
+        },
+        {
+            "spanish": "Tunecino",
+            "english": "Tunisian",
+            "sound": "/tjuːˈnɪz.i.ən/"
+        },
+        {
+            "spanish": "Turco",
+            "english": "Turkish",
+            "sound": "/ˈtɜː.kɪʃ/"
+        },
+        {
+            "spanish": "Turcomano",
+            "english": "Turkmen",
+            "sound": "/ˈtɜːk.men/"
+        },
+        {
+            "spanish": "Tuvaluano",
+            "english": "Tuvaluan",
+            "sound": "/ˌtuː.vəˈluː.ən/"
+        },
+        {
+            "spanish": "Ugandés",
+            "english": "Ugandan",
+            "sound": "/juːˈɡæn.dən/"
+        },
+        {
+            "spanish": "Ucraniano",
+            "english": "Ukrainian",
+            "sound": "/juːˈkreɪ.ni.ən/"
+        },
+        {
+            "spanish": "Uruguayo",
+            "english": "Uruguayan",
+            "sound": "/ˌjʊə.rəˈɡwaɪ.ən/"
+        },
+        {
+            "spanish": "Uzbeko",
+            "english": "Uzbek",
+            "sound": "/ˈʊz.bek/"
+        },
+        {
+            "spanish": "Vanuatuense",
+            "english": "Ni-Vanuatu",
+            "sound": "/niːˌvæn.uˈɑː.tuː/"
+        },
+        {
+            "spanish": "Venezolano",
+            "english": "Venezuelan",
+            "sound": "/ˌven.əˈzweɪ.lən/"
+        },
+        {
+            "spanish": "Vietnamita",
+            "english": "Vietnamese",
+            "sound": "/ˌvjet.nəˈmiːz/"
+        },
+        {
+            "spanish": "Yemení",
+            "english": "Yemeni",
+            "sound": "/ˈjem.ə.ni/"
+        },
+        {
+            "spanish": "Zambiano",
+            "english": "Zambian",
+            "sound": "/ˈzæm.bi.ən/"
+        },
+        {
+            "spanish": "Zimbabuense",
+            "english": "Zimbabwean",
+            "sound": "/zɪmˈbɑː.bwi.ən/"
+        }
+    ]
+}

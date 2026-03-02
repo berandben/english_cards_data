@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "title": "Everyday Objects",
+        "subtitle": "Common personal items and accessories",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Bolso",
+            "english": "Bag",
+            "sound": "/bæɡ/"
+        },
+        {
+            "spanish": "Tarjeta bancaria",
+            "english": "Bank card",
+            "sound": "/ˈbæŋk ˌkɑːd/"
+        },
+        {
+            "spanish": "Calendario",
+            "english": "Calendar",
+            "sound": "/ˈkæl.ɪn.dər/"
+        },
+        {
+            "spanish": "Cargador",
+            "english": "Charger",
+            "sound": "/ˈtʃɑː.dʒər/"
+        },
+        {
+            "spanish": "Moneda",
+            "english": "Coin",
+            "sound": "/kɔɪn/"
+        },
+        {
+            "spanish": "Agenda",
+            "english": "Diary",
+            "sound": "/ˈdaɪ.ə.ri/"
+        },
+        {
+            "spanish": "Diccionario",
+            "english": "Dictionary",
+            "sound": "/ˈdɪk.ʃən.ər.i/"
+        },
+        {
+            "spanish": "Auriculares",
+            "english": "Earphones",
+            "sound": "/ˈɪə.fəʊnz/"
+        },
+        {
+            "spanish": "Carpeta",
+            "english": "File",
+            "sound": "/faɪl/"
+        },
+        {
+            "spanish": "Gafas",
+            "english": "Glasses",
+            "sound": "/ˈɡlɑː.sɪz/"
+        },
+        {
+            "spanish": "Auriculares",
+            "english": "Headphones",
+            "sound": "/ˈhed.fəʊnz/"
+        },
+        {
+            "spanish": "Documento de identidad",
+            "english": "Identity card",
+            "sound": "/aɪˈden.tə.ti ˌkɑːd/"
+        },
+        {
+            "spanish": "Llave",
+            "english": "Key",
+            "sound": "/kiː/"
+        },
+        {
+            "spanish": "Lámpara",
+            "english": "Lamp",
+            "sound": "/læmp/"
+        },
+        {
+            "spanish": "Portátil",
+            "english": "Laptop",
+            "sound": "/ˈlæp.tɒp/"
+        },
+        {
+            "spanish": "Revista",
+            "english": "Magazine",
+            "sound": "/ˌmæɡ.əˈziːn/"
+        },
+        {
+            "spanish": "Mascarilla",
+            "english": "Mask",
+            "sound": "/mɑːsk/"
+        },
+        {
+            "spanish": "Periódico",
+            "english": "Newspaper",
+            "sound": "/ˈnjuːzˌpeɪ.pər/"
+        },
+        {
+            "spanish": "Cuaderno",
+            "english": "Notebook",
+            "sound": "/ˈnəʊt.bʊk/"
+        },
+        {
+            "spanish": "Bolígrafo",
+            "english": "Pen",
+            "sound": "/pen/"
+        },
+        {
+            "spanish": "Lápiz",
+            "english": "Pencil",
+            "sound": "/ˈpen.səl/"
+        },
+        {
+            "spanish": "Teléfono",
+            "english": "Phone",
+            "sound": "/fəʊn/"
+        },
+        {
+            "spanish": "Foto",
+            "english": "Photo",
+            "sound": "/ˈfəʊ.təʊ/"
+        },
+        {
+            "spanish": "Papel",
+            "english": "Paper",
+            "sound": "/ˈpeɪ.pər/"
+        },
+        {
+            "spanish": "Monedero",
+            "english": "Purse",
+            "sound": "/pɜːs/"
+        },
+        {
+            "spanish": "Tijeras",
+            "english": "Scissors",
+            "sound": "/ˈsɪz.əz/"
+        },
+        {
+            "spanish": "Gafas de sol",
+            "english": "Sunglasses",
+            "sound": "/ˈsʌnˌɡlɑː.sɪz/"
+        },
+        {
+            "spanish": "Tableta",
+            "english": "Tablet",
+            "sound": "/ˈtæb.lət/"
+        },
+        {
+            "spanish": "Billete",
+            "english": "Ticket",
+            "sound": "/ˈtɪk.ɪt/"
+        },
+        {
+            "spanish": "Pañuelo",
+            "english": "Tissue",
+            "sound": "/ˈtɪʃ.uː/"
+        },
+        {
+            "spanish": "Paraguas",
+            "english": "Umbrella",
+            "sound": "/ʌmˈbrel.ə/"
+        },
+        {
+            "spanish": "Cartera",
+            "english": "Wallet",
+            "sound": "/ˈwɒl.ɪt/"
+        },
+        {
+            "spanish": "Reloj",
+            "english": "Watch",
+            "sound": "/wɒtʃ/"
+        }
+    ]
+}

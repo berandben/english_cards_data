@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "title": "Ordinal Numbers",
+        "subtitle": "Order and sequence in English",
+        "difficulty": "A2"
+    },
+    "items": [
+        {
+            "spanish": "Primero",
+            "english": "First",
+            "sound": "/fɜːst/"
+        },
+        {
+            "spanish": "Segundo",
+            "english": "Second",
+            "sound": "/ˈsek.ənd/"
+        },
+        {
+            "spanish": "Tercero",
+            "english": "Third",
+            "sound": "/θɜːd/"
+        },
+        {
+            "spanish": "Cuarto",
+            "english": "Fourth",
+            "sound": "/fɔːθ/"
+        },
+        {
+            "spanish": "Quinto",
+            "english": "Fifth",
+            "sound": "/fɪfθ/"
+        },
+        {
+            "spanish": "Sexto",
+            "english": "Sixth",
+            "sound": "/sɪksθ/"
+        },
+        {
+            "spanish": "Séptimo",
+            "english": "Seventh",
+            "sound": "/ˈsev.ənθ/"
+        },
+        {
+            "spanish": "Octavo",
+            "english": "Eighth",
+            "sound": "/eɪtθ/"
+        },
+        {
+            "spanish": "Noveno",
+            "english": "Ninth",
+            "sound": "/naɪnθ/"
+        },
+        {
+            "spanish": "Décimo",
+            "english": "Tenth",
+            "sound": "/tenθ/"
+        },
+        {
+            "spanish": "Undécimo",
+            "english": "Eleventh",
+            "sound": "/ɪˈlev.ənθ/"
+        },
+        {
+            "spanish": "Duodécimo",
+            "english": "Twelfth",
+            "sound": "/twelfθ/"
+        },
+        {
+            "spanish": "Decimotercero",
+            "english": "Thirteenth",
+            "sound": "/ˌθɜːˈtiːnθ/"
+        },
+        {
+            "spanish": "Decimocuarto",
+            "english": "Fourteenth",
+            "sound": "/ˌfɔːˈtiːnθ/"
+        },
+        {
+            "spanish": "Decimoquinto",
+            "english": "Fifteenth",
+            "sound": "/ˌfɪfˈtiːnθ/"
+        },
+        {
+            "spanish": "Decimosexto",
+            "english": "Sixteenth",
+            "sound": "/ˌsɪkˈstiːnθ/"
+        },
+        {
+            "spanish": "Decimoséptimo",
+            "english": "Seventeenth",
+            "sound": "/ˌsev.ənˈtiːnθ/"
+        },
+        {
+            "spanish": "Decimoctavo",
+            "english": "Eighteenth",
+            "sound": "/ˌeɪˈtiːnθ/"
+        },
+        {
+            "spanish": "Decimonoveno",
+            "english": "Nineteenth",
+            "sound": "/ˌnaɪnˈtiːnθ/"
+        },
+        {
+            "spanish": "Vigésimo",
+            "english": "Twentieth",
+            "sound": "/ˈtwen.ti.əθ/"
+        },
+        {
+            "spanish": "Trigésimo",
+            "english": "Thirtieth",
+            "sound": "/ˈθɜː.ti.əθ/"
+        },
+        {
+            "spanish": "Cuadragésimo",
+            "english": "Fortieth",
+            "sound": "/ˈfɔː.ti.əθ/"
+        },
+        {
+            "spanish": "Quincuagésimo",
+            "english": "Fiftieth",
+            "sound": "/ˈfɪf.ti.əθ/"
+        },
+        {
+            "spanish": "Sexagésimo",
+            "english": "Sixtieth",
+            "sound": "/ˈsɪk.sti.əθ/"
+        },
+        {
+            "spanish": "Septuagésimo",
+            "english": "Seventieth",
+            "sound": "/ˈsev.ən.ti.əθ/"
+        },
+        {
+            "spanish": "Octogésimo",
+            "english": "Eightieth",
+            "sound": "/ˈeɪ.ti.əθ/"
+        },
+        {
+            "spanish": "Nonagésimo",
+            "english": "Ninetieth",
+            "sound": "/ˈnaɪn.ti.əθ/"
+        },
+        {
+            "spanish": "Centésimo",
+            "english": "One hundredth",
+            "sound": "/wʌn ˈhʌn.drədθ/"
+        }
+    ]
+}

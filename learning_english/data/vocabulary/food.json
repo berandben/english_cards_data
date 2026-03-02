@@ -1,0 +1,354 @@
+{
+    "meta": {
+        "title": "Food and Drinks",
+        "subtitle": "Vocabulary for common meals, fruits, and beverages",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Manzana",
+            "english": "Apple",
+            "sound": "/ˈæp.əl/"
+        },
+        {
+            "spanish": "Plátano",
+            "english": "Banana",
+            "sound": "/bəˈnɑː.nə/"
+        },
+        {
+            "spanish": "Tocino",
+            "english": "Bacon",
+            "sound": "/ˈbeɪ.kən/"
+        },
+        {
+            "spanish": "Carne de res",
+            "english": "Beef",
+            "sound": "/biːf/"
+        },
+        {
+            "spanish": "Cerveza",
+            "english": "Beer",
+            "sound": "/bɪər/"
+        },
+        {
+            "spanish": "Pimiento",
+            "english": "Bell pepper",
+            "sound": "/bel ˈpep.ər/"
+        },
+        {
+            "spanish": "Galleta",
+            "english": "Biscuit",
+            "sound": "/ˈbɪs.kɪt/"
+        },
+        {
+            "spanish": "Arándano azul",
+            "english": "Blueberry",
+            "sound": "/ˈbluː.bər.i/"
+        },
+        {
+            "spanish": "Pan",
+            "english": "Bread",
+            "sound": "/bred/"
+        },
+        {
+            "spanish": "Brócoli",
+            "english": "Broccoli",
+            "sound": "/ˈbrɒk.əl.i/"
+        },
+        {
+            "spanish": "Hamburguesa",
+            "english": "Burger",
+            "sound": "/ˈbɜː.ɡər/"
+        },
+        {
+            "spanish": "Mantequilla",
+            "english": "Butter",
+            "sound": "/ˈbʌt.ər/"
+        },
+        {
+            "spanish": "Pastel",
+            "english": "Cake",
+            "sound": "/keɪk/"
+        },
+        {
+            "spanish": "Caramelo",
+            "english": "Candy",
+            "sound": "/ˈkæn.di/"
+        },
+        {
+            "spanish": "Zanahoria",
+            "english": "Carrot",
+            "sound": "/ˈkær.ət/"
+        },
+        {
+            "spanish": "Coliflor",
+            "english": "Cauliflower",
+            "sound": "/ˈkɒl.ɪ.flaʊər/"
+        },
+        {
+            "spanish": "Cereal",
+            "english": "Cereal",
+            "sound": "/ˈsɪə.ri.əl/"
+        },
+        {
+            "spanish": "Cereza",
+            "english": "Cherry",
+            "sound": "/ˈtʃer.i/"
+        },
+        {
+            "spanish": "Pollo",
+            "english": "Chicken",
+            "sound": "/ˈtʃɪk.ɪn/"
+        },
+        {
+            "spanish": "Chocolate",
+            "english": "Chocolate",
+            "sound": "/ˈtʃɒk.lət/"
+        },
+        {
+            "spanish": "Café",
+            "english": "Coffee",
+            "sound": "/ˈkɒf.i/"
+        },
+        {
+            "spanish": "Galleta",
+            "english": "Cookie",
+            "sound": "/ˈkʊk.i/"
+        },
+        {
+            "spanish": "Maíz",
+            "english": "Corn",
+            "sound": "/kɔːn/"
+        },
+        {
+            "spanish": "Pepino",
+            "english": "Cucumber",
+            "sound": "/ˈkjuː.kʌm.bər/"
+        },
+        {
+            "spanish": "Cordero",
+            "english": "Lamb",
+            "sound": "/læm/"
+        },
+        {
+            "spanish": "Lechuga",
+            "english": "Lettuce",
+            "sound": "/ˈlet.ɪs/"
+        },
+        {
+            "spanish": "Lima",
+            "english": "Lime",
+            "sound": "/laɪm/"
+        },
+        {
+            "spanish": "Mango",
+            "english": "Mango",
+            "sound": "/ˈmæŋ.ɡəʊ/"
+        },
+        {
+            "spanish": "Mayonesa",
+            "english": "Mayonnaise",
+            "sound": "/ˌmeɪ.əˈneɪz/"
+        },
+        {
+            "spanish": "Leche",
+            "english": "Milk",
+            "sound": "/mɪlk/"
+        },
+        {
+            "spanish": "Champiñón",
+            "english": "Mushroom",
+            "sound": "/ˈmʌʃ.ruːm/"
+        },
+        {
+            "spanish": "Mostaza",
+            "english": "Mustard",
+            "sound": "/ˈmʌs.təd/"
+        },
+        {
+            "spanish": "Frutos secos",
+            "english": "Nuts",
+            "sound": "/nʌts/"
+        },
+        {
+            "spanish": "Avena",
+            "english": "Oatmeal",
+            "sound": "/ˈəʊt.miːl/"
+        },
+        {
+            "spanish": "Aceite",
+            "english": "Oil",
+            "sound": "/ɔɪl/"
+        },
+        {
+            "spanish": "Cebolla",
+            "english": "Onion",
+            "sound": "/ˈʌn.jən/"
+        },
+        {
+            "spanish": "Naranja",
+            "english": "Orange",
+            "sound": "/ˈɒr.ɪndʒ/"
+        },
+        {
+            "spanish": "Pasta",
+            "english": "Pasta",
+            "sound": "/ˈpæs.tə/"
+        },
+        {
+            "spanish": "Melocotón",
+            "english": "Peach",
+            "sound": "/piːtʃ/"
+        },
+        {
+            "spanish": "Peras",
+            "english": "Pears",
+            "sound": "/peəz/"
+        },
+        {
+            "spanish": "Guisantes",
+            "english": "Peas",
+            "sound": "/piːz/"
+        },
+        {
+            "spanish": "Pimienta",
+            "english": "Pepper",
+            "sound": "/ˈpep.ər/"
+        },
+        {
+            "spanish": "Piña",
+            "english": "Pineapple",
+            "sound": "/ˈpaɪ.næp.əl/"
+        },
+        {
+            "spanish": "Pizza",
+            "english": "Pizza",
+            "sound": "/ˈpiːt.sə/"
+        },
+        {
+            "spanish": "Cerdo",
+            "english": "Pork",
+            "sound": "/pɔːk/"
+        },
+        {
+            "spanish": "Papa",
+            "english": "Potato",
+            "sound": "/pəˈteɪ.təʊ/"
+        },
+        {
+            "spanish": "Pudín",
+            "english": "Pudding",
+            "sound": "/ˈpʊd.ɪŋ/"
+        },
+        {
+            "spanish": "Frambuesa",
+            "english": "Raspberry",
+            "sound": "/ˈrɑːz.bər.i/"
+        },
+        {
+            "spanish": "Arroz",
+            "english": "Rice",
+            "sound": "/raɪs/"
+        },
+        {
+            "spanish": "Salmón",
+            "english": "Salmon",
+            "sound": "/ˈsæm.ən/"
+        },
+        {
+            "spanish": "Salsa",
+            "english": "Sauce",
+            "sound": "/sɔːs/"
+        },
+        {
+            "spanish": "Salchicha",
+            "english": "Sausage",
+            "sound": "/ˈsɒs.ɪdʒ/"
+        },
+        {
+            "spanish": "Refresco",
+            "english": "Soft drink",
+            "sound": "/sɒft drɪŋk/"
+        },
+        {
+            "spanish": "Sopa",
+            "english": "Soup",
+            "sound": "/suːp/"
+        },
+        {
+            "spanish": "Espagueti",
+            "english": "Spaghetti",
+            "sound": "/spəˈɡet.i/"
+        },
+        {
+            "spanish": "Espinaca",
+            "english": "Spinach",
+            "sound": "/ˈspɪn.ɪtʃ/"
+        },
+        {
+            "spanish": "Fresa",
+            "english": "Strawberry",
+            "sound": "/ˈstrɔː.bər.i/"
+        },
+        {
+            "spanish": "Azúcar",
+            "english": "Sugar",
+            "sound": "/ˈʃʊɡ.ər/"
+        },
+        {
+            "spanish": "Sushi",
+            "english": "Sushi",
+            "sound": "/ˈsuː.ʃi/"
+        },
+        {
+            "spanish": "Tacos",
+            "english": "Tacos",
+            "sound": "/ˈtæk.əʊz/"
+        },
+        {
+            "spanish": "Té",
+            "english": "Tea",
+            "sound": "/tiː/"
+        },
+        {
+            "spanish": "Tomate",
+            "english": "Tomato",
+            "sound": "/təˈmɑː.təʊ/"
+        },
+        {
+            "spanish": "Atún",
+            "english": "Tuna",
+            "sound": "/ˈtjuː.nə/"
+        },
+        {
+            "spanish": "Pavo",
+            "english": "Turkey",
+            "sound": "/ˈtɜː.ki/"
+        },
+        {
+            "spanish": "Vinagre",
+            "english": "Vinegar",
+            "sound": "/ˈvɪn.ɪ.ɡər/"
+        },
+        {
+            "spanish": "Agua",
+            "english": "Water",
+            "sound": "/ˈwɔː.tər/"
+        },
+        {
+            "spanish": "Sandía",
+            "english": "Watermelon",
+            "sound": "/ˈwɔː.təˌmel.ən/"
+        },
+        {
+            "spanish": "Vino",
+            "english": "Wine",
+            "sound": "/waɪn/"
+        },
+        {
+            "spanish": "Yogur",
+            "english": "Yogurt",
+            "sound": "/ˈjɒɡ.ət/"
+        }
+    ]
+}

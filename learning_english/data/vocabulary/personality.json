@@ -1,0 +1,209 @@
+{
+    "meta": {
+        "title": "Personality Adjectives",
+        "subtitle": "Describing character and behavior",
+        "difficulty": "A2-B1"
+    },
+    "items": [
+        {
+            "spanish": "Aventurero",
+            "english": "Adventurous",
+            "sound": "/ədˈvɛn.tʃər.əs/"
+        },
+        {
+            "spanish": "Ambicioso",
+            "english": "Ambitious",
+            "sound": "/æmˈbɪʃ.əs/"
+        },
+        {
+            "spanish": "Altanero",
+            "english": "Arrogant",
+            "sound": "/ˈær.ə.ɡənt/"
+        },
+        {
+            "spanish": "Inteligente",
+            "english": "Clever",
+            "sound": "/ˈklɛv.ər/"
+        },
+        {
+            "spanish": "Frío",
+            "english": "Cold",
+            "sound": "/kəʊld/"
+        },
+        {
+            "spanish": "Seguro de sí mismo",
+            "english": "Confident",
+            "sound": "/ˈkɒn.fɪ.dənt/"
+        },
+        {
+            "spanish": "Creativo",
+            "english": "Creative",
+            "sound": "/kriˈeɪ.tɪv/"
+        },
+        {
+            "spanish": "Extrovertido",
+            "english": "Extrovert",
+            "sound": "/ˈɛk.strə.vɜːt/"
+        },
+        {
+            "spanish": "Amigable",
+            "english": "Friendly",
+            "sound": "/ˈfrɛnd.li/"
+        },
+        {
+            "spanish": "Divertido",
+            "english": "Funny",
+            "sound": "/ˈfʌn.i/"
+        },
+        {
+            "spanish": "Generoso",
+            "english": "Generous",
+            "sound": "/ˈdʒɛn.ər.əs/"
+        },
+        {
+            "spanish": "Trabajador",
+            "english": "Hard-working",
+            "sound": "/ˌhɑːd ˈwɜː.kɪŋ/"
+        },
+        {
+            "spanish": "Honesto",
+            "english": "Honest",
+            "sound": "/ˈɒn.ɪst/"
+        },
+        {
+            "spanish": "Humilde",
+            "english": "Humble",
+            "sound": "/ˈhʌm.bəl/"
+        },
+        {
+            "spanish": "Interesante",
+            "english": "Interesting",
+            "sound": "/ˈɪn.trəs.tɪŋ/"
+        },
+        {
+            "spanish": "Introvertido",
+            "english": "Introvert",
+            "sound": "/ˈɪn.trə.vɜːt/"
+        },
+        {
+            "spanish": "Amable",
+            "english": "Kind",
+            "sound": "/kaɪnd/"
+        },
+        {
+            "spanish": "Perezoso",
+            "english": "Lazy",
+            "sound": "/ˈleɪ.zi/"
+        },
+        {
+            "spanish": "Tacaño/Malo",
+            "english": "Mean",
+            "sound": "/miːn/"
+        },
+        {
+            "spanish": "Entrometido",
+            "english": "Nosy",
+            "sound": "/ˈnəʊ.zi/"
+        },
+        {
+            "spanish": "Optimista",
+            "english": "Optimistic",
+            "sound": "/ˌɒp.tɪˈmɪs.tɪk/"
+        },
+        {
+            "spanish": "Pesimista",
+            "english": "Pessimistic",
+            "sound": "/ˌpes.ɪˈmɪs.tɪk/"
+        },
+        {
+            "spanish": "Educado",
+            "english": "Polite",
+            "sound": "/pəˈlaɪt/"
+        },
+        {
+            "spanish": "Callado",
+            "english": "Quiet",
+            "sound": "/ˈkwaɪ.ət/"
+        },
+        {
+            "spanish": "Reservado",
+            "english": "Reserved",
+            "sound": "/rɪˈzɜːvd/"
+        },
+        {
+            "spanish": "Responsable",
+            "english": "Responsible",
+            "sound": "/rɪˈspɒn.sə.bəl/"
+        },
+        {
+            "spanish": "Grosero",
+            "english": "Rude",
+            "sound": "/ruːd/"
+        },
+        {
+            "spanish": "Egoísta",
+            "english": "Selfish",
+            "sound": "/ˈsɛl.fɪʃ/"
+        },
+        {
+            "spanish": "Sensible",
+            "english": "Sensitive",
+            "sound": "/ˈsen.sɪ.tɪv/"
+        },
+        {
+            "spanish": "Serio",
+            "english": "Serious",
+            "sound": "/ˈsɪə.ri.əs/"
+        },
+        {
+            "spanish": "Tímido",
+            "english": "Shy",
+            "sound": "/ʃaɪ/"
+        },
+        {
+            "spanish": "Sociable",
+            "english": "Sociable",
+            "sound": "/ˈsəʊ.ʃə.bəl/"
+        },
+        {
+            "spanish": "Tacaño",
+            "english": "Stingy",
+            "sound": "/ˈstɪn.dʒi/"
+        },
+        {
+            "spanish": "Hablador",
+            "english": "Talkative",
+            "sound": "/ˈtɔː.kə.tɪv/"
+        },
+        {
+            "spanish": "Tímido (falta de valor)",
+            "english": "Timid",
+            "sound": "/ˈtɪm.ɪd/"
+        },
+        {
+            "spanish": "Confiable",
+            "english": "Trustworthy",
+            "sound": "/ˈtrʌstˌwɜː.ði/"
+        },
+        {
+            "spanish": "Antipático",
+            "english": "Unfriendly",
+            "sound": "/ʌnˈfrɛnd.li/"
+        },
+        {
+            "spanish": "Cálido",
+            "english": "Warm",
+            "sound": "/wɔːm/"
+        },
+        {
+            "spanish": "Bien vestido",
+            "english": "Well-dressed",
+            "sound": "/ˌwel ˈdrɛst/"
+        },
+        {
+            "spanish": "Joven",
+            "english": "Young",
+            "sound": "/jʌŋ/"
+        }
+    ]
+}

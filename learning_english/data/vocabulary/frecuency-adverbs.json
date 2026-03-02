@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "title": "Adverbs of Frequency",
+        "subtitle": "Vocabulary for describing how often things happen",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Siempre",
+            "english": "Always",
+            "sound": "/ˈɔːl.weɪz/"
+        },
+        {
+            "spanish": "Usualmente",
+            "english": "Usually",
+            "sound": "/ˈjuː.ʒu.ə.li/"
+        },
+        {
+            "spanish": "A menudo",
+            "english": "Often",
+            "sound": "/ˈɒf.ən/"
+        },
+        {
+            "spanish": "Frecuentemente",
+            "english": "Frequently",
+            "sound": "/ˈfriː.kwənt.li/"
+        },
+        {
+            "spanish": "A veces",
+            "english": "Sometimes",
+            "sound": "/ˈsʌm.taɪmz/"
+        },
+        {
+            "spanish": "Ocasionalmente",
+            "english": "Occasionally",
+            "sound": "/əˈkeɪ.ʒən.əl.i/"
+        },
+        {
+            "spanish": "Casi nunca",
+            "english": "Seldom",
+            "sound": "/ˈsel.dəm/"
+        },
+        {
+            "spanish": "Raramente",
+            "english": "Rarely",
+            "sound": "/ˈreə.li/"
+        },
+        {
+            "spanish": "Casi nunca",
+            "english": "Hardly ever",
+            "sound": "/ˈhɑːd.li ˈev.ər/"
+        },
+        {
+            "spanish": "Nunca",
+            "english": "Never",
+            "sound": "/ˈnev.ər/"
+        },
+        {
+            "spanish": "Cada",
+            "english": "Every",
+            "sound": "/ˈev.ri/"
+        },
+        {
+            "spanish": "Una vez",
+            "english": "Once",
+            "sound": "/wʌns/"
+        },
+        {
+            "spanish": "Dos veces",
+            "english": "Twice",
+            "sound": "/twaɪs/"
+        },
+        {
+            "spanish": "Tres veces",
+            "english": "Three times",
+            "sound": "/θriː taɪmz/"
+        },
+        {
+            "spanish": "Cuatro veces",
+            "english": "Four times",
+            "sound": "/fɔːr taɪmz/"
+        },
+        {
+            "spanish": "Cinco veces",
+            "english": "Five times",
+            "sound": "/faɪv taɪmz/"
+        },
+        {
+            "spanish": "Varias veces",
+            "english": "Several times",
+            "sound": "/ˈsev.ər.əl taɪmz/"
+        },
+        {
+            "spanish": "Muchas veces",
+            "english": "Many times",
+            "sound": "/ˈmen.i taɪmz/"
+        },
+        {
+            "spanish": "Una vez cada 2 días",
+            "english": "Once every 2 days",
+            "sound": "/wʌns ˈev.ri tuː deɪz/"
+        }
+    ]
+}

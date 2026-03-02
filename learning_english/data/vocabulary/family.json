@@ -1,0 +1,289 @@
+{
+    "meta": {
+        "title": "Family Members",
+        "subtitle": "Vocabulary for describing relatives and family ties",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Tía",
+            "english": "Aunt",
+            "sound": "/ɑːnt/"
+        },
+        {
+            "spanish": "Hermano",
+            "english": "Brother",
+            "sound": "/ˈbrʌð.ər/"
+        },
+        {
+            "spanish": "Cuñado",
+            "english": "Brother-in-law",
+            "sound": "/ˈbrʌð.ər.ɪn.lɔː/"
+        },
+        {
+            "spanish": "Hijos",
+            "english": "Children",
+            "sound": "/ˈtʃɪl.drən/"
+        },
+        {
+            "spanish": "Primo/Prima",
+            "english": "Cousin",
+            "sound": "/ˈkʌz.ən/"
+        },
+        {
+            "spanish": "Papá",
+            "english": "Dad",
+            "sound": "/dæd/"
+        },
+        {
+            "spanish": "Hija",
+            "english": "Daughter",
+            "sound": "/ˈdɔː.tər/"
+        },
+        {
+            "spanish": "Nuera",
+            "english": "Daughter-in-law",
+            "sound": "/ˈdɔː.tər.ɪn.lɔː/"
+        },
+        {
+            "spanish": "Padre",
+            "english": "Father",
+            "sound": "/ˈfɑː.ðər/"
+        },
+        {
+            "spanish": "Suegro",
+            "english": "Father-in-law",
+            "sound": "/ˈfɑː.ðər.ɪn.lɔː/"
+        },
+        {
+            "spanish": "Ahijada",
+            "english": "Goddaughter",
+            "sound": "/ˈɡɒd.dɔː.tər/"
+        },
+        {
+            "spanish": "Padrino",
+            "english": "Godfather",
+            "sound": "/ˈɡɒd.fɑː.ðər/"
+        },
+        {
+            "spanish": "Madrina",
+            "english": "Godmother",
+            "sound": "/ˈɡɒd.mʌð.ər/"
+        },
+        {
+            "spanish": "Ahijado",
+            "english": "Godson",
+            "sound": "/ˈɡɒd.sʌn/"
+        },
+        {
+            "spanish": "Nietos",
+            "english": "Grandchildren",
+            "sound": "/ˈɡræn.tʃɪl.drən/"
+        },
+        {
+            "spanish": "Nieta",
+            "english": "Granddaughter",
+            "sound": "/ˈɡræn.dɔː.tər/"
+        },
+        {
+            "spanish": "Abuelo",
+            "english": "Grandfather",
+            "sound": "/ˈɡræn.fɑː.ðər/"
+        },
+        {
+            "spanish": "Nieto",
+            "english": "Grandson",
+            "sound": "/ˈɡræn.sʌn/"
+        },
+        {
+            "spanish": "Abuela",
+            "english": "Grandmother",
+            "sound": "/ˈɡræn.mʌð.ər/"
+        },
+        {
+            "spanish": "Abuelos",
+            "english": "Grandparents",
+            "sound": "/ˈɡræn.peə.rənts/"
+        },
+        {
+            "spanish": "Abuelito",
+            "english": "Grandpa",
+            "sound": "/ˈɡræn.pɑː/"
+        },
+        {
+            "spanish": "Abuelita",
+            "english": "Granny",
+            "sound": "/ˈɡræn.i/"
+        },
+        {
+            "spanish": "Tía abuela",
+            "english": "Great-aunt",
+            "sound": "/ˌɡreɪtˈɑːnt/"
+        },
+        {
+            "spanish": "Bisnieta",
+            "english": "Great-granddaughter",
+            "sound": "/ˌɡreɪtˈɡræn.dɔː.tər/"
+        },
+        {
+            "spanish": "Bisabuelo",
+            "english": "Great-grandfather",
+            "sound": "/ˌɡreɪtˈɡræn.fɑː.ðər/"
+        },
+        {
+            "spanish": "Bisabuela",
+            "english": "Great-grandmother",
+            "sound": "/ˌɡreɪtˈɡræn.mʌð.ər/"
+        },
+        {
+            "spanish": "Bisnieto",
+            "english": "Great-grandson",
+            "sound": "/ˌɡreɪtˈɡræn.sʌn/"
+        },
+        {
+            "spanish": "Tío abuelo",
+            "english": "Great-uncle",
+            "sound": "/ˌɡreɪtˈʌŋ.kəl/"
+        },
+        {
+            "spanish": "Medio hermano",
+            "english": "Half-brother",
+            "sound": "/ˈhɑːf.brʌð.ər/"
+        },
+        {
+            "spanish": "Media hermana",
+            "english": "Half-sister",
+            "sound": "/ˈhɑːf.sɪs.tər/"
+        },
+        {
+            "spanish": "Marido",
+            "english": "Husband",
+            "sound": "/ˈhʌz.bənd/"
+        },
+        {
+            "spanish": "Niños",
+            "english": "Kids",
+            "sound": "/kɪdz/"
+        },
+        {
+            "spanish": "Mi señora",
+            "english": "Missus",
+            "sound": "/ˈmɪs.ɪz/"
+        },
+        {
+            "spanish": "Madre",
+            "english": "Mother",
+            "sound": "/ˈmʌð.ər/"
+        },
+        {
+            "spanish": "Suegra",
+            "english": "Mother-in-law",
+            "sound": "/ˈmʌð.ər.ɪn.lɔː/"
+        },
+        {
+            "spanish": "Mamá",
+            "english": "Mum",
+            "sound": "/mʌm/"
+        },
+        {
+            "spanish": "Sobrino",
+            "english": "Nephew",
+            "sound": "/ˈnef.juː/"
+        },
+        {
+            "spanish": "Sobrina",
+            "english": "Niece",
+            "sound": "/niːs/"
+        },
+        {
+            "spanish": "Mi viejo",
+            "english": "Old man",
+            "sound": "/əʊld mæn/"
+        },
+        {
+            "spanish": "Padres",
+            "english": "Parents",
+            "sound": "/ˈpeə.rənts/"
+        },
+        {
+            "spanish": "Suegros",
+            "english": "Parents-in-law",
+            "sound": "/ˈpeə.rənts.ɪn.lɔː/"
+        },
+        {
+            "spanish": "Pareja",
+            "english": "Partner",
+            "sound": "/ˈpɑːt.nər/"
+        },
+        {
+            "spanish": "Tío",
+            "english": "Uncle",
+            "sound": "/ˈʌŋ.kəl/"
+        },
+        {
+            "spanish": "Hermanos",
+            "english": "Siblings",
+            "sound": "/ˈsɪb.lɪŋz/"
+        },
+        {
+            "spanish": "Hermana",
+            "english": "Sister",
+            "sound": "/ˈsɪs.tər/"
+        },
+        {
+            "spanish": "Cuñada",
+            "english": "Sister-in-law",
+            "sound": "/ˈsɪs.tər.ɪn.lɔː/"
+        },
+        {
+            "spanish": "Hijo",
+            "english": "Son",
+            "sound": "/sʌn/"
+        },
+        {
+            "spanish": "Yerno",
+            "english": "Son-in-law",
+            "sound": "/ˈsʌn.ɪn.lɔː/"
+        },
+        {
+            "spanish": "Cónyuge",
+            "english": "Spouse",
+            "sound": "/spaʊs/"
+        },
+        {
+            "spanish": "Hermanastro",
+            "english": "Stepbrother",
+            "sound": "/ˈstepˌbrʌð.ər/"
+        },
+        {
+            "spanish": "Hijastra",
+            "english": "Stepdaughter",
+            "sound": "/ˈstepˌdɔː.tər/"
+        },
+        {
+            "spanish": "Padrastro",
+            "english": "Stepfather",
+            "sound": "/ˈstepˌfɑː.ðər/"
+        },
+        {
+            "spanish": "Madrastra",
+            "english": "Stepmother",
+            "sound": "/ˈstepˌmʌð.ər/"
+        },
+        {
+            "spanish": "Hermanastra",
+            "english": "Stepsister",
+            "sound": "/ˈstepˌsɪs.tər/"
+        },
+        {
+            "spanish": "Hijastro",
+            "english": "Stepson",
+            "sound": "/ˈstep.sʌn/"
+        },
+        {
+            "spanish": "Esposa",
+            "english": "Wife",
+            "sound": "/waɪf/"
+        }
+    ]
+}
