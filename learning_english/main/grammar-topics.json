@@ -35,6 +35,16 @@
             "tags": []
         },
         {
+            "id": "be-going-to",
+            "title": "Be Going To",
+            "subtitle": "Intentions & Evidence",
+            "icon": "💡",
+            "difficulty": "",
+            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/be-going-to.json",
+            "href": "grammar.html?topic=be-going-to",
+            "tags": []
+        },
+        {
             "id": "verb-patterns",
             "title": "Verb patterns",
             "subtitle": "Structures that follow verbs",

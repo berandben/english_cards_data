@@ -1,0 +1,191 @@
+{
+    "slug": "be-going-to",
+    "meta": {
+        "title": "Be Going To",
+        "subtitle": "Intentions & Evidence",
+        "difficulty": "A2",
+        "tags": [],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-1772468342527",
+            "title": "When to use",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "It is used to talk about the future, specifically when we focus on intentions or predictions based on evidence",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "paragraph",
+                    "label": "Future Plans & Intentions",
+                    "content": "Use it for things you have already decided to do before the moment of speaking",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "quote",
+                    "label": "",
+                    "content": "@_They 're going to get married next summer.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "quote",
+                    "label": "",
+                    "content": "@_I'm going to learn French next year.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "paragraph",
+                    "label": "Predictions with Present Evidence",
+                    "content": "Use it when you can see or feel that something is definitely about to happen",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "quote",
+                    "label": "",
+                    "content": "@_Look at those black clouds! It's going to rain",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "quote",
+                    "label": "",
+                    "content": "@_She is doing very well in the race. She 's going to win!",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-1772468565545",
+            "title": "Structure",
+            "type": "formulas",
+            "blocks": [
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Subject + am/is/are + going to + base verb",
+                        "I am going to travel to London"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Subject + am/is/are + not + going to + base verb",
+                        "They aren't going to play today"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "",
+                    "content": "",
+                    "items": [
+                        "Am/Is/Are + subject + going to + base verb?",
+                        "Is she going to call you later?"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-1772469199151",
+            "title": "Be Going To VS Present Continuous",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Feature",
+                        "Be Going To",
+                        "Present Continuous"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Regular Verbs - /t/ Sound",
+                            "items": [
+                                [
+                                    "Focus",
+                                    "An intention or plan inside your head",
+                                    "A confirmed arrangement with others"
+                                ],
+                                [
+                                    "Certainty",
+                                    "High, but details might be missing",
+                                    "Very high; it's \"in the diary.\""
+                                ],
+                                [
+                                    "",
+                                    "I'm going to visit my grandma. (I intend to, but I haven't called her yet)",
+                                    "I'm visiting my grandma at 5 PM. (We already agreed on the time)"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
