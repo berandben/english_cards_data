@@ -1,15 +1,6 @@
 {
     "topics": [
         {
-            "id": "physical-appearance",
-            "title": "Physical Appearance",
-            "subtitle": "Words to describe how people look: height, build, hair, and more.",
-            "icon": "person",
-            "difficulty": "A1-A2",
-            "href": "vocabulary.php?topic=physical-appearance",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/physical-appearance.json"
-        },
-        {
             "id": "adjectives",
             "title": "Adjectives",
             "subtitle": "Common descriptive adjectives used in everyday English.",
@@ -28,6 +19,15 @@
             "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/cardinal-numbers.json"
         },
         {
+            "id": "wear",
+            "title": "Clothing & Wear",
+            "subtitle": "Vocabulary for clothes, accessories, and what we wear.",
+            "icon": "checkroom",
+            "difficulty": "A1",
+            "href": "vocabulary.php?topic=wear",
+            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/wear.json"
+        },
+        {
             "id": "colours",
             "title": "Colours",
             "subtitle": "Essential colour words in English, from basic to advanced shades.",
@@ -44,15 +44,6 @@
             "difficulty": "A1",
             "href": "vocabulary.php?topic=days-of-week",
             "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/days-of-week.json"
-        },
-        {
-            "id": "movement-prepositions",
-            "title": "Movement Prepositions",
-            "subtitle": "Prepositions of movement and direction: to, from, into, through, and more.",
-            "icon": "directions",
-            "difficulty": "A1-A2",
-            "href": "vocabulary.php?topic=movement-prepositions",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/movement-prepositions.json"
         },
         {
             "id": "emotional",
@@ -100,6 +91,15 @@
             "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/halloween.json"
         },
         {
+            "id": "movement-prepositions",
+            "title": "Movement Prepositions",
+            "subtitle": "Prepositions of movement and direction: to, from, into, through, and more.",
+            "icon": "directions",
+            "difficulty": "A1-A2",
+            "href": "vocabulary.php?topic=movement-prepositions",
+            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/movement-prepositions.json"
+        },
+        {
             "id": "nationalities",
             "title": "Nationalities",
             "subtitle": "Countries and nationalities from around the world.",
@@ -127,6 +127,15 @@
             "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/personality.json"
         },
         {
+            "id": "physical-appearance",
+            "title": "Physical Appearance",
+            "subtitle": "Words to describe how people look: height, build, hair, and more.",
+            "icon": "person",
+            "difficulty": "A1-A2",
+            "href": "vocabulary.php?topic=physical-appearance",
+            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/physical-appearance.json"
+        },
+        {
             "id": "place-prepositions",
             "title": "Place Prepositions",
             "subtitle": "Prepositions of place: in, on, at, under, between, and more.",
@@ -143,15 +152,6 @@
             "difficulty": "A1",
             "href": "vocabulary.php?topic=things",
             "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/things.json"
-        },
-        {
-            "id": "wear",
-            "title": "Clothing & Wear",
-            "subtitle": "Vocabulary for clothes, accessories, and what we wear.",
-            "icon": "checkroom",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=wear",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/wear.json"
         }
     ]
 }
