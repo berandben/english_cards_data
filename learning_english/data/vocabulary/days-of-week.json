@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "title": "Days of the Week",
+        "subtitle": "Names of the days in English.",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Lunes",
+            "english": "Monday",
+            "sound": "/ˈmʌn.deɪ/"
+        },
+        {
+            "spanish": "Martes",
+            "english": "Tuesday",
+            "sound": "/ˈtjuːz.deɪ/"
+        },
+        {
+            "spanish": "Miércoles",
+            "english": "Wednesday",
+            "sound": "/ˈwenz.deɪ/"
+        },
+        {
+            "spanish": "Jueves",
+            "english": "Thursday",
+            "sound": "/ˈθɜːz.deɪ/"
+        },
+        {
+            "spanish": "Viernes",
+            "english": "Friday",
+            "sound": "/ˈfraɪ.deɪ/"
+        },
+        {
+            "spanish": "Sábado",
+            "english": "Saturday",
+            "sound": "/ˈsæt.ə.deɪ/"
+        },
+        {
+            "spanish": "Domingo",
+            "english": "Sunday",
+            "sound": "/ˈsʌn.deɪ/"
+        }
+    ]
+}

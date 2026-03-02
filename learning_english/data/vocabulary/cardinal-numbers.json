@@ -1,0 +1,199 @@
+{
+    "meta": {
+        "title": "Cardinal Numbers",
+        "subtitle": "Basic numbers in English",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Cero",
+            "english": "Zero",
+            "sound": "/ˈzɪə.rəʊ/"
+        },
+        {
+            "spanish": "Uno",
+            "english": "One",
+            "sound": "/wʌn/"
+        },
+        {
+            "spanish": "Dos",
+            "english": "Two",
+            "sound": "/tuː/"
+        },
+        {
+            "spanish": "Tres",
+            "english": "Three",
+            "sound": "/θriː/"
+        },
+        {
+            "spanish": "Cuatro",
+            "english": "Four",
+            "sound": "/fɔːr/"
+        },
+        {
+            "spanish": "Cinco",
+            "english": "Five",
+            "sound": "/faɪv/"
+        },
+        {
+            "spanish": "Seis",
+            "english": "Six",
+            "sound": "/sɪks/"
+        },
+        {
+            "spanish": "Siete",
+            "english": "Seven",
+            "sound": "/ˈsev.ən/"
+        },
+        {
+            "spanish": "Ocho",
+            "english": "Eight",
+            "sound": "/eɪt/"
+        },
+        {
+            "spanish": "Nueve",
+            "english": "Nine",
+            "sound": "/naɪn/"
+        },
+        {
+            "spanish": "Diez",
+            "english": "Ten",
+            "sound": "/ten/"
+        },
+        {
+            "spanish": "Once",
+            "english": "Eleven",
+            "sound": "/ɪˈlev.ən/"
+        },
+        {
+            "spanish": "Doce",
+            "english": "Twelve",
+            "sound": "/twelv/"
+        },
+        {
+            "spanish": "Trece",
+            "english": "Thirteen",
+            "sound": "/ˌθɜːˈtiːn/"
+        },
+        {
+            "spanish": "Catorce",
+            "english": "Fourteen",
+            "sound": "/ˌfɔːˈtiːn/"
+        },
+        {
+            "spanish": "Quince",
+            "english": "Fifteen",
+            "sound": "/ˌfɪfˈtiːn/"
+        },
+        {
+            "spanish": "Dieciséis",
+            "english": "Sixteen",
+            "sound": "/ˌsɪkˈstiːn/"
+        },
+        {
+            "spanish": "Diecisiete",
+            "english": "Seventeen",
+            "sound": "/ˌsev.ənˈtiːn/"
+        },
+        {
+            "spanish": "Dieciocho",
+            "english": "Eighteen",
+            "sound": "/ˌeɪˈtiːn/"
+        },
+        {
+            "spanish": "Diecinueve",
+            "english": "Nineteen",
+            "sound": "/ˌnaɪnˈtiːn/"
+        },
+        {
+            "spanish": "Veinte",
+            "english": "Twenty",
+            "sound": "/ˈtwen.ti/"
+        },
+        {
+            "spanish": "Veintiuno",
+            "english": "Twenty-one",
+            "sound": "/ˌtwen.tiˈwʌn/"
+        },
+        {
+            "spanish": "Treinta",
+            "english": "Thirty",
+            "sound": "/ˈθɜː.ti/"
+        },
+        {
+            "spanish": "Treinta y dos",
+            "english": "Thirty-two",
+            "sound": "/ˌθɜː.tiˈtuː/"
+        },
+        {
+            "spanish": "Cuarenta",
+            "english": "Forty",
+            "sound": "/ˈfɔː.ti/"
+        },
+        {
+            "spanish": "Cuarenta y cinco",
+            "english": "Forty-five",
+            "sound": "/ˌfɔː.tiˈfaɪv/"
+        },
+        {
+            "spanish": "Cincuenta",
+            "english": "Fifty",
+            "sound": "/ˈfɪf.ti/"
+        },
+        {
+            "spanish": "Sesenta",
+            "english": "Sixty",
+            "sound": "/ˈsɪk.sti/"
+        },
+        {
+            "spanish": "Setenta",
+            "english": "Seventy",
+            "sound": "/ˈsev.ən.ti/"
+        },
+        {
+            "spanish": "Ochenta",
+            "english": "Eighty",
+            "sound": "/ˈeɪ.ti/"
+        },
+        {
+            "spanish": "Noventa",
+            "english": "Ninety",
+            "sound": "/ˈnaɪn.ti/"
+        },
+        {
+            "spanish": "Noventa y nueve",
+            "english": "Ninety-nine",
+            "sound": "/ˌnaɪn.tiˈnaɪn/"
+        },
+        {
+            "spanish": "Cien",
+            "english": "One hundred",
+            "sound": "/wʌn ˈhʌn.drəd/"
+        },
+        {
+            "spanish": "Ciento veinticinco",
+            "english": "One hundred and twenty-five",
+            "sound": "/wʌn ˌhʌn.drəd ənd ˌtwen.tiˈfaɪv/"
+        },
+        {
+            "spanish": "Mil",
+            "english": "One thousand",
+            "sound": "/wʌn ˈθaʊ.zənd/"
+        },
+        {
+            "spanish": "Dos mil cuatrocientos cincuenta",
+            "english": "Two thousand, four hundred and fifty",
+            "sound": "/tuː ˌθaʊ.zənd fɔːr ˌhʌn.drəd ənd ˈfɪf.ti/"
+        },
+        {
+            "spanish": "Un millón",
+            "english": "One million",
+            "sound": "/wʌn ˈmɪl.jən/"
+        },
+        {
+            "spanish": "Mil millones",
+            "english": "One billion",
+            "sound": "/wʌn ˈbɪl.jən/"
+        }
+    ]
+}

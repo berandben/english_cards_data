@@ -1,0 +1,239 @@
+{
+    "meta": {
+        "title": "Physical Appearance",
+        "subtitle": "Vocabulary for describing people",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Estatura media",
+            "english": "Average height",
+            "sound": "/ˈæv.ər.ɪdʒ haɪt/"
+        },
+        {
+            "spanish": "Atlético",
+            "english": "Athletic",
+            "sound": "/æθˈlet.ɪk/"
+        },
+        {
+            "spanish": "Calvo",
+            "english": "Bald",
+            "sound": "/bɔːld/"
+        },
+        {
+            "spanish": "Barba",
+            "english": "Beard",
+            "sound": "/bɪəd/"
+        },
+        {
+            "spanish": "Negro",
+            "english": "Black",
+            "sound": "/blæk/"
+        },
+        {
+            "spanish": "Rubio",
+            "english": "Blonde",
+            "sound": "/blɒnd/"
+        },
+        {
+            "spanish": "Trenzas",
+            "english": "Braids",
+            "sound": "/breɪdz/"
+        },
+        {
+            "spanish": "Castaño",
+            "english": "Brunette",
+            "sound": "/bruːˈnet/"
+        },
+        {
+            "spanish": "Afeitado al ras",
+            "english": "Clean-shaven",
+            "sound": "/kliːn ˈʃeɪ.vən/"
+        },
+        {
+            "spanish": "Rizado",
+            "english": "Curly",
+            "sound": "/ˈkɜː.li/"
+        },
+        {
+            "spanish": "Hoyuelos",
+            "english": "Dimples",
+            "sound": "/ˈdɪm.pəlz/"
+        },
+        {
+            "spanish": "Teñido",
+            "english": "Dyed",
+            "sound": "/daɪd/"
+        },
+        {
+            "spanish": "Anciano",
+            "english": "Elderly",
+            "sound": "/ˈel.də.li/"
+        },
+        {
+            "spanish": "Pecas",
+            "english": "Freckles",
+            "sound": "/ˈfrek.əlz/"
+        },
+        {
+            "spanish": "Encrespado",
+            "english": "Frizzy",
+            "sound": "/ˈfrɪz.i/"
+        },
+        {
+            "spanish": "Pelirrojo",
+            "english": "Ginger",
+            "sound": "/ˈdʒɪn.dʒər/"
+        },
+        {
+            "spanish": "Perilla",
+            "english": "Goatee",
+            "sound": "/ɡəʊˈtiː/"
+        },
+        {
+            "spanish": "Gris",
+            "english": "Grey",
+            "sound": "/ɡreɪ/"
+        },
+        {
+            "spanish": "Mechas",
+            "english": "Highlights",
+            "sound": "/ˈhaɪ.laɪts/"
+        },
+        {
+            "spanish": "en Capas",
+            "english": "Layered",
+            "sound": "/ˈleɪ.əd/"
+        },
+        {
+            "spanish": "Maquillaje",
+            "english": "Make-up",
+            "sound": "/ˈmeɪk.ʌp/"
+        },
+        {
+            "spanish": "Estatura media",
+            "english": "Medium height",
+            "sound": "/ˈmiː.di.əm haɪt/"
+        },
+        {
+            "spanish": "de mediana edad",
+            "english": "Middle-aged",
+            "sound": "/ˌmɪd.əl ˈeɪdʒd/"
+        },
+        {
+            "spanish": "Bigote",
+            "english": "Moustache",
+            "sound": "/mʊˈstɑːʃ/"
+        },
+        {
+            "spanish": "Musculoso",
+            "english": "Muscular",
+            "sound": "/ˈmʌs.kjə.lər/"
+        },
+        {
+            "spanish": "Obeso",
+            "english": "Obese",
+            "sound": "/əʊˈbiːs/"
+        },
+        {
+            "spanish": "Con sobrepeso",
+            "english": "Overweight",
+            "sound": "/ˌəʊ.vəˈweɪt/"
+        },
+        {
+            "spanish": "Menuda",
+            "english": "Petite",
+            "sound": "/pəˈtiːt/"
+        },
+        {
+            "spanish": "Con piercings",
+            "english": "Pierced",
+            "sound": "/pɪəst/"
+        },
+        {
+            "spanish": "Rellenito",
+            "english": "Plump",
+            "sound": "/plʌmp/"
+        },
+        {
+            "spanish": "Pelirrojo",
+            "english": "Redhead",
+            "sound": "/ˈred.hed/"
+        },
+        {
+            "spanish": "Desaliñado",
+            "english": "Scruffy",
+            "sound": "/ˈskrʌf.i/"
+        },
+        {
+            "spanish": "Bajo",
+            "english": "Short",
+            "sound": "/ʃɔːt/"
+        },
+        {
+            "spanish": "Hasta los hombros",
+            "english": "Shoulder-length",
+            "sound": "/ˈʃəʊl.də leŋθ/"
+        },
+        {
+            "spanish": "Delgado",
+            "english": "Slim",
+            "sound": "/slɪm/"
+        },
+        {
+            "spanish": "de Punta",
+            "english": "Spiky",
+            "sound": "/ˈspaɪ.ki/"
+        },
+        {
+            "spanish": "Fornido",
+            "english": "Stocky",
+            "sound": "/ˈstɒk.i/"
+        },
+        {
+            "spanish": "Liso",
+            "english": "Straight",
+            "sound": "/streɪt/"
+        },
+        {
+            "spanish": "Barba de varios días",
+            "english": "Stubble",
+            "sound": "/ˈstʌb.əl/"
+        },
+        {
+            "spanish": "Alto",
+            "english": "Tall",
+            "sound": "/tɔːl/"
+        },
+        {
+            "spanish": "Tatuado",
+            "english": "Tattooed",
+            "sound": "/tæˈtuːd/"
+        },
+        {
+            "spanish": "Delgado",
+            "english": "Thin",
+            "sound": "/θɪn/"
+        },
+        {
+            "spanish": "Ondulado",
+            "english": "Wavy",
+            "sound": "/ˈweɪ.vi/"
+        },
+        {
+            "spanish": "Bien constituido",
+            "english": "Well-built",
+            "sound": "/wel ˈbɪlt/"
+        },
+        {
+            "spanish": "Arreglado",
+            "english": "Well-groomed",
+            "sound": "/wel ˈɡruːmd/"
+        },
+        {
+            "spanish": "de apariencia joven",
+            "english": "Young-looking",
+            "sound": "/jʌŋ ˈlʊk.ɪŋ/"
+        }
+    ]
+}

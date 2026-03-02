@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "title": "Colours",
+        "subtitle": "Basic colour vocabulary in English.",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Beis",
+            "english": "Beige",
+            "sound": "/beɪʒ/"
+        },
+        {
+            "spanish": "Negro",
+            "english": "Black",
+            "sound": "/blæk/"
+        },
+        {
+            "spanish": "Azul",
+            "english": "Blue",
+            "sound": "/bluː/"
+        },
+        {
+            "spanish": "Marrón",
+            "english": "Brown",
+            "sound": "/braʊn/"
+        },
+        {
+            "spanish": "Verde",
+            "english": "Green",
+            "sound": "/griːn/"
+        },
+        {
+            "spanish": "Gris",
+            "english": "Grey",
+            "sound": "/greɪ/"
+        },
+        {
+            "spanish": "Lila",
+            "english": "Lilac",
+            "sound": "/ˈlaɪ.lək/"
+        },
+        {
+            "spanish": "Granate",
+            "english": "Maroon",
+            "sound": "/məˈruːn/"
+        },
+        {
+            "spanish": "Naranja",
+            "english": "Orange",
+            "sound": "/ˈɒr.ɪndʒ/"
+        },
+        {
+            "spanish": "Rosa",
+            "english": "Pink",
+            "sound": "/pɪŋk/"
+        },
+        {
+            "spanish": "Morado",
+            "english": "Purple",
+            "sound": "/ˈpɜː.pəl/"
+        },
+        {
+            "spanish": "Rojo",
+            "english": "Red",
+            "sound": "/rɛd/"
+        },
+        {
+            "spanish": "Turquesa",
+            "english": "Turquoise",
+            "sound": "/ˈtɜː.kwɔɪz/"
+        },
+        {
+            "spanish": "Blanco",
+            "english": "White",
+            "sound": "/waɪt/"
+        },
+        {
+            "spanish": "Amarillo",
+            "english": "Yellow",
+            "sound": "/ˈjɛl.əʊ/"
+        }
+    ]
+}
