@@ -1,0 +1,534 @@
+{
+    "meta": {
+        "title": "Professions",
+        "subtitle": "Comprehensive list of jobs and occupations",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Contador",
+            "english": "Accountant",
+            "sound": "/əˈkaʊn.tənt/"
+        },
+        {
+            "spanish": "Actor / Actriz",
+            "english": "Actor / Actress",
+            "sound": "/ˈæk.tər/ /ˈæk.trəs/"
+        },
+        {
+            "spanish": "Azafata",
+            "english": "Air hostess",
+            "sound": "/eə ˈhəʊ.stəs/"
+        },
+        {
+            "spanish": "Arquitecto",
+            "english": "Architect",
+            "sound": "/ˈɑː.kɪ.tekt/"
+        },
+        {
+            "spanish": "Artista",
+            "english": "Artist",
+            "sound": "/ˈɑː.tɪst/"
+        },
+        {
+            "spanish": "Astronauta",
+            "english": "Astronaut",
+            "sound": "/ˈæs.trə.nɔːt/"
+        },
+        {
+            "spanish": "Astrónomo",
+            "english": "Astronomer",
+            "sound": "/əˈstrɒn.ə.mər/"
+        },
+        {
+            "spanish": "Atleta",
+            "english": "Athlete",
+            "sound": "/ˈæθ.liːt/"
+        },
+        {
+            "spanish": "Autor",
+            "english": "Author",
+            "sound": "/ˈɔː.θər/"
+        },
+        {
+            "spanish": "Niñera",
+            "english": "Baby-sitter",
+            "sound": "/ˈbeɪ.biˌsɪt.ər/"
+        },
+        {
+            "spanish": "Panadero",
+            "english": "Baker",
+            "sound": "/ˈbeɪ.kər/"
+        },
+        {
+            "spanish": "Albañil",
+            "english": "Bricklayer",
+            "sound": "/ˈbrɪk.leɪ.ər/"
+        },
+        {
+            "spanish": "Conductor de autobús",
+            "english": "Bus driver",
+            "sound": "/bʌs ˈdraɪ.vər/"
+        },
+        {
+            "spanish": "Empresario",
+            "english": "Businessman",
+            "sound": "/ˈbɪz.nɪs.mən/"
+        },
+        {
+            "spanish": "Carnicero",
+            "english": "Butcher",
+            "sound": "/ˈbʊtʃ.ər/"
+        },
+        {
+            "spanish": "Carpintero",
+            "english": "Carpenter",
+            "sound": "/ˈkɑː.pɪn.tər/"
+        },
+        {
+            "spanish": "Cajero",
+            "english": "Cashier",
+            "sound": "/kæˈʃɪər/"
+        },
+        {
+            "spanish": "Cocinero",
+            "english": "Chef",
+            "sound": "/ʃef/"
+        },
+        {
+            "spanish": "Químico",
+            "english": "Chemist",
+            "sound": "/ˈkem.ɪst/"
+        },
+        {
+            "spanish": "Limpiador",
+            "english": "Cleaner",
+            "sound": "/ˈkliː.nər/"
+        },
+        {
+            "spanish": "Zapatero",
+            "english": "Cobbler",
+            "sound": "/ˈkɒb.lər/"
+        },
+        {
+            "spanish": "Consultor",
+            "english": "Consultant",
+            "sound": "/kənˈsʌl.tənt/"
+        },
+        {
+            "spanish": "Consejero",
+            "english": "Counselor",
+            "sound": "/ˈkaʊn.səl.ər/"
+        },
+        {
+            "spanish": "Bailarín",
+            "english": "Dancer",
+            "sound": "/ˈdɑːn.sər/"
+        },
+        {
+            "spanish": "Analista de datos",
+            "english": "Data Analyst",
+            "sound": "/ˈdeɪ.tə ˌæn.əl.ɪst/"
+        },
+        {
+            "spanish": "Dentista",
+            "english": "Dentist",
+            "sound": "/ˈden.tɪst/"
+        },
+        {
+            "spanish": "Diseñador",
+            "english": "Designer",
+            "sound": "/dɪˈzaɪ.nər/"
+        },
+        {
+            "spanish": "Director",
+            "english": "Director",
+            "sound": "/daɪˈrek.tər/"
+        },
+        {
+            "spanish": "Médico",
+            "english": "Doctor",
+            "sound": "/ˈdɒk.tər/"
+        },
+        {
+            "spanish": "Conductor",
+            "english": "Driver",
+            "sound": "/ˈdraɪ.vər/"
+        },
+        {
+            "spanish": "Economista",
+            "english": "Economist",
+            "sound": "/iˈkɒn.ə.mɪst/"
+        },
+        {
+            "spanish": "Electricista",
+            "english": "Electrician",
+            "sound": "/ˌɪl.ekˈtrɪʃ.ən/"
+        },
+        {
+            "spanish": "Ingeniero",
+            "english": "Engineer",
+            "sound": "/ˌen.dʒɪˈnɪər/"
+        },
+        {
+            "spanish": "Ejecutivo",
+            "english": "Executive",
+            "sound": "/ɪɡˈzek.jə.tɪv/"
+        },
+        {
+            "spanish": "Trabajador de fábrica",
+            "english": "Factory worker",
+            "sound": "/ˈfæk.tər.i ˌwɜː.kər/"
+        },
+        {
+            "spanish": "Granjero",
+            "english": "Farmer",
+            "sound": "/ˈfɑː.mər/"
+        },
+        {
+            "spanish": "Bombero",
+            "english": "Firefighter",
+            "sound": "/ˈfaɪə.faɪ.tər/"
+        },
+        {
+            "spanish": "Pescador",
+            "english": "Fisherman",
+            "sound": "/ˈfɪʃ.ə.mən/"
+        },
+        {
+            "spanish": "Florista",
+            "english": "Florist",
+            "sound": "/ˈflɒr.ɪst/"
+        },
+        {
+            "spanish": "Recolector de basura",
+            "english": "Garbage collector",
+            "sound": "/ˈɡɑː.bɪdʒ kəˌlek.tər/"
+        },
+        {
+            "spanish": "Jardinero",
+            "english": "Gardener",
+            "sound": "/ˈɡɑː.dən.ər/"
+        },
+        {
+            "spanish": "Orfebre",
+            "english": "Goldsmith",
+            "sound": "/ˈɡəʊld.smɪθ/"
+        },
+        {
+            "spanish": "Diseñador gráfico",
+            "english": "Graphic designer",
+            "sound": "/ˌɡræf.ɪk dɪˈzaɪ.nər/"
+        },
+        {
+            "spanish": "Peluquero",
+            "english": "Hairdresser",
+            "sound": "/ˈheə.dres.ər/"
+        },
+        {
+            "spanish": "Ama de casa",
+            "english": "Housewife",
+            "sound": "/ˈhaʊs.waɪf/"
+        },
+        {
+            "spanish": "Gerente de RRHH",
+            "english": "HR Manager",
+            "sound": "/ˌeɪtʃˈɑː ˌmæn.ɪ.dʒər/"
+        },
+        {
+            "spanish": "Especialista TI",
+            "english": "IT Specialist",
+            "sound": "/ˌaɪˈtiː ˌspeʃ.əl.ɪst/"
+        },
+        {
+            "spanish": "Periodista",
+            "english": "Journalist",
+            "sound": "/ˈdʒɜː.nə.lɪst/"
+        },
+        {
+            "spanish": "Juez",
+            "english": "Judge",
+            "sound": "/dʒʌdʒ/"
+        },
+        {
+            "spanish": "Abogado",
+            "english": "Lawyer",
+            "sound": "/ˈlɔɪ.ər/"
+        },
+        {
+            "spanish": "Conferenciante",
+            "english": "Lecturer",
+            "sound": "/ˈlek.tʃər.ər/"
+        },
+        {
+            "spanish": "Bibliotecario",
+            "english": "Librarian",
+            "sound": "/laɪˈbreə.ri.ən/"
+        },
+        {
+            "spanish": "Socorrista",
+            "english": "Lifeguard",
+            "sound": "/ˈlaɪf.ɡɑːd/"
+        },
+        {
+            "spanish": "Gerente",
+            "english": "Manager",
+            "sound": "/ˈmæn.ɪ.dʒər/"
+        },
+        {
+            "spanish": "Cartero (US)",
+            "english": "Mailman",
+            "sound": "/ˈmeɪl.mæn/"
+        },
+        {
+            "spanish": "Especialista en marketing",
+            "english": "Marketing Specialist",
+            "sound": "/ˈmɑː.kɪ.tɪŋ ˌspeʃ.əl.ɪst/"
+        },
+        {
+            "spanish": "Mecánico",
+            "english": "Mechanic",
+            "sound": "/məˈkæn.ɪk/"
+        },
+        {
+            "spanish": "Minero",
+            "english": "Miner",
+            "sound": "/ˈmaɪ.nər/"
+        },
+        {
+            "spanish": "Modelo",
+            "english": "Model",
+            "sound": "/ˈmɒd.əl/"
+        },
+        {
+            "spanish": "Monje",
+            "english": "Monk",
+            "sound": "/mʌŋk/"
+        },
+        {
+            "spanish": "Músico",
+            "english": "Musician",
+            "sound": "/mjuːˈzɪʃ.ən/"
+        },
+        {
+            "spanish": "Niñera",
+            "english": "Nanny",
+            "sound": "/ˈnæn.i/"
+        },
+        {
+            "spanish": "Presentador de noticias",
+            "english": "Newsreader",
+            "sound": "/ˈnjuːzˌriː.dər/"
+        },
+        {
+            "spanish": "Monja",
+            "english": "Nun",
+            "sound": "/nʌn/"
+        },
+        {
+            "spanish": "Enfermero/a",
+            "english": "Nurse",
+            "sound": "/nɜːs/"
+        },
+        {
+            "spanish": "Oficinista",
+            "english": "Office worker",
+            "sound": "/ˈɒf.ɪs ˌwɜː.kər/"
+        },
+        {
+            "spanish": "Óptico",
+            "english": "Optician",
+            "sound": "/ɒpˈtɪʃ.ən/"
+        },
+        {
+            "spanish": "Pintor",
+            "english": "Painter",
+            "sound": "/ˈpeɪn.tər/"
+        },
+        {
+            "spanish": "Paramédico",
+            "english": "Paramedic",
+            "sound": "/ˌpær.əˈmed.ɪk/"
+        },
+        {
+            "spanish": "Farmacéutico",
+            "english": "Pharmacist",
+            "sound": "/ˈfɑː.mə.sɪst/"
+        },
+        {
+            "spanish": "Fotógrafo",
+            "english": "Photographer",
+            "sound": "/fəˈtɒɡ.rə.fər/"
+        },
+        {
+            "spanish": "Físico",
+            "english": "Physicist",
+            "sound": "/ˈfɪz.ɪ.sɪst/"
+        },
+        {
+            "spanish": "Piloto",
+            "english": "Pilot",
+            "sound": "/ˈpaɪ.lət/"
+        },
+        {
+            "spanish": "Fontanero",
+            "english": "Plumber",
+            "sound": "/ˈplʌm.ər/"
+        },
+        {
+            "spanish": "Policía",
+            "english": "Police officer",
+            "sound": "/pəˈliːs ˌɒf.ɪ.sər/"
+        },
+        {
+            "spanish": "Político",
+            "english": "Politician",
+            "sound": "/ˌpɒl.ɪˈtɪʃ.ən/"
+        },
+        {
+            "spanish": "Cartero (UK)",
+            "english": "Postman",
+            "sound": "/ˈpəʊst.mən/"
+        },
+        {
+            "spanish": "Catedrático",
+            "english": "Professor",
+            "sound": "/prəˈfes.ər/"
+        },
+        {
+            "spanish": "Programador",
+            "english": "Programmer",
+            "sound": "/ˈprəʊ.ɡræm.ər/"
+        },
+        {
+            "spanish": "Psicólogo",
+            "english": "Psychologist",
+            "sound": "/saɪˈkɒl.ə.dʒɪst/"
+        },
+        {
+            "spanish": "Agente inmobiliario",
+            "english": "Real estate agent",
+            "sound": "/ˈrɪəl ɪˌsteɪt ˈeɪ.dʒənt/"
+        },
+        {
+            "spanish": "Recepcionista",
+            "english": "Receptionist",
+            "sound": "/rɪˈsep.ʃən.ɪst/"
+        },
+        {
+            "spanish": "Investigador",
+            "english": "Researcher",
+            "sound": "/rɪˈsɜː.tʃər/"
+        },
+        {
+            "spanish": "Marinero",
+            "english": "Sailor",
+            "sound": "/ˈseɪ.lər/"
+        },
+        {
+            "spanish": "Vendedor",
+            "english": "Salesperson",
+            "sound": "/ˈseɪlzˌpɜː.sən/"
+        },
+        {
+            "spanish": "Científico",
+            "english": "Scientist",
+            "sound": "/ˈsaɪən.tɪst/"
+        },
+        {
+            "spanish": "Secretario",
+            "english": "Secretary",
+            "sound": "/ˈsek.rə.təri/"
+        },
+        {
+            "spanish": "Guardia de seguridad",
+            "english": "Security guard",
+            "sound": "/sɪˈkjʊə.rɪ.ti ˌɡɑːd/"
+        },
+        {
+            "spanish": "Vendedor / Dependiente",
+            "english": "Shop assistant",
+            "sound": "/ˈʃɒp əˌsɪs.tənt/"
+        },
+        {
+            "spanish": "Cantante",
+            "english": "Singer",
+            "sound": "/ˈsɪŋ.ər/"
+        },
+        {
+            "spanish": "Desarrollador de software",
+            "english": "Software Developer",
+            "sound": "/ˈsɒft.weər dɪˈvel.ə.pər/"
+        },
+        {
+            "spanish": "Soldado",
+            "english": "Soldier",
+            "sound": "/ˈsəʊl.dʒər/"
+        },
+        {
+            "spanish": "Deportista",
+            "english": "Sportsman",
+            "sound": "/ˈspɔːts.mən/"
+        },
+        {
+            "spanish": "Cirujano",
+            "english": "Surgeon",
+            "sound": "/ˈsɜː.dʒən/"
+        },
+        {
+            "spanish": "Sastre",
+            "english": "Tailor",
+            "sound": "/ˈteɪ.lər/"
+        },
+        {
+            "spanish": "Taxista",
+            "english": "Taxi driver",
+            "sound": "/ˈtæk.si ˌdraɪ.vər/"
+        },
+        {
+            "spanish": "Profesor / Maestro",
+            "english": "Teacher",
+            "sound": "/ˈtiː.tʃər/"
+        },
+        {
+            "spanish": "Traductor",
+            "english": "Translator",
+            "sound": "/trænzˈleɪ.tər/"
+        },
+        {
+            "spanish": "Agente de viajes",
+            "english": "Travel agent",
+            "sound": "/ˈtræv.əl ˌeɪ.dʒənt/"
+        },
+        {
+            "spanish": "Tutor",
+            "english": "Tutor",
+            "sound": "/ˈtʃuː.tər/"
+        },
+        {
+            "spanish": "Veterinario",
+            "english": "Veterinarian",
+            "sound": "/ˌvet.ər.ɪˈneə.ri.ən/"
+        },
+        {
+            "spanish": "Camarero / Camarera",
+            "english": "Waiter / Waitress",
+            "sound": "/ˈweɪ.tər/ /ˈweɪ.trəs/"
+        },
+        {
+            "spanish": "Diseñador web",
+            "english": "Web Designer",
+            "sound": "/ˈweb dɪˌzaɪ.nər/"
+        },
+        {
+            "spanish": "Limpiacristales",
+            "english": "Window cleaner",
+            "sound": "/ˈwɪn.dəʊ ˌkliː.nər/"
+        },
+        {
+            "spanish": "Escritor",
+            "english": "Writer",
+            "sound": "/ˈraɪ.tər/"
+        }
+    ]
+}

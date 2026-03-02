@@ -37,6 +37,15 @@
             "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/colours.json"
         },
         {
+            "id": "countries",
+            "title": "Countries",
+            "subtitle": "Names of countries and nations from around the world.",
+            "icon": "flag",
+            "difficulty": "A1",
+            "href": "vocabulary.php?topic=countries",
+            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/countries.json"
+        },
+        {
             "id": "days-of-week",
             "title": "Days of the Week",
             "subtitle": "The seven days of the week in English with pronunciation and usage.",
@@ -143,6 +152,15 @@
             "difficulty": "A1-A2",
             "href": "vocabulary.php?topic=place-prepositions",
             "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/place-prepositions.json"
+        },
+        {
+            "id": "professions",
+            "title": "Professions",
+            "subtitle": "Common jobs, occupations, and professional titles in English.",
+            "icon": "work",
+            "difficulty": "A1-A2",
+            "href": "vocabulary.php?topic=professions",
+            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/professions.json"
         },
         {
             "id": "things",

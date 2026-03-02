@@ -1,0 +1,994 @@
+{
+    "meta": {
+        "title": "Countries of the World",
+        "subtitle": "Vocabulary for nations and geography",
+        "difficulty": "A1"
+    },
+    "items": [
+        {
+            "spanish": "Afganistán",
+            "english": "Afghanistan",
+            "sound": "/æfˈɡæn.ɪ.stæn/"
+        },
+        {
+            "spanish": "Albania",
+            "english": "Albania",
+            "sound": "/ælˈbeɪ.ni.ə/"
+        },
+        {
+            "spanish": "Argelia",
+            "english": "Algeria",
+            "sound": "/ælˈdʒɪə.ri.ə/"
+        },
+        {
+            "spanish": "Andorra",
+            "english": "Andorra",
+            "sound": "/ænˈdɔː.rə/"
+        },
+        {
+            "spanish": "Angola",
+            "english": "Angola",
+            "sound": "/æŋˈɡəʊ.lə/"
+        },
+        {
+            "spanish": "Antigua y Barbuda",
+            "english": "Antigua and Barbuda",
+            "sound": "/ænˌtiː.ɡwə ənd bɑːˈbjuː.də/"
+        },
+        {
+            "spanish": "Argentina",
+            "english": "Argentina",
+            "sound": "/ˌɑː.dʒənˈtiː.nə/"
+        },
+        {
+            "spanish": "Armenia",
+            "english": "Armenia",
+            "sound": "/ɑːˈmiː.ni.ə/"
+        },
+        {
+            "spanish": "Australia",
+            "english": "Australia",
+            "sound": "/ɒˈstreɪ.li.ə/"
+        },
+        {
+            "spanish": "Austria",
+            "english": "Austria",
+            "sound": "/ˈɒs.tri.ə/"
+        },
+        {
+            "spanish": "Azerbaiyán",
+            "english": "Azerbaijan",
+            "sound": "/ˌæz.ə.baɪˈdʒɑːn/"
+        },
+        {
+            "spanish": "Bahamas",
+            "english": "Bahamas",
+            "sound": "/bəˈhɑː.məz/"
+        },
+        {
+            "spanish": "Baréin",
+            "english": "Bahrain",
+            "sound": "/bɑːˈreɪn/"
+        },
+        {
+            "spanish": "Bangladés",
+            "english": "Bangladesh",
+            "sound": "/ˌbæŋ.ɡləˈdeʃ/"
+        },
+        {
+            "spanish": "Barbados",
+            "english": "Barbados",
+            "sound": "/bɑːˈbeɪ.dɒs/"
+        },
+        {
+            "spanish": "Bielorrusia",
+            "english": "Belarus",
+            "sound": "/ˌbel.əˈruːs/"
+        },
+        {
+            "spanish": "Bélgica",
+            "english": "Belgium",
+            "sound": "/ˈbel.dʒəm/"
+        },
+        {
+            "spanish": "Belice",
+            "english": "Belize",
+            "sound": "/bəˈliːz/"
+        },
+        {
+            "spanish": "Benín",
+            "english": "Benin",
+            "sound": "/beˈniːn/"
+        },
+        {
+            "spanish": "Bután",
+            "english": "Bhutan",
+            "sound": "/buːˈtɑːn/"
+        },
+        {
+            "spanish": "Bolivia",
+            "english": "Bolivia",
+            "sound": "/bəˈlɪv.i.ə/"
+        },
+        {
+            "spanish": "Bosnia y Herzegovina",
+            "english": "Bosnia and Herzegovina",
+            "sound": "/ˈbɒz.ni.ə ənd ˌhɜːr.tsə.ɡoʊˈviː.nə/"
+        },
+        {
+            "spanish": "Botsuana",
+            "english": "Botswana",
+            "sound": "/bɒtˈswɑː.nə/"
+        },
+        {
+            "spanish": "Brasil",
+            "english": "Brazil",
+            "sound": "/brəˈzɪl/"
+        },
+        {
+            "spanish": "Brunéi",
+            "english": "Brunei",
+            "sound": "/bruːˈnaɪ/"
+        },
+        {
+            "spanish": "Bulgaria",
+            "english": "Bulgaria",
+            "sound": "/bʌlˈɡeə.ri.ə/"
+        },
+        {
+            "spanish": "Burkina Faso",
+            "english": "Burkina Faso",
+            "sound": "/bəˌkiː.nə ˈfæs.əʊ/"
+        },
+        {
+            "spanish": "Burundi",
+            "english": "Burundi",
+            "sound": "/bʊˈrʊn.di/"
+        },
+        {
+            "spanish": "Cabo Verde",
+            "english": "Cabo Verde",
+            "sound": "/ˌkɑː.bəʊ ˈvɜː.deɪ/"
+        },
+        {
+            "spanish": "Camboya",
+            "english": "Cambodia",
+            "sound": "/kæmˈbəʊ.di.ə/"
+        },
+        {
+            "spanish": "Camerún",
+            "english": "Cameroon",
+            "sound": "/ˌkæm.əˈruːn/"
+        },
+        {
+            "spanish": "Canadá",
+            "english": "Canada",
+            "sound": "/ˈkæn.ə.də/"
+        },
+        {
+            "spanish": "República Centroafricana",
+            "english": "Central African Republic",
+            "sound": "/ˌsen.trəl ˌæf.rɪ.kən rɪˈpʌb.lɪk/"
+        },
+        {
+            "spanish": "Chad",
+            "english": "Chad",
+            "sound": "/tʃæd/"
+        },
+        {
+            "spanish": "Chile",
+            "english": "Chile",
+            "sound": "/ˈtʃɪl.i/"
+        },
+        {
+            "spanish": "China",
+            "english": "China",
+            "sound": "/ˈtʃaɪ.nə/"
+        },
+        {
+            "spanish": "Colombia",
+            "english": "Colombia",
+            "sound": "/kəˈlɒm.bi.ə/"
+        },
+        {
+            "spanish": "Comoras",
+            "english": "Comoros",
+            "sound": "/ˈkɒm.ə.rəʊz/"
+        },
+        {
+            "spanish": "República Democrática del Congo",
+            "english": "Congo, Democratic Republic of the",
+            "sound": "/ˈkɒŋ.ɡəʊ/"
+        },
+        {
+            "spanish": "República del Congo",
+            "english": "Congo, Republic of the",
+            "sound": "/ˈkɒŋ.ɡəʊ/"
+        },
+        {
+            "spanish": "Costa Rica",
+            "english": "Costa Rica",
+            "sound": "/ˌkɒs.tə ˈriː.kə/"
+        },
+        {
+            "spanish": "Costa de Marfil",
+            "english": "Côte d'Ivoire",
+            "sound": "/ˌkəʊt diːˈvwɑːr/"
+        },
+        {
+            "spanish": "Croacia",
+            "english": "Croatia",
+            "sound": "/krəʊˈeɪ.ʃə/"
+        },
+        {
+            "spanish": "Cuba",
+            "english": "Cuba",
+            "sound": "/ˈkjuː.bə/"
+        },
+        {
+            "spanish": "Chipre",
+            "english": "Cyprus",
+            "sound": "/ˈsaɪ.prəs/"
+        },
+        {
+            "spanish": "Chequia",
+            "english": "Czechia",
+            "sound": "/ˈtʃek.i.ə/"
+        },
+        {
+            "spanish": "Dinamarca",
+            "english": "Denmark",
+            "sound": "/ˈden.mɑːk/"
+        },
+        {
+            "spanish": "Yibuti",
+            "english": "Djibouti",
+            "sound": "/dʒɪˈbuː.ti/"
+        },
+        {
+            "spanish": "Dominica",
+            "english": "Dominica",
+            "sound": "/ˌdɒm.ɪˈniː.kə/"
+        },
+        {
+            "spanish": "República Dominicana",
+            "english": "Dominican Republic",
+            "sound": "/dəˌmɪn.ɪ.kən rɪˈpʌb.lɪk/"
+        },
+        {
+            "spanish": "Timor Oriental",
+            "english": "East Timor",
+            "sound": "/ˌiːst ˈtiː.mɔːr/"
+        },
+        {
+            "spanish": "Ecuador",
+            "english": "Ecuador",
+            "sound": "/ˈek.wə.dɔːr/"
+        },
+        {
+            "spanish": "Egipto",
+            "english": "Egypt",
+            "sound": "/ˈiː.dʒɪpt/"
+        },
+        {
+            "spanish": "El Salvador",
+            "english": "El Salvador",
+            "sound": "/el ˈsæl.və.dɔːr/"
+        },
+        {
+            "spanish": "Guinea Ecuatorial",
+            "english": "Equatorial Guinea",
+            "sound": "/ˌek.wə.tɔː.ri.əl ˈɡɪn.i/"
+        },
+        {
+            "spanish": "Eritrea",
+            "english": "Eritrea",
+            "sound": "/ˌer.ɪˈtreɪ.ə/"
+        },
+        {
+            "spanish": "Estonia",
+            "english": "Estonia",
+            "sound": "/esˈtəʊ.ni.ə/"
+        },
+        {
+            "spanish": "Suazilandia",
+            "english": "Eswatini",
+            "sound": "/ˌes.wɑːˈtiː.ni/"
+        },
+        {
+            "spanish": "Etiopía",
+            "english": "Ethiopia",
+            "sound": "/ˌiː.θiˈəʊ.pi.ə/"
+        },
+        {
+            "spanish": "Fiyi",
+            "english": "Fiji",
+            "sound": "/ˈfiː.dʒi/"
+        },
+        {
+            "spanish": "Finlandia",
+            "english": "Finland",
+            "sound": "/ˈfɪn.lənd/"
+        },
+        {
+            "spanish": "Francia",
+            "english": "France",
+            "sound": "/frɑːns/"
+        },
+        {
+            "spanish": "Gabón",
+            "english": "Gabon",
+            "sound": "/ɡæˈbɒn/"
+        },
+        {
+            "spanish": "Gambia",
+            "english": "Gambia",
+            "sound": "/ˈɡæm.bi.ə/"
+        },
+        {
+            "spanish": "Georgia",
+            "english": "Georgia",
+            "sound": "/ˈdʒɔː.dʒə/"
+        },
+        {
+            "spanish": "Alemania",
+            "english": "Germany",
+            "sound": "/ˈdʒɜː.mə.ni/"
+        },
+        {
+            "spanish": "Ghana",
+            "english": "Ghana",
+            "sound": "/ˈɡɑː.nə/"
+        },
+        {
+            "spanish": "Grecia",
+            "english": "Greece",
+            "sound": "/ɡriːs/"
+        },
+        {
+            "spanish": "Granada",
+            "english": "Grenada",
+            "sound": "/ɡrəˈneɪ.də/"
+        },
+        {
+            "spanish": "Guatemala",
+            "english": "Guatemala",
+            "sound": "/ˌɡwɑː.təˈmɑː.lə/"
+        },
+        {
+            "spanish": "Guinea",
+            "english": "Guinea",
+            "sound": "/ˈɡɪn.i/"
+        },
+        {
+            "spanish": "Guinea-Bisáu",
+            "english": "Guinea-Bissau",
+            "sound": "/ˌɡɪn.i bɪˈsaʊ/"
+        },
+        {
+            "spanish": "Guyana",
+            "english": "Guyana",
+            "sound": "/ɡaɪˈɑː.nə/"
+        },
+        {
+            "spanish": "Haití",
+            "english": "Haiti",
+            "sound": "/ˈheɪ.ti/"
+        },
+        {
+            "spanish": "Honduras",
+            "english": "Honduras",
+            "sound": "/hɒnˈdjʊə.rəs/"
+        },
+        {
+            "spanish": "Hungría",
+            "english": "Hungary",
+            "sound": "/ˈhʌŋ.ɡər.i/"
+        },
+        {
+            "spanish": "Islandia",
+            "english": "Iceland",
+            "sound": "/ˈaɪs.lənd/"
+        },
+        {
+            "spanish": "India",
+            "english": "India",
+            "sound": "/ˈɪn.di.ə/"
+        },
+        {
+            "spanish": "Indonesia",
+            "english": "Indonesia",
+            "sound": "/ˌɪn.dəˈniː.ʒə/"
+        },
+        {
+            "spanish": "Irán",
+            "english": "Iran",
+            "sound": "/ɪˈrɑːn/"
+        },
+        {
+            "spanish": "Irak",
+            "english": "Iraq",
+            "sound": "/ɪˈrɑːk/"
+        },
+        {
+            "spanish": "Irlanda",
+            "english": "Ireland",
+            "sound": "/ˈaɪə.lənd/"
+        },
+        {
+            "spanish": "Israel",
+            "english": "Israel",
+            "sound": "/ˈɪz.reɪ.əl/"
+        },
+        {
+            "spanish": "Italia",
+            "english": "Italy",
+            "sound": "/ˈɪt.əl.i/"
+        },
+        {
+            "spanish": "Jamaica",
+            "english": "Jamaica",
+            "sound": "/dʒəˈmeɪ.kə/"
+        },
+        {
+            "spanish": "Japón",
+            "english": "Japan",
+            "sound": "/dʒəˈpæn/"
+        },
+        {
+            "spanish": "Jordania",
+            "english": "Jordan",
+            "sound": "/ˈdʒɔː.dən/"
+        },
+        {
+            "spanish": "Kazajistán",
+            "english": "Kazakhstan",
+            "sound": "/ˌkæz.ækˈstɑːn/"
+        },
+        {
+            "spanish": "Kenia",
+            "english": "Kenya",
+            "sound": "/ˈken.jə/"
+        },
+        {
+            "spanish": "Kiribati",
+            "english": "Kiribati",
+            "sound": "/ˌkɪr.ɪˈbæs/"
+        },
+        {
+            "spanish": "Corea del Norte",
+            "english": "Korea, North",
+            "sound": "/ˌnɔːθ kəˈriː.ə/"
+        },
+        {
+            "spanish": "Corea del Sur",
+            "english": "Korea, South",
+            "sound": "/ˌsaʊθ kəˈriː.ə/"
+        },
+        {
+            "spanish": "Kosovo",
+            "english": "Kosovo",
+            "sound": "/ˈkɒs.ə.vəʊ/"
+        },
+        {
+            "spanish": "Kuwait",
+            "english": "Kuwait",
+            "sound": "/kuːˈweɪt/"
+        },
+        {
+            "spanish": "Kirguistán",
+            "english": "Kyrgyzstan",
+            "sound": "/ˌkɜː.ɡɪˈstɑːn/"
+        },
+        {
+            "spanish": "Laos",
+            "english": "Laos",
+            "sound": "/laʊs/"
+        },
+        {
+            "spanish": "Letonia",
+            "english": "Latvia",
+            "sound": "/ˈlæt.vi.ə/"
+        },
+        {
+            "spanish": "Líbano",
+            "english": "Lebanon",
+            "sound": "/ˈleb.ə.nən/"
+        },
+        {
+            "spanish": "Lesoto",
+            "english": "Lesotho",
+            "sound": "/ləˈsuː.tuː/"
+        },
+        {
+            "spanish": "Liberia",
+            "english": "Liberia",
+            "sound": "/laɪˈbɪə.ri.ə/"
+        },
+        {
+            "spanish": "Libia",
+            "english": "Libya",
+            "sound": "/ˈlɪb.i.ə/"
+        },
+        {
+            "spanish": "Liechtenstein",
+            "english": "Liechtenstein",
+            "sound": "/ˈlɪk.tən.staɪn/"
+        },
+        {
+            "spanish": "Lituania",
+            "english": "Lithuania",
+            "sound": "/ˌlɪθ.juˈeɪ.ni.ə/"
+        },
+        {
+            "spanish": "Luxemburgo",
+            "english": "Luxembourg",
+            "sound": "/ˈlʌk.səm.bɜːɡ/"
+        },
+        {
+            "spanish": "Madagascar",
+            "english": "Madagascar",
+            "sound": "/ˌmæd.əˈɡæs.kər/"
+        },
+        {
+            "spanish": "Malaui",
+            "english": "Malawi",
+            "sound": "/məˈlɑː.wi/"
+        },
+        {
+            "spanish": "Malasia",
+            "english": "Malaysia",
+            "sound": "/məˈleɪ.ʒə/"
+        },
+        {
+            "spanish": "Maldivas",
+            "english": "Maldives",
+            "sound": "/ˈmɔːl.diːvz/"
+        },
+        {
+            "spanish": "Mali",
+            "english": "Mali",
+            "sound": "/ˈmɑː.li/"
+        },
+        {
+            "spanish": "Malta",
+            "english": "Malta",
+            "sound": "/ˈmɔːl.tə/"
+        },
+        {
+            "spanish": "Islas Marshall",
+            "english": "Marshall Islands",
+            "sound": "/ˈmɑː.ʃəl ˌaɪ.ləndz/"
+        },
+        {
+            "spanish": "Mauritania",
+            "english": "Mauritania",
+            "sound": "/ˌmɔː.rɪˈteɪ.ni.ə/"
+        },
+        {
+            "spanish": "Mauricio",
+            "english": "Mauritius",
+            "sound": "/məˈrɪʃ.əs/"
+        },
+        {
+            "spanish": "México",
+            "english": "Mexico",
+            "sound": "/ˈmek.sɪ.kəʊ/"
+        },
+        {
+            "spanish": "Micronesia",
+            "english": "Micronesia",
+            "sound": "/ˌmaɪ.krəˈniː.ʒə/"
+        },
+        {
+            "spanish": "Moldavia",
+            "english": "Moldova",
+            "sound": "/mɒlˈdəʊ.və/"
+        },
+        {
+            "spanish": "Mónaco",
+            "english": "Monaco",
+            "sound": "/ˈmɒn.ə.kəʊ/"
+        },
+        {
+            "spanish": "Mongolia",
+            "english": "Mongolia",
+            "sound": "/mɒŋˈɡəʊ.li.ə/"
+        },
+        {
+            "spanish": "Montenegro",
+            "english": "Montenegro",
+            "sound": "/ˌmɒn.tɪˈneɪ.ɡrəʊ/"
+        },
+        {
+            "spanish": "Marruecos",
+            "english": "Morocco",
+            "sound": "/məˈrɒk.əʊ/"
+        },
+        {
+            "spanish": "Mozambique",
+            "english": "Mozambique",
+            "sound": "/ˌməʊ.zæmˈbiːk/"
+        },
+        {
+            "spanish": "Myanmar",
+            "english": "Myanmar",
+            "sound": "/ˈmjæn.mɑːr/"
+        },
+        {
+            "spanish": "Namibia",
+            "english": "Namibia",
+            "sound": "/nəˈmɪb.i.ə/"
+        },
+        {
+            "spanish": "Nauru",
+            "english": "Nauru",
+            "sound": "/naʊˈruː/"
+        },
+        {
+            "spanish": "Nepal",
+            "english": "Nepal",
+            "sound": "/nəˈpɔːl/"
+        },
+        {
+            "spanish": "Países Bajos",
+            "english": "Netherlands",
+            "sound": "/ˈneð.ə.ləndz/"
+        },
+        {
+            "spanish": "Nueva Zelanda",
+            "english": "New Zealand",
+            "sound": "/ˌnjuː ˈziː.lənd/"
+        },
+        {
+            "spanish": "Nicaragua",
+            "english": "Nicaragua",
+            "sound": "/ˌnɪk.əˈræɡ.jwə/"
+        },
+        {
+            "spanish": "Níger",
+            "english": "Niger",
+            "sound": "/niːˈʒɛər/"
+        },
+        {
+            "spanish": "Nigeria",
+            "english": "Nigeria",
+            "sound": "/naɪˈdʒɪə.ri.ə/"
+        },
+        {
+            "spanish": "Macedonia del Norte",
+            "english": "North Macedonia",
+            "sound": "/ˌnɔːθ ˌmæs.ɪˈdəʊ.ni.ə/"
+        },
+        {
+            "spanish": "Noruega",
+            "english": "Norway",
+            "sound": "/ˈnɔː.weɪ/"
+        },
+        {
+            "spanish": "Omán",
+            "english": "Oman",
+            "sound": "/əʊˈmɑːn/"
+        },
+        {
+            "spanish": "Pakistán",
+            "english": "Pakistan",
+            "sound": "/ˈpæk.ɪ.stæn/"
+        },
+        {
+            "spanish": "Palaos",
+            "english": "Palau",
+            "sound": "/pəˈlaʊ/"
+        },
+        {
+            "spanish": "Palestina",
+            "english": "Palestine",
+            "sound": "/ˈpæl.ɪ.staɪn/"
+        },
+        {
+            "spanish": "Panamá",
+            "english": "Panama",
+            "sound": "/ˈpæn.ə.mɑː/"
+        },
+        {
+            "spanish": "Papúa Nueva Guinea",
+            "english": "Papua New Guinea",
+            "sound": "/ˌpæp.u.ə njuː ˈɡɪn.i/"
+        },
+        {
+            "spanish": "Paraguay",
+            "english": "Paraguay",
+            "sound": "/ˈpær.ə.ɡwaɪ/"
+        },
+        {
+            "spanish": "Perú",
+            "english": "Peru",
+            "sound": "/pəˈruː/"
+        },
+        {
+            "spanish": "Filipinas",
+            "english": "Philippines",
+            "sound": "/ˈfɪl.ɪ.piːnz/"
+        },
+        {
+            "spanish": "Polonia",
+            "english": "Poland",
+            "sound": "/ˈpəʊ.lənd/"
+        },
+        {
+            "spanish": "Portugal",
+            "english": "Portugal",
+            "sound": "/ˈpɔː.tʃə.ɡəl/"
+        },
+        {
+            "spanish": "Catar",
+            "english": "Qatar",
+            "sound": "/ˈkæt.ɑːr/"
+        },
+        {
+            "spanish": "Rumania",
+            "english": "Romania",
+            "sound": "/ruːˈmeɪ.ni.ə/"
+        },
+        {
+            "spanish": "Rusia",
+            "english": "Russia",
+            "sound": "/ˈrʌʃ.ə/"
+        },
+        {
+            "spanish": "Ruanda",
+            "english": "Rwanda",
+            "sound": "/ruˈæn.də/"
+        },
+        {
+            "spanish": "San Cristóbal y Nieves",
+            "english": "Saint Kitts and Nevis",
+            "sound": "/seɪnt ˌkɪts ənd ˈniː.vɪs/"
+        },
+        {
+            "spanish": "Santa Lucía",
+            "english": "Saint Lucia",
+            "sound": "/seɪnt luˈʃə/"
+        },
+        {
+            "spanish": "San Vicente y las Granadinas",
+            "english": "Saint Vincent and the Grenadines",
+            "sound": "/seɪnt ˈvɪn.sənt ənd ðə ˈɡren.ə.diːnz/"
+        },
+        {
+            "spanish": "Samoa",
+            "english": "Samoa",
+            "sound": "/səˈməʊ.ə/"
+        },
+        {
+            "spanish": "San Marino",
+            "english": "San Marino",
+            "sound": "/ˌsæn məˈriː.nə/"
+        },
+        {
+            "spanish": "Santo Tomé y Príncipe",
+            "english": "Sao Tome and Principe",
+            "sound": "/ˌsaʊ təˈmeɪ ənd ˈprɪn.sɪ.pə/"
+        },
+        {
+            "spanish": "Arabia Saudita",
+            "english": "Saudi Arabia",
+            "sound": "/ˌsaʊ.di əˈreɪ.bi.ə/"
+        },
+        {
+            "spanish": "Senegal",
+            "english": "Senegal",
+            "sound": "/ˌsen.ɪˈɡɔːl/"
+        },
+        {
+            "spanish": "Serbia",
+            "english": "Serbia",
+            "sound": "/ˈsɜː.bi.ə/"
+        },
+        {
+            "spanish": "Seychelles",
+            "english": "Seychelles",
+            "sound": "/seɪˈʃelz/"
+        },
+        {
+            "spanish": "Sierra Leona",
+            "english": "Sierra Leone",
+            "sound": "/siˌer.ə liˈəʊn/"
+        },
+        {
+            "spanish": "Singapur",
+            "english": "Singapore",
+            "sound": "/ˌsɪŋ.əˈpɔːr/"
+        },
+        {
+            "spanish": "Eslovaquia",
+            "english": "Slovakia",
+            "sound": "/sləˈvæk.i.ə/"
+        },
+        {
+            "spanish": "Eslovenia",
+            "english": "Slovenia",
+            "sound": "/sləˈviː.ni.ə/"
+        },
+        {
+            "spanish": "Islas Salomón",
+            "english": "Solomon Islands",
+            "sound": "/ˈsɒl.ə.mən ˌaɪ.ləndz/"
+        },
+        {
+            "spanish": "Somalia",
+            "english": "Somalia",
+            "sound": "/səˈmɑː.li.ə/"
+        },
+        {
+            "spanish": "Sudáfrica",
+            "english": "South Africa",
+            "sound": "/ˌsaʊθ ˈæf.rɪ.kə/"
+        },
+        {
+            "spanish": "Sudán del Sur",
+            "english": "South Sudan",
+            "sound": "/ˌsaʊθ suːˈdæn/"
+        },
+        {
+            "spanish": "España",
+            "english": "Spain",
+            "sound": "/speɪn/"
+        },
+        {
+            "spanish": "Sri Lanka",
+            "english": "Sri Lanka",
+            "sound": "/ˌsriː ˈlæŋ.kə/"
+        },
+        {
+            "spanish": "Sudán",
+            "english": "Sudan",
+            "sound": "/suːˈdæn/"
+        },
+        {
+            "spanish": "Surinam",
+            "english": "Suriname",
+            "sound": "/ˌsʊər.ɪˈnæm/"
+        },
+        {
+            "spanish": "Suecia",
+            "english": "Sweden",
+            "sound": "/ˈswiː.dən/"
+        },
+        {
+            "spanish": "Suiza",
+            "english": "Switzerland",
+            "sound": "/ˈswɪt.sə.lənd/"
+        },
+        {
+            "spanish": "Siria",
+            "english": "Syria",
+            "sound": "/ˈsɪr.i.ə/"
+        },
+        {
+            "spanish": "Taiwán",
+            "english": "Taiwan",
+            "sound": "/taɪˈwɑːn/"
+        },
+        {
+            "spanish": "Tayikistán",
+            "english": "Tajikistan",
+            "sound": "/tɑːˈdʒɪk.ɪ.stæn/"
+        },
+        {
+            "spanish": "Tanzania",
+            "english": "Tanzania",
+            "sound": "/ˌtæn.zəˈniː.ə/"
+        },
+        {
+            "spanish": "Tailandia",
+            "english": "Thailand",
+            "sound": "/ˈtaɪ.lænd/"
+        },
+        {
+            "spanish": "Togo",
+            "english": "Togo",
+            "sound": "/ˈtəʊ.ɡəʊ/"
+        },
+        {
+            "spanish": "Tonga",
+            "english": "Tonga",
+            "sound": "/ˈtɒŋ.ə/"
+        },
+        {
+            "spanish": "Trinidad y Tobago",
+            "english": "Trinidad and Tobago",
+            "sound": "/ˈtrɪn.ɪ.dæd ənd təˈbeɪ.ɡə/"
+        },
+        {
+            "spanish": "Túnez",
+            "english": "Tunisia",
+            "sound": "/tjuːˈnɪz.i.ə/"
+        },
+        {
+            "spanish": "Turquía",
+            "english": "Turkey",
+            "sound": "/ˈtɜː.ki/"
+        },
+        {
+            "spanish": "Turkmenistán",
+            "english": "Turkmenistan",
+            "sound": "/tɜːkˈmen.ɪ.stæn/"
+        },
+        {
+            "spanish": "Tuvalu",
+            "english": "Tuvalu",
+            "sound": "/tuːˈvɑː.luː/"
+        },
+        {
+            "spanish": "Uganda",
+            "english": "Uganda",
+            "sound": "/juːˈɡæn.də/"
+        },
+        {
+            "spanish": "Ucrania",
+            "english": "Ukraine",
+            "sound": "/juːˈkreɪn/"
+        },
+        {
+            "spanish": "Emiratos Árabes Unidos",
+            "english": "United Arab Emirates",
+            "sound": "/juːˌnaɪ.tɪd ˌær.əb ˈem.ɪ.rəts/"
+        },
+        {
+            "spanish": "Reino Unido",
+            "english": "United Kingdom",
+            "sound": "/juːˌnaɪ.tɪd ˈkɪŋ.dəm/"
+        },
+        {
+            "spanish": "Estados Unidos de América",
+            "english": "United States of America",
+            "sound": "/juːˌnaɪ.tɪd ˌsteɪts əv əˈmer.ɪ.kə/"
+        },
+        {
+            "spanish": "Uruguay",
+            "english": "Uruguay",
+            "sound": "/ˈjʊə.rə.ɡwaɪ/"
+        },
+        {
+            "spanish": "Uzbekistán",
+            "english": "Uzbekistan",
+            "sound": "/ʊzˈbek.ɪ.stæn/"
+        },
+        {
+            "spanish": "Vanuatu",
+            "english": "Vanuatu",
+            "sound": "/ˌvæn.uˈɑː.tuː/"
+        },
+        {
+            "spanish": "Ciudad del Vaticano",
+            "english": "Vatican City",
+            "sound": "/ˈvæt.ɪ.kən ˈsɪt.i/"
+        },
+        {
+            "spanish": "Venezuela",
+            "english": "Venezuela",
+            "sound": "/ˌven.əˈzweɪ.lə/"
+        },
+        {
+            "spanish": "Vietnam",
+            "english": "Vietnam",
+            "sound": "/ˌvjetˈnæm/"
+        },
+        {
+            "spanish": "Yemen",
+            "english": "Yemen",
+            "sound": "/ˈjem.ən/"
+        },
+        {
+            "spanish": "Zambia",
+            "english": "Zambia",
+            "sound": "/ˈzæm.bi.ə/"
+        },
+        {
+            "spanish": "Zimbabue",
+            "english": "Zimbabwe",
+            "sound": "/zɪmˈbɑː.bwi/"
+        }
+    ]
+}
