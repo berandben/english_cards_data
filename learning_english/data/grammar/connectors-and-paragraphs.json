@@ -1,0 +1,243 @@
+{
+    "slug": "connectors-and-paragraphs",
+    "meta": {
+        "title": "Connectors and Paragraphs",
+        "subtitle": "Linking ideas and organizing information",
+        "difficulty": "A2",
+        "tags": [
+            "writing",
+            "connectors",
+            "paragraphs"
+        ],
+        "icon": " "
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-connectors-intro",
+            "title": "What are Connectors",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "Connectors are words which help us to explain, set examples, order events, talk about consequences and causes, add ideas. They help us to develop and express ideas.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": " ",
+                    "value": " ",
+                    "description": " "
+                },
+                {
+                    "type": "list",
+                    "label": "Example",
+                    "content": " ",
+                    "items": [
+                        "@_I like sports but I never do physical exercise",
+                        "@_I eat pasta every day because it is easy and fast to cook"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": " ",
+                    "description": " "
+                }
+            ]
+        },
+        {
+            "id": "section-2-paragraphs-intro",
+            "title": "What are Paragraphs",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "Paragraphs help us to separate information. We usually write a topic and give different information. Paragraphs help us to organise a topic because we usually give varied content. We divide content in sections.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": " ",
+                    "value": " ",
+                    "description": " "
+                },
+                {
+                    "type": "list",
+                    "label": "Example",
+                    "content": " ",
+                    "items": [
+                        "@_Think of a supermarket: Food is distributed in different sections",
+                        "@_Meat, fish, dairy products, vegetables, fruits... everything is in one place"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": " ",
+                    "description": " "
+                }
+            ]
+        },
+        {
+            "id": "section-4-connector-types",
+            "title": "Types of Connectors",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Connector Categories",
+                    "content": " ",
+                    "items": [],
+                    "headers": [
+                        "Connector",
+                        "Commas",
+                        "Place",
+                        "After Connector",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "To Link Similar Ideas",
+                            "items": [
+                                [
+                                    "Moreover",
+                                    "yes (after connector)",
+                                    "beginning",
+                                    "sentence",
+                                    "Moreover, Málaga has a lot of good hotels"
+                                ],
+                                [
+                                    "Besides",
+                                    "not always",
+                                    "beginning, middle",
+                                    "noun, sentence",
+                                    "Besides English / Besides, it is very cheap"
+                                ],
+                                [
+                                    "Also",
+                                    "not always",
+                                    "middle",
+                                    "verb, sentence",
+                                    "You can also learn Spanish"
+                                ],
+                                [
+                                    "Too",
+                                    "no",
+                                    "end",
+                                    "-",
+                                    "He is in my class too"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "To Express Result",
+                            "items": [
+                                [
+                                    "So",
+                                    "yes (before connector)",
+                                    "middle",
+                                    "sentence",
+                                    "Jerry didn't feel well, so he couldn't go to school"
+                                ],
+                                [
+                                    "to",
+                                    "no",
+                                    "middle",
+                                    "verb",
+                                    "She gets up early to be in time for work"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "To Express Causes",
+                            "items": [
+                                [
+                                    "Because",
+                                    "not always",
+                                    "middle, beginning",
+                                    "sentence",
+                                    "She can't buy a car because she doesn't have money"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "To Give Examples",
+                            "items": [
+                                [
+                                    "For example",
+                                    "yes (before connector)",
+                                    "beginning, middle",
+                                    "noun, sentence",
+                                    "You can buy anything online, for example, technology"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "To Express Contrast",
+                            "items": [
+                                [
+                                    "But",
+                                    "yes (before connector)",
+                                    "middle",
+                                    "sentence",
+                                    "San Roque is a little town but it has schools"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "To Order Events",
+                            "items": [
+                                [
+                                    "First",
+                                    "yes (after connector)",
+                                    "beginning",
+                                    "sentence",
+                                    "First, we arrived at the hotel"
+                                ],
+                                [
+                                    "Before",
+                                    "not always",
+                                    "middle, beginning",
+                                    "sentence, noun",
+                                    "We bought souvenirs before / Before we left"
+                                ],
+                                [
+                                    "Next/Then",
+                                    "yes (after connector)",
+                                    "beginning",
+                                    "sentence",
+                                    "Next, we asked for a map"
+                                ],
+                                [
+                                    "After",
+                                    "not always",
+                                    "beginning, middle",
+                                    "sentence, noun",
+                                    "After, we explored the city"
+                                ],
+                                [
+                                    "Finally",
+                                    "yes (after connector)",
+                                    "beginning",
+                                    "sentence",
+                                    "Finally, we went to bed"
+                                ],
+                                [
+                                    "When",
+                                    "not always",
+                                    "beginning, middle",
+                                    "sentence",
+                                    "When we finished, we had dinner"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": " ",
+                    "value": " ",
+                    "description": " "
+                }
+            ]
+        }
+    ]
+}
