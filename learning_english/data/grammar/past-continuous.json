@@ -1,25 +1,25 @@
 {
-    "slug": "present-continuous",
+    "slug": "past-continuous",
     "meta": {
-        "title": "Present Continuous",
-        "subtitle": "Now, Temporary, Planned",
+        "title": "Past Continuous",
+        "subtitle": "Ongoing actions in the past",
         "difficulty": "A2",
         "tags": [],
-        "icon": "runner"
+        "icon": ""
     },
     "header": {
         "badges": []
     },
     "sections": [
         {
-            "id": "section-1-1772394359489",
+            "id": "section-1-1772290828117",
             "title": "When to use",
             "type": "info-grid",
             "blocks": [
                 {
                     "type": "paragraph",
-                    "label": "description",
-                    "content": "We use the Present Continuous to talk about actions happening now, temporary situations, or fixed future arrangements (plans that are already organized)",
+                    "label": "DESCRIPTION",
+                    "content": "The Past Continuous is used for actions that were in progress at a specific time in the past",
                     "items": [],
                     "headers": [],
                     "rows": [],
@@ -29,12 +29,11 @@
                 },
                 {
                     "type": "list",
-                    "label": "EXAMPLE",
+                    "label": "Example",
                     "content": "",
                     "items": [
-                        "@_I am studying English right now",
-                        "@_She is staying at a hotel this week",
-                        "@_We are meeting friends tonight"
+                        "@_I was watching a movie at 8 PM yesterday",
+                        "@_She was studying when I called"
                     ],
                     "headers": [],
                     "rows": [],
@@ -45,7 +44,7 @@
             ]
         },
         {
-            "id": "section-2-1772394824762",
+            "id": "section-2-1772292629770",
             "title": "Structure",
             "type": "formulas",
             "blocks": [
@@ -54,8 +53,8 @@
                     "label": "",
                     "content": "",
                     "items": [
-                        "Subject + am/is/are + Verb-ing",
-                        "She is reading a book"
+                        "Subject + was/were + Verb-ing",
+                        "She was studying London"
                     ],
                     "headers": [],
                     "rows": [],
@@ -68,8 +67,8 @@
                     "label": "",
                     "content": "",
                     "items": [
-                        "Subject + am/is/are + not + Verb-ing",
-                        "They are not sleeping"
+                        "Subject + was/were + not + Verb-ing",
+                        "She wasn't studying London"
                     ],
                     "headers": [],
                     "rows": [],
@@ -82,8 +81,8 @@
                     "label": "",
                     "content": "",
                     "items": [
-                        "Am/Is/Are + Subject + Verb-ing ?",
-                        "Are you listening?"
+                        "Was/Were + Subject + Verb-ing?",
+                        "Was she studying London?"
                     ],
                     "headers": [],
                     "rows": [],
@@ -92,13 +91,10 @@
                     "description": ""
                 },
                 {
-                    "type": "code-block",
+                    "type": "info-box",
                     "label": "",
-                    "content": "",
-                    "items": [
-                        "Wh Question + am/is/are + Subject + Verb-ing ?",
-                        "What are you doing?"
-                    ],
+                    "content": "Use 'was' for I/He/She/It and 'were' for You/We/They",
+                    "items": [],
                     "headers": [],
                     "rows": [],
                     "style": "",
@@ -201,7 +197,8 @@
                     "description": ""
                 }
             ]
-        }, {
+        },
+        {
             "id": "section-4-1772294564317",
             "title": "Verb Forms",
             "type": "single-column",
@@ -365,8 +362,8 @@
             ]
         },
         {
-            "id": "section-4-1772396072865",
-            "title": "Non action verbs (Stative Verbs)",
+            "id": "section-5-1772294564318",
+            "title": "Usage Contexts",
             "type": "comparison",
             "blocks": [
                 {
@@ -375,188 +372,53 @@
                     "content": "",
                     "items": [],
                     "headers": [
-                        "Verb",
-                        "Example"
+                        "Context",
+                        "Example",
+                        "Explanation"
                     ],
                     "rows": [
                         {
-                            "group": "Feelings",
+                            "group": "Interrupted Action",
                             "items": [
                                 [
-                                    "desire",
-                                    ""
+                                    "I was sleeping when the phone rang",
+                                    "Past Continuous + Simple Past",
+                                    "Long action interrupted by short action"
                                 ],
                                 [
-                                    "hate",
-                                    ""
-                                ],
-                                [
-                                    "like",
-                                    ""
-                                ],
-                                [
-                                    "love",
-                                    ""
-                                ],
-                                [
-                                    "mind",
-                                    ""
-                                ],
-                                [
-                                    "prefer",
-                                    ""
-                                ],
-                                [
-                                    "want",
-                                    ""
+                                    "She was cooking when I arrived",
+                                    "Past Continuous + Simple Past",
+                                    "Background action + interruption"
                                 ]
                             ]
                         },
                         {
-                            "group": "Possession",
+                            "group": "Parallel Actions",
                             "items": [
                                 [
-                                    "belong",
-                                    ""
+                                    "I was studying while he was watching TV",
+                                    "Past Continuous + Past Continuous",
+                                    "Two actions happening at the same time"
                                 ],
                                 [
-                                    "contain",
-                                    ""
-                                ],
-                                [
-                                    "have",
-                                    ""
-                                ],
-                                [
-                                    "have (eating) Exception",
-                                    "I'm having breakfast"
-                                ],
-                                [
-                                    "have (experiencing) Exception",
-                                    "I'm having a good time"
-                                ],
-                                [
-                                    "need",
-                                    ""
-                                ],
-                                [
-                                    "possess",
-                                    ""
+                                    "They were talking as we were eating",
+                                    "Past Continuous + Past Continuous",
+                                    "Simultaneous ongoing actions"
                                 ]
                             ]
                         },
                         {
-                            "group": "Perception and senses",
+                            "group": "Specific Time",
                             "items": [
                                 [
-                                    "feel",
-                                    ""
+                                    "At 8 PM, I was watching a movie",
+                                    "Past Continuous + Time",
+                                    "Action in progress at specific time"
                                 ],
                                 [
-                                    "feel (touching) Exception",
-                                    "I'm feeling the texture "
-                                ],
-                                [
-                                    "hear",
-                                    ""
-                                ],
-                                [
-                                    "see",
-                                    ""
-                                ],
-                                [
-                                    "see (visiting) Exception",
-                                    "I'm seeing my doctor tomorrow"
-                                ],
-                                [
-                                    "smell",
-                                    ""
-                                ],
-                                [
-                                    "taste",
-                                    ""
-                                ],
-                                [
-                                    "taste (testing) Exception",
-                                    "She's tasting the soup"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Thought and knowledge",
-                            "items": [
-                                [
-                                    "believe",
-                                    ""
-                                ],
-                                [
-                                    "forget",
-                                    ""
-                                ],
-                                [
-                                    "know",
-                                    ""
-                                ],
-                                [
-                                    "mean",
-                                    ""
-                                ],
-                                [
-                                    "realize",
-                                    ""
-                                ],
-                                [
-                                    "remember",
-                                    ""
-                                ],
-                                [
-                                    "think",
-                                    ""
-                                ],
-                                [
-                                    "think (consideration) Exception",
-                                    "I'm thinking about buying a car"
-                                ],
-                                [
-                                    "understand",
-                                    ""
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Appearance, state o quality",
-                            "items": [
-                                [
-                                    "appear",
-                                    ""
-                                ],
-                                [
-                                    "be",
-                                    ""
-                                ],
-                                [
-                                    "be (temporary) Exception",
-                                    "He is being rude"
-                                ],
-                                [
-                                    "cost",
-                                    ""
-                                ],
-                                [
-                                    "exist",
-                                    ""
-                                ],
-                                [
-                                    "look like",
-                                    ""
-                                ],
-                                [
-                                    "seem",
-                                    ""
-                                ],
-                                [
-                                    "weigh",
-                                    ""
+                                    "Yesterday morning, she was running",
+                                    "Past Continuous + Time",
+                                    "Action in progress during time period"
                                 ]
                             ]
                         }

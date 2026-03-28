@@ -35,6 +35,16 @@
             "tags": []
         },
         {
+    "id": "past-continuous",
+    "title": "Past Continuous",
+    "subtitle": "Actions in progress at a specific past time",
+    "icon": "⏳",
+    "difficulty": "",
+    "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/past-continuous.json",
+    "href": "grammar.html?topic=past-continuous",
+    "tags": []
+},
+        {
             "id": "be-going-to",
             "title": "Be Going To",
             "subtitle": "Intentions & Evidence",
