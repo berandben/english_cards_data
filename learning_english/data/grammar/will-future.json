@@ -1,0 +1,167 @@
+{
+    "slug": "will-future",
+    "meta": {
+        "title": "Will (Future Simple)",
+        "subtitle": "Future actions and predictions",
+        "difficulty": "A2",
+        "tags": [],
+        "icon": " "
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-1772290828116",
+            "title": "When to use",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "Will is used for future actions, predictions, promises, and spontaneous decisions",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": " ",
+                    "value": " ",
+                    "description": " "
+                },
+                {
+                    "type": "list",
+                    "label": "Example",
+                    "content": " ",
+                    "items": [
+                        "@_I will call you tomorrow",
+                        "@_She will travel to Japan next year"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": " ",
+                    "description": " "
+                }
+            ]
+        },
+        {
+            "id": "section-2-1772292629769",
+            "title": "Structure",
+            "type": "formulas",
+            "blocks": [
+                {
+                    "type": "code-block",
+                    "label": " ",
+                    "content": " ",
+                    "items": [
+                        "Subject + will + Base Verb (infinitive)",
+                        "She will visit London"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": " ",
+                    "value": " ",
+                    "description": " "
+                },
+                {
+                    "type": "code-block",
+                    "label": " ",
+                    "content": " ",
+                    "items": [
+                        "Subject + will not (won't) + Base Verb (infinitive)",
+                        "She won't visit London"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": " ",
+                    "value": " ",
+                    "description": " "
+                },
+                {
+                    "type": "code-block",
+                    "label": " ",
+                    "content": " ",
+                    "items": [
+                        "Will + Subject + Base Verb (infinitive) ?",
+                        "Will she visit London?"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": " ",
+                    "value": " ",
+                    "description": " "
+                },
+                {
+                    "type": "info-box",
+                    "label": " ",
+                    "content": "The verb always stays in base form (infinitive) after will/won't",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": " ",
+                    "value": " ",
+                    "description": " "
+                }
+            ]
+        },
+        {
+            "id": "section-6-1772298214762",
+            "title": "Write Rules",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": " ",
+                    "content": " ",
+                    "items": [],
+                    "headers": [
+                        "Rule",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Contractions",
+                            "items": [
+                                [
+                                    "I will = I'll",
+                                    "I will go = I'll go"
+                                ],
+                                [
+                                    "You will = You'll",
+                                    "You will see = You'll see"
+                                ],
+                                [
+                                    "He/She/It will = He'll/She'll/It'll",
+                                    "She will come = She'll come"
+                                ],
+                                [
+                                    "We will = We'll",
+                                    "We will win = We'll win"
+                                ],
+                                [
+                                    "They will = They'll",
+                                    "They will arrive = They'll arrive"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Negative Contractions",
+                            "items": [
+                                [
+                                    "will not = won't",
+                                    "I will not = I won't"
+                                ],
+                                [
+                                    "No person changes with will",
+                                    "He will / She will / They will (same form)"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": " ",
+                    "value": " ",
+                    "description": " "
+                }
+            ]
+        }
+    ]
+}

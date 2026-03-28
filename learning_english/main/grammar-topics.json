@@ -1,83 +1,100 @@
 {
-    "id": "grammar",
-    "label": "Grammar",
-    "icon": "menu_book",
-    "description": "Tenses, verb forms, sentence structure and grammar rules.",
-    "topics": [
-        {
-            "id": "present-simple",
-            "title": "Present Simple",
-            "subtitle": "Everyday actions and permanent facts",
-            "icon": "refresh",
-            "difficulty": "",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/present-simple.json",
-            "href": "grammar.html?topic=present-simple",
-            "tags": []
-        },
-        {
-            "id": "present-continuous",
-            "title": "Present Continuous",
-            "subtitle": "Actions happening now",
-            "icon": "🏃‍♂️",
-            "difficulty": "",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/present-continuous.json",
-            "href": "grammar.html?topic=present-continuous",
-            "tags": []
-        },
-        {
-            "id": "simple-past",
-            "title": "Simple Past",
-            "subtitle": "Completed actions in the past",
-            "icon": "history",
-            "difficulty": "",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/simple-past.json",
-            "href": "grammar.html?topic=simple-past",
-            "tags": []
-        },
-        {
-    "id": "past-continuous",
-    "title": "Past Continuous",
-    "subtitle": "Actions in progress at a specific past time",
-    "icon": "⏳",
-    "difficulty": "",
-    "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/past-continuous.json",
-    "href": "grammar.html?topic=past-continuous",
-    "tags": []
-},
-        {
-            "id": "be-going-to",
-            "title": "Be Going To",
-            "subtitle": "Intentions & Evidence",
-            "icon": "💡",
-            "difficulty": "",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/be-going-to.json",
-            "href": "grammar.html?topic=be-going-to",
-            "tags": []
-        },
+	"id": "grammar",
+	"label": "Grammar",
+	"icon": "menu_book",
+	"description": "Tenses, verb forms, sentence structure and grammar rules.",
+	"topics": [
+		{
+			"id": "present-simple",
+			"title": "Present Simple",
+			"subtitle": "Everyday actions and permanent facts",
+			"icon": "refresh",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/present-simple.json",
+			"href": "grammar.html?topic=present-simple",
+			"tags": []
+		},
+		{
+			"id": "present-continuous",
+			"title": "Present Continuous",
+			"subtitle": "Actions happening now",
+			"icon": "🏃‍♂️",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/present-continuous.json",
+			"href": "grammar.html?topic=present-continuous",
+			"tags": []
+		},
+		{
+			"id": "present-perfect",
+			"title": "Present Perfect",
+			"subtitle": "Past actions with present relevance & life experiences",
+			"icon": "✅",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/present-perfect.json",
+			"href": "grammar.html?topic=present-perfect",
+			"tags": []
+		},
+		{
+			"id": "simple-past",
+			"title": "Simple Past",
+			"subtitle": "Completed actions in the past",
+			"icon": "history",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/simple-past.json",
+			"href": "grammar.html?topic=simple-past",
+			"tags": []
+		},
+		{
+			"id": "past-continuous",
+			"title": "Past Continuous",
+			"subtitle": "Actions in progress at a specific past time",
+			"icon": "⏳",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/past-continuous.json",
+			"href": "grammar.html?topic=past-continuous",
+			"tags": []
+		},
+		{
+			"id": "be-going-to",
+			"title": "Be Going To",
+			"subtitle": "Intentions & Evidence",
+			"icon": "💡",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/be-going-to.json",
+			"href": "grammar.html?topic=be-going-to",
+			"tags": []
+		},
+		{
+			"id": "will",
+			"title": "Will",
+			"subtitle": "Predictions, spontaneous decisions & promises",
+			"icon": "🔮",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/will.json",
+			"href": "grammar.html?topic=will",
+			"tags": []
+		},
 
+		{
+			"id": "connectors-and-paragraphs",
+			"title": "Connectors and Paragraphs",
+			"subtitle": "Linking ideas and organizing information",
+			"icon": "link",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/connectors-and-paragraphs.json",
+			"href": "grammar.html?topic=connectors-and-paragraphs",
+			"tags": []
+		},
 
-{
-    "id": "connectors-and-paragraphs",
-    "title": "Connectors and Paragraphs",
-    "subtitle": "Linking ideas and organizing information",
-    "icon": "link",
-    "difficulty": "",
-    "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/connectors-and-paragraphs.json",
-    "href": "grammar.html?topic=connectors-and-paragraphs",
-    "tags": []
-},
-
-
-
-        {
-            "id": "verb-patterns",
-            "title": "Verb patterns",
-            "subtitle": "Structures that follow verbs",
-            "icon": "🔤",
-            "difficulty": "",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/verb-patterns.json",
-            "href": "grammar.html?topic=verb-patterns",
-            "tags": []
-        }
-    ]
+		{
+			"id": "verb-patterns",
+			"title": "Verb patterns",
+			"subtitle": "Structures that follow verbs",
+			"icon": "🔤",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/verb-patterns.json",
+			"href": "grammar.html?topic=verb-patterns",
+			"tags": []
+		}
+	]
 }
