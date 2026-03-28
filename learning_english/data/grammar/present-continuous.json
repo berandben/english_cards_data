@@ -208,7 +208,7 @@
             "blocks": [
                 {
                     "type": "table",
-                    "label": "Common Verbs",
+                    "label": "",
                     "content": "",
                     "items": [],
                     "headers": [
@@ -218,7 +218,7 @@
                     ],
                     "rows": [
                         {
-                            "group": "Past Continuous - /ɪŋ/ Sound",
+                            "group": "Common Verbs",
                             "items": [
                                 [
                                     "@_Ask",
