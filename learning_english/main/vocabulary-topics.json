@@ -1,175 +1,184 @@
 {
-    "topics": [
-        {
-            "id": "adjectives",
-            "title": "Adjectives",
-            "subtitle": "Common descriptive adjectives used in everyday English.",
-            "icon": "format_list_bulleted",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=adjectives",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/adjectives.json"
-        },
-        {
-            "id": "cardinal-numbers",
-            "title": "Cardinal Numbers",
-            "subtitle": "Basic numbers in English from zero to one billion.",
-            "icon": "pin",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=cardinal-numbers",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/cardinal-numbers.json"
-        },
-        {
-            "id": "wear",
-            "title": "Clothing & Wear",
-            "subtitle": "Vocabulary for clothes, accessories, and what we wear.",
-            "icon": "checkroom",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=wear",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/wear.json"
-        },
-        {
-            "id": "colours",
-            "title": "Colours",
-            "subtitle": "Essential colour words in English, from basic to advanced shades.",
-            "icon": "palette",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=colours",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/colours.json"
-        },
-        {
-            "id": "countries",
-            "title": "Countries",
-            "subtitle": "Names of countries and nations from around the world.",
-            "icon": "flag",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=countries",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/countries.json"
-        },
-        {
-            "id": "days-of-week",
-            "title": "Days of the Week",
-            "subtitle": "The seven days of the week in English with pronunciation and usage.",
-            "icon": "event",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=days-of-week",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/days-of-week.json"
-        },
-        {
-            "id": "emotional",
-            "title": "Emotional States",
-            "subtitle": "Words to express feelings and emotions in English.",
-            "icon": "favorite",
-            "difficulty": "A1-A2",
-            "href": "vocabulary.php?topic=emotional",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/emotional.json"
-        },
-        {
-            "id": "family",
-            "title": "Family",
-            "subtitle": "Vocabulary for family members and relationships.",
-            "icon": "people",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=family",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/family.json"
-        },
-        {
-            "id": "food",
-            "title": "Food",
-            "subtitle": "Essential vocabulary for food, meals, and dining.",
-            "icon": "restaurant",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=food",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/food.json"
-        },
-        {
-            "id": "frequency-adverbs",
-            "title": "Frequency Adverbs",
-            "subtitle": "Adverbs that describe how often something happens.",
-            "icon": "schedule",
-            "difficulty": "A1-A2",
-            "href": "vocabulary.php?topic=frequency-adverbs",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/frecuency-adverbs.json"
-        },
-        {
-            "id": "halloween",
-            "title": "Halloween",
-            "subtitle": "Vocabulary related to Halloween traditions and celebrations.",
-            "icon": "cake",
-            "difficulty": "A2",
-            "href": "vocabulary.php?topic=halloween",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/halloween.json"
-        },
-        {
-            "id": "movement-prepositions",
-            "title": "Movement Prepositions",
-            "subtitle": "Prepositions of movement and direction: to, from, into, through, and more.",
-            "icon": "directions",
-            "difficulty": "A1-A2",
-            "href": "vocabulary.php?topic=movement-prepositions",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/movement-prepositions.json"
-        },
-        {
-            "id": "nationalities",
-            "title": "Nationalities",
-            "subtitle": "Countries and nationalities from around the world.",
-            "icon": "public",
-            "difficulty": "A1-A2",
-            "href": "vocabulary.php?topic=nationalities",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/nationalities.json"
-        },
-        {
-            "id": "ordinal-numbers",
-            "title": "Ordinal Numbers",
-            "subtitle": "Numbers that show position and order: first, second, third, etc.",
-            "icon": "looks_one",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=ordinal-numbers",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/ordinal-numbers.json"
-        },
-        {
-            "id": "personality",
-            "title": "Personality",
-            "subtitle": "Adjectives to describe character and personality traits.",
-            "icon": "face",
-            "difficulty": "A2-B1",
-            "href": "vocabulary.php?topic=personality",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/personality.json"
-        },
-        {
-            "id": "physical-appearance",
-            "title": "Physical Appearance",
-            "subtitle": "Words to describe how people look: height, build, hair, and more.",
-            "icon": "person",
-            "difficulty": "A1-A2",
-            "href": "vocabulary.php?topic=physical-appearance",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/physical-appearance.json"
-        },
-        {
-            "id": "place-prepositions",
-            "title": "Place Prepositions",
-            "subtitle": "Prepositions of place: in, on, at, under, between, and more.",
-            "icon": "place",
-            "difficulty": "A1-A2",
-            "href": "vocabulary.php?topic=place-prepositions",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/place-prepositions.json"
-        },
-        {
-            "id": "professions",
-            "title": "Professions",
-            "subtitle": "Common jobs, occupations, and professional titles in English.",
-            "icon": "work",
-            "difficulty": "A1-A2",
-            "href": "vocabulary.php?topic=professions",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/professions.json"
-        },
-        {
-            "id": "things",
-            "title": "Things",
-            "subtitle": "Common objects and things we use in daily life.",
-            "icon": "inventory",
-            "difficulty": "A1",
-            "href": "vocabulary.php?topic=things",
-            "src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/things.json"
-        }
-    ]
+	"topics": [
+		{
+			"id": "adjectives",
+			"title": "Adjectives",
+			"subtitle": "Common descriptive adjectives used in everyday English.",
+			"icon": "format_list_bulleted",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=adjectives",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/adjectives.json"
+		},
+		{
+			"id": "cardinal-numbers",
+			"title": "Cardinal Numbers",
+			"subtitle": "Basic numbers in English from zero to one billion.",
+			"icon": "pin",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=cardinal-numbers",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/cardinal-numbers.json"
+		},
+		{
+			"id": "wear",
+			"title": "Clothing & Wear",
+			"subtitle": "Vocabulary for clothes, accessories, and what we wear.",
+			"icon": "checkroom",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=wear",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/wear.json"
+		},
+		{
+			"id": "colours",
+			"title": "Colours",
+			"subtitle": "Essential colour words in English, from basic to advanced shades.",
+			"icon": "palette",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=colours",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/colours.json"
+		},
+		{
+			"id": "countries",
+			"title": "Countries",
+			"subtitle": "Names of countries and nations from around the world.",
+			"icon": "flag",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=countries",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/countries.json"
+		},
+		{
+			"id": "days-of-week",
+			"title": "Days of the Week",
+			"subtitle": "The seven days of the week in English with pronunciation and usage.",
+			"icon": "event",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=days-of-week",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/days-of-week.json"
+		},
+		{
+			"id": "emotional",
+			"title": "Emotional States",
+			"subtitle": "Words to express feelings and emotions in English.",
+			"icon": "favorite",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=emotional",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/emotional.json"
+		},
+		{
+			"id": "family",
+			"title": "Family",
+			"subtitle": "Vocabulary for family members and relationships.",
+			"icon": "people",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=family",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/family.json"
+		},
+		{
+			"id": "food",
+			"title": "Food",
+			"subtitle": "Essential vocabulary for food, meals, and dining.",
+			"icon": "restaurant",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=food",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/food.json"
+		},
+		{
+			"id": "frequency-adverbs",
+			"title": "Frequency Adverbs",
+			"subtitle": "Adverbs that describe how often something happens.",
+			"icon": "schedule",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=frequency-adverbs",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/frecuency-adverbs.json"
+		},
+		{
+			"id": "halloween",
+			"title": "Halloween",
+			"subtitle": "Vocabulary related to Halloween traditions and celebrations.",
+			"icon": "cake",
+			"difficulty": "A2",
+			"href": "vocabulary.php?topic=halloween",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/halloween.json"
+		},
+		{
+			"id": "holidays",
+			"title": "Holidays",
+			"subtitle": "Essential vocabulary for holidays, celebrations, and special occasions around the world.",
+			"icon": "celebration",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=holidays",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/holidays.json"
+		},
+		{
+			"id": "movement-prepositions",
+			"title": "Movement Prepositions",
+			"subtitle": "Prepositions of movement and direction: to, from, into, through, and more.",
+			"icon": "directions",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=movement-prepositions",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/movement-prepositions.json"
+		},
+		{
+			"id": "nationalities",
+			"title": "Nationalities",
+			"subtitle": "Countries and nationalities from around the world.",
+			"icon": "public",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=nationalities",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/nationalities.json"
+		},
+		{
+			"id": "ordinal-numbers",
+			"title": "Ordinal Numbers",
+			"subtitle": "Numbers that show position and order: first, second, third, etc.",
+			"icon": "looks_one",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=ordinal-numbers",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/ordinal-numbers.json"
+		},
+		{
+			"id": "personality",
+			"title": "Personality",
+			"subtitle": "Adjectives to describe character and personality traits.",
+			"icon": "face",
+			"difficulty": "A2-B1",
+			"href": "vocabulary.php?topic=personality",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/personality.json"
+		},
+		{
+			"id": "physical-appearance",
+			"title": "Physical Appearance",
+			"subtitle": "Words to describe how people look: height, build, hair, and more.",
+			"icon": "person",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=physical-appearance",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/physical-appearance.json"
+		},
+		{
+			"id": "place-prepositions",
+			"title": "Place Prepositions",
+			"subtitle": "Prepositions of place: in, on, at, under, between, and more.",
+			"icon": "place",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=place-prepositions",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/place-prepositions.json"
+		},
+		{
+			"id": "professions",
+			"title": "Professions",
+			"subtitle": "Common jobs, occupations, and professional titles in English.",
+			"icon": "work",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=professions",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/professions.json"
+		},
+		{
+			"id": "things",
+			"title": "Things",
+			"subtitle": "Common objects and things we use in daily life.",
+			"icon": "inventory",
+			"difficulty": "A1",
+			"href": "vocabulary.php?topic=things",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/things.json"
+		}
+	]
 }

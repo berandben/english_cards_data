@@ -1,0 +1,640 @@
+{
+    "meta": {
+        "title": "Holidays & Travel Vocabulary",
+        "subtitle": "Essential words for talking about vacations",
+        "description": "Talking about holidays, activities, accommodation and experiences",
+        "difficulty": "A2-B1"
+    },
+    "items": [
+        {
+            "spanish": "Asequible",
+            "english": "Affordable",
+            "sound": "/əˈfɔː.də.bəl/"
+        },
+        {
+            "spanish": "Vacaciones de aventura",
+            "english": "Adventure holiday",
+            "sound": "/ədˈven.tʃə ˈhɒl.ɪ.deɪ/"
+        },
+        {
+            "spanish": "Bien / Aceptable",
+            "english": "All right",
+            "sound": "/ɔːl raɪt/"
+        },
+        {
+            "spanish": "Todo incluido",
+            "english": "All-inclusive",
+            "sound": "/ˌɔːl.ɪnˈkluː.sɪv/"
+        },
+        {
+            "spanish": "Apartamento",
+            "english": "Apartment",
+            "sound": "/əˈpɑːt.mənt/"
+        },
+        {
+            "spanish": "Cajero automático",
+            "english": "ATM / Cash point",
+            "sound": "/ˌeɪ.tiːˈem/ /kæʃ pɔɪnt/"
+        },
+        {
+            "spanish": "Terrible / Horrible",
+            "english": "Awful",
+            "sound": "/ˈɔː.fəl/"
+        },
+        {
+            "spanish": "Mochilero",
+            "english": "Backpacking",
+            "sound": "/ˈbæk.pæk.ɪŋ/"
+        },
+        {
+            "spanish": "Equipaje",
+            "english": "Baggage",
+            "sound": "/ˈbæɡ.ɪdʒ/"
+        },
+        {
+            "spanish": "Ganga",
+            "english": "Bargain",
+            "sound": "/ˈbɑː.ɡən/"
+        },
+        {
+            "spanish": "Básico",
+            "english": "Basic",
+            "sound": "/ˈbeɪ.sɪk/"
+        },
+        {
+            "spanish": "Hermoso / Bello",
+            "english": "Beautiful",
+            "sound": "/ˈbjuː.tɪ.fəl/"
+        },
+        {
+            "spanish": "Vacaciones de playa",
+            "english": "Beach holiday",
+            "sound": "/biːtʃ ˈhɒl.ɪ.deɪ/"
+        },
+        {
+            "spanish": "Reservar",
+            "english": "Book",
+            "sound": "/bʊk/"
+        },
+        {
+            "spanish": "Reserva",
+            "english": "Booking",
+            "sound": "/ˈbʊk.ɪŋ/"
+        },
+        {
+            "spanish": "Presupuesto",
+            "english": "Budget",
+            "sound": "/ˈbʌdʒ.ɪt/"
+        },
+        {
+            "spanish": "Comprar",
+            "english": "Buy",
+            "sound": "/baɪ/"
+        },
+        {
+            "spanish": "Alojamiento con desayuno",
+            "english": "B&B (Bed & Breakfast)",
+            "sound": "/ˌbiː.ənˈbiː/"
+        },
+        {
+            "spanish": "Cabaña",
+            "english": "Cabin",
+            "sound": "/ˈkæb.ɪn/"
+        },
+        {
+            "spanish": "Acampada",
+            "english": "Camping",
+            "sound": "/ˈkæm.pɪŋ/"
+        },
+        {
+            "spanish": "Camping / Lugar de acampada",
+            "english": "Campsite",
+            "sound": "/ˈkæmp.saɪt/"
+        },
+        {
+            "spanish": "Cancelado",
+            "english": "Cancelled",
+            "sound": "/ˈkæn.səld/"
+        },
+        {
+            "spanish": "Escapada urbana",
+            "english": "City break",
+            "sound": "/ˈsɪt.i breɪk/"
+        },
+        {
+            "spanish": "Nublado",
+            "english": "Cloudy",
+            "sound": "/ˈklaʊ.di/"
+        },
+        {
+            "spanish": "Cómodo",
+            "english": "Comfortable",
+            "sound": "/ˈkʌm.fə.tə.bəl/"
+        },
+        {
+            "spanish": "Concurrido / Lleno de gente",
+            "english": "Crowded",
+            "sound": "/ˈkraʊ.dɪd/"
+        },
+        {
+            "spanish": "Crucero",
+            "english": "Cruise",
+            "sound": "/kruːz/"
+        },
+        {
+            "spanish": "Vacaciones culturales",
+            "english": "Cultural holiday",
+            "sound": "/ˈkʌl.tʃər.əl ˈhɒl.ɪ.deɪ/"
+        },
+        {
+            "spanish": "Moneda",
+            "english": "Currency",
+            "sound": "/ˈkʌr.ən.si/"
+        },
+        {
+            "spanish": "Retrasado",
+            "english": "Delayed",
+            "sound": "/dɪˈleɪd/"
+        },
+        {
+            "spanish": "Sucio",
+            "english": "Dirty",
+            "sound": "/ˈdɜː.ti/"
+        },
+        {
+            "spanish": "Descubrir",
+            "english": "Discover",
+            "sound": "/dɪˈskʌv.ər/"
+        },
+        {
+            "spanish": "Explorar",
+            "english": "Explore",
+            "sound": "/ɪkˈsplɔːr/"
+        },
+        {
+            "spanish": "Tipo de cambio",
+            "english": "Exchange rate",
+            "sound": "/ɪksˈtʃeɪndʒ reɪt/"
+        },
+        {
+            "spanish": "Fantástico",
+            "english": "Fantastic",
+            "sound": "/fænˈtæs.tɪk/"
+        },
+        {
+            "spanish": "Festival",
+            "english": "Festival",
+            "sound": "/ˈfes.tɪ.vəl/"
+        },
+        {
+            "spanish": "Vuelo",
+            "english": "Flight",
+            "sound": "/flaɪt/"
+        },
+        {
+            "spanish": "Con niebla",
+            "english": "Foggy",
+            "sound": "/ˈfɒɡ.i/"
+        },
+        {
+            "spanish": "Amigable",
+            "english": "Friendly",
+            "sound": "/ˈfrend.li/"
+        },
+        {
+            "spanish": "Galería",
+            "english": "Gallery",
+            "sound": "/ˈɡæl.ər.i/"
+        },
+        {
+            "spanish": "Ir al extranjero",
+            "english": "Go abroad",
+            "sound": "/ɡəʊ əˈbrɔːd/"
+        },
+        {
+            "spanish": "Irse el fin de semana",
+            "english": "Go away for the weekend",
+            "sound": "/ɡəʊ əˈweɪ fə ðə ˌwiːkˈend/"
+        },
+        {
+            "spanish": "Ir en autobús",
+            "english": "Go by bus",
+            "sound": "/ɡəʊ baɪ bʌs/"
+        },
+        {
+            "spanish": "Ir en coche",
+            "english": "Go by car",
+            "sound": "/ɡəʊ baɪ kɑːr/"
+        },
+        {
+            "spanish": "Ir en avión",
+            "english": "Go by plane",
+            "sound": "/ɡəʊ baɪ pleɪn/"
+        },
+        {
+            "spanish": "Ir en tren",
+            "english": "Go by train",
+            "sound": "/ɡəʊ baɪ treɪn/"
+        },
+        {
+            "spanish": "Ir de camping",
+            "english": "Go camping",
+            "sound": "/ɡəʊ ˈkæm.pɪŋ/"
+        },
+        {
+            "spanish": "Ir en bicicleta",
+            "english": "Go cycling",
+            "sound": "/ɡəʊ ˈsaɪ.klɪŋ/"
+        },
+        {
+            "spanish": "Ir de pesca",
+            "english": "Go fishing",
+            "sound": "/ɡəʊ ˈfɪʃ.ɪŋ/"
+        },
+        {
+            "spanish": "Dar un paseo",
+            "english": "Go for a walk",
+            "sound": "/ɡəʊ fɔːr ə wɔːk/"
+        },
+        {
+            "spanish": "Ir de vacaciones",
+            "english": "Go on holiday",
+            "sound": "/ɡəʊ ɒn ˈhɒl.ɪ.deɪ/"
+        },
+        {
+            "spanish": "Salir por la noche",
+            "english": "Go out at night",
+            "sound": "/ɡəʊ aʊt æt naɪt/"
+        },
+        {
+            "spanish": "Ir a navegar",
+            "english": "Go sailing",
+            "sound": "/ɡəʊ ˈseɪ.lɪŋ/"
+        },
+        {
+            "spanish": "Hacer turismo",
+            "english": "Go sightseeing",
+            "sound": "/ɡəʊ ˈsaɪt.siː.ɪŋ/"
+        },
+        {
+            "spanish": "Ir a esquiar",
+            "english": "Go skiing",
+            "sound": "/ɡəʊ ˈskiː.ɪŋ/"
+        },
+        {
+            "spanish": "Ir a surfear",
+            "english": "Go surfing",
+            "sound": "/ɡəʊ ˈsɜː.fɪŋ/"
+        },
+        {
+            "spanish": "Ir a nadar",
+            "english": "Go swimming",
+            "sound": "/ɡəʊ ˈswɪm.ɪŋ/"
+        },
+        {
+            "spanish": "Ir a caminar",
+            "english": "Go walking",
+            "sound": "/ɡəʊ ˈwɔː.kɪŋ/"
+        },
+        {
+            "spanish": "Genial / Estupendo",
+            "english": "Great",
+            "sound": "/ɡreɪt/"
+        },
+        {
+            "spanish": "Casa de huéspedes",
+            "english": "Guesthouse",
+            "sound": "/ˈɡest.haʊs/"
+        },
+        {
+            "spanish": "Tener / Tomar",
+            "english": "Have",
+            "sound": "/hæv/"
+        },
+        {
+            "spanish": "Servicial",
+            "english": "Helpful",
+            "sound": "/ˈhelp.fəl/"
+        },
+        {
+            "spanish": "Alquilar",
+            "english": "Hire",
+            "sound": "/haɪər/"
+        },
+        {
+            "spanish": "Horrible",
+            "english": "Horrible",
+            "sound": "/ˈhɒr.ə.bəl/"
+        },
+        {
+            "spanish": "Senderismo / Caminata",
+            "english": "Hike",
+            "sound": "/haɪk/"
+        },
+        {
+            "spanish": "Hotel",
+            "english": "Hotel",
+            "sound": "/həʊˈtel/"
+        },
+        {
+            "spanish": "Isla",
+            "english": "Island",
+            "sound": "/ˈaɪ.lənd/"
+        },
+        {
+            "spanish": "Itinerario",
+            "english": "Itinerary",
+            "sound": "/aɪˈtɪn.ər.ər.i/"
+        },
+        {
+            "spanish": "Desfase horario",
+            "english": "Jet lag",
+            "sound": "/ˈdʒet læɡ/"
+        },
+        {
+            "spanish": "Kayak / Piragua",
+            "english": "Kayak",
+            "sound": "/ˈkaɪ.æk/"
+        },
+        {
+            "spanish": "Monumento / Punto de referencia",
+            "english": "Landmark",
+            "sound": "/ˈlænd.mɑːk/"
+        },
+        {
+            "spanish": "Local / Del lugar",
+            "english": "Local",
+            "sound": "/ˈləʊ.kəl/"
+        },
+        {
+            "spanish": "Perdido",
+            "english": "Lost",
+            "sound": "/lɒst/"
+        },
+        {
+            "spanish": "Encantador",
+            "english": "Lovely",
+            "sound": "/ˈlʌv.li/"
+        },
+        {
+            "spanish": "Equipaje",
+            "english": "Luggage",
+            "sound": "/ˈlʌɡ.ɪdʒ/"
+        },
+        {
+            "spanish": "Lujoso",
+            "english": "Luxurious",
+            "sound": "/lʌɡˈʒʊə.ri.əs/"
+        },
+        {
+            "spanish": "Memorable",
+            "english": "Memorable",
+            "sound": "/ˈmem.ər.ə.bəl/"
+        },
+        {
+            "spanish": "Monumento",
+            "english": "Monument",
+            "sound": "/ˈmɒn.jə.mənt/"
+        },
+        {
+            "spanish": "Montaña",
+            "english": "Mountain",
+            "sound": "/ˈmaʊn.tɪn/"
+        },
+        {
+            "spanish": "Museo",
+            "english": "Museum",
+            "sound": "/mjuːˈziː.əm/"
+        },
+        {
+            "spanish": "Ruidoso",
+            "english": "Noisy",
+            "sound": "/ˈnɔɪ.zi/"
+        },
+        {
+            "spanish": "No está mal",
+            "english": "Not bad",
+            "sound": "/nɒt bæd/"
+        },
+        {
+            "spanish": "Sobre-reservado",
+            "english": "Overbooked",
+            "sound": "/ˌəʊ.vəˈbʊkt/"
+        },
+        {
+            "spanish": "Sobrevalorado",
+            "english": "Overrated",
+            "sound": "/ˌəʊ.vəˈreɪ.tɪd/"
+        },
+        {
+            "spanish": "Vacaciones organizadas",
+            "english": "Package holiday",
+            "sound": "/ˈpæk.ɪdʒ ˈhɒl.ɪ.deɪ/"
+        },
+        {
+            "spanish": "Pasaporte",
+            "english": "Passport",
+            "sound": "/ˈpɑː.spɔːt/"
+        },
+        {
+            "spanish": "Tranquilo",
+            "english": "Peaceful",
+            "sound": "/ˈpiːs.fəl/"
+        },
+        {
+            "spanish": "Picnic",
+            "english": "Picnic",
+            "sound": "/ˈpɪk.nɪk/"
+        },
+        {
+            "spanish": "Pintoresco",
+            "english": "Picturesque",
+            "sound": "/ˌpɪk.tʃərˈesk/"
+        },
+        {
+            "spanish": "Relajarse",
+            "english": "Relax",
+            "sound": "/rɪˈlæks/"
+        },
+        {
+            "spanish": "Complejo turístico",
+            "english": "Resort",
+            "sound": "/rɪˈzɔːt/"
+        },
+        {
+            "spanish": "Reserva",
+            "english": "Reservation",
+            "sound": "/ˌrez.əˈveɪ.ʃən/"
+        },
+        {
+            "spanish": "Viaje por carretera",
+            "english": "Road trip",
+            "sound": "/rəʊd trɪp/"
+        },
+        {
+            "spanish": "Quedarse sin dinero",
+            "english": "Run out of money",
+            "sound": "/rʌn aʊt əv ˈmʌn.i/"
+        },
+        {
+            "spanish": "Pintoresco / Con vistas",
+            "english": "Scenic",
+            "sound": "/ˈsiː.nɪk/"
+        },
+        {
+            "spanish": "Bucear",
+            "english": "Scuba dive",
+            "sound": "/ˈskuː.bə daɪv/"
+        },
+        {
+            "spanish": "Mareado (en el mar)",
+            "english": "Seasick",
+            "sound": "/ˈsiː.sɪk/"
+        },
+        {
+            "spanish": "Hacer snorkel",
+            "english": "Snorkel",
+            "sound": "/ˈsnɔː.kəl/"
+        },
+        {
+            "spanish": "Recuerdo",
+            "english": "Souvenir",
+            "sound": "/ˌsuː.vəˈnɪər/"
+        },
+        {
+            "spanish": "Gastar",
+            "english": "Spend",
+            "sound": "/spend/"
+        },
+        {
+            "spanish": "Alojarse / Quedarse",
+            "english": "Stay",
+            "sound": "/steɪ/"
+        },
+        {
+            "spanish": "Impresionante",
+            "english": "Stunning",
+            "sound": "/ˈstʌn.ɪŋ/"
+        },
+        {
+            "spanish": "Maleta",
+            "english": "Suitcase",
+            "sound": "/ˈsuːt.keɪs/"
+        },
+        {
+            "spanish": "Tomar el sol",
+            "english": "Sunbathe",
+            "sound": "/ˈsʌn.beɪð/"
+        },
+        {
+            "spanish": "Quemadura solar",
+            "english": "Sunburn",
+            "sound": "/ˈsʌn.bɜːn/"
+        },
+        {
+            "spanish": "Soleado",
+            "english": "Sunny",
+            "sound": "/ˈsʌn.i/"
+        },
+        {
+            "spanish": "Tomar / Llevar",
+            "english": "Take",
+            "sound": "/teɪk/"
+        },
+        {
+            "spanish": "Hacer fotos",
+            "english": "Take photos",
+            "sound": "/teɪk ˈfəʊ.təʊz/"
+        },
+        {
+            "spanish": "Terrible",
+            "english": "Terrible",
+            "sound": "/ˈter.ə.bəl/"
+        },
+        {
+            "spanish": "Propina",
+            "english": "Tip",
+            "sound": "/tɪp/"
+        },
+        {
+            "spanish": "Guía turístico",
+            "english": "Tour guide",
+            "sound": "/tʊə ɡaɪd/"
+        },
+        {
+            "spanish": "Turista",
+            "english": "Tourist",
+            "sound": "/ˈtʊə.rɪst/"
+        },
+        {
+            "spanish": "Muy turístico",
+            "english": "Touristy",
+            "sound": "/ˈtʊə.rɪs.ti/"
+        },
+        {
+            "spanish": "Viajero",
+            "english": "Traveler",
+            "sound": "/ˈtræv.əl.ər/"
+        },
+        {
+            "spanish": "Seguro de viaje",
+            "english": "Travel insurance",
+            "sound": "/ˈtræv.əl ɪnˈʃʊə.rəns/"
+        },
+        {
+            "spanish": "Caminata larga / Senderismo",
+            "english": "Trek",
+            "sound": "/trek/"
+        },
+        {
+            "spanish": "Sendero",
+            "english": "Trail",
+            "sound": "/treɪl/"
+        },
+        {
+            "spanish": "Tradición",
+            "english": "Tradition",
+            "sound": "/trəˈdɪʃ.ən/"
+        },
+        {
+            "spanish": "Inolvidable",
+            "english": "Unforgettable",
+            "sound": "/ˌʌn.fəˈɡet.ə.bəl/"
+        },
+        {
+            "spanish": "Visado",
+            "english": "Visa",
+            "sound": "/ˈviː.zə/"
+        },
+        {
+            "spanish": "Villa",
+            "english": "Villa",
+            "sound": "/ˈvɪl.ə/"
+        },
+        {
+            "spanish": "Cálido",
+            "english": "Warm",
+            "sound": "/wɔːm/"
+        },
+        {
+            "spanish": "Clima / Tiempo",
+            "english": "Weather",
+            "sound": "/ˈweð.ər/"
+        },
+        {
+            "spanish": "Ventoso",
+            "english": "Windy",
+            "sound": "/ˈwɪn.di/"
+        },
+        {
+            "spanish": "Maravilloso",
+            "english": "Wonderful",
+            "sound": "/ˈwʌn.də.fəl/"
+        },
+        {
+            "spanish": "Tirolina",
+            "english": "Zip-line",
+            "sound": "/ˈzɪp.laɪn/"
+        }
+    ]
+}
