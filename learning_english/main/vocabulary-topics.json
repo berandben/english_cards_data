@@ -10,6 +10,15 @@
 			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/adjectives.json"
 		},
 		{
+			"id": "airport",
+			"title": "Airport",
+			"subtitle": "Essential vocabulary for airports, flights, and air travel procedures.",
+			"icon": "flight",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=airport",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/airport.json"
+		},
+		{
 			"id": "cardinal-numbers",
 			"title": "Cardinal Numbers",
 			"subtitle": "Basic numbers in English from zero to one billion.",
