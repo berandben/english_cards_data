@@ -445,6 +445,11 @@
             "english": "Picnic",
             "sound": "/ˈpɪk.nɪk/"
         },
+         {
+            "spanish": "Recoger a el/ella",
+            "english": "Pick him/her up",
+            "sound": "/pɪk ʌp/"
+        },
         {
             "spanish": "Pintoresco",
             "english": "Picturesque",
@@ -536,7 +541,7 @@
             "sound": "/ˈsʌn.i/"
         },
         {
-            "spanish": "Tomar / Llevar",
+            "spanish": "Llevar a",
             "english": "Take",
             "sound": "/teɪk/"
         },
