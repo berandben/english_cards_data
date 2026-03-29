@@ -95,6 +95,16 @@
 			"href": "grammar.html?topic=connectors-and-paragraphs",
 			"tags": []
 		},
+		{
+			"id": "demonstratives",
+			"title": "Demonstratives",
+			"subtitle": "This, That, These, Those",
+			"icon": "👆",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/demonstratives.json",
+			"href": "grammar.html?topic=demonstratives",
+			"tags": []
+		},
 
 		{
 			"id": "verb-patterns",

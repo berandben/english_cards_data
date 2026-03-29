@@ -1,0 +1,130 @@
+{
+    "slug": "demonstratives",
+    "meta": {
+        "title": "Demonstratives",
+        "subtitle": "This, That, These, and Those",
+        "difficulty": "A2",
+        "tags": [
+            "grammar",
+            "determiners",
+            "pronouns"
+        ],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-demonstratives-intro",
+            "title": "When to use",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "Demonstratives show where an object or person is in relation to the speaker. They can indicate physical distance or distance in time.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "EXAMPLE",
+                    "content": "",
+                    "items": [
+                        "@_This is my coffee (here)",
+                        "@_That is my car over there (far)",
+                        "@_These are my keys (in my hand)",
+                        "@_Those are birds in the sky (far)"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-demonstratives-rules",
+            "title": "Write Rules",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Demonstrative Rules",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Distance",
+                        "Singular",
+                        "Plural"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Near",
+                            "items": [
+                                [
+                                    "Physical / Time",
+                                    "This (This apple)",
+                                    "These (These apples)"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Far",
+                            "items": [
+                                [
+                                    "Physical / Time",
+                                    "That (That star)",
+                                    "Those (Those stars)"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-usage-details",
+            "title": "Usage and Tips",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "TIME CONTEXT",
+                    "content": "We also use them to talk about time:",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "TIPS",
+                    "content": "",
+                    "items": [
+                        "Use 'This' for current or future periods (This week, this summer)",
+                        "Use 'That' for finished periods in the past (That day was great)",
+                        "Introduce people: 'This is my brother, Mark'",
+                        "On the phone: 'Hello, this is Sarah' (not 'I am Sarah')"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
