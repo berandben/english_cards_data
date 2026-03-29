@@ -1,0 +1,199 @@
+{
+    "slug": "prepositions-at-in-on",
+    "meta": {
+        "title": "Prepositions: At, In, On",
+        "subtitle": "Time, Place, and Movement",
+        "difficulty": "A2",
+        "tags": [
+            "prepositions",
+            "grammar",
+            "writing"
+        ],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-usage-summary",
+            "title": "When to use",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "Prepositions of time and place are used to show when or where something happens. 'In' is for general periods/enclosed spaces, 'On' for days/surfaces, and 'At' for specific points.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "QUICK TIPS",
+                    "content": "",
+                    "items": [
+                        "@_In the morning/afternoon/evening BUT At night",
+                        "@_On for days (Monday) and specific dates (May 5th)",
+                        "@_At for exact times (7:30) and specific locations (at the door)",
+                        "@_Transport: On for public (bus/train), In for private (car/taxi)"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-prepositions-time",
+            "title": "Prepositions of Time",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Time Rules",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Preposition",
+                        "Usage"
+                    ],
+                    "rows": [
+                        {
+                            "group": "IN (Periods/General)",
+                            "items": [
+                                [
+                                    "Months",
+                                    "In February / In June"
+                                ],
+                                [
+                                    "Seasons",
+                                    "In the winter"
+                                ],
+                                [
+                                    "Years",
+                                    "In 2026"
+                                ],
+                                [
+                                    "Times of day",
+                                    "In the morning / In the evening"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "ON (Specific Days/Dates)",
+                            "items": [
+                                [
+                                    "Days",
+                                    "On Tuesday / On New Year's Day / On Valentine's Day"
+                                ],
+                                [
+                                    "Specific Dates",
+                                    "On 1st March "
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "AT (Precise Points)",
+                            "items": [
+                                [
+                                    "Clock Times",
+                                    "At six o'clock / At half past two"
+                                ],
+                                [
+                                    "Moments",
+                                    "At night / At the weekend"
+                                ],
+                                [
+                                    "Festival Periods",
+                                    "At Christmas / At Easter"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-prepositions-place",
+            "title": "Prepositions of Place & Transport",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Place & Movement Rules",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Preposition",
+                        "Usage"
+                    ],
+                    "rows": [
+                        {
+                            "group": "IN (Enclosed/Large)",
+                            "items": [
+                                [
+                                    "Cities/Countries",
+                                    "In Spain / In Madrid"
+                                ],
+                                [
+                                    "Rooms/Buildings",
+                                    "In the kitchen / In a shop / In a museum"
+                                ],
+                                [
+                                    "Closed Spaces",
+                                    "In a park / In a garden / In a car"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "ON (Surfaces/Public Transport)",
+                            "items": [
+                                [
+                                    "Surfaces",
+                                    "On the floor / On the table / On the wall"
+                                ],
+                                [
+                                    "Transport (walkable)",
+                                    "On a bike / On the bus / On the train / On a plane"
+                                ],
+                                [
+                                    "Outdoor Surfaces",
+                                    "On the balcony / On the roof"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "AT (Specific Points)",
+                            "items": [
+                                [
+                                    "Locations",
+                                    "At school / At home / At work / At university"
+                                ],
+                                [
+                                    "Travel Points",
+                                    "At the airport / At the station / At the bus stop"
+                                ],
+                                [
+                                    "Social/Exact Point",
+                                    "At the party / At the door"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
