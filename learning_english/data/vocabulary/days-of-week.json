@@ -1,44 +1,29 @@
 {
-    "meta": {
-        "title": "Days of the Week",
-        "subtitle": "Names of the days in English.",
-        "difficulty": "A1"
-    },
-    "items": [
-        {
-            "spanish": "Lunes",
-            "english": "Monday",
-            "sound": "/ˈmʌn.deɪ/"
-        },
-        {
-            "spanish": "Martes",
-            "english": "Tuesday",
-            "sound": "/ˈtjuːz.deɪ/"
-        },
-        {
-            "spanish": "Miércoles",
-            "english": "Wednesday",
-            "sound": "/ˈwenz.deɪ/"
-        },
-        {
-            "spanish": "Jueves",
-            "english": "Thursday",
-            "sound": "/ˈθɜːz.deɪ/"
-        },
-        {
-            "spanish": "Viernes",
-            "english": "Friday",
-            "sound": "/ˈfraɪ.deɪ/"
-        },
-        {
-            "spanish": "Sábado",
-            "english": "Saturday",
-            "sound": "/ˈsæt.ə.deɪ/"
-        },
-        {
-            "spanish": "Domingo",
-            "english": "Sunday",
-            "sound": "/ˈsʌn.deɪ/"
-        }
-    ]
+	"meta": {
+		"title": "Days and Months",
+		"subtitle": "Names of the days and months",
+		"difficulty": "A1"
+	},
+	"items": [
+		{ "spanish": "Lunes", "english": "Monday", "sound": "/ˈmʌn.deɪ/" },
+		{ "spanish": "Martes", "english": "Tuesday", "sound": "/ˈtjuːz.deɪ/" },
+		{ "spanish": "Miércoles", "english": "Wednesday", "sound": "/ˈwenz.deɪ/" },
+		{ "spanish": "Jueves", "english": "Thursday", "sound": "/ˈθɜːz.deɪ/" },
+		{ "spanish": "Viernes", "english": "Friday", "sound": "/ˈfraɪ.deɪ/" },
+		{ "spanish": "Sábado", "english": "Saturday", "sound": "/ˈsæt.ə.deɪ/" },
+		{ "spanish": "Domingo", "english": "Sunday", "sound": "/ˈsʌn.deɪ/" },
+
+		{ "spanish": "Enero", "english": "January", "sound": "/ˈdʒæn.ju.ə.ri/" },
+		{ "spanish": "Febrero", "english": "February", "sound": "/ˈfeb.ruː.ə.ri/" },
+		{ "spanish": "Marzo", "english": "March", "sound": "/mɑːrtʃ/" },
+		{ "spanish": "Abril", "english": "April", "sound": "/ˈeɪ.prəl/" },
+		{ "spanish": "Mayo", "english": "May", "sound": "/meɪ/" },
+		{ "spanish": "Junio", "english": "June", "sound": "/dʒuːn/" },
+		{ "spanish": "Julio", "english": "July", "sound": "/dʒʊˈlaɪ/" },
+		{ "spanish": "Agosto", "english": "August", "sound": "/ˈɔː.gəst/" },
+		{ "spanish": "Septiembre", "english": "September", "sound": "/sɛpˈtem.bər/" },
+		{ "spanish": "Octubre", "english": "October", "sound": "/ɒkˈtoʊ.bər/" },
+		{ "spanish": "Noviembre", "english": "November", "sound": "/noʊˈvem.bər/" },
+		{ "spanish": "Diciembre", "english": "December", "sound": "/dɪˈsem.bər/" }
+	]
 }

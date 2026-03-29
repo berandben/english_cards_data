@@ -1,189 +1,194 @@
 {
-    "meta": {
-        "title": "Clothes and Accessories",
-        "subtitle": "Vocabulary for clothing and jewelry",
-        "difficulty": "A1"
-    },
-    "items": [
-        {
-            "spanish": "Cinturón",
-            "english": "Belt",
-            "sound": "/bɛlt/"
-        },
-        {
-            "spanish": "Blusa",
-            "english": "Blouse",
-            "sound": "/blaʊz/"
-        },
-        {
-            "spanish": "Botas",
-            "english": "Boots",
-            "sound": "/buːts/"
-        },
-        {
-            "spanish": "Pulsera",
-            "english": "Bracelet",
-            "sound": "/ˈbreɪ.slət/"
-        },
-        {
-            "spanish": "Gorra",
-            "english": "Cap",
-            "sound": "/kæp/"
-        },
-        {
-            "spanish": "Cárdigan",
-            "english": "Cardigan",
-            "sound": "/ˈkɑː.dɪ.ɡən/"
-        },
-        {
-            "spanish": "Abrigo",
-            "english": "Coat",
-            "sound": "/kəʊt/"
-        },
-        {
-            "spanish": "Vestido",
-            "english": "Dress",
-            "sound": "/drɛs/"
-        },
-        {
-            "spanish": "Pendientes",
-            "english": "Earrings",
-            "sound": "/ˈɪə.rɪŋz/"
-        },
-        {
-            "spanish": "Chancletas",
-            "english": "Flip-flops",
-            "sound": "/ˈflɪp.flɒps/"
-        },
-        {
-            "spanish": "Guantes",
-            "english": "Gloves",
-            "sound": "/ɡlʌvz/"
-        },
-        {
-            "spanish": "Sombrero",
-            "english": "Hat",
-            "sound": "/hæt/"
-        },
-        {
-            "spanish": "Sudadera con capucha",
-            "english": "Hoodie",
-            "sound": "/ˈhʊd.i/"
-        },
-        {
-            "spanish": "Chaqueta",
-            "english": "Jacket",
-            "sound": "/ˈdʒæk.ɪt/"
-        },
-        {
-            "spanish": "Vaqueros",
-            "english": "Jeans",
-            "sound": "/dʒiːnz/"
-        },
-        {
-            "spanish": "Jersey",
-            "english": "Jumper",
-            "sound": "/ˈdʒʌm.pər/"
-        },
-        {
-            "spanish": "Mallas",
-            "english": "Leggings",
-            "sound": "/ˈlɛɡ.ɪŋz/"
-        },
-        {
-            "spanish": "Collar",
-            "english": "Necklace",
-            "sound": "/ˈnɛk.ləs/"
-        },
-        {
-            "spanish": "Pijama",
-            "english": "Pyjamas",
-            "sound": "/pɪˈdʒɑː.məz/"
-        },
-        {
-            "spanish": "Anillo",
-            "english": "Ring",
-            "sound": "/rɪŋ/"
-        },
-        {
-            "spanish": "Sandalias",
-            "english": "Sandals",
-            "sound": "/ˈsæn.dəlz/"
-        },
-        {
-            "spanish": "Bufanda",
-            "english": "Scarf",
-            "sound": "/skɑːf/"
-        },
-        {
-            "spanish": "Camisa",
-            "english": "Shirt",
-            "sound": "/ʃɜːt/"
-        },
-        {
-            "spanish": "Zapatos",
-            "english": "Shoes",
-            "sound": "/ʃuːz/"
-        },
-        {
-            "spanish": "Pantalones cortos",
-            "english": "Shorts",
-            "sound": "/ʃɔːts/"
-        },
-        {
-            "spanish": "Falda",
-            "english": "Skirt",
-            "sound": "/skɜːt/"
-        },
-        {
-            "spanish": "Calcetines",
-            "english": "Socks",
-            "sound": "/sɒks/"
-        },
-        {
-            "spanish": "Traje",
-            "english": "Suit",
-            "sound": "/suːt/"
-        },
-        {
-            "spanish": "Corbata",
-            "english": "Tie",
-            "sound": "/taɪ/"
-        },
-        {
-            "spanish": "Medias",
-            "english": "Tights",
-            "sound": "/taɪts/"
-        },
-        {
-            "spanish": "Top",
-            "english": "Top",
-            "sound": "/tɒp/"
-        },
-        {
-            "spanish": "Chándal",
-            "english": "Tracksuit",
-            "sound": "/ˈtræk.suːt/"
-        },
-        {
-            "spanish": "Zapatillas deportivas",
-            "english": "Trainers",
-            "sound": "/ˈtreɪ.nəz/"
-        },
-        {
-            "spanish": "Pantalones",
-            "english": "Trousers",
-            "sound": "/ˈtraʊ.zəz/"
-        },
-        {
-            "spanish": "Camiseta",
-            "english": "T-shirt",
-            "sound": "/ˈtiː.ʃɜːt/"
-        },
-        {
-            "spanish": "Ropa interior",
-            "english": "Underwear",
-            "sound": "/ˈʌn.də.weər/"
-        }
-    ]
+	"meta": {
+		"title": "Clothes and Accessories",
+		"subtitle": "Vocabulary for clothing and jewelry",
+		"difficulty": "A1"
+	},
+	"items": [
+		{
+			"spanish": "Cinturón",
+			"english": "Belt",
+			"sound": "/bɛlt/"
+		},
+		{
+			"spanish": "Blusa",
+			"english": "Blouse",
+			"sound": "/blaʊz/"
+		},
+		{
+			"spanish": "Botas",
+			"english": "Boots",
+			"sound": "/buːts/"
+		},
+		{
+			"spanish": "Pulsera",
+			"english": "Bracelet",
+			"sound": "/ˈbreɪ.slət/"
+		},
+		{
+			"spanish": "Gorra",
+			"english": "Cap",
+			"sound": "/kæp/"
+		},
+		{
+			"spanish": "Cárdigan",
+			"english": "Cardigan",
+			"sound": "/ˈkɑː.dɪ.ɡən/"
+		},
+		{
+			"spanish": "Abrigo",
+			"english": "Coat",
+			"sound": "/kəʊt/"
+		},
+		{
+			"spanish": "Vestido",
+			"english": "Dress",
+			"sound": "/drɛs/"
+		},
+		{
+			"spanish": "Pendientes",
+			"english": "Earrings",
+			"sound": "/ˈɪə.rɪŋz/"
+		},
+		{
+			"spanish": "Chancletas",
+			"english": "Flip-flops",
+			"sound": "/ˈflɪp.flɒps/"
+		},
+		{
+			"spanish": "Guantes",
+			"english": "Gloves",
+			"sound": "/ɡlʌvz/"
+		},
+		{
+			"spanish": "Sombrero",
+			"english": "Hat",
+			"sound": "/hæt/"
+		},
+		{
+			"spanish": "Sudadera con capucha",
+			"english": "Hoodie",
+			"sound": "/ˈhʊd.i/"
+		},
+		{
+			"spanish": "Chaqueta",
+			"english": "Jacket",
+			"sound": "/ˈdʒæk.ɪt/"
+		},
+		{
+			"spanish": "Vaqueros",
+			"english": "Jeans",
+			"sound": "/dʒiːnz/"
+		},
+		{
+			"spanish": "Jersey",
+			"english": "Jumper",
+			"sound": "/ˈdʒʌm.pər/"
+		},
+		{
+			"spanish": "Mallas",
+			"english": "Leggings",
+			"sound": "/ˈlɛɡ.ɪŋz/"
+		},
+		{
+			"spanish": "Collar",
+			"english": "Necklace",
+			"sound": "/ˈnɛk.ləs/"
+		},
+		{
+			"spanish": "Bolso",
+			"english": "Purse",
+			"sound": "/pɪˈdʒɑː.məz/"
+		},
+		{
+			"spanish": "Pijama",
+			"english": "Pyjamas",
+			"sound": "/pɪˈdʒɑː.məz/"
+		},
+		{
+			"spanish": "Anillo",
+			"english": "Ring",
+			"sound": "/rɪŋ/"
+		},
+		{
+			"spanish": "Sandalias",
+			"english": "Sandals",
+			"sound": "/ˈsæn.dəlz/"
+		},
+		{
+			"spanish": "Bufanda",
+			"english": "Scarf",
+			"sound": "/skɑːf/"
+		},
+		{
+			"spanish": "Camisa",
+			"english": "Shirt",
+			"sound": "/ʃɜːt/"
+		},
+		{
+			"spanish": "Zapatos",
+			"english": "Shoes",
+			"sound": "/ʃuːz/"
+		},
+		{
+			"spanish": "Pantalones cortos",
+			"english": "Shorts",
+			"sound": "/ʃɔːts/"
+		},
+		{
+			"spanish": "Falda",
+			"english": "Skirt",
+			"sound": "/skɜːt/"
+		},
+		{
+			"spanish": "Calcetines",
+			"english": "Socks",
+			"sound": "/sɒks/"
+		},
+		{
+			"spanish": "Traje",
+			"english": "Suit",
+			"sound": "/suːt/"
+		},
+		{
+			"spanish": "Corbata",
+			"english": "Tie",
+			"sound": "/taɪ/"
+		},
+		{
+			"spanish": "Medias",
+			"english": "Tights",
+			"sound": "/taɪts/"
+		},
+		{
+			"spanish": "Top",
+			"english": "Top",
+			"sound": "/tɒp/"
+		},
+		{
+			"spanish": "Chándal",
+			"english": "Tracksuit",
+			"sound": "/ˈtræk.suːt/"
+		},
+		{
+			"spanish": "Zapatillas deportivas",
+			"english": "Trainers",
+			"sound": "/ˈtreɪ.nəz/"
+		},
+		{
+			"spanish": "Pantalones",
+			"english": "Trousers",
+			"sound": "/ˈtraʊ.zəz/"
+		},
+		{
+			"spanish": "Camiseta",
+			"english": "T-shirt",
+			"sound": "/ˈtiː.ʃɜːt/"
+		},
+		{
+			"spanish": "Ropa interior",
+			"english": "Underwear",
+			"sound": "/ˈʌn.də.weər/"
+		}
+	]
 }
