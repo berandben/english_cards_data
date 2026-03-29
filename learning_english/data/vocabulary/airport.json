@@ -1,274 +1,67 @@
 {
- "meta": {
-  "title": "Airport and Travel",
-  "subtitle": "Vocabulary for airports and flights",
-  "difficulty": "A1/A2"
- },
- "items": [
-  {
-   "spanish": "Aeropuerto",
-   "english": "airport",
-   "sound": "/ˈeə.pɔːt/"
+  "meta": {
+    "title": "Airport and Travel",
+    "subtitle": "Vocabulary for airports and flights",
+    "difficulty": "A1/A2"
   },
-  {
-   "spanish": "Llegadas",
-   "english": "arrivals",
-   "sound": "/əˈraɪ.vəlz/"
-  },
-  {
-   "spanish": "Deja de equipaje",
-   "english": "bag drop",
-   "sound": "/ˈbæɡ drɒp/"
-  },
-  {
-   "spanish": "Equipaje",
-   "english": "baggage / luggage",
-   "sound": "/ˈbæɡ.ɪdʒ/"
-  },
-  {
-   "spanish": "Recogida de equipaje",
-   "english": "baggage reclaim",
-   "sound": "/ˈbæɡ.ɪdʒ rɪˈkleɪm/"
-  },
-  {
-   "spanish": "Etiqueta de equipaje / Ticket de reclamo",
-   "english": "baggage tag / claim ticket",
-   "sound": "/ˈbæɡ.ɪdʒ tæɡ/"
-  },
-  {
-   "spanish": "Tarjeta de embarque",
-   "english": "boarding pass",
-   "sound": "/ˈbɔː.dɪŋ pɑːs/"
-  },
-  {
-   "spanish": "Hora de embarque",
-   "english": "boarding time",
-   "sound": "/ˈbɔː.dɪŋ taɪm/"
-  },
-  {
-   "spanish": "Cafetería / Restaurante",
-   "english": "café / restaurant",
-   "sound": "/ˈkæf.eɪ/"
-  },
-  {
-   "spanish": "Cancelado",
-   "english": "cancelled",
-   "sound": "/ˈkæn.səld/"
-  },
-  {
-   "spanish": "Equipaje de mano",
-   "english": "carry-on / hand luggage",
-   "sound": "/ˈkær.i.ɒn/"
-  },
-  {
-   "spanish": "Facturación / Registro",
-   "english": "check-in",
-   "sound": "/ˈtʃek.ɪn/"
-  },
-  {
-   "spanish": "Equipaje facturado",
-   "english": "checked bag",
-   "sound": "/ˈtʃekt bæɡ/"
-  },
-  {
-   "spanish": "Vuelo de conexión",
-   "english": "connecting flight",
-   "sound": "/kəˈnek.tɪŋ flaɪt/"
-  },
-  {
-   "spanish": "Aduana",
-   "english": "customs",
-   "sound": "/ˈkʌs.təmz/"
-  },
-  {
-   "spanish": "Retrasado",
-   "english": "delayed",
-   "sound": "/dɪˈleɪd/"
-  },
-  {
-   "spanish": "Panel de salidas / llegadas",
-   "english": "departure board / arrival board",
-   "sound": "/dɪˈpɑː.tʃə bɔːd/"
-  },
-  {
-   "spanish": "Salidas",
-   "english": "departures",
-   "sound": "/dɪˈpɑː.tʃəz/"
-  },
-  {
-   "spanish": "Destino",
-   "english": "destination",
-   "sound": "/ˌdes.tɪˈneɪ.ʃən/"
-  },
-  {
-   "spanish": "Tienda libre de impuestos",
-   "english": "duty-free shop",
-   "sound": "/ˈdjuː.ti ˌfriː/"
-  },
-  {
-   "spanish": "Escalera mecánica",
-   "english": "escalator",
-   "sound": "/ˈes.kə.leɪ.tər/"
-  },
-  {
-   "spanish": "Salida / Entrada",
-   "english": "exit / entrance",
-   "sound": "/ˈek.sɪt/"
-  },
-  {
-   "spanish": "Última llamada",
-   "english": "final call",
-   "sound": "/ˈfaɪ.nəl kɔːl/"
-  },
-  {
-   "spanish": "Vuelo",
-   "english": "flight",
-   "sound": "/flaɪt/"
-  },
-  {
-   "spanish": "Auxiliar de vuelo",
-   "english": "flight attendant",
-   "sound": "/flaɪt əˈten.dənt/"
-  },
-  {
-   "spanish": "Puertas",
-   "english": "gates",
-   "sound": "/ɡeɪts/"
-  },
-  {
-   "spanish": "Identificación / Carnet de identidad",
-   "english": "ID / identity card",
-   "sound": "/ˌaɪˈdiː/"
-  },
-  {
-   "spanish": "Mostrador de información",
-   "english": "information desk",
-   "sound": "/ˌɪn.fəˈmeɪ.ʃən desk/"
-  },
-  {
-   "spanish": "Aseo / Baño",
-   "english": "lavatory / toilet",
-   "sound": "/ˈlæv.ə.tər.i/"
-  },
-  {
-   "spanish": "Ascensores",
-   "english": "lifts",
-   "sound": "/lɪfts/"
-  },
-  {
-   "spanish": "Sala de espera",
-   "english": "lounge",
-   "sound": "/laʊndʒ/"
-  },
-  {
-   "spanish": "Objetos perdidos",
-   "english": "lost and found",
-   "sound": "/lɒst ənd faʊnd/"
-  },
-  {
-   "spanish": "Silla de masaje",
-   "english": "massage chair",
-   "sound": "/ˈmæs.ɪdʒ tʃeər/"
-  },
-  {
-   "spanish": "A tiempo",
-   "english": "on time",
-   "sound": "/ɒn taɪm/"
-  },
-  {
-   "spanish": "Compartimento superior",
-   "english": "overhead bin",
-   "sound": "/ˌəʊ.vəˈhed bɪn/"
-  },
-  {
-   "spanish": "Pasaporte",
-   "english": "passport",
-   "sound": "/ˈpɑː.spɔːt/"
-  },
-  {
-   "spanish": "Control de pasaportes",
-   "english": "passport control",
-   "sound": "/ˈpɑː.spɔːt kənˈtrəʊl/"
-  },
-  {
-   "spanish": "Piloto",
-   "english": "pilot",
-   "sound": "/ˈpaɪ.lət/"
-  },
-  {
-   "spanish": "Avión / Aeronave",
-   "english": "plane / aircraft",
-   "sound": "/pleɪn/"
-  },
-  {
-   "spanish": "Báscula",
-   "english": "scale",
-   "sound": "/skeɪl/"
-  },
-  {
-   "spanish": "Pantalla / Monitor",
-   "english": "screen / monitor",
-   "sound": "/skriːn/"
-  },
-  {
-   "spanish": "Asiento",
-   "english": "seat",
-   "sound": "/siːt/"
-  },
-  {
-   "spanish": "Cinturón de seguridad",
-   "english": "seatbelt",
-   "sound": "/ˈsiːt.belt/"
-  },
-  {
-   "spanish": "Control de seguridad",
-   "english": "security check",
-   "sound": "/sɪˈkjʊə.rə.ti tʃek/"
-  },
-  {
-   "spanish": "Señal / Señal de dirección",
-   "english": "sign / direction sign",
-   "sound": "/saɪn/"
-  },
-  {
-   "spanish": "Escala",
-   "english": "stopover",
-   "sound": "/ˈstɒp.əʊ.vər/"
-  },
-  {
-   "spanish": "Maleta",
-   "english": "suitcase",
-   "sound": "/ˈsuːt.keɪs/"
-  },
-  {
-   "spanish": "Terminal",
-   "english": "terminal",
-   "sound": "/ˈtɜː.mɪ.nəl/"
-  },
-  {
-   "spanish": "Billete / Billete electrónico",
-   "english": "ticket / e-ticket",
-   "sound": "/ˈtɪk.ɪt/"
-  },
-  {
-   "spanish": "Carrito",
-   "english": "trolley",
-   "sound": "/ˈtrɒl.i/"
-  },
-  {
-   "spanish": "Visado",
-   "english": "visa",
-   "sound": "/ˈviː.zə/"
-  },
-  {
-   "spanish": "Zona de espera",
-   "english": "waiting area",
-   "sound": "/ˈweɪ.tɪŋ ˌeə.ri.ə/"
-  },
-  {
-   "spanish": "Asiento de ventana / pasillo",
-   "english": "window seat / aisle seat",
-   "sound": "/ˈwɪn.dəʊ siːt/"
-  }
- ]
+  "items": [
+    { "spanish": "Aeropuerto", "english": "airport", "sound": "/ˈeə.pɔːt/" },
+    { "spanish": "Llegadas", "english": "arrivals", "sound": "/əˈraɪ.vəlz/" },
+    { "spanish": "Asiento de pasillo", "english": "aisle seat", "sound": "/aɪl siːt/" },
+    { "spanish": "Recogida de equipaje", "english": "baggage reclaim", "sound": "/ˈbæɡ.ɪdʒ rɪˈkleɪm/" },
+    { "spanish": "Etiqueta de equipaje", "english": "baggage tag", "sound": "/ˈbæɡ.ɪdʒ tæɡ/" },
+    { "spanish": "Equipaje", "english": "baggage", "sound": "/ˈbæɡ.ɪdʒ/" },
+    { "spanish": "Entrega de equipaje", "english": "bag drop", "sound": "/ˈbæɡ drɒp/" },
+    { "spanish": "Tarjeta de embarque", "english": "boarding pass", "sound": "/ˈbɔː.dɪŋ pɑːs/" },
+    { "spanish": "Hora de embarque", "english": "boarding time", "sound": "/ˈbɔː.dɪŋ taɪm/" },
+    { "spanish": "Cafetería", "english": "café", "sound": "/ˈkæf.eɪ/" },
+    { "spanish": "Cancelado", "english": "cancelled", "sound": "/ˈkæn.səld/" },
+    { "spanish": "Equipaje de mano", "english": "carry-on", "sound": "/ˈkær.i.ɒn/" },
+    { "spanish": "Facturación", "english": "check-in", "sound": "/ˈtʃek.ɪn/" },
+    { "spanish": "Equipaje facturado", "english": "checked bag", "sound": "/ˈtʃekt bæɡ/" },
+    { "spanish": "Vuelo de conexión", "english": "connecting flight", "sound": "/kəˈnek.tɪŋ flaɪt/" },
+    { "spanish": "Aduana", "english": "customs", "sound": "/ˈkʌs.təmz/" },
+    { "spanish": "Retrasado", "english": "delayed", "sound": "/dɪˈleɪd/" },
+    { "spanish": "Panel de salidas", "english": "departure board", "sound": "/dɪˈpɑː.tʃə bɔːd/" },
+    { "spanish": "Salidas", "english": "departures", "sound": "/dɪˈpɑː.tʃəz/" },
+    { "spanish": "Destino", "english": "destination", "sound": "/ˌdes.tɪˈneɪ.ʃən/" },
+    { "spanish": "Tienda libre de impuestos", "english": "duty-free shop", "sound": "/ˈdjuː.ti ˌfriː/" },
+    { "spanish": "Escalera mecánica", "english": "escalator", "sound": "/ˈes.kə.leɪ.tər/" },
+    { "spanish": "Entrada", "english": "entrance", "sound": "/ˈen.trəns/" },
+    { "spanish": "Salida", "english": "exit", "sound": "/ˈek.sɪt/" },
+    { "spanish": "Última llamada", "english": "final call", "sound": "/ˈfaɪ.nəl kɔːl/" },
+    { "spanish": "Vuelo", "english": "flight", "sound": "/flaɪt/" },
+    { "spanish": "Auxiliar de vuelo", "english": "flight attendant", "sound": "/flaɪt əˈten.dənt/" },
+    { "spanish": "Puertas de embarque", "english": "gates", "sound": "/ɡeɪts/" },
+    { "spanish": "Equipaje de mano", "english": "hand luggage", "sound": "/hænd ˈlʌɡ.ɪdʒ/" },
+    { "spanish": "Documento de identidad", "english": "ID", "sound": "/ˌaɪˈdiː/" },
+    { "spanish": "Mostrador de información", "english": "information desk", "sound": "/ˌɪn.fəˈmeɪ.ʃən desk/" },
+    { "spanish": "Equipaje", "english": "luggage", "sound": "/ˈlʌɡ.ɪdʒ/" },
+    { "spanish": "Aseo", "english": "lavatory", "sound": "/ˈlæv.ə.tər.i/" },
+    { "spanish": "Ascensores", "english": "lifts", "sound": "/lɪfts/" },
+    { "spanish": "Sala de espera", "english": "lounge", "sound": "/laʊndʒ/" },
+    { "spanish": "Objetos perdidos", "english": "lost and found", "sound": "/lɒst ənd faʊnd/" },
+    { "spanish": "Silla de masaje", "english": "massage chair", "sound": "/ˈmæs.ɪdʒ tʃeər/" },
+    { "spanish": "A tiempo", "english": "on time", "sound": "/ɒn taɪm/" },
+    { "spanish": "Compartimento superior", "english": "overhead bin", "sound": "/ˌəʊ.vəˈhed bɪn/" },
+    { "spanish": "Pasaporte", "english": "passport", "sound": "/ˈpɑː.spɔːt/" },
+    { "spanish": "Control de pasaportes", "english": "passport control", "sound": "/ˈpɑː.spɔːt kənˈtrəʊl/" },
+    { "spanish": "Piloto", "english": "pilot", "sound": "/ˈpaɪ.lət/" },
+    { "spanish": "Avión", "english": "plane", "sound": "/pleɪn/" },
+    { "spanish": "Restaurante", "english": "restaurant", "sound": "/ˈres.tər.ɒnt/" },
+    { "spanish": "Pantalla", "english": "screen", "sound": "/skriːn/" },
+    { "spanish": "Asiento", "english": "seat", "sound": "/siːt/" },
+    { "spanish": "Cinturón de seguridad", "english": "seatbelt", "sound": "/ˈsiːt.belt/" },
+    { "spanish": "Control de seguridad", "english": "security check", "sound": "/sɪˈkjʊə.rə.ti tʃek/" },
+    { "spanish": "Señal", "english": "sign", "sound": "/saɪn/" },
+    { "spanish": "Escala", "english": "stopover", "sound": "/ˈstɒp.əʊ.vər/" },
+    { "spanish": "Maleta", "english": "suitcase", "sound": "/ˈsuːt.keɪs/" },
+    { "spanish": "Terminal", "english": "terminal", "sound": "/ˈtɜː.mɪ.nəl/" },
+    { "spanish": "Billete", "english": "ticket", "sound": "/ˈtɪk.ɪt/" },
+    { "spanish": "Carrito", "english": "trolley", "sound": "/ˈtrɒl.i/" },
+    { "spanish": "Aseo", "english": "toilet", "sound": "/ˈtɔɪ.lət/" },
+    { "spanish": "Visado", "english": "visa", "sound": "/ˈviː.zə/" },
+    { "spanish": "Zona de espera", "english": "waiting area", "sound": "/ˈweɪ.tɪŋ ˌeə.ri.ə/" },
+    { "spanish": "Asiento de ventana", "english": "window seat", "sound": "/ˈwɪn.dəʊ siːt/" }
+  ]
 }
