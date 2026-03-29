@@ -147,6 +147,16 @@
 			"href": "grammar.html?topic=pronouns-and-possessives",
 			"tags": []
 		},
+		{
+			"id": "time",
+			"title": "Telling the Time",
+			"subtitle": "Analogue, Digital and Common Expressions",
+			"icon": "⏰",
+			"difficulty": "",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/grammar/time.json",
+			"href": "grammar.html?topic=time",
+			"tags": []
+		},
 
 		{
 			"id": "verb-patterns",

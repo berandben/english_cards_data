@@ -1,0 +1,167 @@
+{
+    "slug": "telling-the-time",
+    "meta": {
+        "title": "Telling the Time",
+        "subtitle": "Analogue, Digital and Common Expressions",
+        "difficulty": "A2",
+        "tags": [
+            "vocabulary",
+            "time",
+            "basics"
+        ],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-analogue",
+            "title": "Analogue Time",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "The Traditional Way",
+                    "content": "Use 'o'clock' for exact hours, 'past' for minutes after, and 'to' for minutes before.",
+                    "items": [],
+                    "headers": [
+                        "Type",
+                        "Minutes",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Exact & Quarters",
+                            "items": [
+                                [ "Exact Hour", "o'clock", "It's three o'clock" ],
+                                [ "15 mins past", "quarter past", "It's quarter past three" ],
+                                [ "30 mins past", "half past", "It's half past three" ],
+                                [ "15 mins before", "quarter to", "It's a quarter to four" ]
+                            ]
+                        },
+                        {
+                            "group": "Past / To",
+                            "items": [
+                                [ "Minutes after", "past", "It's ten past three" ],
+                                [ "Minutes before", "to", "It's twenty to four / It's ten to four" ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-digital",
+            "title": "Digital Format",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "The digital format is simpler: just say the numbers as they appear. Use AM/PM or the 24-hour clock.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "EXAMPLES (12h/24h)",
+                    "content": "",
+                    "items": [
+                        "@_It's 3:15 AM (Three fifteen)",
+                        "@_It's 3:30 AM (Three thirty)",
+                        "@_It's 3:45 AM (Three forty-five)",
+                        "@_It's 15:00 (Fifteen hundred / Three o'clock)",
+                        "@_It's 23:45 (Twenty-three forty-five)"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-questions-expressions",
+            "title": "Questions & Expressions",
+            "type": "two-columns",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Asking for time",
+                    "content": "",
+                    "items": [],
+                    "headers": ["Question", "Meaning"],
+                    "rows": [
+                        {
+                            "group": "Common Questions",
+                            "items": [
+                                [ "What time is it?", "¿Qué hora es?" ],
+                                [ "What's the time?", "¿Qué hora es?" ],
+                                [ "Do you have the time?", "¿Tienes hora?" ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "TIME EXPRESSIONS",
+                    "content": "",
+                    "items": [
+                        "@_It's time to go",
+                        "@_Time flies!",
+                        "@_I'm running out of time"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-4-formulas",
+            "title": "Quick Rules",
+            "type": "formulas",
+            "blocks": [
+                {
+                    "type": "code-block",
+                    "label": "STRUCTURE",
+                    "content": "",
+                    "items": [
+                        "It is + (time)",
+                        "Example: It's ten past five / It's 5:10"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "info-box",
+                    "label": "REMEMBER",
+                    "content": "Use 'AT' to talk about the time something happens (e.g., The class starts AT 8:00). Use 'IT IS' to answer what time it is now.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
