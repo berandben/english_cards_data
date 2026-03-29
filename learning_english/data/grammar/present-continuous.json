@@ -161,7 +161,7 @@
 					"label": "",
 					"content": "",
 					"items": [],
-					"headers": ["Base", "Past Continuous", "Sound"],
+					"headers": ["Base", "Gerund", "Sound"],
 					"rows": [
 						{
 							"group": "Common Verbs",
@@ -242,7 +242,7 @@
 					],
 					"style": "",
 					"value": "",
-					"description": "Comprehensive list of common verbs and their present participle forms."
+					"description": ""
 				}
 			]
 		},
