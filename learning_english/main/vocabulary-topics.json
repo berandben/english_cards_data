@@ -118,6 +118,15 @@
 			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/holidays.json"
 		},
 		{
+			"id": "housework",
+			"title": "Housework",
+			"subtitle": "Vocabulary for household chores, cleaning tasks, and daily home maintenance activities.",
+			"icon": "cleaning_services",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=housework",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/housework.json"
+		},
+		{
 			"id": "movement-prepositions",
 			"title": "Movement Prepositions",
 			"subtitle": "Prepositions of movement and direction: to, from, into, through, and more.",
@@ -179,6 +188,15 @@
 			"difficulty": "A1-A2",
 			"href": "vocabulary.php?topic=professions",
 			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/professions.json"
+		},
+		{
+			"id": "restaurant",
+			"title": "Restaurant",
+			"subtitle": "Essential vocabulary for dining out, ordering food, menus, and restaurant interactions.",
+			"icon": "restaurant",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=restaurant",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/restaurant.json"
 		},
 		{
 			"id": "things",
