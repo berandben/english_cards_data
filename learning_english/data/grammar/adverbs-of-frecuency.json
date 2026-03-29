@@ -1,0 +1,223 @@
+{
+	"slug": "adverbs-of-frequency",
+	"meta": {
+		"title": "Adverbs of Frequency",
+		"subtitle": "How often we do things",
+		"difficulty": "A2",
+		"tags": ["grammar", "vocabulary", "routines"],
+		"icon": ""
+	},
+	"header": {
+		"badges": []
+	},
+	"sections": [
+		{
+			"id": "section-1-frequency-intro",
+			"title": "When to use",
+			"type": "info-grid",
+			"blocks": [
+				{
+					"type": "paragraph",
+					"label": "DESCRIPTION",
+					"content": "Adverbs of frequency tell us how often an action happens. They are usually used with the Present Simple because they describe habits and routines.",
+					"items": [],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "list",
+					"label": "EXAMPLE",
+					"content": "",
+					"items": [
+						"@_I always brush my teeth before bed",
+						"@_They sometimes go to the cinema",
+						"@_He never eats meat"
+					],
+					"headers": [],
+					"rows": [],
+					"style": "gold",
+					"value": "",
+					"description": ""
+				}
+			]
+		},
+		{
+			"id": "section-2-frequency-levels",
+			"title": "Frequency Scale",
+			"type": "two-columns",
+			"blocks": [
+				{
+					"type": "table",
+					"label": "Common Adverbs",
+					"content": "",
+					"items": [],
+					"headers": ["Adverb", "Frequency (%)"],
+					"rows": [
+						{
+							"group": "High Frequency",
+							"items": [
+								["Always", "100%"],
+								["Usually", "90%"],
+								["Normally / Generally", "80%"]
+							]
+						},
+						{
+							"group": "Medium Frequency",
+							"items": [
+								["Often / Frequently", "70%"],
+								["Sometimes", "50%"],
+								["Occasionally", "30%"]
+							]
+						},
+						{
+							"group": "Low Frequency",
+							"items": [
+								["Seldom", "10%"],
+								["Hardly ever / Rarely", "5%"],
+								["Never", "0%"]
+							]
+						}
+					],
+					"style": "",
+					"value": "",
+					"description": ""
+				}
+			]
+		},
+		{
+			"id": "section-3-frequency-position",
+			"title": "Word Order",
+			"type": "formulas",
+			"blocks": [
+				{
+					"type": "code-block",
+					"label": "BEFORE THE MAIN VERB",
+					"content": "",
+					"items": ["Subject + Adverb + Main Verb", "I often play tennis / She never drinks tea"],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "code-block",
+					"label": "AFTER THE VERB TO BE",
+					"content": "",
+					"items": ["Subject + to be + Adverb", "They are always late / I am usually happy"],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "code-block",
+					"label": "AUXILIARY VERBS",
+					"content": "",
+					"items": [
+						"Subject + Auxiliary + Adverb + Main Verb",
+						"You can always call me / He doesn't often go out"
+					],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "info-box",
+					"label": "SPECIAL CASE",
+					"content": "Words like 'Sometimes' and 'Usually' can also go at the beginning or end of a sentence (e.g., Sometimes I go for a walk).",
+					"items": [],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				}
+			]
+		},
+
+		{
+			"id": "section-3a-frequency-expressions",
+			"title": "Frequency Expressions",
+			"type": "comparison",
+			"blocks": [
+				{
+					"type": "table",
+					"label": "Specific Frequency",
+					"content": " ",
+					"items": [],
+					"headers": ["Expression", "Example"],
+					"rows": [
+						{
+							"group": "Time Intervals",
+							"items": [
+								["Every",  "She doesn't exercise every day of the week"],
+								["Once",  "She visited Paris once when she was twenty"],
+								["Twice",  "Are you checking your email twice a day?"]
+							]
+						},
+						{
+							"group": "Numerical Frequency",
+							"items": [
+								["Three times", "He wasn't calling his mother three times a week"],
+								["Four times", "They are exercising four times a week now"],
+								["Five times",  "I haven't visited London five times this year"]
+							]
+						},
+						{
+							"group": "General Frequency",
+							"items": [
+								[
+									"Several times",
+									
+									"Did she remind you several times about the meeting?"
+								],
+								["Many times", "He has told that story many times before"],
+								["Once every 2 days", "I take the medicine once every 2 days"]
+							]
+						}
+					],
+					"style": " ",
+					"value": " ",
+					"description": " "
+				}
+			]
+		},
+
+		{
+			"id": "section-4-frequency-questions",
+			"title": "Asking about Frequency",
+			"type": "info-grid",
+			"blocks": [
+				{
+					"type": "paragraph",
+					"label": "HOW OFTEN...",
+					"content": "To ask about the frequency of an action, we use the question word 'How often'.",
+					"items": [],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "list",
+					"label": "EXAMPLES",
+					"content": "",
+					"items": ["@_How often do you go to the gym?", "@_How often does she visit her parents?"],
+					"headers": [],
+					"rows": [],
+					"style": "gold",
+					"value": "",
+					"description": ""
+				}
+			]
+		}
+	]
+}
