@@ -55,13 +55,13 @@
 			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/countries.json"
 		},
 		{
-			"id": "days-of-week",
-			"title": "Days of the Week",
-			"subtitle": "The seven days of the week in English with pronunciation and usage.",
+			"id": "days-and-months",
+			"title": "Days and Months",
+			"subtitle": "Days of the week and months of the year.",
 			"icon": "event",
 			"difficulty": "",
-			"href": "vocabulary.php?topic=days-of-week",
-			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/days-of-week.json"
+			"href": "vocabulary.php?topic=days-and-months",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/days-and-months.json"
 		},
 		{
 			"id": "emotional",
