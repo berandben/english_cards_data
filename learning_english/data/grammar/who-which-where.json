@@ -1,0 +1,159 @@
+{
+    "slug": "relative-pronouns",
+    "meta": {
+        "title": "Relative Pronouns",
+        "subtitle": "Who, Which, Where, and That",
+        "difficulty": "A2",
+        "tags": [
+            "grammar",
+            "relative-clauses",
+            "writing"
+        ],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-relative-intro",
+            "title": "When to use",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "DESCRIPTION",
+                    "content": "Relative pronouns are used to connect a clause or phrase to a noun or pronoun. They help us give more information about a person, thing, or place without starting a new sentence.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "EXAMPLE",
+                    "content": "",
+                    "items": [
+                        "@_The man who lives next door is a doctor",
+                        "@_This is the book that I bought yesterday",
+                        "@_I visit the town where I was born"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-relative-rules",
+            "title": "Write Rules",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Relative Pronouns Usage",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Pronoun",
+                        "Used for...",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "People",
+                            "items": [
+                                [
+                                    "Who",
+                                    "People only",
+                                    "The girl who called me is my sister"
+                                ],
+                                [
+                                    "That",
+                                    "People (Informal)",
+                                    "He is the teacher that helps everyone"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Things and Animals",
+                            "items": [
+                                [
+                                    "Which",
+                                    "Things and animals",
+                                    "The car which is outside is red"
+                                ],
+                                [
+                                    "That",
+                                    "Things and animals",
+                                    "I lost the watch that you gave me"
+                                ]
+                            ]
+                        },
+                        {
+                            "group": "Places",
+                            "items": [
+                                [
+                                    "Where",
+                                    "Locations/Places",
+                                    "This is the restaurant where we met"
+                                ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "info-box",
+                    "label": "NOTE",
+                    "content": "Use 'that' as a versatile alternative for 'who' or 'which' in defining relative clauses, but remember that 'where' cannot be replaced by 'that' unless you add a preposition (the place that I live in).",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-summary-tips",
+            "title": "Quick Summary",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "KEY POINTS",
+                    "content": "To choose the right pronoun, look at the word just before it:",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "GUIDE",
+                    "content": "",
+                    "items": [
+                        "Person + WHO / THAT",
+                        "Thing + WHICH / THAT",
+                        "Place + WHERE"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
