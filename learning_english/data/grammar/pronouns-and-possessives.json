@@ -1,0 +1,206 @@
+{
+    "slug": "pronouns-and-possessives",
+    "meta": {
+        "title": "Pronouns and Possessives",
+        "subtitle": "Subject, Object, Adjectives, Pronouns and Reflexives",
+        "difficulty": "A2",
+        "tags": [
+            "grammar",
+            "basics",
+            "pronouns"
+        ],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-subject-object",
+            "title": "Subject vs Object Pronouns",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "SUBJECT PRONOUNS",
+                    "content": "They perform the action and go BEFORE the verb. (I, You, He, She, It, We, They).",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "EXAMPLE",
+                    "content": "",
+                    "items": [
+                        "@_He is a doctor",
+                        "@_They live in London"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "paragraph",
+                    "label": "OBJECT PRONOUNS",
+                    "content": "They receive the action and go AFTER the verb or preposition. (Me, You, Him, Her, It, Us, Them).",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "list",
+                    "label": "EXAMPLE",
+                    "content": "",
+                    "items": [
+                        "@_Can you help me?",
+                        "@_I saw him yesterday"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-possessives-reflexive",
+            "title": "Possession and Reflexives",
+            "type": "two-columns",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Rules",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Type",
+                        "Rule",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Possessive Adjectives",
+                            "items": [
+                                [ "my, your, his...", "Always + Noun", "This is his car" ]
+                            ]
+                        },
+                        {
+                            "group": "Possessive Pronouns",
+                            "items": [
+                                [ "mine, yours, hers...", "No Noun", "The car is his" ]
+                            ]
+                        },
+                        {
+                            "group": "Reflexive Pronouns",
+                            "items": [
+                                [ "myself, himself...", "Subject = Object", "He looks at himself" ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-summary-table",
+            "title": "The Complete Pronoun Table",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Reference Chart",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Subject",
+                        "Object",
+                        "Poss. Adjective",
+                        "Poss. Pronoun",
+                        "Reflexive"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Singular",
+                            "items": [
+                                [ "I", "me", "my", "mine", "myself" ],
+                                [ "You", "you", "your", "yours", "yourself" ],
+                                [ "He", "him", "his", "his", "himself" ],
+                                [ "She", "her", "her", "hers", "herself" ],
+                                [ "It", "it", "its", "-", "itself" ]
+                            ]
+                        },
+                        {
+                            "group": "Plural",
+                            "items": [
+                                [ "We", "us", "our", "ours", "ourselves" ],
+                                [ "You", "you", "your", "yours", "yourselves" ],
+                                [ "They", "them", "their", "theirs", "themselves" ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-4-formulas",
+            "title": "Quick Formulas",
+            "type": "formulas",
+            "blocks": [
+                {
+                    "type": "code-block",
+                    "label": "ADJECTIVE",
+                    "content": "",
+                    "items": [
+                        "Possessive Adjective + Noun",
+                        "Her brother is tall"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "PRONOUN",
+                    "content": "",
+                    "items": [
+                        "Noun + Verb + Possessive Pronoun",
+                        "The choice was yours"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "info-box",
+                    "label": "WATCH OUT!",
+                    "content": "Don't confuse 'its' (possessive) with 'it's' (it is). Also: their / there / they're.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
