@@ -1,0 +1,229 @@
+{
+    "meta": {
+        "title": "Hotel",
+        "subtitle": "Vocabulary for staying at a hotel",
+        "difficulty": "A2"
+    },
+    "items": [
+        {
+            "spanish": "Aire acondicionado",
+            "english": "Air conditioning",
+            "sound": "/ˈeə kənˌdɪʃ.ən.ɪŋ/"
+        },
+        {
+            "spanish": "Servicios / Comodidades",
+            "english": "Amenities",
+            "sound": "/əˈmiː.nə.tiz/"
+        },
+        {
+            "spanish": "Balcón",
+            "english": "balcony",
+            "sound": "/ˈbæl.kə.ni/"
+        },
+        {
+            "spanish": "Baño",
+            "english": "bathroom",
+            "sound": "/ˈbɑːθ.ruːm/"
+        },
+        {
+            "spanish": "Cama",
+            "english": "bed",
+            "sound": "/bed/"
+        },
+        {
+            "spanish": "Botones / Mozo de equipaje",
+            "english": "Bellboy",
+            "sound": "/ˈbel.bɔɪ/"
+        },
+        {
+            "spanish": "Reserva",
+            "english": "Booking",
+            "sound": "/ˈbʊk.ɪŋ/"
+        },
+        {
+            "spanish": "Desayuno",
+            "english": "breakfast",
+            "sound": "/ˈbrek.fəst/"
+        },
+        {
+            "spanish": "Registro de entrada",
+            "english": "check-in",
+            "sound": "/ˈtʃek.ɪn/"
+        },
+        {
+            "spanish": "Registro de salida",
+            "english": "check-out",
+            "sound": "/ˈtʃek.aʊt/"
+        },
+        {
+            "spanish": "Conserje",
+            "english": "Concierge",
+            "sound": "/ˌkɒn.siˈeəʒ/"
+        },
+        {
+            "spanish": "Confirmación",
+            "english": "Confirmation",
+            "sound": "/ˌkɒn.fəˈmeɪ.ʃən/"
+        },
+        {
+            "spanish": "Cama doble",
+            "english": "double bed",
+            "sound": "/ˈdʌb.əl bed/"
+        },
+        {
+            "spanish": "Habitación doble",
+            "english": "double room",
+            "sound": "/ˈdʌb.əl ruːm/"
+        },
+        {
+            "spanish": "Ascensor (US)",
+            "english": "elevator",
+            "sound": "/ˈel.ɪ.veɪ.tər/"
+        },
+        {
+            "spanish": "Cama supletoria",
+            "english": "Extra bed",
+            "sound": "/ˈek.strə bed/"
+        },
+        {
+            "spanish": "Gimnasio",
+            "english": "gym",
+            "sound": "/dʒɪm/"
+        },
+        {
+            "spanish": "Servicio de limpieza",
+            "english": "housekeeping",
+            "sound": "/ˈhaʊs.kiː.pɪŋ/"
+        },
+        {
+            "spanish": "Internet",
+            "english": "internet",
+            "sound": "/ˈɪn.tə.net/"
+        },
+        {
+            "spanish": "Llave tarjeta",
+            "english": "Key card",
+            "sound": "/kiː kɑːd/"
+        },
+        {
+            "spanish": "Lavandería",
+            "english": "Laundry service",
+            "sound": "/ˈlɔːn.dri ˈsɜː.vɪs/"
+        },
+        {
+            "spanish": "Ascensor (UK)",
+            "english": "lift",
+            "sound": "/lɪft/"
+        },
+        {
+            "spanish": "Vestíbulo / Recepción",
+            "english": "Lobby",
+            "sound": "/ˈlɒb.i/"
+        },
+        {
+            "spanish": "Equipaje",
+            "english": "Luggage",
+            "sound": "/ˈlʌɡ.ɪdʒ/"
+        },
+        {
+            "spanish": "Estacionamiento",
+            "english": "parking",
+            "sound": "/ˈpɑː.kɪŋ/"
+        },
+        {
+            "spanish": "Almohada",
+            "english": "pillow",
+            "sound": "/ˈpɪl.əʊ/"
+        },
+        {
+            "spanish": "Recepción",
+            "english": "reception",
+            "sound": "/rɪˈsep.ʃən/"
+        },
+        {
+            "spanish": "Habitación",
+            "english": "room",
+            "sound": "/ruːm/"
+        },
+        {
+            "spanish": "Llave de la habitación",
+            "english": "room key",
+            "sound": "/ruːm kiː/"
+        },
+        {
+            "spanish": "Servicio de habitaciones",
+            "english": "room service",
+            "sound": "/ruːm ˈsɜː.vɪs/"
+        },
+        {
+            "spanish": "Caja fuerte",
+            "english": "Safe",
+            "sound": "/seɪf/"
+        },
+        {
+            "spanish": "Sauna",
+            "english": "Sauna",
+            "sound": "/ˈsɔː.nə/"
+        },
+        {
+            "spanish": "Tienda",
+            "english": "shop",
+            "sound": "/ʃɒp/"
+        },
+        {
+            "spanish": "Transporte de cortesía",
+            "english": "Shuttle",
+            "sound": "/ˈʃʌt.əl/"
+        },
+        {
+            "spanish": "Cama individual",
+            "english": "single bed",
+            "sound": "/ˈsɪŋ.ɡəl bed/"
+        },
+        {
+            "spanish": "Habitación individual",
+            "english": "single room",
+            "sound": "/ˈsɪŋ.ɡəl ruːm/"
+        },
+        {
+            "spanish": "Personal / Empleados",
+            "english": "Staff",
+            "sound": "/stɑːf/"
+        },
+        {
+            "spanish": "Suite",
+            "english": "Suite",
+            "sound": "/swiːt/"
+        },
+        {
+            "spanish": "Piscina",
+            "english": "swimming pool",
+            "sound": "/ˈswɪm.ɪŋ puːl/"
+        },
+        {
+            "spanish": "Teléfono",
+            "english": "telephone",
+            "sound": "/ˈtel.ɪ.fəʊn/"
+        },
+        {
+            "spanish": "Habitación con dos camas",
+            "english": "Twin room",
+            "sound": "/twɪn ruːm/"
+        },
+        {
+            "spanish": "Disponibilidad / Vacante",
+            "english": "Vacancy",
+            "sound": "/ˈveɪ.kən.si/"
+        },
+        {
+            "spanish": "Vistas",
+            "english": "view",
+            "sound": "/vjuː/"
+        },
+        {
+            "spanish": "Servicio de despertador",
+            "english": "Wake-up call",
+            "sound": "/ˈweɪk.ʌp kɔːl/"
+        }
+    ]
+}
