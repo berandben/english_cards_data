@@ -1,571 +1,333 @@
 {
-    "slug": "present-continuous",
-    "meta": {
-        "title": "Present Continuous",
-        "subtitle": "Now, Temporary, Planned",
-        "difficulty": "A2",
-        "tags": [],
-        "icon": "runner"
-    },
-    "header": {
-        "badges": []
-    },
-    "sections": [
-        {
-            "id": "section-1-1772394359489",
-            "title": "When to use",
-            "type": "info-grid",
-            "blocks": [
-                {
-                    "type": "paragraph",
-                    "label": "description",
-                    "content": "We use the Present Continuous to talk about actions happening now, temporary situations, or fixed future arrangements (plans that are already organized)",
-                    "items": [],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                },
-                {
-                    "type": "list",
-                    "label": "EXAMPLE",
-                    "content": "",
-                    "items": [
-                        "@_I am studying English right now",
-                        "@_She is staying at a hotel this week",
-                        "@_We are meeting friends tonight"
-                    ],
-                    "headers": [],
-                    "rows": [],
-                    "style": "gold",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "id": "section-2-1772394824762",
-            "title": "Structure",
-            "type": "formulas",
-            "blocks": [
-                {
-                    "type": "code-block",
-                    "label": "",
-                    "content": "",
-                    "items": [
-                        "Subject + am/is/are + Verb-ing",
-                        "She is reading a book"
-                    ],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                },
-                {
-                    "type": "code-block",
-                    "label": "",
-                    "content": "",
-                    "items": [
-                        "Subject + am/is/are + not + Verb-ing",
-                        "They are not sleeping"
-                    ],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                },
-                {
-                    "type": "code-block",
-                    "label": "",
-                    "content": "",
-                    "items": [
-                        "Am/Is/Are + Subject + Verb-ing ?",
-                        "Are you listening?"
-                    ],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                },
-                {
-                    "type": "code-block",
-                    "label": "",
-                    "content": "",
-                    "items": [
-                        "Wh Question + am/is/are + Subject + Verb-ing ?",
-                        "What are you doing?"
-                    ],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "id": "section-3-1772394999818",
-            "title": "Write Rules",
-            "type": "comparison",
-            "blocks": [
-                {
-                    "type": "table",
-                    "label": "",
-                    "content": "",
-                    "items": [],
-                    "headers": [
-                        "Rule",
-                        "Example"
-                    ],
-                    "rows": [
-                        {
-                            "group": "Standard",
-                            "items": [
-                                [
-                                    "add -ing",
-                                    "work -> working"
-                                ],
-                                [
-                                    "",
-                                    "play -> playing"
-                                ],
-                                [
-                                    "",
-                                    "study -> studying"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Ending in -e",
-                            "items": [
-                                [
-                                    "change e to -ing",
-                                    "make -> making"
-                                ],
-                                [
-                                    "",
-                                    "dance -> dancing"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "One syllable ending in consonant + vowel + consonant (CVC)",
-                            "items": [
-                                [
-                                    "double consonant + -ing",
-                                    "run -> running"
-                                ],
-                                [
-                                    "",
-                                    "swim -> swimming"
-                                ],
-                                [
-                                    "",
-                                    "sit -> sitting"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "One syllable ending in -w, -x, or -y",
-                            "items": [
-                                [
-                                    "not double consonant + -ing",
-                                    "fix -> fixing"
-                                ],
-                                [
-                                    "",
-                                    "play -> playing"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Ending in -ie",
-                            "items": [
-                                [
-                                    "change ie to -ying",
-                                    "lie -> lying"
-                                ],
-                                [
-                                    "",
-                                    "die -> dying"
-                                ]
-                            ]
-                        }
-                    ],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        }, {
-            "id": "section-4-1772294564317",
-            "title": "Verb Forms",
-            "type": "single-column",
-            "blocks": [
-                {
-                    "type": "table",
-                    "label": "",
-                    "content": "",
-                    "items": [],
-                    "headers": [
-                        "Base",
-                        "Past Continuous",
-                        "Sound"
-                    ],
-                    "rows": [
-                        {
-                            "group": "Common Verbs",
-                            "items": [
-                                [
-                                    "@_Ask",
-                                    "@_Asking",
-                                    "/ˈæskɪŋ/"
-                                ],
-                                [
-                                    "@_Call",
-                                    "@_Calling",
-                                    "/ˈkɔːlɪŋ/"
-                                ],
-                                [
-                                    "@_Cook",
-                                    "@_Cooking",
-                                    "/ˈkʊkɪŋ/"
-                                ],
-                                [
-                                    "@_Dance",
-                                    "@_Dancing",
-                                    "/ˈdænsɪŋ/"
-                                ],
-                                [
-                                    "@_Drive",
-                                    "@_Driving",
-                                    "/ˈdraɪvɪŋ/"
-                                ],
-                                [
-                                    "@_Eat",
-                                    "@_Eating",
-                                    "/ˈiːtɪŋ/"
-                                ],
-                                [
-                                    "@_Finish",
-                                    "@_Finishing",
-                                    "/ˈfɪnɪʃŋ/"
-                                ],
-                                [
-                                    "@_Help",
-                                    "@_Helping",
-                                    "/ˈhelpɪŋ/"
-                                ],
-                                [
-                                    "@_Learn",
-                                    "@_Learning",
-                                    "/ˈlɜːrnɪŋ/"
-                                ],
-                                [
-                                    "@_Listen",
-                                    "@_Listening",
-                                    "/ˈlɪsənɪŋ/"
-                                ],
-                                [
-                                    "@_Live",
-                                    "@_Living",
-                                    "/ˈlɪvɪŋ/"
-                                ],
-                                [
-                                    "@_Look",
-                                    "@_Looking",
-                                    "/ˈlʊkɪŋ/"
-                                ],
-                                [
-                                    "@_Make",
-                                    "@_Making",
-                                    "/ˈmeɪkɪŋ/"
-                                ],
-                                [
-                                    "@_Play",
-                                    "@_Playing",
-                                    "/ˈpleɪɪŋ/"
-                                ],
-                                [
-                                    "@_Read",
-                                    "@_Reading",
-                                    "/ˈriːdɪŋ/"
-                                ],
-                                [
-                                    "@_Run",
-                                    "@_Running",
-                                    "/ˈrʌnɪŋ/"
-                                ],
-                                [
-                                    "@_Sing",
-                                    "@_Singing",
-                                    "/ˈsɪŋɪ/"
-                                ],
-                                [
-                                    "@_Sleep",
-                                    "@_Sleeping",
-                                    "/ˈsliːpɪŋ/"
-                                ],
-                                [
-                                    "@_Speak",
-                                    "@_Speaking",
-                                    "/ˈspiːkɪŋ/"
-                                ],
-                                [
-                                    "@_Study",
-                                    "@_Studying",
-                                    "/ˈstʌdɪɪŋ/"
-                                ],
-                                [
-                                    "@_Take",
-                                    "@_Taking",
-                                    "/ˈteɪkɪŋ/"
-                                ],
-                                [
-                                    "@_Talk",
-                                    "@_Talking",
-                                    "/ˈtɔːkɪŋ/"
-                                ],
-                                [
-                                    "@_Think",
-                                    "@_Thinking",
-                                    "/ˈθɪŋkɪŋ/"
-                                ],
-                                [
-                                    "@_Walk",
-                                    "@_Walking",
-                                    "/ˈwɔːkɪŋ/"
-                                ],
-                                [
-                                    "@_Watch",
-                                    "@_Watching",
-                                    "/ˈwɒtʃɪŋ/"
-                                ],
-                                [
-                                    "@_Work",
-                                    "@_Working",
-                                    "/ˈwɜːrkɪŋ/"
-                                ],
-                                [
-                                    "@_Write",
-                                    "@_Writing",
-                                    "/ˈraɪtɪŋ/"
-                                ]
-                            ]
-                        }
-                    ],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "id": "section-4-1772396072865",
-            "title": "Non action verbs (Stative Verbs)",
-            "type": "comparison",
-            "blocks": [
-                {
-                    "type": "table",
-                    "label": "",
-                    "content": "",
-                    "items": [],
-                    "headers": [
-                        "Verb",
-                        "Example"
-                    ],
-                    "rows": [
-                        {
-                            "group": "Feelings",
-                            "items": [
-                                [
-                                    "desire",
-                                    ""
-                                ],
-                                [
-                                    "hate",
-                                    ""
-                                ],
-                                [
-                                    "like",
-                                    ""
-                                ],
-                                [
-                                    "love",
-                                    ""
-                                ],
-                                [
-                                    "mind",
-                                    ""
-                                ],
-                                [
-                                    "prefer",
-                                    ""
-                                ],
-                                [
-                                    "want",
-                                    ""
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Possession",
-                            "items": [
-                                [
-                                    "belong",
-                                    ""
-                                ],
-                                [
-                                    "contain",
-                                    ""
-                                ],
-                                [
-                                    "have",
-                                    ""
-                                ],
-                                [
-                                    "have (eating) Exception",
-                                    "I'm having breakfast"
-                                ],
-                                [
-                                    "have (experiencing) Exception",
-                                    "I'm having a good time"
-                                ],
-                                [
-                                    "need",
-                                    ""
-                                ],
-                                [
-                                    "possess",
-                                    ""
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Perception and senses",
-                            "items": [
-                                [
-                                    "feel",
-                                    ""
-                                ],
-                                [
-                                    "feel (touching) Exception",
-                                    "I'm feeling the texture "
-                                ],
-                                [
-                                    "hear",
-                                    ""
-                                ],
-                                [
-                                    "see",
-                                    ""
-                                ],
-                                [
-                                    "see (visiting) Exception",
-                                    "I'm seeing my doctor tomorrow"
-                                ],
-                                [
-                                    "smell",
-                                    ""
-                                ],
-                                [
-                                    "taste",
-                                    ""
-                                ],
-                                [
-                                    "taste (testing) Exception",
-                                    "She's tasting the soup"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Thought and knowledge",
-                            "items": [
-                                [
-                                    "believe",
-                                    ""
-                                ],
-                                [
-                                    "forget",
-                                    ""
-                                ],
-                                [
-                                    "know",
-                                    ""
-                                ],
-                                [
-                                    "mean",
-                                    ""
-                                ],
-                                [
-                                    "realize",
-                                    ""
-                                ],
-                                [
-                                    "remember",
-                                    ""
-                                ],
-                                [
-                                    "think",
-                                    ""
-                                ],
-                                [
-                                    "think (consideration) Exception",
-                                    "I'm thinking about buying a car"
-                                ],
-                                [
-                                    "understand",
-                                    ""
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Appearance, state o quality",
-                            "items": [
-                                [
-                                    "appear",
-                                    ""
-                                ],
-                                [
-                                    "be",
-                                    ""
-                                ],
-                                [
-                                    "be (temporary) Exception",
-                                    "He is being rude"
-                                ],
-                                [
-                                    "cost",
-                                    ""
-                                ],
-                                [
-                                    "exist",
-                                    ""
-                                ],
-                                [
-                                    "look like",
-                                    ""
-                                ],
-                                [
-                                    "seem",
-                                    ""
-                                ],
-                                [
-                                    "weigh",
-                                    ""
-                                ]
-                            ]
-                        }
-                    ],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        }
-    ]
+	"slug": "present-continuous",
+	"meta": {
+		"title": "Present Continuous",
+		"subtitle": "Now, Temporary, Planned",
+		"difficulty": "A2",
+		"tags": [],
+		"icon": "runner"
+	},
+	"header": {
+		"badges": []
+	},
+	"sections": [
+		{
+			"id": "section-1-1772394359489",
+			"title": "When to use",
+			"type": "info-grid",
+			"blocks": [
+				{
+					"type": "paragraph",
+					"label": "description",
+					"content": "We use the Present Continuous to talk about actions happening now, temporary situations, or fixed future arrangements (plans that are already organized)",
+					"items": [],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "list",
+					"label": "EXAMPLE",
+					"content": "",
+					"items": [
+						"@_I am studying English right now",
+						"@_She is staying at a hotel this week",
+						"@_We are meeting friends tonight"
+					],
+					"headers": [],
+					"rows": [],
+					"style": "gold",
+					"value": "",
+					"description": ""
+				}
+			]
+		},
+		{
+			"id": "section-2-1772394824762",
+			"title": "Structure",
+			"type": "formulas",
+			"blocks": [
+				{
+					"type": "code-block",
+					"label": "",
+					"content": "",
+					"items": ["Subject + am/is/are + Verb-ing", "She is reading a book"],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "code-block",
+					"label": "",
+					"content": "",
+					"items": ["Subject + am/is/are + not + Verb-ing", "They are not sleeping"],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "code-block",
+					"label": "",
+					"content": "",
+					"items": ["Am/Is/Are + Subject + Verb-ing ?", "Are you listening?"],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "code-block",
+					"label": "",
+					"content": "",
+					"items": ["Wh Question + am/is/are + Subject + Verb-ing ?", "What are you doing?"],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				}
+			]
+		},
+		{
+			"id": "section-3-1772394999818",
+			"title": "Write Rules",
+			"type": "comparison",
+			"blocks": [
+				{
+					"type": "table",
+					"label": "",
+					"content": "",
+					"items": [],
+					"headers": ["Rule", "Example"],
+					"rows": [
+						{
+							"group": "Standard",
+							"items": [
+								["add -ing", "work -> working"],
+								["", "play -> playing"],
+								["", "study -> studying"]
+							]
+						},
+						{
+							"group": "Ending in -e",
+							"items": [
+								["change e to -ing", "make -> making"],
+								["", "dance -> dancing"]
+							]
+						},
+						{
+							"group": "One syllable ending in consonant + vowel + consonant (CVC)",
+							"items": [
+								["double consonant + -ing", "run -> running"],
+								["", "swim -> swimming"],
+								["", "sit -> sitting"]
+							]
+						},
+						{
+							"group": "One syllable ending in -w, -x, or -y",
+							"items": [
+								["not double consonant + -ing", "fix -> fixing"],
+								["", "play -> playing"]
+							]
+						},
+						{
+							"group": "Ending in -ie",
+							"items": [
+								["change ie to -ying", "lie -> lying"],
+								["", "die -> dying"]
+							]
+						}
+					],
+					"style": "",
+					"value": "",
+					"description": ""
+				}
+			]
+		},
+		{
+			"id": "section-4-1772294564317",
+			"title": "Verb Forms",
+			"type": "single-column",
+			"blocks": [
+				{
+					"type": "table",
+					"label": "",
+					"content": "",
+					"items": [],
+					"headers": ["Base", "Past Continuous", "Sound"],
+					"rows": [
+						{
+							"group": "Common Verbs",
+							"items": [
+								["@_Ask", "@_Asking", "/ˈæskɪŋ/"],
+								["@_Begin", "@_Beginning", "/bɪˈɡɪnɪŋ/"],
+								["@_Break", "@_Breaking", "/ˈbreɪkɪŋ/"],
+								["@_Bring", "@_Bringing", "/ˈbrɪŋɪŋ/"],
+								["@_Buy", "@_Buying", "/ˈbaɪɪŋ/"],
+								["@_Call", "@_Calling", "/ˈkɔːlɪŋ/"],
+								["@_Change", "@_Changing", "/ˈtʃeɪndʒɪŋ/"],
+								["@_Choose", "@_Choosing", "/ˈtʃuːzɪŋ/"],
+								["@_Close", "@_Closing", "/ˈkloʊzɪŋ/"],
+								["@_Come", "@_Coming", "/ˈkʌmɪŋ/"],
+								["@_Cook", "@_Cooking", "/ˈkʊkɪŋ/"],
+								["@_Dance", "@_Dancing", "/ˈdænsɪŋ/"],
+								["@_Drink", "@_Drinking", "/ˈdrɪŋkɪŋ/"],
+								["@_Drive", "@_Driving", "/ˈdraɪvɪŋ/"],
+								["@_Eat", "@_Eating", "/ˈiːtɪŋ/"],
+								["@_Enjoy", "@_Enjoying", "/ɪnˈdʒɔɪɪŋ/"],
+								["@_Feel", "@_Feeling", "/ˈfiːlɪŋ/"],
+								["@_Find", "@_Finding", "/ˈfaɪndɪŋ/"],
+								["@_Finish", "@_Finishing", "/ˈfɪnɪʃŋ/"],
+								["@_Fly", "@_Flying", "/ˈflaɪɪŋ/"],
+								["@_Forget", "@_Forgetting", "/fərˈɡetɪŋ/"],
+								["@_Get", "@_Getting", "/ˈɡetɪŋ/"],
+								["@_Give", "@_Giving", "/ˈɡɪvɪŋ/"],
+								["@_Go", "@_Going", "/ˈɡoʊɪŋ/"],
+								["@_Have", "@_Having", "/ˈhævɪŋ/"],
+								["@_Help", "@_Helping", "/ˈhelpɪŋ/"],
+								["@_Hold", "@_Holding", "/ˈhoʊldɪŋ/"],
+								["@_Keep", "@_Keeping", "/ˈkiːpɪŋ/"],
+								["@_Know", "@_Knowing", "/ˈnoʊɪŋ/"],
+								["@_Learn", "@_Learning", "/ˈlɜːrnɪŋ/"],
+								["@_Leave", "@_Leaving", "/ˈliːvɪŋ/"],
+								["@_Lie", "@_Lying", "/ˈlaɪɪŋ/"],
+								["@_Listen", "@_Listening", "/ˈlɪsənɪŋ/"],
+								["@_Live", "@_Living", "/ˈlɪvɪŋ/"],
+								["@_Look", "@_Looking", "/ˈlʊkɪŋ/"],
+								["@_Make", "@_Making", "/ˈmeɪkɪŋ/"],
+								["@_Meet", "@_Meeting", "/ˈmiːtɪŋ/"],
+								["@_Open", "@_Opening", "/ˈoʊpənɪŋ/"],
+								["@_Pay", "@_Paying", "/ˈpeɪɪŋ/"],
+								["@_Play", "@_Playing", "/ˈpleɪɪŋ/"],
+								["@_Put", "@_Putting", "/ˈpʊtɪŋ/"],
+								["@_Read", "@_Reading", "/ˈriːdɪŋ/"],
+								["@_Run", "@_Running", "/ˈrʌnɪŋ/"],
+								["@_Say", "@_Saying", "/ˈseɪɪŋ/"],
+								["@_See", "@_Seeing", "/ˈsiːɪŋ/"],
+								["@_Sell", "@_Selling", "/ˈselɪŋ/"],
+								["@_Send", "@_Sending", "/ˈsendɪŋ/"],
+								["@_Show", "@_Showing", "/ˈʃoʊɪŋ/"],
+								["@_Sing", "@_Singing", "/ˈsɪŋɪ/"],
+								["@_Sit", "@_Sitting", "/ˈsɪtɪŋ/"],
+								["@_Sleep", "@_Sleeping", "/ˈsliːpɪŋ/"],
+								["@_Speak", "@_Speaking", "/ˈspiːkɪŋ/"],
+								["@_Spend", "@_Spending", "/ˈspendɪŋ/"],
+								["@_Stand", "@_Standing", "/ˈstændɪŋ/"],
+								["@_Stay", "@_Staying", "/ˈsteɪɪŋ/"],
+								["@_Stop", "@_Stopping", "/ˈstɒpɪŋ/"],
+								["@_Study", "@_Studying", "/ˈstʌdɪɪŋ/"],
+								["@_Swim", "@_Swimming", "/ˈswɪmɪŋ/"],
+								["@_Take", "@_Taking", "/ˈteɪkɪŋ/"],
+								["@_Talk", "@_Talking", "/ˈtɔːkɪŋ/"],
+								["@_Think", "@_Thinking", "/ˈθɪŋkɪŋ/"],
+								["@_Travel", "@_Travelling", "/ˈtrævəlɪŋ/"],
+								["@_Try", "@_Trying", "/ˈtraɪɪŋ/"],
+								["@_Understand", "@_Understanding", "/ˌʌndərˈstændɪŋ/"],
+								["@_Use", "@_Using", "/ˈjuːzɪŋ/"],
+								["@_Wait", "@_Waiting", "/ˈweɪtɪŋ/"],
+								["@_Walk", "@_Walking", "/ˈwɔːkɪŋ/"],
+								["@_Watch", "@_Watching", "/ˈwɒtʃɪŋ/"],
+								["@_Win", "@_Winning", "/ˈwɪnɪŋ//"],
+								["@_Work", "@_Working", "/ˈwɜːrkɪŋ/"],
+								["@_Write", "@_Writing", "/ˈraɪtɪŋ/"]
+							]
+						}
+					],
+					"style": "",
+					"value": "",
+					"description": "Comprehensive list of common verbs and their present participle forms."
+				}
+			]
+		},
+		{
+			"id": "section-4-1772396072865",
+			"title": "Non action verbs (Stative Verbs)",
+			"type": "comparison",
+			"blocks": [
+				{
+					"type": "table",
+					"label": "",
+					"content": "",
+					"items": [],
+					"headers": ["Verb", "Example"],
+					"rows": [
+						{
+							"group": "Feelings",
+							"items": [
+								["desire", ""],
+								["hate", ""],
+								["like", ""],
+								["love", ""],
+								["mind", ""],
+								["prefer", ""],
+								["want", ""]
+							]
+						},
+						{
+							"group": "Possession",
+							"items": [
+								["belong", ""],
+								["contain", ""],
+								["have", ""],
+								["have (eating) Exception", "I'm having breakfast"],
+								["have (experiencing) Exception", "I'm having a good time"],
+								["need", ""],
+								["possess", ""]
+							]
+						},
+						{
+							"group": "Perception and senses",
+							"items": [
+								["feel", ""],
+								["feel (touching) Exception", "I'm feeling the texture "],
+								["hear", ""],
+								["see", ""],
+								["see (visiting) Exception", "I'm seeing my doctor tomorrow"],
+								["smell", ""],
+								["taste", ""],
+								["taste (testing) Exception", "She's tasting the soup"]
+							]
+						},
+						{
+							"group": "Thought and knowledge",
+							"items": [
+								["believe", ""],
+								["forget", ""],
+								["know", ""],
+								["mean", ""],
+								["realize", ""],
+								["remember", ""],
+								["think", ""],
+								["think (consideration) Exception", "I'm thinking about buying a car"],
+								["understand", ""]
+							]
+						},
+						{
+							"group": "Appearance, state o quality",
+							"items": [
+								["appear", ""],
+								["be", ""],
+								["be (temporary) Exception", "He is being rude"],
+								["cost", ""],
+								["exist", ""],
+								["look like", ""],
+								["seem", ""],
+								["weigh", ""]
+							]
+						}
+					],
+					"style": "",
+					"value": "",
+					"description": ""
+				}
+			]
+		}
+	]
 }

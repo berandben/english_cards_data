@@ -1,433 +1,310 @@
 {
-    "slug": "past-continuous",
-    "meta": {
-        "title": "Past Continuous",
-        "subtitle": "Ongoing actions in the past",
-        "difficulty": "A2",
-        "tags": [],
-        "icon": ""
-    },
-    "header": {
-        "badges": []
-    },
-    "sections": [
-        {
-            "id": "section-1-1772290828117",
-            "title": "When to use",
-            "type": "info-grid",
-            "blocks": [
-                {
-                    "type": "paragraph",
-                    "label": "DESCRIPTION",
-                    "content": "The Past Continuous is used for actions that were in progress at a specific time in the past",
-                    "items": [],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                },
-                {
-                    "type": "list",
-                    "label": "Example",
-                    "content": "",
-                    "items": [
-                        "@_I was watching a movie at 8 PM yesterday",
-                        "@_She was studying when I called"
-                    ],
-                    "headers": [],
-                    "rows": [],
-                    "style": "gold",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "id": "section-2-1772292629770",
-            "title": "Structure",
-            "type": "formulas",
-            "blocks": [
-                {
-                    "type": "code-block",
-                    "label": "",
-                    "content": "",
-                    "items": [
-                        "Subject + was/were + Verb-ing",
-                        "She was studying London"
-                    ],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                },
-                {
-                    "type": "code-block",
-                    "label": "",
-                    "content": "",
-                    "items": [
-                        "Subject + was/were + not + Verb-ing",
-                        "She wasn't studying London"
-                    ],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                },
-                {
-                    "type": "code-block",
-                    "label": "",
-                    "content": "",
-                    "items": [
-                        "Was/Were + Subject + Verb-ing?",
-                        "Was she studying London?"
-                    ],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                },
-                {
-                    "type": "info-box",
-                    "label": "",
-                    "content": "Use 'was' for I/He/She/It and 'were' for You/We/They",
-                    "items": [],
-                    "headers": [],
-                    "rows": [],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "id": "section-3-1772394999818",
-            "title": "Write Rules",
-            "type": "comparison",
-            "blocks": [
-                {
-                    "type": "table",
-                    "label": "",
-                    "content": "",
-                    "items": [],
-                    "headers": [
-                        "Rule",
-                        "Example"
-                    ],
-                    "rows": [
-                        {
-                            "group": "Standard",
-                            "items": [
-                                [
-                                    "add -ing",
-                                    "work -> working"
-                                ],
-                                [
-                                    "",
-                                    "play -> playing"
-                                ],
-                                [
-                                    "",
-                                    "study -> studying"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Ending in -e",
-                            "items": [
-                                [
-                                    "change e to -ing",
-                                    "make -> making"
-                                ],
-                                [
-                                    "",
-                                    "dance -> dancing"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "One syllable ending in consonant + vowel + consonant (CVC)",
-                            "items": [
-                                [
-                                    "double consonant + -ing",
-                                    "run -> running"
-                                ],
-                                [
-                                    "",
-                                    "swim -> swimming"
-                                ],
-                                [
-                                    "",
-                                    "sit -> sitting"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "One syllable ending in -w, -x, or -y",
-                            "items": [
-                                [
-                                    "not double consonant + -ing",
-                                    "fix -> fixing"
-                                ],
-                                [
-                                    "",
-                                    "play -> playing"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Ending in -ie",
-                            "items": [
-                                [
-                                    "change ie to -ying",
-                                    "lie -> lying"
-                                ],
-                                [
-                                    "",
-                                    "die -> dying"
-                                ]
-                            ]
-                        }
-                    ],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "id": "section-4-1772294564317",
-            "title": "Verb Forms",
-            "type": "single-column",
-            "blocks": [
-                {
-                    "type": "table",
-                    "label": "",
-                    "content": "",
-                    "items": [],
-                    "headers": [
-                        "Base",
-                        "Past Continuous",
-                        "Sound"
-                    ],
-                    "rows": [
-                        {
-                            "group": "Common Verbs",
-                            "items": [
-                                [
-                                    "@_Ask",
-                                    "@_Asking",
-                                    "/ˈæskɪŋ/"
-                                ],
-                                [
-                                    "@_Call",
-                                    "@_Calling",
-                                    "/ˈkɔːlɪŋ/"
-                                ],
-                                [
-                                    "@_Cook",
-                                    "@_Cooking",
-                                    "/ˈkʊkɪŋ/"
-                                ],
-                                [
-                                    "@_Dance",
-                                    "@_Dancing",
-                                    "/ˈdænsɪŋ/"
-                                ],
-                                [
-                                    "@_Drive",
-                                    "@_Driving",
-                                    "/ˈdraɪvɪŋ/"
-                                ],
-                                [
-                                    "@_Eat",
-                                    "@_Eating",
-                                    "/ˈiːtɪŋ/"
-                                ],
-                                [
-                                    "@_Finish",
-                                    "@_Finishing",
-                                    "/ˈfɪnɪʃŋ/"
-                                ],
-                                [
-                                    "@_Help",
-                                    "@_Helping",
-                                    "/ˈhelpɪŋ/"
-                                ],
-                                [
-                                    "@_Learn",
-                                    "@_Learning",
-                                    "/ˈlɜːrnɪŋ/"
-                                ],
-                                [
-                                    "@_Listen",
-                                    "@_Listening",
-                                    "/ˈlɪsənɪŋ/"
-                                ],
-                                [
-                                    "@_Live",
-                                    "@_Living",
-                                    "/ˈlɪvɪŋ/"
-                                ],
-                                [
-                                    "@_Look",
-                                    "@_Looking",
-                                    "/ˈlʊkɪŋ/"
-                                ],
-                                [
-                                    "@_Make",
-                                    "@_Making",
-                                    "/ˈmeɪkɪŋ/"
-                                ],
-                                [
-                                    "@_Play",
-                                    "@_Playing",
-                                    "/ˈpleɪɪŋ/"
-                                ],
-                                [
-                                    "@_Read",
-                                    "@_Reading",
-                                    "/ˈriːdɪŋ/"
-                                ],
-                                [
-                                    "@_Run",
-                                    "@_Running",
-                                    "/ˈrʌnɪŋ/"
-                                ],
-                                [
-                                    "@_Sing",
-                                    "@_Singing",
-                                    "/ˈsɪŋɪ/"
-                                ],
-                                [
-                                    "@_Sleep",
-                                    "@_Sleeping",
-                                    "/ˈsliːpɪŋ/"
-                                ],
-                                [
-                                    "@_Speak",
-                                    "@_Speaking",
-                                    "/ˈspiːkɪŋ/"
-                                ],
-                                [
-                                    "@_Study",
-                                    "@_Studying",
-                                    "/ˈstʌdɪɪŋ/"
-                                ],
-                                [
-                                    "@_Take",
-                                    "@_Taking",
-                                    "/ˈteɪkɪŋ/"
-                                ],
-                                [
-                                    "@_Talk",
-                                    "@_Talking",
-                                    "/ˈtɔːkɪŋ/"
-                                ],
-                                [
-                                    "@_Think",
-                                    "@_Thinking",
-                                    "/ˈθɪŋkɪŋ/"
-                                ],
-                                [
-                                    "@_Walk",
-                                    "@_Walking",
-                                    "/ˈwɔːkɪŋ/"
-                                ],
-                                [
-                                    "@_Watch",
-                                    "@_Watching",
-                                    "/ˈwɒtʃɪŋ/"
-                                ],
-                                [
-                                    "@_Work",
-                                    "@_Working",
-                                    "/ˈwɜːrkɪŋ/"
-                                ],
-                                [
-                                    "@_Write",
-                                    "@_Writing",
-                                    "/ˈraɪtɪŋ/"
-                                ]
-                            ]
-                        }
-                    ],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "id": "section-5-1772294564318",
-            "title": "Usage Contexts",
-            "type": "comparison",
-            "blocks": [
-                {
-                    "type": "table",
-                    "label": "",
-                    "content": "",
-                    "items": [],
-                    "headers": [
-                        "Context",
-                        "Example",
-                        "Explanation"
-                    ],
-                    "rows": [
-                        {
-                            "group": "Interrupted Action",
-                            "items": [
-                                [
-                                    "I was sleeping when the phone rang",
-                                    "Past Continuous + Simple Past",
-                                    "Long action interrupted by short action"
-                                ],
-                                [
-                                    "She was cooking when I arrived",
-                                    "Past Continuous + Simple Past",
-                                    "Background action + interruption"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Parallel Actions",
-                            "items": [
-                                [
-                                    "I was studying while he was watching TV",
-                                    "Past Continuous + Past Continuous",
-                                    "Two actions happening at the same time"
-                                ],
-                                [
-                                    "They were talking as we were eating",
-                                    "Past Continuous + Past Continuous",
-                                    "Simultaneous ongoing actions"
-                                ]
-                            ]
-                        },
-                        {
-                            "group": "Specific Time",
-                            "items": [
-                                [
-                                    "At 8 PM, I was watching a movie",
-                                    "Past Continuous + Time",
-                                    "Action in progress at specific time"
-                                ],
-                                [
-                                    "Yesterday morning, she was running",
-                                    "Past Continuous + Time",
-                                    "Action in progress during time period"
-                                ]
-                            ]
-                        }
-                    ],
-                    "style": "",
-                    "value": "",
-                    "description": ""
-                }
-            ]
-        }
-    ]
+	"slug": "past-continuous",
+	"meta": {
+		"title": "Past Continuous",
+		"subtitle": "Ongoing actions in the past",
+		"difficulty": "A2",
+		"tags": [],
+		"icon": ""
+	},
+	"header": {
+		"badges": []
+	},
+	"sections": [
+		{
+			"id": "section-1-1772290828117",
+			"title": "When to use",
+			"type": "info-grid",
+			"blocks": [
+				{
+					"type": "paragraph",
+					"label": "DESCRIPTION",
+					"content": "The Past Continuous is used for actions that were in progress at a specific time in the past",
+					"items": [],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "list",
+					"label": "Example",
+					"content": "",
+					"items": ["@_I was watching a movie at 8 PM yesterday", "@_She was studying when I called"],
+					"headers": [],
+					"rows": [],
+					"style": "gold",
+					"value": "",
+					"description": ""
+				}
+			]
+		},
+		{
+			"id": "section-2-1772292629770",
+			"title": "Structure",
+			"type": "formulas",
+			"blocks": [
+				{
+					"type": "code-block",
+					"label": "",
+					"content": "",
+					"items": ["Subject + was/were + Verb-ing", "She was studying London"],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "code-block",
+					"label": "",
+					"content": "",
+					"items": ["Subject + was/were + not + Verb-ing", "She wasn't studying London"],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "code-block",
+					"label": "",
+					"content": "",
+					"items": ["Was/Were + Subject + Verb-ing?", "Was she studying London?"],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				},
+				{
+					"type": "info-box",
+					"label": "",
+					"content": "Use 'was' for I/He/She/It and 'were' for You/We/They",
+					"items": [],
+					"headers": [],
+					"rows": [],
+					"style": "",
+					"value": "",
+					"description": ""
+				}
+			]
+		},
+		{
+			"id": "section-3-1772394999818",
+			"title": "Write Rules",
+			"type": "comparison",
+			"blocks": [
+				{
+					"type": "table",
+					"label": "",
+					"content": "",
+					"items": [],
+					"headers": ["Rule", "Example"],
+					"rows": [
+						{
+							"group": "Standard",
+							"items": [
+								["add -ing", "work -> working"],
+								["", "play -> playing"],
+								["", "study -> studying"]
+							]
+						},
+						{
+							"group": "Ending in -e",
+							"items": [
+								["change e to -ing", "make -> making"],
+								["", "dance -> dancing"]
+							]
+						},
+						{
+							"group": "One syllable ending in consonant + vowel + consonant (CVC)",
+							"items": [
+								["double consonant + -ing", "run -> running"],
+								["", "swim -> swimming"],
+								["", "sit -> sitting"]
+							]
+						},
+						{
+							"group": "One syllable ending in -w, -x, or -y",
+							"items": [
+								["not double consonant + -ing", "fix -> fixing"],
+								["", "play -> playing"]
+							]
+						},
+						{
+							"group": "Ending in -ie",
+							"items": [
+								["change ie to -ying", "lie -> lying"],
+								["", "die -> dying"]
+							]
+						}
+					],
+					"style": "",
+					"value": "",
+					"description": ""
+				}
+			]
+		},
+		{
+			"id": "section-4-1772294564317",
+			"title": "Verb Forms",
+			"type": "single-column",
+			"blocks": [
+				{
+					"type": "table",
+					"label": "",
+					"content": "",
+					"items": [],
+					"headers": ["Base", "Past Continuous", "Sound"],
+					"rows": [
+						{
+							"group": "Common Verbs",
+							"items": [
+								["@_Ask", "@_Asking", "/ˈæskɪŋ/"],
+								["@_Begin", "@_Beginning", "/bɪˈɡɪnɪŋ/"],
+								["@_Break", "@_Breaking", "/ˈbreɪkɪŋ/"],
+								["@_Bring", "@_Bringing", "/ˈbrɪŋɪŋ/"],
+								["@_Buy", "@_Buying", "/ˈbaɪɪŋ/"],
+								["@_Call", "@_Calling", "/ˈkɔːlɪŋ/"],
+								["@_Change", "@_Changing", "/ˈtʃeɪndʒɪŋ/"],
+								["@_Choose", "@_Choosing", "/ˈtʃuːzɪŋ/"],
+								["@_Close", "@_Closing", "/ˈkloʊzɪŋ/"],
+								["@_Come", "@_Coming", "/ˈkʌmɪŋ/"],
+								["@_Cook", "@_Cooking", "/ˈkʊkɪŋ/"],
+								["@_Dance", "@_Dancing", "/ˈdænsɪŋ/"],
+								["@_Drink", "@_Drinking", "/ˈdrɪŋkɪŋ/"],
+								["@_Drive", "@_Driving", "/ˈdraɪvɪŋ/"],
+								["@_Eat", "@_Eating", "/ˈiːtɪŋ/"],
+								["@_Enjoy", "@_Enjoying", "/ɪnˈdʒɔɪɪŋ/"],
+								["@_Feel", "@_Feeling", "/ˈfiːlɪŋ/"],
+								["@_Find", "@_Finding", "/ˈfaɪndɪŋ/"],
+								["@_Finish", "@_Finishing", "/ˈfɪnɪʃŋ/"],
+								["@_Fly", "@_Flying", "/ˈflaɪɪŋ/"],
+								["@_Forget", "@_Forgetting", "/fərˈɡetɪŋ/"],
+								["@_Get", "@_Getting", "/ˈɡetɪŋ/"],
+								["@_Give", "@_Giving", "/ˈɡɪvɪŋ/"],
+								["@_Go", "@_Going", "/ˈɡoʊɪŋ/"],
+								["@_Have", "@_Having", "/ˈhævɪŋ/"],
+								["@_Help", "@_Helping", "/ˈhelpɪŋ/"],
+								["@_Hold", "@_Holding", "/ˈhoʊldɪŋ/"],
+								["@_Keep", "@_Keeping", "/ˈkiːpɪŋ/"],
+								["@_Know", "@_Knowing", "/ˈnoʊɪŋ/"],
+								["@_Learn", "@_Learning", "/ˈlɜːrnɪŋ/"],
+								["@_Leave", "@_Leaving", "/ˈliːvɪŋ/"],
+								["@_Lie", "@_Lying", "/ˈlaɪɪŋ/"],
+								["@_Listen", "@_Listening", "/ˈlɪsənɪŋ/"],
+								["@_Live", "@_Living", "/ˈlɪvɪŋ/"],
+								["@_Look", "@_Looking", "/ˈlʊkɪŋ/"],
+								["@_Make", "@_Making", "/ˈmeɪkɪŋ/"],
+								["@_Meet", "@_Meeting", "/ˈmiːtɪŋ/"],
+								["@_Open", "@_Opening", "/ˈoʊpənɪŋ/"],
+								["@_Pay", "@_Paying", "/ˈpeɪɪŋ/"],
+								["@_Play", "@_Playing", "/ˈpleɪɪŋ/"],
+								["@_Put", "@_Putting", "/ˈpʊtɪŋ/"],
+								["@_Read", "@_Reading", "/ˈriːdɪŋ/"],
+								["@_Run", "@_Running", "/ˈrʌnɪŋ/"],
+								["@_Say", "@_Saying", "/ˈseɪɪŋ/"],
+								["@_See", "@_Seeing", "/ˈsiːɪŋ/"],
+								["@_Sell", "@_Selling", "/ˈselɪŋ/"],
+								["@_Send", "@_Sending", "/ˈsendɪŋ/"],
+								["@_Show", "@_Showing", "/ˈʃoʊɪŋ/"],
+								["@_Sing", "@_Singing", "/ˈsɪŋɪ/"],
+								["@_Sit", "@_Sitting", "/ˈsɪtɪŋ/"],
+								["@_Sleep", "@_Sleeping", "/ˈsliːpɪŋ/"],
+								["@_Speak", "@_Speaking", "/ˈspiːkɪŋ/"],
+								["@_Spend", "@_Spending", "/ˈspendɪŋ/"],
+								["@_Stand", "@_Standing", "/ˈstændɪŋ/"],
+								["@_Stay", "@_Staying", "/ˈsteɪɪŋ/"],
+								["@_Stop", "@_Stopping", "/ˈstɒpɪŋ/"],
+								["@_Study", "@_Studying", "/ˈstʌdɪɪŋ/"],
+								["@_Swim", "@_Swimming", "/ˈswɪmɪŋ/"],
+								["@_Take", "@_Taking", "/ˈteɪkɪŋ/"],
+								["@_Talk", "@_Talking", "/ˈtɔːkɪŋ/"],
+								["@_Think", "@_Thinking", "/ˈθɪŋkɪŋ/"],
+								["@_Travel", "@_Travelling", "/ˈtrævəlɪŋ/"],
+								["@_Try", "@_Trying", "/ˈtraɪɪŋ/"],
+								["@_Understand", "@_Understanding", "/ˌʌndərˈstændɪŋ/"],
+								["@_Use", "@_Using", "/ˈjuːzɪŋ/"],
+								["@_Wait", "@_Waiting", "/ˈweɪtɪŋ/"],
+								["@_Walk", "@_Walking", "/ˈwɔːkɪŋ/"],
+								["@_Watch", "@_Watching", "/ˈwɒtʃɪŋ/"],
+								["@_Win", "@_Winning", "/ˈwɪnɪŋ//"],
+								["@_Work", "@_Working", "/ˈwɜːrkɪŋ/"],
+								["@_Write", "@_Writing", "/ˈraɪtɪŋ/"]
+							]
+						}
+					],
+					"style": "",
+					"value": "",
+					"description": "Comprehensive list of common verbs and their present participle forms."
+				}
+			]
+		},
+		{
+			"id": "section-5-1772294564318",
+			"title": "Usage Contexts",
+			"type": "comparison",
+			"blocks": [
+				{
+					"type": "table",
+					"label": "",
+					"content": "",
+					"items": [],
+					"headers": ["Context", "Example", "Explanation"],
+					"rows": [
+						{
+							"group": "Interrupted Action",
+							"items": [
+								[
+									"I was sleeping when the phone rang",
+									"Past Continuous + Simple Past",
+									"Long action interrupted by short action"
+								],
+								[
+									"She was cooking when I arrived",
+									"Past Continuous + Simple Past",
+									"Background action + interruption"
+								]
+							]
+						},
+						{
+							"group": "Parallel Actions",
+							"items": [
+								[
+									"I was studying while he was watching TV",
+									"Past Continuous + Past Continuous",
+									"Two actions happening at the same time"
+								],
+								[
+									"They were talking as we were eating",
+									"Past Continuous + Past Continuous",
+									"Simultaneous ongoing actions"
+								]
+							]
+						},
+						{
+							"group": "Specific Time",
+							"items": [
+								[
+									"At 8 PM, I was watching a movie",
+									"Past Continuous + Time",
+									"Action in progress at specific time"
+								],
+								[
+									"Yesterday morning, she was running",
+									"Past Continuous + Time",
+									"Action in progress during time period"
+								]
+							]
+						}
+					],
+					"style": "",
+					"value": "",
+					"description": ""
+				}
+			]
+		}
+	]
 }
