@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Shopping",
+    "subtitle": "Vocabulary for shopping, including online",
+    "difficulty": "A2"
+  },
+  "items": [
+    { "spanish": "Añadir al carrito", "english": "add to cart", "sound": "/æd tuː kɑːrt/" },
+    { "spanish": "Dinero en efectivo", "english": "cash", "sound": "/kæʃ/" },
+    { "spanish": "Caja", "english": "cash register", "sound": "/ˈkæʃ ˌredʒ.ɪ.stər/" },
+    { "spanish": "Tienda de ropa", "english": "clothing store", "sound": "/ˈkləʊðɪŋ stɔːr/" },
+    { "spanish": "Comprar", "english": "buy", "sound": "/baɪ/" },
+    { "spanish": "Cliente", "english": "customer", "sound": "/ˈkʌs.tə.mər/" },
+    { "spanish": "Tarjeta de crédito", "english": "credit card", "sound": "/ˈkred.ɪt kɑːrd/" },
+    { "spanish": "Descuento", "english": "discount", "sound": "/ˈdɪs.kaʊnt/" },
+    { "spanish": "Entrega a domicilio", "english": "home delivery", "sound": "/ˈhəʊm dɪˈlɪv.ər.i/" },
+    { "spanish": "Factura", "english": "invoice", "sound": "/ˈɪn.vɔɪs/" },
+    { "spanish": "Oferta", "english": "offer", "sound": "/ˈɒf.ər/" },
+    { "spanish": "Oferta especial", "english": "special offer", "sound": "/ˈspeʃ.əl ˈɒf.ər/" },
+    { "spanish": "Pago", "english": "payment", "sound": "/ˈpeɪ.mənt/" },
+    { "spanish": "Pago online", "english": "online payment", "sound": "/ˈɒn.laɪn ˈpeɪ.mənt/" },
+    { "spanish": "Carrito de la compra online", "english": "online shopping cart", "sound": "/ˈɒn.laɪn ˈʃɒpɪŋ kɑːrt/" },
+    { "spanish": "Pedido", "english": "order", "sound": "/ˈɔː.dər/" },
+    { "spanish": "Devolver un pedido", "english": "return an order", "sound": "/rɪˈtɜːn ən ˈɔː.dər/" },
+    { "spanish": "Recibo", "english": "receipt", "sound": "/rɪˈsiːt/" },
+    { "spanish": "Rebaja", "english": "sale", "sound": "/seɪl/" },
+    { "spanish": "Comercio", "english": "shop", "sound": "/ʃɒp/" },
+    { "spanish": "Vendedor", "english": "shop assistant", "sound": "/ʃɒp əˈsɪs.tənt/" },
+    { "spanish": "Tienda", "english": "store", "sound": "/stɔːr/" },
+    { "spanish": "Bolsa de compras", "english": "shopping bag", "sound": "/ˈʃɒpɪŋ bæɡ/" },
+    { "spanish": "Sitio web de compras", "english": "shopping website", "sound": "/ˈʃɒpɪŋ ˈweb.saɪt/" }
+  ]
+}

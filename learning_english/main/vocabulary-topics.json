@@ -199,6 +199,15 @@
 			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/restaurant.json"
 		},
 		{
+			"id": "shopping",
+			"title": "Shopping",
+			"subtitle": "Essential vocabulary for shopping, stores, payments, and customer interactions.",
+			"icon": "shopping_cart",
+			"difficulty": "A1-A2",
+			"href": "vocabulary.php?topic=shopping",
+			"src": "https://raw.githubusercontent.com/berandben/english_cards_data/refs/heads/main/learning_english/data/vocabulary/shopping.json"
+		},
+		{
 			"id": "things",
 			"title": "Things",
 			"subtitle": "Common objects and things we use in daily life.",
