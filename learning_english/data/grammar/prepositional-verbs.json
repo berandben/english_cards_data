@@ -1,0 +1,145 @@
+{
+    "slug": "prepositional-verbs",
+    "meta": {
+        "title": "Verbs + Prepositions",
+        "subtitle": "Common combinations you must remember",
+        "difficulty": "A2/B1",
+        "tags": [
+            "vocabulary",
+            "verbs",
+            "prepositions"
+        ],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-movement",
+            "title": "Arriving somewhere",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Arrive in vs Arrive at",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Verb",
+                        "Usage",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Location",
+                            "items": [
+                                [ "Arrive AT", "Specific places (airport, station, home)", "What time do you arrive at the office?" ],
+                                [ "Arrive IN", "Cities and Countries", "We arrived in London at 6:00" ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-common-verbs",
+            "title": "Daily Life Verbs",
+            "type": "two-columns",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Essential Combinations",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Verb + Prep",
+                        "Meaning / Use",
+                        "Example"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Interacting",
+                            "items": [
+                                [ "Ask FOR", "Request something", "I asked for a glass of water" ],
+                                [ "Belong TO", "Possession", "This book belongs to me" ],
+                                [ "Listen TO", "Pay attention to sound", "She is listening to the radio" ],
+                                [ "Wait FOR", "Expect someone/something", "I'm waiting for the bus" ]
+                            ]
+                        },
+                        {
+                            "group": "Communication",
+                            "items": [
+                                [ "Agree WITH", "Share opinion", "I don't agree with you" ],
+                                [ "Speak TO", "Formal/General communication", "I need to speak to the manager" ],
+                                [ "Talk ABOUT", "Discuss a topic", "They are talking about the news" ],
+                                [ "Talk TO", "Direct communication", "I will talk to him later" ],
+                                [ "Talk WITH", "Interchange (Common in US)", "He was talking with his friends" ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-thought-money",
+            "title": "Money and Thoughts",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Finance and Mind",
+                    "content": "",
+                    "items": [],
+                    "headers": ["Verb + Prep", "Context", "Example"],
+                    "rows": [
+                        {
+                            "group": "Money",
+                            "items": [
+                                [ "Pay FOR", "Buying something", "Let me pay for the coffee" ],
+                                [ "Spend ON", "Money/Time", "I spent 50€ on these shoes" ]
+                            ]
+                        },
+                        {
+                            "group": "Thoughts",
+                            "items": [
+                                [ "Believe IN", "Faith/Trust", "Do you believe in ghosts?" ],
+                                [ "Depends ON", "Condition (NOT 'of')", "It depends on the weather" ],
+                                [ "Think ABOUT", "Consider/Concentrate", "I'm thinking about my future" ],
+                                [ "Think OF", "Opinion/Idea", "What do you think of this film?" ],
+                                [ "Worry ABOUT", "Anxiety", "Don't worry about the exam" ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-4-summary",
+            "title": "Summary Tip",
+            "type": "formulas",
+            "blocks": [
+                {
+                    "type": "info-box",
+                    "label": "IMPORTANT",
+                    "content": "In English, prepositions are fixed. You cannot translate them literally from Spanish. For example, 'Depender de' is ALWAYS 'Depend ON'.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

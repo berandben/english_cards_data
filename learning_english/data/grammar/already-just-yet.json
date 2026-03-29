@@ -1,0 +1,155 @@
+{
+    "slug": "already-just-yet",
+    "meta": {
+        "title": "Already, Just and Yet",
+        "subtitle": "Common adverbs with Present Perfect",
+        "difficulty": "B1",
+        "tags": [
+            "grammar",
+            "present perfect",
+            "adverbs"
+        ],
+        "icon": ""
+    },
+    "header": {
+        "badges": []
+    },
+    "sections": [
+        {
+            "id": "section-1-usage-rules",
+            "title": "When to use",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "paragraph",
+                    "label": "JUST (justo)",
+                    "content": "Used for actions that happened a very short time ago (a moment ago).",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "paragraph",
+                    "label": "ALREADY (ya)",
+                    "content": "Happened earlier than expected",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "paragraph",
+                    "label": "YET (todavía)",
+                    "content": "Used for actions that we expect to happen. Used only in negative sentences and questions.",
+                    "items": [],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-2-position-table",
+            "title": "Position",
+            "type": "comparison",
+            "blocks": [
+                {
+                    "type": "table",
+                    "label": "Word Order",
+                    "content": "",
+                    "items": [],
+                    "headers": [
+                        "Adverb",
+                        
+                        "Position",
+                        "Sentence Type"
+                    ],
+                    "rows": [
+                        {
+                            "group": "Mid-position",
+                            "items": [
+                                [ "Just", "Between have + past participle", "Affirmative" ],
+                                [ "Already", "Between have + past participle", "Affirmative" ]
+                            ]
+                        },
+                        {
+                            "group": "End-position",
+                            "items": [
+                                [ "Yet",  "At the end of the sentence", "Negative" ],
+                                [ "Yet", "At the end of the sentence", "Questions" ]
+                            ]
+                        }
+                    ],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-3-formulas",
+            "title": "Sentence Formulas",
+            "type": "formulas",
+            "blocks": [
+                {
+                    "type": "code-block",
+                    "label": "JUST / ALREADY",
+                    "content": "",
+                    "items": [
+                        "Subject + have/has + JUST/ALREADY + past participle",
+                        "I have just eaten / She has already left"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                },
+                {
+                    "type": "code-block",
+                    "label": "YET",
+                    "content": "",
+                    "items": [
+                        "Subject + haven't/hasn't + past participle + YET",
+                        "I haven't finished yet / Have you called him yet?"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "section-4-examples-list",
+            "title": "Practical Examples",
+            "type": "info-grid",
+            "blocks": [
+                {
+                    "type": "list",
+                    "label": "EXAMPLES",
+                    "content": "",
+                    "items": [
+                        "@_I've just seen a ghost!",
+                        "@_We've already seen this movie",
+                        "@_He hasn't arrived yet",
+                        "@_Has the bus come yet?"
+                    ],
+                    "headers": [],
+                    "rows": [],
+                    "style": "gold",
+                    "value": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
