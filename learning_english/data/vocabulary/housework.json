@@ -5,24 +5,175 @@
     "difficulty": "A2"
   },
   "items": [
-    { "spanish": "Limpiar", "english": "clean", "sound": "/kliːn/" },
-    { "spanish": "Limpiar el baño", "english": "clean the bathroom", "sound": "/kliːn ðə ˈbɑːθruːm/" },
-    { "spanish": "Limpiar la cocina", "english": "clean the kitchen", "sound": "/kliːn ðə ˈkɪtʃɪn/" },
-    { "spanish": "Limpiar las ventanas", "english": "clean the windows", "sound": "/kliːn ðə ˈwɪndəʊz/" },
-    { "spanish": "Cocinar", "english": "cook", "sound": "/kʊk/" },
-    { "spanish": "Hacer la colada", "english": "do the laundry", "sound": "/duː ðə ˈlɔːndri/" },
-    { "spanish": "Hacer la compra", "english": "do the shopping", "sound": "/duː ðə ˈʃɒpɪŋ/" },
-    { "spanish": "Pasar el polvo", "english": "dust", "sound": "/dʌst/" },
-    { "spanish": "Doblar la ropa", "english": "fold the clothes", "sound": "/fəʊld ðə kləʊðz/" },
-    { "spanish": "Colgar la ropa", "english": "hang out the clothes", "sound": "/hæŋ aʊt ðə kləʊðz/" },
-    { "spanish": "Planchar", "english": "iron", "sound": "/ˈaɪən/" },
-    { "spanish": "Hacer la cama", "english": "make the bed", "sound": "/meɪk ðə bed/" },
-    { "spanish": "Fregar el suelo", "english": "mop the floor", "sound": "/mɒp ðə flɔːr/" },
-    { "spanish": "Recoger", "english": "pick up", "sound": "/pɪk ʌp/" },
-    { "spanish": "Poner la mesa", "english": "set the table", "sound": "/set ðə ˈteɪbəl/" },
-    { "spanish": "Barrer", "english": "sweep", "sound": "/swiːp/" },
-    { "spanish": "Sacar la basura", "english": "take out the rubbish", "sound": "/teɪk aʊt ðə ˈrʌbɪʃ/" },
-    { "spanish": "Aspirar", "english": "vacuum", "sound": "/ˈvæk.juːm/" },
-    { "spanish": "Regar las plantas", "english": "water the plants", "sound": "/ˈwɔːtə ðə plɑːnts/" }
+    {
+      "spanish": "Una pérdida de tiempo",
+      "english": "a waste of time",
+      "sound": "/ə weɪst ɒv taɪm/"
+    },
+    {
+      "spanish": "Limpiar",
+      "english": "clean",
+      "sound": "/kliːn/"
+    },
+    {
+      "spanish": "Limpiar el baño",
+      "english": "clean the bathroom",
+      "sound": "/kliːn ðə ˈbɑːθruːm/"
+    },
+    {
+      "spanish": "Quitar el polvo",
+      "english": "clean dust",
+      "sound": "/kliːn dʌst/"
+    },
+    {
+      "spanish": "Limpiar el suelo",
+      "english": "clean the floor",
+      "sound": "/kliːn ðə flɔːr/"
+    },
+    {
+      "spanish": "Cocinar",
+      "english": "cook",
+      "sound": "/kʊk/"
+    },
+    {
+      "spanish": "Hacer la colada",
+      "english": "do the laundry",
+      "sound": "/duː ðə ˈlɔːndri/"
+    },
+    {
+      "spanish": "Hacer la compra",
+      "english": "do the shopping",
+      "sound": "/duː ðə ˈʃɒpɪŋ/"
+    },
+    {
+      "spanish": "Hacer la plancha",
+      "english": "do the ironing",
+      "sound": "/duː ðə ˈaɪənɪŋ/"
+    },
+    {
+      "spanish": "Pasar la aspiradora",
+      "english": "do the hoovering",
+      "sound": "/duː ðə ˈhuːvərɪŋ/"
+    },
+    {
+      "spanish": "Pasar la aspiradora",
+      "english": "do the vacuuming",
+      "sound": "/duː ðə ˈvæk.juːmɪŋ/"
+    },
+    {
+      "spanish": "Fregar los platos",
+      "english": "do the washing up",
+      "sound": "/duː ðə ˈwɒʃɪŋ ʌp/"
+    },
+    {
+      "spanish": "Quitar el polvo",
+      "english": "dust",
+      "sound": "/dʌst/"
+    },
+    {
+      "spanish": "Quitar el polvo de los muebles",
+      "english": "dust the furniture",
+      "sound": "/dʌst ðə ˈfɜːnɪtʃə/"
+    },
+    {
+      "spanish": "Dar de comer a las mascotas",
+      "english": "feed pets",
+      "sound": "/fiːd pets/"
+    },
+    {
+      "spanish": "Doblar la ropa",
+      "english": "fold the clothes",
+      "sound": "/fəʊld ðə kləʊðz/"
+    },
+    {
+      "spanish": "Colgar la ropa",
+      "english": "hang out the clothes",
+      "sound": "/hæŋ aʊt ðə kləʊðz/"
+    },
+    {
+      "spanish": "Colgar la ropa en el tendedero",
+      "english": "hang the clothes on the clothing line",
+      "sound": "/hæŋ ðə kləʊðz ɒn ðə ˈkləʊðɪŋ laɪn/"
+    },
+    {
+      "spanish": "Planchar",
+      "english": "iron",
+      "sound": "/ˈaɪən/"
+    },
+    {
+      "spanish": "Poner la mesa",
+      "english": "lay the table",
+      "sound": "/leɪ ðə ˈteɪbəl/"
+    },
+    {
+      "spanish": "Cargar el lavavajillas",
+      "english": "load the dishwasher",
+      "sound": "/ləʊd ðə ˈdɪʃwɒʃə/"
+    },
+    {
+      "spanish": "Hacer la cama",
+      "english": "make the bed",
+      "sound": "/meɪk ðə bed/"
+    },
+    {
+      "spanish": "Preparar la comida",
+      "english": "make lunch",
+      "sound": "/meɪk lʌntʃ/"
+    },
+    {
+      "spanish": "Fregar el suelo",
+      "english": "mop the floor",
+      "sound": "/mɒp ðə flɔːr/"
+    },
+    {
+      "spanish": "Recoger",
+      "english": "pick up",
+      "sound": "/pɪk ʌp/"
+    },
+    {
+      "spanish": "Recoger la ropa sucia",
+      "english": "pick up dirty clothes",
+      "sound": "/pɪk ʌp ˈdɜːti kləʊðz/"
+    },
+    {
+      "spanish": "Guardar la ropa",
+      "english": "put away your clothes",
+      "sound": "/pʊt əˈweɪ jɔː kləʊðz/"
+    },
+    {
+      "spanish": "Poner la mesa",
+      "english": "set the table",
+      "sound": "/set ðə ˈteɪbəl/"
+    },
+    {
+      "spanish": "Barrer",
+      "english": "sweep",
+      "sound": "/swiːp/"
+    },
+    {
+      "spanish": "Sacar la basura",
+      "english": "take out the rubbish",
+      "sound": "/teɪk aʊt ðə ˈrʌbɪʃ/"
+    },
+    {
+      "spanish": "Recoger la ropa del tendedero",
+      "english": "take the clothes on the clothing line",
+      "sound": "/teɪk ðə kləʊðz ɒn ðə ˈkləʊðɪŋ laɪn/"
+    },
+    {
+      "spanish": "Ordenar tu habitación",
+      "english": "tidy your room",
+      "sound": "/ˈtaɪdi jɔː ruːm/"
+    },
+    {
+      "spanish": "Aspirar",
+      "english": "vacuum",
+      "sound": "/ˈvæk.juːm/"
+    },
+    {
+      "spanish": "Regar las plantas",
+      "english": "water the plants",
+      "sound": "/ˈwɔːtə ðə plɑːnts/"
+    }
   ]
 }
