@@ -5,29 +5,255 @@
     "difficulty": "A2"
   },
   "items": [
-    { "spanish": "Añadir al carrito", "english": "add to cart", "sound": "/æd tuː kɑːrt/" },
-    { "spanish": "Dinero en efectivo", "english": "cash", "sound": "/kæʃ/" },
-    { "spanish": "Caja", "english": "cash register", "sound": "/ˈkæʃ ˌredʒ.ɪ.stər/" },
-    { "spanish": "Tienda de ropa", "english": "clothing store", "sound": "/ˈkləʊðɪŋ stɔːr/" },
-    { "spanish": "Comprar", "english": "buy", "sound": "/baɪ/" },
-    { "spanish": "Cliente", "english": "customer", "sound": "/ˈkʌs.tə.mər/" },
-    { "spanish": "Tarjeta de crédito", "english": "credit card", "sound": "/ˈkred.ɪt kɑːrd/" },
-    { "spanish": "Descuento", "english": "discount", "sound": "/ˈdɪs.kaʊnt/" },
-    { "spanish": "Entrega a domicilio", "english": "home delivery", "sound": "/ˈhəʊm dɪˈlɪv.ər.i/" },
-    { "spanish": "Factura", "english": "invoice", "sound": "/ˈɪn.vɔɪs/" },
-    { "spanish": "Oferta", "english": "offer", "sound": "/ˈɒf.ər/" },
-    { "spanish": "Oferta especial", "english": "special offer", "sound": "/ˈspeʃ.əl ˈɒf.ər/" },
-    { "spanish": "Pago", "english": "payment", "sound": "/ˈpeɪ.mənt/" },
-    { "spanish": "Pago online", "english": "online payment", "sound": "/ˈɒn.laɪn ˈpeɪ.mənt/" },
-    { "spanish": "Carrito de la compra online", "english": "online shopping cart", "sound": "/ˈɒn.laɪn ˈʃɒpɪŋ kɑːrt/" },
-    { "spanish": "Pedido", "english": "order", "sound": "/ˈɔː.dər/" },
-    { "spanish": "Devolver un pedido", "english": "return an order", "sound": "/rɪˈtɜːn ən ˈɔː.dər/" },
-    { "spanish": "Recibo", "english": "receipt", "sound": "/rɪˈsiːt/" },
-    { "spanish": "Rebaja", "english": "sale", "sound": "/seɪl/" },
-    { "spanish": "Comercio", "english": "shop", "sound": "/ʃɒp/" },
-    { "spanish": "Vendedor", "english": "shop assistant", "sound": "/ʃɒp əˈsɪs.tənt/" },
-    { "spanish": "Tienda", "english": "store", "sound": "/stɔːr/" },
-    { "spanish": "Bolsa de compras", "english": "shopping bag", "sound": "/ˈʃɒpɪŋ bæɡ/" },
-    { "spanish": "Sitio web de compras", "english": "shopping website", "sound": "/ˈʃɒpɪŋ ˈweb.saɪt/" }
+    {
+      "spanish": "Cuenta",
+      "english": "account",
+      "sound": "/əˈkaʊnt/"
+    },
+    {
+      "spanish": "Añadir al carrito",
+      "english": "add to cart",
+      "sound": "/æd tuː kɑːrt/"
+    },
+    {
+      "spanish": "Tarjeta bancaria",
+      "english": "bank card",
+      "sound": "/bæŋk kɑːd/"
+    },
+    {
+      "spanish": "Cesta",
+      "english": "basket",
+      "sound": "/ˈbɑːskɪt/"
+    },
+    {
+      "spanish": "Comprar",
+      "english": "buy",
+      "sound": "/baɪ/"
+    },
+    {
+      "spanish": "Detalles de la tarjeta",
+      "english": "card details",
+      "sound": "/kɑːd ˈdiːteɪlz/"
+    },
+    {
+      "spanish": "Dinero en efectivo",
+      "english": "cash",
+      "sound": "/kæʃ/"
+    },
+    {
+      "spanish": "Cajero automático",
+      "english": "cash machine",
+      "sound": "/kæʃ məˈʃiːn/"
+    },
+    {
+      "spanish": "Caja",
+      "english": "cash register",
+      "sound": "/ˈkæʃ ˌredʒ.ɪ.stər/"
+    },
+    {
+      "spanish": "Tienda en cadena",
+      "english": "chain store",
+      "sound": "/tʃeɪn stɔːr/"
+    },
+    {
+      "spanish": "Probadores",
+      "english": "changing-rooms",
+      "sound": "/ˈtʃeɪndʒɪŋ ruːmz/"
+    },
+    {
+      "spanish": "Barato",
+      "english": "cheap",
+      "sound": "/tʃiːp/"
+    },
+    {
+      "spanish": "Pagar",
+      "english": "checkout",
+      "sound": "/ˈtʃekaʊt/"
+    },
+    {
+      "spanish": "Tienda de ropa",
+      "english": "clothing store",
+      "sound": "/ˈkləʊðɪŋ stɔːr/"
+    },
+    {
+      "spanish": "Tarjeta de crédito",
+      "english": "credit card",
+      "sound": "/ˈkred.ɪt kɑːrd/"
+    },
+    {
+      "spanish": "Cliente",
+      "english": "customer",
+      "sound": "/ˈkʌs.tə.mər/"
+    },
+    {
+      "spanish": "Oferta",
+      "english": "deal",
+      "sound": "/diːl/"
+    },
+    {
+      "spanish": "Dirección de entrega",
+      "english": "delivery address",
+      "sound": "/dɪˈlɪv.ər.i əˈdres/"
+    },
+    {
+      "spanish": "Descuento",
+      "english": "discount",
+      "sound": "/ˈdɪs.kaʊnt/"
+    },
+    {
+      "spanish": "Caro",
+      "english": "expensive",
+      "sound": "/ɪkˈspensɪv/"
+    },
+    {
+      "spanish": "Quedar bien",
+      "english": "fit",
+      "sound": "/fɪt/"
+    },
+    {
+      "spanish": "Entrega a domicilio",
+      "english": "home delivery",
+      "sound": "/ˈhəʊm dɪˈlɪv.ər.i/"
+    },
+    {
+      "spanish": "Factura",
+      "english": "invoice",
+      "sound": "/ˈɪn.vɔɪs/"
+    },
+    {
+      "spanish": "Artículo",
+      "english": "item",
+      "sound": "/ˈaɪ.təm/"
+    },
+    {
+      "spanish": "Quedar bien",
+      "english": "look good",
+      "sound": "/lʊk ɡʊd/"
+    },
+    {
+      "spanish": "Centro comercial",
+      "english": "mall",
+      "sound": "/mɔːl/"
+    },
+    {
+      "spanish": "Entrega al día siguiente",
+      "english": "next day delivery",
+      "sound": "/nekst deɪ dɪˈlɪv.ər.i/"
+    },
+    {
+      "spanish": "Oferta",
+      "english": "offer",
+      "sound": "/ˈɒf.ər/"
+    },
+    {
+      "spanish": "Pedido",
+      "english": "order",
+      "sound": "/ˈɔː.dər/"
+    },
+    {
+      "spanish": "Pago",
+      "english": "payment",
+      "sound": "/ˈpeɪ.mənt/"
+    },
+    {
+      "spanish": "Realizar el pedido",
+      "english": "place your order",
+      "sound": "/pleɪs jɔːr ˈɔː.dər/"
+    },
+    {
+      "spanish": "Recibo",
+      "english": "receipt",
+      "sound": "/rɪˈsiːt/"
+    },
+    {
+      "spanish": "Devolver",
+      "english": "return",
+      "sound": "/rɪˈtɜːn/"
+    },
+    {
+      "spanish": "Devolver un pedido",
+      "english": "return an order",
+      "sound": "/rɪˈtɜːn ən ˈɔː.dər/"
+    },
+    {
+      "spanish": "Rebaja",
+      "english": "sale",
+      "sound": "/seɪl/"
+    },
+    {
+      "spanish": "Segunda mano",
+      "english": "secondhand",
+      "sound": "/ˈsek.ənd.hænd/"
+    },
+    {
+      "spanish": "Autoservicio",
+      "english": "self-service",
+      "sound": "/ˌself ˈsɜː.vɪs/"
+    },
+    {
+      "spanish": "Estante",
+      "english": "shelf",
+      "sound": "/ʃelf/"
+    },
+    {
+      "spanish": "Comercio",
+      "english": "shop",
+      "sound": "/ʃɒp/"
+    },
+    {
+      "spanish": "Vendedor",
+      "english": "shop assistant",
+      "sound": "/ʃɒp əˈsɪs.tənt/"
+    },
+    {
+      "spanish": "Bolsa de compras",
+      "english": "shopping bag",
+      "sound": "/ˈʃɒpɪŋ bæɡ/"
+    },
+    {
+      "spanish": "Centro comercial",
+      "english": "shopping centre",
+      "sound": "/ˈʃɒpɪŋ ˌsen.tər/"
+    },
+    {
+      "spanish": "Sitio web de compras",
+      "english": "shopping website",
+      "sound": "/ˈʃɒpɪŋ ˈweb.saɪt/"
+    },
+    {
+      "spanish": "Oferta especial",
+      "english": "special offer",
+      "sound": "/ˈspeʃ.əl ˈɒf.ər/"
+    },
+    {
+      "spanish": "Entrega estándar",
+      "english": "standard delivery",
+      "sound": "/ˈstæn.dəd dɪˈlɪv.ər.i/"
+    },
+    {
+      "spanish": "Tienda",
+      "english": "store",
+      "sound": "/stɔːr/"
+    },
+    {
+      "spanish": "Quedar bien",
+      "english": "suit",
+      "sound": "/suːt/"
+    },
+    {
+      "spanish": "Devolver",
+      "english": "take back",
+      "sound": "/teɪk bæk/"
+    },
+    {
+      "spanish": "Caja",
+      "english": "till",
+      "sound": "/tɪl/"
+    },
+    {
+      "spanish": "Probarse",
+      "english": "try on",
+      "sound": "/traɪ ɒn/"
+    }
   ]
 }
