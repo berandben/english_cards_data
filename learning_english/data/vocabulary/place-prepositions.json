@@ -1,7 +1,7 @@
 {
     "meta": {
-        "title": "Prepositions of Place & Direction",
-        "subtitle": "Navigating space and locations",
+        "title": "Prepositions of Place",
+        "subtitle": "",
         "difficulty": "B1"
     },
     "items": [
@@ -81,6 +81,11 @@
             "sound": "/ˈfeɪ.sɪŋ/"
         },
         {
+            "spanish": "Delante de",
+            "english": "In front of",
+            "sound": "/ɪn frʌnt əv/"
+        },
+        {
             "spanish": "Dentro de casa/edificio",
             "english": "Indoors",
             "sound": "/ˌɪnˈdɔːz/"
@@ -104,6 +109,11 @@
             "spanish": "Sobre / Encima de",
             "english": "On top of",
             "sound": "/ɒn tɒp əv/"
+        },
+        {
+            "spanish": "Enfrente de (al otro lado de)",
+            "english": "Opposite",
+            "sound": "/ˈɒp.ə.zɪt/"
         },
         {
             "spanish": "Sobre / Por encima (cruzando)",

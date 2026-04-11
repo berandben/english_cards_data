@@ -21,11 +21,6 @@
             "sound": "/əˈraʊnd/"
         },
         {
-            "spanish": "Detrás de",
-            "english": "Behind",
-            "sound": "/bɪˈhaɪnd/"
-        },
-        {
             "spanish": "Abajo",
             "english": "Down",
             "sound": "/daʊn/"
@@ -34,11 +29,6 @@
             "spanish": "Desde",
             "english": "From",
             "sound": "/frɒm/"
-        },
-        {
-            "spanish": "En frente de",
-            "english": "In front of",
-            "sound": "/ɪn frʌnt əv/"
         },
         {
             "spanish": "Dentro de",
@@ -84,11 +74,6 @@
             "spanish": "A través de",
             "english": "Through",
             "sound": "/θruː/"
-        },
-        {
-            "spanish": "Debajo de",
-            "english": "Under",
-            "sound": "/ˈʌn.dər/"
         },
         {
             "spanish": "Arriba",
