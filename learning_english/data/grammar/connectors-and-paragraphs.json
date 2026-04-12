@@ -98,7 +98,7 @@
 					],
 					"rows": [
 						{
-							"group": "To Link Similar Ideas",
+							"group": "To Link Similar Ideas (además/también)",
 							"items": [
 								[
 									"Moreover",
@@ -174,7 +174,7 @@
 							]
 						},
 						{
-							"group": "To Express Contrast",
+							"group": "To Express Contrast (aunque/pero/sin embargo)",
 							"items": [
 								[
 									"Although",
@@ -224,11 +224,11 @@
 									"Next, we asked for a map"
 								],
 								[
-									"After",
+									"After that",
 									"not always",
 									"beginning, middle",
 									"sentence, noun",
-									"After, we explored the city"
+									"After that, we explored the city"
 								],
 								[
 									"Finally",
