@@ -23,9 +23,11 @@
                     "items": [],
                     "headers": [
                         "Infinitive",
+                        "Third Person",
                         "Gerund",
                         "Past",
-                        "Participle"
+                        "Participle",
+                        "Spanish"
                     ],
                     "rows": [
                         {
@@ -33,183 +35,243 @@
                             "items": [
                                 [
                                     "@_Ask",
+                                    "@_Asks",
                                     "@_Asking",
                                     "@_Asked",
-                                    "@_Asked"
+                                    "@_Asked",
+                                    "preguntar/pedir"
                                 ],
                                 [
                                     "@_Clap",
+                                    "@_Claps",
                                     "@_Clapping",
                                     "@_Clapped",
-                                    "@_Clapped"
+                                    "@_Clapped",
+                                    "aplaudir"
                                 ],
                                 [
                                     "@_Cook",
+                                    "@_Cooks",
                                     "@_Cooking",
                                     "@_Cooked",
-                                    "@_Cooked"
+                                    "@_Cooked",
+                                    "cocinar"
                                 ],
                                 [
                                     "@_Cough",
+                                    "@_Coughs",
                                     "@_Coughing",
                                     "@_Coughed",
-                                    "@_Coughed"
+                                    "@_Coughed",
+                                    "toser"
                                 ],
                                 [
                                     "@_Dance",
+                                    "@_Dances",
                                     "@_Dancing",
                                     "@_Danced",
-                                    "@_Danced"
+                                    "@_Danced",
+                                    "bailar"
                                 ],
                                 [
                                     "@_Drop",
+                                    "@_Drops",
                                     "@_Dropping",
                                     "@_Dropped",
-                                    "@_Dropped"
+                                    "@_Dropped",
+                                    "dejar caer"
                                 ],
                                 [
                                     "@_Finish",
+                                    "@_Finishes",
                                     "@_Finishing",
                                     "@_Finished",
-                                    "@_Finished"
+                                    "@_Finished",
+                                    "terminar"
                                 ],
                                 [
                                     "@_Fix",
+                                    "@_Fixes",
                                     "@_Fixing",
                                     "@_Fixed",
-                                    "@_Fixed"
+                                    "@_Fixed",
+                                    "arreglar"
                                 ],
                                 [
                                     "@_Guess",
+                                    "@_Guesses",
                                     "@_Guessing",
                                     "@_Guessed",
-                                    "@_Guessed"
+                                    "@_Guessed",
+                                    "adivinar"
                                 ],
                                 [
                                     "@_Help",
+                                    "@_Helps",
                                     "@_Helping",
                                     "@_Helped",
-                                    "@_Helped"
+                                    "@_Helped",
+                                    "ayudar"
                                 ],
                                 [
                                     "@_Hope",
+                                    "@_Hopes",
                                     "@_Hoping",
                                     "@_Hoped",
-                                    "@_Hoped"
+                                    "@_Hoped",
+                                    "esperar"
                                 ],
                                 [
                                     "@_Jump",
+                                    "@_Jumps",
                                     "@_Jumping",
                                     "@_Jumped",
-                                    "@_Jumped"
+                                    "@_Jumped",
+                                    "saltar"
                                 ],
                                 [
                                     "@_Kiss",
+                                    "@_Kisses",
                                     "@_Kissing",
                                     "@_Kissed",
-                                    "@_Kissed"
+                                    "@_Kissed",
+                                    "besar"
                                 ],
                                 [
                                     "@_Laugh",
+                                    "@_Laughs",
                                     "@_Laughing",
                                     "@_Laughed",
-                                    "@_Laughed"
+                                    "@_Laughed",
+                                    "reír"
                                 ],
                                 [
                                     "@_Like",
+                                    "@_Likes",
                                     "@_Liking",
                                     "@_Liked",
-                                    "@_Liked"
+                                    "@_Liked",
+                                    "gustar"
                                 ],
                                 [
                                     "@_Look",
+                                    "@_Looks",
                                     "@_Looking",
                                     "@_Looked",
-                                    "@_Looked"
+                                    "@_Looked",
+                                    "mirar"
                                 ],
                                 [
                                     "@_Mark",
+                                    "@_Marks",
                                     "@_Marking",
                                     "@_Marked",
-                                    "@_Marked"
+                                    "@_Marked",
+                                    "marcar"
                                 ],
                                 [
                                     "@_Miss",
+                                    "@_Misses",
                                     "@_Missing",
                                     "@_Missed",
-                                    "@_Missed"
+                                    "@_Missed",
+                                    "extrañar/perder"
                                 ],
                                 [
                                     "@_Mix",
+                                    "@_Mixes",
                                     "@_Mixing",
                                     "@_Mixed",
-                                    "@_Mixed"
+                                    "@_Mixed",
+                                    "mezclar"
                                 ],
                                 [
                                     "@_Park",
+                                    "@_Parks",
                                     "@_Parking",
                                     "@_Parked",
-                                    "@_Parked"
+                                    "@_Parked",
+                                    "estacionar"
                                 ],
                                 [
                                     "@_Pass",
+                                    "@_Passes",
                                     "@_Passing",
                                     "@_Passed",
-                                    "@_Passed"
+                                    "@_Passed",
+                                    "pasar"
                                 ],
                                 [
                                     "@_Practice",
+                                    "@_Practices",
                                     "@_Practicing",
                                     "@_Practiced",
-                                    "@_Practiced"
+                                    "@_Practiced",
+                                    "practicar"
                                 ],
                                 [
                                     "@_Press",
+                                    "@_Presses",
                                     "@_Pressing",
                                     "@_Pressed",
-                                    "@_Pressed"
+                                    "@_Pressed",
+                                    "presionar"
                                 ],
                                 [
                                     "@_Stop",
+                                    "@_Stops",
                                     "@_Stopping",
                                     "@_Stopped",
-                                    "@_Stopped"
+                                    "@_Stopped",
+                                    "parar"
                                 ],
                                 [
                                     "@_Talk",
+                                    "@_Talks",
                                     "@_Talking",
                                     "@_Talked",
-                                    "@_Talked"
+                                    "@_Talked",
+                                    "hablar"
                                 ],
                                 [
                                     "@_Walk",
+                                    "@_Walks",
                                     "@_Walking",
                                     "@_Walked",
-                                    "@_Walked"
+                                    "@_Walked",
+                                    "caminar"
                                 ],
                                 [
                                     "@_Wash",
+                                    "@_Washes",
                                     "@_Washing",
                                     "@_Washed",
-                                    "@_Washed"
+                                    "@_Washed",
+                                    "lavar"
                                 ],
                                 [
                                     "@_Watch",
+                                    "@_Watches",
                                     "@_Watching",
                                     "@_Watched",
-                                    "@_Watched"
+                                    "@_Watched",
+                                    "mirar"
                                 ],
                                 [
                                     "@_Wish",
+                                    "@_Wishes",
                                     "@_Wishing",
                                     "@_Wished",
-                                    "@_Wished"
+                                    "@_Wished",
+                                    "desear"
                                 ],
                                 [
                                     "@_Work",
+                                    "@_Works",
                                     "@_Working",
                                     "@_Worked",
-                                    "@_Worked"
+                                    "@_Worked",
+                                    "trabajar"
                                 ]
                             ]
                         },
@@ -218,183 +280,243 @@
                             "items": [
                                 [
                                     "@_Agree",
+                                    "@_Agrees",
                                     "@_Agreeing",
                                     "@_Agreed",
-                                    "@_Agreed"
+                                    "@_Agreed",
+                                    "acordar"
                                 ],
                                 [
                                     "@_Allow",
+                                    "@_Allows",
                                     "@_Allowing",
                                     "@_Allowed",
-                                    "@_Allowed"
+                                    "@_Allowed",
+                                    "permitir"
                                 ],
                                 [
                                     "@_Answer",
+                                    "@_Answers",
                                     "@_Answering",
                                     "@_Answered",
-                                    "@_Answered"
+                                    "@_Answered",
+                                    "responder"
                                 ],
                                 [
                                     "@_Arrive",
+                                    "@_Arrives",
                                     "@_Arriving",
                                     "@_Arrived",
-                                    "@_Arrived"
+                                    "@_Arrived",
+                                    "llegar"
                                 ],
                                 [
                                     "@_Believe",
+                                    "@_Believes",
                                     "@_Believing",
                                     "@_Believed",
-                                    "@_Believed"
+                                    "@_Believed",
+                                    "creer"
                                 ],
                                 [
                                     "@_Borrow",
+                                    "@_Borrows",
                                     "@_Borrowing",
                                     "@_Borrowed",
-                                    "@_Borrowed"
+                                    "@_Borrowed",
+                                    "pedir prestado"
                                 ],
                                 [
                                     "@_Call",
+                                    "@_Calls",
                                     "@_Calling",
                                     "@_Called",
-                                    "@_Called"
+                                    "@_Called",
+                                    "llamar"
                                 ],
                                 [
                                     "@_Carry",
+                                    "@_Carries",
                                     "@_Carrying",
                                     "@_Carried",
-                                    "@_Carried"
+                                    "@_Carried",
+                                    "llevar"
                                 ],
                                 [
                                     "@_Change",
+                                    "@_Changes",
                                     "@_Changing",
                                     "@_Changed",
-                                    "@_Changed"
+                                    "@_Changed",
+                                    "cambiar"
                                 ],
                                 [
                                     "@_Clean",
+                                    "@_Cleans",
                                     "@_Cleaning",
                                     "@_Cleaned",
-                                    "@_Cleaned"
+                                    "@_Cleaned",
+                                    "limpiar"
                                 ],
                                 [
                                     "@_Close",
+                                    "@_Closes",
                                     "@_Closing",
                                     "@_Closed",
-                                    "@_Closed"
+                                    "@_Closed",
+                                    "cerrar"
                                 ],
                                 [
                                     "@_Enjoy",
+                                    "@_Enjoys",
                                     "@_Enjoying",
                                     "@_Enjoyed",
-                                    "@_Enjoyed"
+                                    "@_Enjoyed",
+                                    "disfrutar"
                                 ],
                                 [
                                     "@_Fill",
+                                    "@_Fills",
                                     "@_Filling",
                                     "@_Filled",
-                                    "@_Filled"
+                                    "@_Filled",
+                                    "llenar"
                                 ],
                                 [
                                     "@_Follow",
+                                    "@_Follows",
                                     "@_Following",
                                     "@_Followed",
-                                    "@_Followed"
+                                    "@_Followed",
+                                    "seguir"
                                 ],
                                 [
                                     "@_Happen",
+                                    "@_Happens",
                                     "@_Happening",
                                     "@_Happened",
-                                    "@_Happened"
+                                    "@_Happened",
+                                    "suceder"
                                 ],
                                 [
                                     "@_Learn",
+                                    "@_Learns",
                                     "@_Learning",
                                     "@_Learned",
-                                    "@_Learned"
+                                    "@_Learned",
+                                    "aprender"
                                 ],
                                 [
                                     "@_Live",
+                                    "@_Lives",
                                     "@_Living",
                                     "@_Lived",
-                                    "@_Lived"
+                                    "@_Lived",
+                                    "vivir"
                                 ],
                                 [
                                     "@_Love",
+                                    "@_Loves",
                                     "@_Loving",
                                     "@_Loved",
-                                    "@_Loved"
+                                    "@_Loved",
+                                    "amar"
                                 ],
                                 [
                                     "@_Move",
+                                    "@_Moves",
                                     "@_Moving",
                                     "@_Moved",
-                                    "@_Moved"
+                                    "@_Moved",
+                                    "mover"
                                 ],
                                 [
                                     "@_Offer",
+                                    "@_Offers",
                                     "@_Offering",
                                     "@_Offered",
-                                    "@_Offered"
+                                    "@_Offered",
+                                    "ofrecer"
                                 ],
                                 [
                                     "@_Open",
+                                    "@_Opens",
                                     "@_Opening",
                                     "@_Opened",
-                                    "@_Opened"
+                                    "@_Opened",
+                                    "abrir"
                                 ],
                                 [
                                     "@_Plan",
+                                    "@_Plans",
                                     "@_Planning",
                                     "@_Planned",
-                                    "@_Planned"
+                                    "@_Planned",
+                                    "planear"
                                 ],
                                 [
                                     "@_Play",
+                                    "@_Plays",
                                     "@_Playing",
                                     "@_Played",
-                                    "@_Played"
+                                    "@_Played",
+                                    "jugar"
                                 ],
                                 [
                                     "@_Prepare",
+                                    "@_Prepares",
                                     "@_Preparing",
                                     "@_Prepared",
-                                    "@_Prepared"
+                                    "@_Prepared",
+                                    "preparar"
                                 ],
                                 [
                                     "@_Raise",
+                                    "@_Raises",
                                     "@_Raising",
                                     "@_Raised",
-                                    "@_Raised"
+                                    "@_Raised",
+                                    "levantar"
                                 ],
                                 [
                                     "@_Save",
+                                    "@_Saves",
                                     "@_Saving",
                                     "@_Saved",
-                                    "@_Saved"
+                                    "@_Saved",
+                                    "ahorrar/salvar"
                                 ],
                                 [
                                     "@_Stay",
+                                    "@_Stays",
                                     "@_Staying",
                                     "@_Stayed",
-                                    "@_Stayed"
+                                    "@_Stayed",
+                                    "quedarse"
                                 ],
                                 [
                                     "@_Try",
+                                    "@_Tries",
                                     "@_Trying",
                                     "@_Tried",
-                                    "@_Tried"
+                                    "@_Tried",
+                                    "intentar"
                                 ],
                                 [
                                     "@_Turn",
+                                    "@_Turns",
                                     "@_Turning",
                                     "@_Turned",
-                                    "@_Turned"
+                                    "@_Turned",
+                                    "girar"
                                 ],
                                 [
                                     "@_Use",
+                                    "@_Uses",
                                     "@_Using",
                                     "@_Used",
-                                    "@_Used"
+                                    "@_Used",
+                                    "usar"
                                 ]
                             ]
                         },
@@ -403,183 +525,243 @@
                             "items": [
                                 [
                                     "@_Add",
+                                    "@_Adds",
                                     "@_Adding",
                                     "@_Added",
-                                    "@_Added"
+                                    "@_Added",
+                                    "añadir"
                                 ],
                                 [
                                     "@_Admit",
+                                    "@_Admits",
                                     "@_Admitting",
                                     "@_Admitted",
-                                    "@_Admitted"
+                                    "@_Admitted",
+                                    "admitir"
                                 ],
                                 [
                                     "@_Count",
+                                    "@_Counts",
                                     "@_Counting",
                                     "@_Counted",
-                                    "@_Counted"
+                                    "@_Counted",
+                                    "contar"
                                 ],
                                 [
                                     "@_Create",
+                                    "@_Creates",
                                     "@_Creating",
                                     "@_Created",
-                                    "@_Created"
+                                    "@_Created",
+                                    "crear"
                                 ],
                                 [
                                     "@_Decide",
+                                    "@_Decides",
                                     "@_Deciding",
                                     "@_Decided",
-                                    "@_Decided"
+                                    "@_Decided",
+                                    "decidir"
                                 ],
                                 [
                                     "@_Divide",
+                                    "@_Divides",
                                     "@_Dividing",
                                     "@_Divided",
-                                    "@_Divided"
+                                    "@_Divided",
+                                    "dividir"
                                 ],
                                 [
                                     "@_Edit",
+                                    "@_Edits",
                                     "@_Editing",
                                     "@_Edited",
-                                    "@_Edited"
+                                    "@_Edited",
+                                    "editar"
                                 ],
                                 [
                                     "@_End",
+                                    "@_Ends",
                                     "@_Ending",
                                     "@_Ended",
-                                    "@_Ended"
+                                    "@_Ended",
+                                    "terminar"
                                 ],
                                 [
                                     "@_Expect",
+                                    "@_Expects",
                                     "@_Expecting",
                                     "@_Expected",
-                                    "@_Expected"
+                                    "@_Expected",
+                                    "esperar"
                                 ],
                                 [
                                     "@_Fold",
+                                    "@_Folds",
                                     "@_Folding",
                                     "@_Folded",
-                                    "@_Folded"
+                                    "@_Folded",
+                                    "doblar"
                                 ],
                                 [
                                     "@_Hate",
+                                    "@_Hates",
                                     "@_Hating",
                                     "@_Hated",
-                                    "@_Hated"
+                                    "@_Hated",
+                                    "odiar"
                                 ],
                                 [
                                     "@_Hunt",
+                                    "@_Hunts",
                                     "@_Hunting",
                                     "@_Hunted",
-                                    "@_Hunted"
+                                    "@_Hunted",
+                                    "cazar"
                                 ],
                                 [
                                     "@_Invite",
+                                    "@_Invites",
                                     "@_Inviting",
                                     "@_Invited",
-                                    "@_Invited"
+                                    "@_Invited",
+                                    "invitar"
                                 ],
                                 [
                                     "@_Land",
+                                    "@_Lands",
                                     "@_Landing",
                                     "@_Landed",
-                                    "@_Landed"
+                                    "@_Landed",
+                                    "aterrizar"
                                 ],
                                 [
                                     "@_Need",
+                                    "@_Needs",
                                     "@_Needing",
                                     "@_Needed",
-                                    "@_Needed"
+                                    "@_Needed",
+                                    "necesitar"
                                 ],
                                 [
                                     "@_Paint",
+                                    "@_Paints",
                                     "@_Painting",
                                     "@_Painted",
-                                    "@_Painted"
+                                    "@_Painted",
+                                    "pintar"
                                 ],
                                 [
                                     "@_Permit",
+                                    "@_Permits",
                                     "@_Permitting",
                                     "@_Permitted",
-                                    "@_Permitted"
+                                    "@_Permitted",
+                                    "permitir"
                                 ],
                                 [
                                     "@_Point",
+                                    "@_Points",
                                     "@_Pointing",
                                     "@_Pointed",
-                                    "@_Pointed"
+                                    "@_Pointed",
+                                    "señalar"
                                 ],
                                 [
                                     "@_Print",
+                                    "@_Prints",
                                     "@_Printing",
                                     "@_Printed",
-                                    "@_Printed"
+                                    "@_Printed",
+                                    "imprimir"
                                 ],
                                 [
                                     "@_Protect",
+                                    "@_Protects",
                                     "@_Protecting",
                                     "@_Protected",
-                                    "@_Protected"
+                                    "@_Protected",
+                                    "proteger"
                                 ],
                                 [
                                     "@_Provide",
+                                    "@_Provides",
                                     "@_Providing",
                                     "@_Provided",
-                                    "@_Provided"
+                                    "@_Provided",
+                                    "proveer"
                                 ],
                                 [
                                     "@_Regret",
+                                    "@_Regrets",
                                     "@_Regretting",
                                     "@_Regretted",
-                                    "@_Regretted"
+                                    "@_Regretted",
+                                    "lamentar"
                                 ],
                                 [
                                     "@_Rent",
+                                    "@_Rents",
                                     "@_Renting",
                                     "@_Rented",
-                                    "@_Rented"
+                                    "@_Rented",
+                                    "alquilar"
                                 ],
                                 [
                                     "@_Repeat",
+                                    "@_Repeats",
                                     "@_Repeating",
                                     "@_Repeated",
-                                    "@_Repeated"
+                                    "@_Repeated",
+                                    "repetir"
                                 ],
                                 [
                                     "@_Sound",
+                                    "@_Sounds",
                                     "@_Sounding",
                                     "@_Sounded",
-                                    "@_Sounded"
+                                    "@_Sounded",
+                                    "sonar"
                                 ],
                                 [
                                     "@_Start",
+                                    "@_Starts",
                                     "@_Starting",
                                     "@_Started",
-                                    "@_Started"
+                                    "@_Started",
+                                    "empezar"
                                 ],
                                 [
                                     "@_Visit",
+                                    "@_Visits",
                                     "@_Visiting",
                                     "@_Visited",
-                                    "@_Visited"
+                                    "@_Visited",
+                                    "visitar"
                                 ],
                                 [
                                     "@_Vote",
+                                    "@_Votes",
                                     "@_Voting",
                                     "@_Voted",
-                                    "@_Voted"
+                                    "@_Voted",
+                                    "votar"
                                 ],
                                 [
                                     "@_Wait",
+                                    "@_Waits",
                                     "@_Waiting",
                                     "@_Waited",
-                                    "@_Waited"
+                                    "@_Waited",
+                                    "esperar"
                                 ],
                                 [
                                     "@_Want",
+                                    "@_Wants",
                                     "@_Wanting",
                                     "@_Wanted",
-                                    "@_Wanted"
+                                    "@_Wanted",
+                                    "querer"
                                 ]
                             ]
                         }
@@ -592,9 +774,11 @@
                     "items": [],
                     "headers": [
                         "Infinitive",
+                        "Third Person",
                         "Gerund",
                         "Past",
-                        "Participle"
+                        "Participle",
+                        "Spanish"
                     ],
                     "rows": [
                         {
@@ -602,123 +786,163 @@
                             "items": [
                                 [
                                     "@_Bet",
+                                    "@_Bets",
                                     "@_Betting",
                                     "@_Bet",
-                                    "@_Bet"
+                                    "@_Bet",
+                                    "apostar"
                                 ],
                                 [
                                     "@_Broadcast",
+                                    "@_Broadcasts",
                                     "@_Broadcasting",
                                     "@_Broadcast",
-                                    "@_Broadcast"
+                                    "@_Broadcast",
+                                    "transmitir"
                                 ],
                                 [
                                     "@_Burst",
+                                    "@_Bursts",
                                     "@_Bursting",
                                     "@_Burst",
-                                    "@_Burst"
+                                    "@_Burst",
+                                    "estallar"
                                 ],
                                 [
                                     "@_Cast",
+                                    "@_Casts",
                                     "@_Casting",
                                     "@_Cast",
-                                    "@_Cast"
+                                    "@_Cast",
+                                    "lanzar"
                                 ],
                                 [
                                     "@_Cost",
+                                    "@_Costs",
                                     "@_Costing",
                                     "@_Cost",
-                                    "@_Cost"
+                                    "@_Cost",
+                                    "costar"
                                 ],
                                 [
                                     "@_Cut",
+                                    "@_Cuts",
                                     "@_Cutting",
                                     "@_Cut",
-                                    "@_Cut"
+                                    "@_Cut",
+                                    "cortar"
                                 ],
                                 [
                                     "@_Fit",
+                                    "@_Fits",
                                     "@_Fitting",
                                     "@_Fit",
-                                    "@_Fit"
+                                    "@_Fit",
+                                    "encajar"
                                 ],
                                 [
                                     "@_Hit",
+                                    "@_Hits",
                                     "@_Hitting",
                                     "@_Hit",
-                                    "@_Hit"
+                                    "@_Hit",
+                                    "golpear"
                                 ],
                                 [
                                     "@_Hurt",
+                                    "@_Hurts",
                                     "@_Hurting",
                                     "@_Hurt",
-                                    "@_Hurt"
+                                    "@_Hurt",
+                                    "herir"
                                 ],
                                 [
                                     "@_Let",
+                                    "@_Lets",
                                     "@_Letting",
                                     "@_Let",
-                                    "@_Let"
+                                    "@_Let",
+                                    "dejar/permitir"
                                 ],
                                 [
                                     "@_Put",
+                                    "@_Puts",
                                     "@_Putting",
                                     "@_Put",
-                                    "@_Put"
+                                    "@_Put",
+                                    "poner"
                                 ],
                                 [
                                     "@_Quit",
+                                    "@_Quits",
                                     "@_Quitting",
                                     "@_Quit",
-                                    "@_Quit"
+                                    "@_Quit",
+                                    "renunciar"
                                 ],
                                 [
                                     "@_Read",
+                                    "@_Reads",
                                     "@_Reading",
                                     "@_Read",
-                                    "@_Read"
+                                    "@_Read",
+                                    "leer"
                                 ],
                                 [
                                     "@_Rid",
+                                    "@_Rids",
                                     "@_Ridding",
                                     "@_Rid",
-                                    "@_Rid"
+                                    "@_Rid",
+                                    "deshacerse"
                                 ],
                                 [
                                     "@_Set",
+                                    "@_Sets",
                                     "@_Setting",
                                     "@_Set",
-                                    "@_Set"
+                                    "@_Set",
+                                    "establecer"
                                 ],
                                 [
                                     "@_Shut",
+                                    "@_Shuts",
                                     "@_Shutting",
                                     "@_Shut",
-                                    "@_Shut"
+                                    "@_Shut",
+                                    "cerrar"
                                 ],
                                 [
                                     "@_Split",
+                                    "@_Splits",
                                     "@_Splitting",
                                     "@_Split",
-                                    "@_Split"
+                                    "@_Split",
+                                    "dividir"
                                 ],
                                 [
                                     "@_Spread",
+                                    "@_Spreads",
                                     "@_Spreading",
                                     "@_Spread",
-                                    "@_Spread"
+                                    "@_Spread",
+                                    "extender"
                                 ],
                                 [
                                     "@_Thrust",
+                                    "@_Thrusts",
                                     "@_Thrusting",
                                     "@_Thrust",
-                                    "@_Thrust"
+                                    "@_Thrust",
+                                    "empujar"
                                 ],
                                 [
                                     "@_Upset",
+                                    "@_Upsets",
                                     "@_Upsetting",
                                     "@_Upset",
-                                    "@_Upset"
+                                    "@_Upset",
+                                    "molestar"
                                 ]
                             ]
                         },
@@ -727,225 +951,299 @@
                             "items": [
                                 [
                                     "@_Bring",
+                                    "@_Brings",
                                     "@_Bringing",
                                     "@_Brought",
-                                    "@_Brought"
+                                    "@_Brought",
+                                    "traer"
                                 ],
                                 [
                                     "@_Build",
+                                    "@_Builds",
                                     "@_Building",
                                     "@_Built",
-                                    "@_Built"
+                                    "@_Built",
+                                    "construir"
                                 ],
                                 [
                                     "@_Buy",
+                                    "@_Buys",
                                     "@_Buying",
                                     "@_Bought",
-                                    "@_Bought"
+                                    "@_Bought",
+                                    "comprar"
                                 ],
                                 [
                                     "@_Catch",
+                                    "@_Catches",
                                     "@_Catching",
                                     "@_Caught",
-                                    "@_Caught"
+                                    "@_Caught",
+                                    "atrapar"
                                 ],
                                 [
                                     "@_Creep",
+                                    "@_Creeps",
                                     "@_Creeping",
                                     "@_Crept",
-                                    "@_Crept"
+                                    "@_Crept",
+                                    "arrastrarse"
                                 ],
                                 [
                                     "@_Dig",
+                                    "@_Digs",
                                     "@_Digging",
                                     "@_Dug",
-                                    "@_Dug"
+                                    "@_Dug",
+                                    "cavar"
                                 ],
                                 [
                                     "@_Feed",
+                                    "@_Feeds",
                                     "@_Feeding",
                                     "@_Fed",
-                                    "@_Fed"
+                                    "@_Fed",
+                                    "alimentar"
                                 ],
                                 [
                                     "@_Feel",
+                                    "@_Feels",
                                     "@_Feeling",
                                     "@_Felt",
-                                    "@_Felt"
+                                    "@_Felt",
+                                    "sentir"
                                 ],
                                 [
                                     "@_Fight",
+                                    "@_Fights",
                                     "@_Fighting",
                                     "@_Fought",
-                                    "@_Fought"
+                                    "@_Fought",
+                                    "pelear"
                                 ],
                                 [
                                     "@_Find",
+                                    "@_Finds",
                                     "@_Finding",
                                     "@_Found",
-                                    "@_Found"
+                                    "@_Found",
+                                    "encontrar"
                                 ],
                                 [
                                     "@_Get",
+                                    "@_Gets",
                                     "@_Getting",
                                     "@_Got",
-                                    "@_Got"
+                                    "@_Got",
+                                    "obtener"
                                 ],
                                 [
                                     "@_Hang",
+                                    "@_Hangs",
                                     "@_Hanging",
                                     "@_Hung",
-                                    "@_Hung"
+                                    "@_Hung",
+                                    "colgar"
                                 ],
                                 [
                                     "@_Have",
+                                    "@_Has",
                                     "@_Having",
                                     "@_Had",
-                                    "@_Had"
+                                    "@_Had",
+                                    "tener"
                                 ],
                                 [
                                     "@_Hear",
+                                    "@_Hears",
                                     "@_Hearing",
                                     "@_Heard",
-                                    "@_Heard"
+                                    "@_Heard",
+                                    "oír"
                                 ],
                                 [
                                     "@_Hold",
+                                    "@_Holds",
                                     "@_Holding",
                                     "@_Held",
-                                    "@_Held"
+                                    "@_Held",
+                                    "sostener"
                                 ],
                                 [
                                     "@_Keep",
+                                    "@_Keeps",
                                     "@_Keeping",
                                     "@_Kept",
-                                    "@_Kept"
+                                    "@_Kept",
+                                    "mantener"
                                 ],
                                 [
                                     "@_Lay",
+                                    "@_Lays",
                                     "@_Laying",
                                     "@_Laid",
-                                    "@_Laid"
+                                    "@_Laid",
+                                    "poner"
                                 ],
                                 [
                                     "@_Lead",
+                                    "@_Leads",
                                     "@_Leading",
                                     "@_Led",
-                                    "@_Led"
+                                    "@_Led",
+                                    "liderar"
                                 ],
                                 [
                                     "@_Leave",
+                                    "@_Leaves",
                                     "@_Leaving",
                                     "@_Left",
-                                    "@_Left"
+                                    "@_Left",
+                                    "dejar"
                                 ],
                                 [
                                     "@_Lend",
+                                    "@_Lends",
                                     "@_Lending",
                                     "@_Lent",
-                                    "@_Lent"
+                                    "@_Lent",
+                                    "prestar"
                                 ],
                                 [
                                     "@_Lose",
+                                    "@_Loses",
                                     "@_Losing",
                                     "@_Lost",
-                                    "@_Lost"
+                                    "@_Lost",
+                                    "perder"
                                 ],
                                 [
                                     "@_Make",
+                                    "@_Makes",
                                     "@_Making",
                                     "@_Made",
-                                    "@_Made"
+                                    "@_Made",
+                                    "hacer"
                                 ],
                                 [
                                     "@_Mean",
+                                    "@_Means",
                                     "@_Meaning",
                                     "@_Meant",
-                                    "@_Meant"
+                                    "@_Meant",
+                                    "significar"
                                 ],
                                 [
                                     "@_Meet",
+                                    "@_Meets",
                                     "@_Meeting",
                                     "@_Met",
-                                    "@_Met"
+                                    "@_Met",
+                                    "conocer"
                                 ],
                                 [
                                     "@_Pay",
+                                    "@_Pays",
                                     "@_Paying",
                                     "@_Paid",
-                                    "@_Paid"
+                                    "@_Paid",
+                                    "pagar"
                                 ],
                                 [
                                     "@_Say",
+                                    "@_Says",
                                     "@_Saying",
                                     "@_Said",
-                                    "@_Said"
+                                    "@_Said",
+                                    "decir"
                                 ],
                                 [
                                     "@_Sell",
+                                    "@_Sells",
                                     "@_Selling",
                                     "@_Sold",
-                                    "@_Sold"
+                                    "@_Sold",
+                                    "vender"
                                 ],
                                 [
                                     "@_Send",
+                                    "@_Sends",
                                     "@_Sending",
                                     "@_Sent",
-                                    "@_Sent"
+                                    "@_Sent",
+                                    "enviar"
                                 ],
                                 [
                                     "@_Sit",
+                                    "@_Sits",
                                     "@_Sitting",
                                     "@_Sat",
-                                    "@_Sat"
+                                    "@_Sat",
+                                    "sentarse"
                                 ],
                                 [
                                     "@_Sleep",
+                                    "@_Sleeps",
                                     "@_Sleeping",
                                     "@_Slept",
-                                    "@_Slept"
+                                    "@_Slept",
+                                    "dormir"
                                 ],
                                 [
                                     "@_Spend",
+                                    "@_Spends",
                                     "@_Spending",
                                     "@_Spent",
-                                    "@_Spent"
+                                    "@_Spent",
+                                    "gastar"
                                 ],
                                 [
                                     "@_Stand",
+                                    "@_Stands",
                                     "@_Standing",
                                     "@_Stood",
-                                    "@_Stood"
+                                    "@_Stood",
+                                    "estar de pie"
                                 ],
                                 [
                                     "@_Teach",
+                                    "@_Teaches",
                                     "@_Teaching",
                                     "@_Taught",
-                                    "@_Taught"
+                                    "@_Taught",
+                                    "enseñar"
                                 ],
                                 [
                                     "@_Tell",
+                                    "@_Tells",
                                     "@_Telling",
                                     "@_Told",
-                                    "@_Told"
+                                    "@_Told",
+                                    "decir"
                                 ],
                                 [
                                     "@_Think",
+                                    "@_Thinks",
                                     "@_Thinking",
                                     "@_Thought",
-                                    "@_Thought"
+                                    "@_Thought",
+                                    "pensar"
                                 ],
                                 [
                                     "@_Understand",
+                                    "@_Understands",
                                     "@_Understanding",
                                     "@_Understood",
-                                    "@_Understood"
+                                    "@_Understood",
+                                    "entender"
                                 ],
                                 [
                                     "@_Win",
+                                    "@_Wins",
                                     "@_Winning",
                                     "@_Won",
-                                    "@_Won"
+                                    "@_Won",
+                                    "ganar"
                                 ]
                             ]
                         },
@@ -954,27 +1252,35 @@
                             "items": [
                                 [
                                     "@_Become",
+                                    "@_Becomes",
                                     "@_Becoming",
                                     "@_Became",
-                                    "@_Become"
+                                    "@_Become",
+                                    "convertirse"
                                 ],
                                 [
                                     "@_Come",
+                                    "@_Comes",
                                     "@_Coming",
                                     "@_Came",
-                                    "@_Come"
+                                    "@_Come",
+                                    "venir"
                                 ],
                                 [
                                     "@_Overcome",
+                                    "@_Overcomes",
                                     "@_Overcoming",
                                     "@_Overcame",
-                                    "@_Overcome"
+                                    "@_Overcome",
+                                    "superar"
                                 ],
                                 [
                                     "@_Run",
+                                    "@_Runs",
                                     "@_Running",
                                     "@_Ran",
-                                    "@_Run"
+                                    "@_Run",
+                                    "correr"
                                 ]
                             ]
                         },
@@ -983,213 +1289,283 @@
                             "items": [
                                 [
                                     "@_Arise",
+                                    "@_Arises",
                                     "@_Arising",
                                     "@_Arose",
-                                    "@_Arisen"
+                                    "@_Arisen",
+                                    "surgir"
                                 ],
                                 [
                                     "@_Awake",
+                                    "@_Awakes",
                                     "@_Awaking",
                                     "@_Awoke",
-                                    "@_Awoken"
+                                    "@_Awoken",
+                                    "despertar"
                                 ],
                                 [
                                     "@_Be",
+                                    "@_Is",
                                     "@_Being",
                                     "@_Was/Were",
-                                    "@_Been"
+                                    "@_Been",
+                                    "ser/estar"
                                 ],
                                 [
                                     "@_Begin",
+                                    "@_Begins",
                                     "@_Beginning",
                                     "@_Began",
-                                    "@_Begun"
+                                    "@_Begun",
+                                    "empezar"
                                 ],
                                 [
                                     "@_Break",
+                                    "@_Breaks",
                                     "@_Breaking",
                                     "@_Broke",
-                                    "@_Broken"
+                                    "@_Broken",
+                                    "romper"
                                 ],
                                 [
                                     "@_Choose",
+                                    "@_Chooses",
                                     "@_Choosing",
                                     "@_Chose",
-                                    "@_Chosen"
+                                    "@_Chosen",
+                                    "elegir"
                                 ],
                                 [
                                     "@_Do",
+                                    "@_Does",
                                     "@_Doing",
                                     "@_Did",
-                                    "@_Done"
+                                    "@_Done",
+                                    "hacer"
                                 ],
                                 [
                                     "@_Draw",
+                                    "@_Draws",
                                     "@_Drawing",
                                     "@_Drew",
-                                    "@_Drawn"
+                                    "@_Drawn",
+                                    "dibujar"
                                 ],
                                 [
                                     "@_Drink",
+                                    "@_Drinks",
                                     "@_Drinking",
                                     "@_Drank",
-                                    "@_Drunk"
+                                    "@_Drunk",
+                                    "beber"
                                 ],
                                 [
                                     "@_Drive",
+                                    "@_Drives",
                                     "@_Driving",
                                     "@_Drove",
-                                    "@_Driven"
+                                    "@_Driven",
+                                    "conducir"
                                 ],
                                 [
                                     "@_Eat",
+                                    "@_Eats",
                                     "@_Eating",
                                     "@_Ate",
-                                    "@_Eaten"
+                                    "@_Eaten",
+                                    "comer"
                                 ],
                                 [
                                     "@_Fall",
+                                    "@_Falls",
                                     "@_Falling",
                                     "@_Fell",
-                                    "@_Fallen"
+                                    "@_Fallen",
+                                    "caer"
                                 ],
                                 [
                                     "@_Fly",
+                                    "@_Flies",
                                     "@_Flying",
                                     "@_Flew",
-                                    "@_Flown"
+                                    "@_Flown",
+                                    "volar"
                                 ],
                                 [
                                     "@_Forget",
+                                    "@_Forgets",
                                     "@_Forgetting",
                                     "@_Forgot",
-                                    "@_Forgotten"
+                                    "@_Forgotten",
+                                    "olvidar"
                                 ],
                                 [
                                     "@_Forgive",
+                                    "@_Forgives",
                                     "@_Forgiving",
                                     "@_Forgave",
-                                    "@_Forgiven"
+                                    "@_Forgiven",
+                                    "perdonar"
                                 ],
                                 [
                                     "@_Freeze",
+                                    "@_Freezes",
                                     "@_Freezing",
                                     "@_Froze",
-                                    "@_Frozen"
+                                    "@_Frozen",
+                                    "congelar"
                                 ],
                                 [
                                     "@_Give",
+                                    "@_Gives",
                                     "@_Giving",
                                     "@_Gave",
-                                    "@_Given"
+                                    "@_Given",
+                                    "dar"
                                 ],
                                 [
                                     "@_Go",
+                                    "@_Goes",
                                     "@_Going",
                                     "@_Went",
-                                    "@_Gone"
+                                    "@_Gone",
+                                    "ir"
                                 ],
                                 [
                                     "@_Grow",
+                                    "@_Grows",
                                     "@_Growing",
                                     "@_Grew",
-                                    "@_Grown"
+                                    "@_Grown",
+                                    "crecer"
                                 ],
                                 [
                                     "@_Know",
+                                    "@_Knows",
                                     "@_Knowing",
                                     "@_Knew",
-                                    "@_Known"
+                                    "@_Known",
+                                    "saber/conocer"
                                 ],
                                 [
                                     "@_Ride",
+                                    "@_Rides",
                                     "@_Riding",
                                     "@_Rode",
-                                    "@_Ridden"
+                                    "@_Ridden",
+                                    "montar"
                                 ],
                                 [
                                     "@_Ring",
+                                    "@_Rings",
                                     "@_Ringing",
                                     "@_Rang",
-                                    "@_Rung"
+                                    "@_Rung",
+                                    "llamar por teléfono"
                                 ],
                                 [
                                     "@_Rise",
+                                    "@_Rises",
                                     "@_Rising",
                                     "@_Rose",
-                                    "@_Risen"
+                                    "@_Risen",
+                                    "elevarse"
                                 ],
                                 [
                                     "@_See",
+                                    "@_Sees",
                                     "@_Seeing",
                                     "@_Saw",
-                                    "@_Seen"
+                                    "@_Seen",
+                                    "ver"
                                 ],
                                 [
                                     "@_Shake",
+                                    "@_Shakes",
                                     "@_Shaking",
                                     "@_Shook",
-                                    "@_Shaken"
+                                    "@_Shaken",
+                                    "agitar"
                                 ],
                                 [
                                     "@_Show",
+                                    "@_Shows",
                                     "@_Showing",
                                     "@_Showed",
-                                    "@_Shown"
+                                    "@_Shown",
+                                    "mostrar"
                                 ],
                                 [
                                     "@_Sing",
+                                    "@_Sings",
                                     "@_Singing",
                                     "@_Sang",
-                                    "@_Sung"
+                                    "@_Sung",
+                                    "cantar"
                                 ],
                                 [
                                     "@_Speak",
+                                    "@_Speaks",
                                     "@_Speaking",
                                     "@_Spoke",
-                                    "@_Spoken"
+                                    "@_Spoken",
+                                    "hablar"
                                 ],
                                 [
                                     "@_Steal",
+                                    "@_Steals",
                                     "@_Stealing",
                                     "@_Stole",
-                                    "@_Stolen"
+                                    "@_Stolen",
+                                    "robar"
                                 ],
                                 [
                                     "@_Swear",
+                                    "@_Swears",
                                     "@_Swearing",
                                     "@_Swore",
-                                    "@_Sworn"
+                                    "@_Sworn",
+                                    "jurar"
                                 ],
                                 [
                                     "@_Swim",
+                                    "@_Swims",
                                     "@_Swimming",
                                     "@_Swam",
-                                    "@_Swum"
+                                    "@_Swum",
+                                    "nadar"
                                 ],
                                 [
                                     "@_Take",
+                                    "@_Takes",
                                     "@_Taking",
                                     "@_Took",
-                                    "@_Taken"
+                                    "@_Taken",
+                                    "tomar"
                                 ],
                                 [
                                     "@_Throw",
+                                    "@_Throws",
                                     "@_Throwing",
                                     "@_Threw",
-                                    "@_Thrown"
+                                    "@_Thrown",
+                                    "lanzar"
                                 ],
                                 [
                                     "@_Wear",
+                                    "@_Wears",
                                     "@_Wearing",
                                     "@_Wore",
-                                    "@_Worn"
+                                    "@_Worn",
+                                    "usar/llevar puesto"
                                 ],
                                 [
                                     "@_Write",
+                                    "@_Writes",
                                     "@_Writing",
                                     "@_Wrote",
-                                    "@_Written"
+                                    "@_Written",
+                                    "escribir"
                                 ]
                             ]
                         }
