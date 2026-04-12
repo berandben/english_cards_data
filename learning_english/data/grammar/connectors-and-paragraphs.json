@@ -4,7 +4,11 @@
 		"title": "Connectors and Paragraphs",
 		"subtitle": "Linking ideas and organizing information",
 		"difficulty": "A2",
-		"tags": ["writing", "connectors", "paragraphs"],
+		"tags": [
+			"writing",
+			"connectors",
+			"paragraphs"
+		],
 		"icon": " "
 	},
 	"header": {
@@ -85,7 +89,13 @@
 					"label": "Connector Categories",
 					"content": " ",
 					"items": [],
-					"headers": ["Connector", "Commas", "Place", "After Connector", "Example"],
+					"headers": [
+						"Connector",
+						"Commas",
+						"Place",
+						"After Connector",
+						"Example"
+					],
 					"rows": [
 						{
 							"group": "To Link Similar Ideas",
@@ -104,8 +114,20 @@
 									"noun, sentence",
 									"Besides English / Besides, it is very cheap"
 								],
-								["Also", "not always", "middle", "verb, sentence", "You can also learn Spanish"],
-								["Too", "no", "end", "-", "He is in my class too"]
+								[
+									"Also",
+									"not always",
+									"middle",
+									"verb, sentence",
+									"You can also learn Spanish"
+								],
+								[
+									"Too",
+									"no",
+									"end",
+									"-",
+									"He is in my class too"
+								]
 							]
 						},
 						{
@@ -118,7 +140,13 @@
 									"sentence",
 									"Jerry didn't feel well, so he couldn't go to school"
 								],
-								["to", "no", "middle", "verb", "She gets up early to be in time for work"]
+								[
+									"to",
+									"no",
+									"middle",
+									"verb",
+									"She gets up early to be in time for work"
+								]
 							]
 						},
 						{
@@ -161,13 +189,26 @@
 									"middle",
 									"sentence",
 									"San Roque is a little town but it has schools"
+								],
+								[
+									"However",
+									"yes (after connector)",
+									"beginning, middle",
+									"sentence",
+									"The hotel was very nice. However, it was too expensive."
 								]
 							]
 						},
 						{
 							"group": "To Order Events",
 							"items": [
-								["First", "yes (after connector)", "beginning", "sentence", "First, we arrived at the hotel"],
+								[
+									"First",
+									"yes (after connector)",
+									"beginning",
+									"sentence",
+									"First, we arrived at the hotel"
+								],
 								[
 									"Before",
 									"not always",
@@ -175,10 +216,34 @@
 									"sentence, noun",
 									"We bought souvenirs before / Before we left"
 								],
-								["Next/Then", "yes (after connector)", "beginning", "sentence", "Next, we asked for a map"],
-								["After", "not always", "beginning, middle", "sentence, noun", "After, we explored the city"],
-								["Finally", "yes (after connector)", "beginning", "sentence", "Finally, we went to bed"],
-								["When", "not always", "beginning, middle", "sentence", "When we finished, we had dinner"]
+								[
+									"Next/Then",
+									"yes (after connector)",
+									"beginning",
+									"sentence",
+									"Next, we asked for a map"
+								],
+								[
+									"After",
+									"not always",
+									"beginning, middle",
+									"sentence, noun",
+									"After, we explored the city"
+								],
+								[
+									"Finally",
+									"yes (after connector)",
+									"beginning",
+									"sentence",
+									"Finally, we went to bed"
+								],
+								[
+									"When",
+									"not always",
+									"beginning, middle",
+									"sentence",
+									"When we finished, we had dinner"
+								]
 							]
 						}
 					],
