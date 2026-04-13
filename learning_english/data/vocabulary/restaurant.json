@@ -5,39 +5,270 @@
     "difficulty": "A2"
   },
   "items": [
-    { "spanish": "Aperitivo", "english": "appetizer", "sound": "/ˈæp.ə.taɪ.zər/" },
-    { "spanish": "Cuenta", "english": "bill", "sound": "/bɪl/" },
-    { "spanish": "Botella", "english": "bottle", "sound": "/ˈbɒt.əl/" },
-    { "spanish": "Desayuno", "english": "breakfast", "sound": "/ˈbrek.fəst/" },
-    { "spanish": "Menú del día", "english": "daily menu", "sound": "/ˈdeɪ.li ˈmen.juː/" },
-    { "spanish": "Postre", "english": "dessert", "sound": "/dɪˈzɜːt/" },
-    { "spanish": "Cena", "english": "dinner", "sound": "/ˈdɪn.ər/" },
-    { "spanish": "Plato", "english": "dish", "sound": "/dɪʃ/" },
-    { "spanish": "Bebida", "english": "drink", "sound": "/drɪŋk/" },
-    { "spanish": "Comer fuera", "english": "eat out", "sound": "/iːt aʊt/" },
-    { "spanish": "Entrada", "english": "starter", "sound": "/ˈstɑː.tər/" },
-    { "spanish": "Tenedor", "english": "fork", "sound": "/fɔːk/" },
-    { "spanish": "Menú", "english": "menu", "sound": "/ˈmen.juː/" },
-    { "spanish": "Plato principal", "english": "main course", "sound": "/ˌmeɪn ˈkɔːs/" },
-    { "spanish": "Servilleta", "english": "napkin", "sound": "/ˈnæp.kɪn/" },
-    { "spanish": "Pedido", "english": "order", "sound": "/ˈɔː.dər/" },
-    { "spanish": "Pagar", "english": "pay", "sound": "/peɪ/" },
-    { "spanish": "Pimienta", "english": "pepper", "sound": "/ˈpep.ər/" },
-    { "spanish": "Plato", "english": "plate", "sound": "/pleɪt/" },
-    { "spanish": "Restaurante", "english": "restaurant", "sound": "/ˈres.tər.ɒnt/" },
-    { "spanish": "Reserva", "english": "reservation", "sound": "/ˌrez.əˈveɪ.ʃən/" },
-    { "spanish": "Reservar", "english": "reserve", "sound": "/rɪˈzɜːv/" },
-    { "spanish": "Sal", "english": "salt", "sound": "/sɒlt/" },
-    { "spanish": "Cuchara", "english": "spoon", "sound": "/spuːn/" },
-    { "spanish": "Cuenta separada", "english": "split bill", "sound": "/splɪt bɪl/" },
-    { "spanish": "Mesa", "english": "table", "sound": "/ˈteɪ.bəl/" },
-    { "spanish": "Para llevar", "english": "takeaway", "sound": "/ˈteɪk.ə.weɪ/" },
-    { "spanish": "Propina", "english": "tip", "sound": "/tɪp/" },
-    { "spanish": "Baño", "english": "toilet", "sound": "/ˈtɔɪ.lət/" },
-    { "spanish": "Bandeja", "english": "tray", "sound": "/treɪ/" },
-    { "spanish": "Camarero", "english": "waiter", "sound": "/ˈweɪ.tər/" },
-    { "spanish": "Camarera", "english": "waitress", "sound": "/ˈweɪ.trəs/" },
-    { "spanish": "Agua", "english": "water", "sound": "/ˈwɔː.tər/" },
-    { "spanish": "Copa de vino", "english": "wine glass", "sound": "/ˈwaɪn ɡlɑːs/" }
+    {
+      "spanish": "Aperitivo",
+      "english": "appetizer",
+      "sound": "/ˈæp.ə.taɪ.zər/"
+    },
+    {
+      "spanish": "¿Están listos para pedir?",
+      "english": "Are you ready to order?",
+      "sound": "/ər juː ˈred.i tə ˈɔː.dər/"
+    },
+    {
+      "spanish": "Cuenta",
+      "english": "bill",
+      "sound": "/bɪl/"
+    },
+    {
+      "spanish": "Botella",
+      "english": "bottle",
+      "sound": "/ˈbɒt.əl/"
+    },
+    {
+      "spanish": "Desayuno",
+      "english": "breakfast",
+      "sound": "/ˈbrek.fəst/"
+    },
+    {
+      "spanish": "¿Nos trae la cuenta, por favor?",
+      "english": "Can we have the bill, please?",
+      "sound": "/kæn wiː hæv ðə bɪl pliːz/"
+    },
+    {
+      "spanish": "Patatas fritas",
+      "english": "chips (British style)",
+      "sound": "/tʃɪps/"
+    },
+    {
+      "spanish": "Menú del día",
+      "english": "daily menu",
+      "sound": "/ˈdeɪ.li ˈmen.juː/"
+    },
+    {
+      "spanish": "Postre",
+      "english": "dessert",
+      "sound": "/dɪˈzɜːt/"
+    },
+    {
+      "spanish": "Cena",
+      "english": "dinner",
+      "sound": "/ˈdɪn.ər/"
+    },
+    {
+      "spanish": "Plato",
+      "english": "dish",
+      "sound": "/dɪʃ/"
+    },
+    {
+      "spanish": "Platos principales / Platos",
+      "english": "main dishes / dishes",
+      "sound": "/meɪn ˈdɪʃɪz/"
+    },
+    {
+      "spanish": "Bebida",
+      "english": "drink",
+      "sound": "/drɪŋk/"
+    },
+    {
+      "spanish": "Comer fuera",
+      "english": "eat out",
+      "sound": "/iːt aʊt/"
+    },
+    {
+      "spanish": "Disculpe / Perdón",
+      "english": "Excuse me",
+      "sound": "/ɪkˈskjuːz miː/"
+    },
+    {
+      "spanish": "Tenedor",
+      "english": "fork",
+      "sound": "/fɔːk/"
+    },
+    {
+      "spanish": "Me gustaría... / Tomaré el...",
+      "english": "I'd like the... / I'll have the...",
+      "sound": "/aɪd laɪk ðə/ /aɪl hæv ðə/"
+    },
+    {
+      "spanish": "Lo cambiaré",
+      "english": "I'll change it",
+      "sound": "/aɪl tʃeɪndʒ ɪt/"
+    },
+    {
+      "spanish": "Lo llevaré de vuelta",
+      "english": "I'll take it back",
+      "sound": "/aɪl teɪk ɪt bæk/"
+    },
+    {
+      "spanish": "Creo que hay un error aquí",
+      "english": "I think there's a mistake here",
+      "sound": "/aɪ θɪŋk ðeəz ə mɪˈsteɪk hɪər/"
+    },
+    {
+      "spanish": "Cocina",
+      "english": "kitchen",
+      "sound": "/ˈkɪtʃ.ɪn/"
+    },
+    {
+      "spanish": "Plato principal",
+      "english": "main course",
+      "sound": "/ˌmeɪn ˈkɔːs/"
+    },
+    {
+      "spanish": "Al punto / Término medio",
+      "english": "medium",
+      "sound": "/ˈmiː.di.əm/"
+    },
+    {
+      "spanish": "Menú",
+      "english": "menu",
+      "sound": "/ˈmen.juː/"
+    },
+    {
+      "spanish": "Servilleta",
+      "english": "napkin",
+      "sound": "/ˈnæp.kɪn/"
+    },
+    {
+      "spanish": "Pedido",
+      "english": "order",
+      "sound": "/ˈɔː.dər/"
+    },
+    {
+      "spanish": "Pagar",
+      "english": "pay",
+      "sound": "/peɪ/"
+    },
+    {
+      "spanish": "Pimienta",
+      "english": "pepper",
+      "sound": "/ˈpep.ər/"
+    },
+    {
+      "spanish": "Plato",
+      "english": "plate",
+      "sound": "/pleɪt/"
+    },
+    {
+      "spanish": "Poco hecho / Sangrante",
+      "english": "rare",
+      "sound": "/reər/"
+    },
+    {
+      "spanish": "Reserva",
+      "english": "reservation",
+      "sound": "/ˌrez.əˈveɪ.ʃən/"
+    },
+    {
+      "spanish": "Reservar",
+      "english": "reserve",
+      "sound": "/rɪˈzɜːv/"
+    },
+    {
+      "spanish": "Restaurante",
+      "english": "restaurant",
+      "sound": "/ˈres.tər.ɒnt/"
+    },
+    {
+      "spanish": "Ensalada",
+      "english": "salad",
+      "sound": "/ˈsæl.əd/"
+    },
+    {
+      "spanish": "Sal",
+      "english": "salt",
+      "sound": "/sɒlt/"
+    },
+    {
+      "spanish": "¿Algo para empezar?",
+      "english": "Something to start with?",
+      "sound": "/ˈsʌmθɪŋ tə stɑːt wɪð/"
+    },
+    {
+      "spanish": "Cuenta separada",
+      "english": "split bill",
+      "sound": "/splɪt bɪl/"
+    },
+    {
+      "spanish": "Cuchara",
+      "english": "spoon",
+      "sound": "/spuːn/"
+    },
+    {
+      "spanish": "Entrada",
+      "english": "starter",
+      "sound": "/ˈstɑː.tər/"
+    },
+    {
+      "spanish": "Entrantes / Aperitivos",
+      "english": "starters",
+      "sound": "/ˈstɑː.təz/"
+    },
+    {
+      "spanish": "Filete / Bistec",
+      "english": "steak",
+      "sound": "/steɪk/"
+    },
+    {
+      "spanish": "Mesa",
+      "english": "table",
+      "sound": "/ˈteɪ.bəl/"
+    },
+    {
+      "spanish": "Para llevar",
+      "english": "takeaway",
+      "sound": "/ˈteɪk.ə.weɪ/"
+    },
+    {
+      "spanish": "La cuenta",
+      "english": "the bill",
+      "sound": "/ðə bɪl/"
+    },
+    {
+      "spanish": "Propina",
+      "english": "tip",
+      "sound": "/tɪp/"
+    },
+    {
+      "spanish": "Baño",
+      "english": "toilet",
+      "sound": "/ˈtɔɪ.lət/"
+    },
+    {
+      "spanish": "Bandeja",
+      "english": "tray",
+      "sound": "/treɪ/"
+    },
+    {
+      "spanish": "Atún",
+      "english": "tuna",
+      "sound": "/ˈtuː.nə/"
+    },
+    {
+      "spanish": "Camarero",
+      "english": "waiter",
+      "sound": "/ˈweɪ.tər/"
+    },
+    {
+      "spanish": "Camarera",
+      "english": "waitress",
+      "sound": "/ˈweɪ.trəs/"
+    },
+    {
+      "spanish": "Agua",
+      "english": "water",
+      "sound": "/ˈwɔː.tər/"
+    },
+    {
+      "spanish": "Muy hecho / Bien cocido",
+      "english": "well done",
+      "sound": "/ˌwel ˈdʌn/"
+    },
+    {
+      "spanish": "Copa de vino",
+      "english": "wine glass",
+      "sound": "/ˈwaɪn ɡlɑːs/"
+    }
   ]
 }
